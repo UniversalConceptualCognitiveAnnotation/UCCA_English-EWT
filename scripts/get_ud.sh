@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git clone https://github.com/UniversalDependencies/UD_English-EWT --branch=r2.2
+git clone -q https://github.com/UniversalDependencies/UD_English-EWT --branch=r2.2
 pip install -U semstr udapi
 
 # Extract all UD-annotated docs for which we also have UCCA annotations
