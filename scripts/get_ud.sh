@@ -23,5 +23,5 @@ done <streusle2ucca.txt
 
 # Split the UCCA passages to sentences exactly like the UD documents are split
 sed 's/SpaceAfter=No/_/;/^# text = /d' ud/*.conllu | udapy write.Sentences > ud.txt
-python -m scripts.standard_to_sentences xml --binary --sentences ud.txt -o sentences_by_ud
+python -m scripts.standard_to_sentences xml --sentences ud.txt -o sentences_by_ud -b
 
