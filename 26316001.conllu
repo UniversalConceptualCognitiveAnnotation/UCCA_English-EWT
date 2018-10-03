@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 26316001
+# text = the people at Fidelity Leasing were very friendly and helpful .
+1	the	_	Word	Word	_	2	E	2:E	_
+2	people	_	Word	Word	_	0	C	0:C|10:A	_
+3	at	_	Word	Word	_	4	R	4:R	_
+4	Fidelity	_	Word	Word	_	2	E	2:E	_
+5	Leasing	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	were	_	Word	Word	_	8	F	8:F	_
+7	very	_	Word	Word	_	8	D	8:D	_
+8	friendly	_	Word	Word	_	0	H	0:H	_
+9	and	_	Word	Word	_	8	L	8:L	_
+10	helpful	_	Word	Word	_	8	H	8:H	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

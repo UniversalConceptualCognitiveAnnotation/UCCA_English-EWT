@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 26744002
+# text = Salad bar is hit and miss for freshness - sometimes the broccoli looks browned around the edges .
+1	Salad	_	Word	Word	_	2	E	2:E	_
+2	bar	_	Word	Word	_	4	A	4:A|8:A	_
+3	is	_	Word	Word	_	4	F	4:F	_
+4	hit	_	Word	Word	_	0	H	0:H	_
+5	and	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	miss	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	for	_	Word	Word	_	4	L	4:L	_
+8	freshness	_	Word	Word	_	4	H	4:H	_
+9	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+10	sometimes	_	Word	Word	_	14	D	14:D	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	broccoli	_	Word	Word	_	14	A	14:A	_
+13	looks	_	Word	Word	_	14	G	14:G	_
+14	browned	_	Word	Word	_	4	H	4:H	_
+15	around	_	Word	Word	_	17	R	17:R	_
+16	the	_	Word	Word	_	17	E	17:E	_
+17	edges	_	Word	Word	_	14	A	14:A	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+
