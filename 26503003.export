@@ -1,0 +1,39 @@
+#BOS 26503003
+If	Word	--	Terminal	500
+you	Word	--	Terminal	501
+want	Word	--	Terminal	502
+an	Word	--	Terminal	503
+attorney	Word	--	Terminal	504
+who	Word	--	Terminal	505
+will	Word	--	Terminal	506
+defend	Word	--	Terminal	507
+your	Word	--	Terminal	508
+right	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+contact	Word	--	Terminal	511
+Law	Word	--	Terminal	512
+Offices	Word	--	Terminal	512
+of	Word	--	Terminal	512
+Armando	Word	--	Terminal	512
+Villega	Word	--	Terminal	512
+#500	FN	--	L	519
+#501	FN	--	A	518	A*	513
+#502	FN	--	S	518
+#503	FN	--	E	514
+#504	FN	--	C	514
+#505	FN	--	R	514
+#506	FN	--	F	517
+#507	FN	--	P	517
+#508	FN	--	S	515
+#509	FN	--	C	516	A*	515
+#510	PNCT	--	U	519
+#511	FN	--	P	513
+#512	FN	--	A	513
+#513	FN	--	H	519
+#514	FN	--	A	517
+#515	FN	--	E	516
+#516	FN	--	A	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 26503003

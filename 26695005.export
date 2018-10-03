@@ -1,0 +1,47 @@
+#BOS 26695005
+She	Word	--	Terminal	500
+immediately	Word	--	Terminal	501
+went	Word	--	Terminal	502
+to	Word	--	Terminal	503
+the	Word	--	Terminal	504
+back	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+brought	Word	--	Terminal	507
+out	Word	--	Terminal	508
+leather	Word	--	Terminal	509
+cleaner	Word	--	Terminal	510
+and	Word	--	Terminal	511
+cleaned	Word	--	Terminal	512
+my	Word	--	Terminal	513
+purse	Word	--	Terminal	514
+on	Word	--	Terminal	515
+the	Word	--	Terminal	515
+spot	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	A	521	A*	522
+#501	FN	--	D	521
+#502	FN	--	P	521
+#503	FN	--	R	517
+#504	FN	--	E	517
+#505	FN	--	C	517
+#506	PNCT	--	U	525
+#507	FN	--	P	522
+#508	FN	--	R	518
+#509	FN	--	E	518
+#510	FN	--	C	518
+#511	FN	--	L	525
+#512	FN	--	P	524
+#513	FN	--	S	519
+#514	FN	--	C	520	A*	519
+#515	FN	--	D	524
+#516	PNCT	--	U	524
+#517	FN	--	A	521
+#518	FN	--	A	522
+#519	FN	--	E	520
+#520	FN	--	A	524
+#521	FN	--	H	525
+#522	FN	--	H	525
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 26695005

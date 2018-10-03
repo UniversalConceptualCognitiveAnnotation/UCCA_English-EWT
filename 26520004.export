@@ -1,0 +1,37 @@
+#BOS 26520004
+i	Word	--	Terminal	500
+waited	Word	--	Terminal	501
+another	Word	--	Terminal	502
+30	Word	--	Terminal	503
+mins	Word	--	Terminal	504
+before	Word	--	Terminal	505
+receiving	Word	--	Terminal	506
+my	Word	--	Terminal	507
+food	Word	--	Terminal	508
+and	Word	--	Terminal	509
+it	Word	--	Terminal	510
+was	Word	--	Terminal	511
+cold	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	A	518	A*	519
+#501	FN	--	P	518
+#502	FN	--	E	514
+#503	FN	--	E	514
+#504	FN	--	C	514
+#505	FN	--	L	520
+#506	FN	--	P	519
+#507	FN	--	S	515
+#508	FN	--	C	516	A*	515
+#509	FN	--	L	520
+#510	FN	--	A	517
+#511	FN	--	F	517
+#512	FN	--	S	517
+#513	PNCT	--	U	517
+#514	FN	--	D	518
+#515	FN	--	E	516
+#516	FN	--	A	519
+#517	FN	--	H	520
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 26520004

@@ -1,0 +1,37 @@
+#BOS 26310003
+Nothing	Word	--	Terminal	500
+compares	Word	--	Terminal	501
+to	Word	--	Terminal	502
+a	Word	--	Terminal	503
+home	Word	--	Terminal	504
+made	Word	--	Terminal	504
+product	Word	--	Terminal	505
+that	Word	--	Terminal	506
+really	Word	--	Terminal	507
+stands	Word	--	Terminal	508
+the	Word	--	Terminal	509
+test	Word	--	Terminal	510
+of	Word	--	Terminal	510
+time	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+-	Punctuation	--	Terminal	512
+#500	FN	--	A	517
+#501	FN	--	P	517
+#502	FN	--	R	516
+#503	FN	--	E	516
+#504	FN	--	S	513
+#505	FN	--	C	516	A*	513
+#506	FN	--	R	515
+#507	FN	--	D	515
+#508	FN	--	P	515
+#509	FN	--	E	514
+#510	FN	--	C	514
+#511	PNCT	--	U	514
+#512	PNCT	--	U	514
+#513	FN	--	E	516
+#514	FN	--	A	515
+#515	FN	--	E	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 26310003

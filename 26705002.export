@@ -1,0 +1,22 @@
+#BOS 26705002
+Cozy	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+warm	Word	--	Terminal	502
+atmosphere	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+great	Word	--	Terminal	505
+service	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	S	508
+#501	PNCT	--	U	511
+#502	FN	--	S	509
+#503	FN	--	A	509	A*	508
+#504	PNCT	--	U	511
+#505	FN	--	D	510
+#506	FN	--	P	510
+#507	PNCT	--	U	510
+#508	FN	--	H	511
+#509	FN	--	H	511
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 26705002

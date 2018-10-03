@@ -1,0 +1,35 @@
+#BOS 26692002
+Shuttle	Word	--	Terminal	500
+available	Word	--	Terminal	501
+to	Word	--	Terminal	502
+a	Word	--	Terminal	503
+private	Word	--	Terminal	504
+beach	Word	--	Terminal	505
+area	Word	--	Terminal	506
+with	Word	--	Terminal	507
+food	Word	--	Terminal	508
+/	Punctuation	--	Terminal	509
+drinks	Word	--	Terminal	510
+/	Punctuation	--	Terminal	511
+towels	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	A	517
+#501	FN	--	S	517
+#502	FN	--	R	516
+#503	FN	--	E	516
+#504	FN	--	S	514
+#505	FN	--	E	516
+#506	FN	--	C	516	A*	514
+#507	FN	--	R	515
+#508	FN	--	C	515
+#509	PNCT	--	U	515
+#510	FN	--	C	515
+#511	PNCT	--	U	515
+#512	FN	--	C	515
+#513	PNCT	--	U	515
+#514	FN	--	E	516
+#515	FN	--	E	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 26692002
