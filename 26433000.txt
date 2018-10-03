@@ -1,0 +1,15 @@
+# ::id 26433000
+# ::tok Natasha is the BEST photographer we have ever worked with .
+# ::alignments 0-1.1.1 2-1.1.3.1 3-1.1.3.2 4-1.1.4.6 5-1.1.4.7 7-1.1.4.2 8-1.1.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :S (v4 / label
+                  :E (v6 / label~e.2)
+                  :C (v7 / label~e.3))
+           :A (v5 / label
+                  :D (v8 / label~e.7)
+                  :P (v9 / label~e.8)
+                  :A (v10 / label~e.4)
+                  :A (v11 / label~e.5))))

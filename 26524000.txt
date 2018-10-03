@@ -1,0 +1,8 @@
+# ::id 26524000
+# ::tok local crew !!!
+# ::alignments 0-1.1.2 1-1.1.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :E (v3 / label~e.0)
+           :C (v4 / label~e.1)))

@@ -1,0 +1,11 @@
+# ::id 26500005
+# ::tok A lot .
+# ::alignments 0-1.1.2.2 1-1.1.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label
+                  :C (v5 / label)
+                  :E (v6 / label~e.0)
+                  :E (v7 / label~e.1))))
