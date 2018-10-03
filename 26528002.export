@@ -1,0 +1,49 @@
+#BOS 26528002
+Try	Word	--	Terminal	500
+their	Word	--	Terminal	501
+weekend	Word	--	Terminal	502
+"	Punctuation	--	Terminal	503
+tastings	Word	--	Terminal	504
+"	Punctuation	--	Terminal	505
+which	Word	--	Terminal	506
+you	Word	--	Terminal	507
+can	Word	--	Terminal	508
+learn	Word	--	Terminal	509
+about	Word	--	Terminal	510
+by	Word	--	Terminal	511
+getting	Word	--	Terminal	512
+on	Word	--	Terminal	513
+their	Word	--	Terminal	514
+weekly	Word	--	Terminal	515
+email	Word	--	Terminal	516
+list	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	D	525
+#501	FN	--	S	519
+#502	FN	--	T	525
+#503	PNCT	--	U	525
+#504	FN	--	P	525	C*	520	A*	519
+#505	PNCT	--	U	527
+#506	FN	--	L	527
+#507	FN	--	A	521	A*	526
+#508	FN	--	F	521
+#509	FN	--	P	521
+#510	FN	--	R	520
+#511	FN	--	L	527
+#512	FN	--	P	526
+#513	FN	--	F	526
+#514	FN	--	S	522
+#515	FN	--	T	526
+#516	FN	--	E	523
+#517	FN	--	C	523	A*	522
+#518	PNCT	--	U	522
+#519	FN	--	A	525
+#520	FN	--	A	521
+#521	FN	--	H	527
+#522	FN	--	A	526
+#523	FN	--	A	526
+#524	FN	--	A	525
+#525	FN	--	H	527
+#526	FN	--	H	527
+#527	FN	--	--	0
+#EOS 26528002

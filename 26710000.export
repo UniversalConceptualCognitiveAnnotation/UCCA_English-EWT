@@ -1,0 +1,21 @@
+#BOS 26710000
+Best	Word	--	Terminal	500
+fried	Word	--	Terminal	501
+shrimp	Word	--	Terminal	502
+in	Word	--	Terminal	503
+the	Word	--	Terminal	504
+state	Word	--	Terminal	505
+!	Punctuation	--	Terminal	506
+#500	FN	--	S	510
+#501	FN	--	P	507
+#502	FN	--	C	508	A*	507
+#503	FN	--	R	509
+#504	FN	--	E	509
+#505	FN	--	C	509
+#506	PNCT	--	U	509
+#507	FN	--	E	508
+#508	FN	--	A	510
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 26710000

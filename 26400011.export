@@ -1,0 +1,56 @@
+#BOS 26400011
+I	Word	--	Terminal	500
+WAS	Word	--	Terminal	501
+ALSO	Word	--	Terminal	502
+THERE	Word	--	Terminal	503
+OF	Word	--	Terminal	504
+JULY	Word	--	Terminal	505
+4TH	Word	--	Terminal	505
+2008	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+WHEN	Word	--	Terminal	507
+MY	Word	--	Terminal	508
+DAUGHTER	Word	--	Terminal	509
+S	Word	--	Terminal	510
+BUFFALO	Word	--	Terminal	511
+WINGS	Word	--	Terminal	512
+CAME	Word	--	Terminal	513
+OUT	Word	--	Terminal	514
+WITH	Word	--	Terminal	515
+A	Word	--	Terminal	516
+FLY	Word	--	Terminal	517
+ON	Word	--	Terminal	518
+IT	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	A	526
+#501	FN	--	F	526
+#502	FN	--	L	530
+#503	FN	--	S	526
+#504	FN	--	R	521
+#505	FN	--	C	521
+#506	PNCT	--	U	530
+#507	FN	--	L	530
+#508	FN	--	E	527
+#509	FN	--	C	527	A*	522
+#510	FN	--	S	522
+#511	FN	--	E	528
+#512	FN	--	C	528	A*	522
+#513	FN	--	C	523
+#514	FN	--	F	523
+#515	FN	--	R	525
+#516	FN	--	E	524
+#517	FN	--	C	524
+#518	FN	--	S	525
+#519	FN	--	A	525
+#520	PNCT	--	U	525
+#521	FN	--	T	526
+#522	FN	--	E	527
+#523	FN	--	P	529
+#524	FN	--	A	525
+#525	FN	--	A	529
+#526	FN	--	H	530
+#527	FN	--	E	528
+#528	FN	--	A	529
+#529	FN	--	H	530
+#530	FN	--	--	0
+#EOS 26400011
