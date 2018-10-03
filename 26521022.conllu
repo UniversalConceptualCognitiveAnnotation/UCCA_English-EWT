@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 26521022
+# text = Broad , I say , is 14th street and I am 3 blocks west of broad and one south of walnut .
+1	Broad	_	Word	Word	_	6	A	6:A	_
+2	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	I	_	Word	Word	_	4	A	4:A	_
+4	say	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	is	_	Word	Word	_	4	A	4:A	_
+7	14th	_	Word	Word	_	6	A	6:A	_
+8	street	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	and	_	Word	Word	_	6	L	6:L	_
+10	I	_	Word	Word	_	14	A	14:A|19:A	_
+11	am	_	Word	Word	_	14	F	14:F	_
+12	3	_	Word	Word	_	13	Q	13:Q	_
+13	blocks	_	Word	Word	_	0	C	0:C|18:C	_
+14	west	_	Word	Word	_	6	H	6:H	_
+15	of	_	Word	Word	_	16	R	16:R	_
+16	broad	_	Word	Word	_	14	A	14:A	_
+17	and	_	Word	Word	_	6	L	6:L	_
+18	one	_	Word	Word	_	19	A	19:A	_
+19	south	_	Word	Word	_	6	H	6:H	_
+20	of	_	Word	Word	_	21	R	21:R	_
+21	walnut	_	Word	Word	_	19	A	19:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

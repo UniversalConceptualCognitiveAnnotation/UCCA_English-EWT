@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 26318002
+# text = Before treatment , my food cravings were " out of control " which caused me to be stressed out .
+1	Before	_	Word	Word	_	2	L	2:L	_
+2	treatment	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	my	_	Word	Word	_	6	A	6:A	_
+5	food	_	Word	Word	_	6	A	6:A	_
+6	cravings	_	Word	Word	_	0	P	0:P|14:A	_
+7	were	_	Word	Word	_	9	F	9:F	_
+8	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	out	_	Word	Word	_	2	H	2:H	_
+10	of	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	control	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+13	which	_	Word	Word	_	2	L	2:L	_
+14	caused	_	Word	Word	_	2	H	2:H	_
+15	me	_	Word	Word	_	14	A	14:A	_
+16	to	_	Word	Word	_	18	R	18:R	_
+17	be	_	Word	Word	_	18	F	18:F	_
+18	stressed	_	Word	Word	_	14	A	14:A	_
+19	out	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+
