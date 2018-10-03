@@ -1,0 +1,11 @@
+# ::id 26515002
+# ::tok Prompt , Clean Windows .
+# ::alignments 0-1.1.2 2-1.2.2 3-1.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :S (v5 / label~e.0))
+    :H (v3 / label
+           :S (v6 / label~e.2)
+           :A (v7 / label~e.3)))

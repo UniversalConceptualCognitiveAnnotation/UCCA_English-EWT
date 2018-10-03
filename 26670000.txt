@@ -1,0 +1,10 @@
+# ::id 26670000
+# ::tok a great vacation !
+# ::alignments 0-1.1.1.1 1-1.1.2 2-1.1.1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v5 / label~e.0)
+                  :C (v6 / label~e.2))
+           :S (v4 / label~e.1)))
