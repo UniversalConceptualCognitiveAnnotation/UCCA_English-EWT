@@ -14,7 +14,7 @@ while read -r ud_id ucca_id; do
   if compgen -G "ud/reviews-$ud_id.reviews-$ud_id*" > /dev/null; then
     i=$((i+1))
     echo $i/$TOTAL $ud_id "->" $ucca_id
-    perl -i -lpe "s/reviews-$ud_id-(\d+)/'$ucca_id'.sprintf('%03d',\$1-1)/e" ud/reviews-$ud_id.reviews-$ud_id*
+    perl -i -lpe "s/(reviews-$ud_id-(\d+))/'$ucca_id'.sprintf('%03d',\$2-1).' '.\$1/e" ud/reviews-$ud_id.reviews-$ud_id*
     rename "s/reviews-$ud_id.reviews-$ud_id-(\d+)/'$ucca_id'.sprintf('%03d',\$1-1)/e" ud/reviews-$ud_id.reviews-$ud_id*
   else
     echo $ud_id $ucca_id >> missing.txt
