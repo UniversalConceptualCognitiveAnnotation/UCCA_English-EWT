@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git clone -q https://github.com/UniversalDependencies/UD_English-EWT --branch=r2.2
+git clone -q https://github.com/UniversalDependencies/UD_English-EWT --branch=r2.3
 pip install -U semstr udapi
 
 # Extract all UD-annotated docs for which we also have UCCA annotations
@@ -20,6 +20,7 @@ while read -r ud_id ucca_id; do
     echo $ud_id $ucca_id >> missing.txt
   fi
 done <streusle2ucca.txt
+cat ud/* > ud.conllu
 
 # Split the UCCA passages to sentences exactly like the UD documents are split
 sed 's/SpaceAfter=No/_/;/^# text = /d' ud/*.conllu | udapy write.Sentences > ud.txt
