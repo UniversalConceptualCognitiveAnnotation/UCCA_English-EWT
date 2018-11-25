@@ -18,6 +18,12 @@ jobs:
         - scripts/get_ud.sh
         - rm -rf UD_English-EWT ud ud.txt
         - curl $SCRIPTS/split_to_sentences.sh | bash -s sentences_by_ud
+      env: ucca
+    - script:
+        - scripts/get_ud.sh
+        - rm -rf UD_English-EWT sentences_by_ud ud.txt
+        - scripts/branch_ud.sh
+      env: ud
     - stage: convert
       script: curl $SCRIPTS/validate_sentences.sh | bash -s -- --no-linkage
       env: FORMAT=validate
