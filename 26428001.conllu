@@ -1,0 +1,14 @@
+# sent_id = 26428001 reviews-308297-0002
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	3:nsubj	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
+3	one	one	NUM	CD	NumType=Card	0	root	0:root	_
+4	of	of	ADP	IN	_	7	case	7:case	_
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
+6	favorite	favorite	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
+7	places	place	NOUN	NNS	Number=Plur	3	nmod	3:nmod:of	_
+8	to	to	PART	TO	_	9	mark	9:mark	_
+9	eat	eat	VERB	VB	VerbForm=Inf	7	acl	7:acl:to	_
+10	for	for	ADP	IN	_	11	case	11:case	_
+11	lunch	lunch	NOUN	NN	Number=Sing	9	obl	9:obl:for	SpaceAfter=No
+12	.	.	PUNCT	.	_	3	punct	3:punct	_
+

@@ -1,0 +1,33 @@
+# sent_id = 26398002 reviews-292841-0003
+1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	3:det	_
+2	large	large	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	group	group	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	_
+4	of	of	ADP	IN	_	6	case	6:case	_
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	_
+6	friends	friend	NOUN	NNS	Number=Plur	3	nmod	3:nmod:of	_
+7	and	and	CCONJ	CC	_	8	cc	8:cc	_
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	conj	3:conj:and|9:nsubj	_
+9	rent	rent	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+10	almost	almost	ADV	RB	_	13	advmod	13:advmod	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
+12	whole	whole	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
+13	motel	motel	NOUN	NN	Number=Sing	9	obj	9:obj	_
+14	every	every	DET	DT	_	15	det	15:det	_
+15	year	year	NOUN	NN	Number=Sing	9	obl:npmod	9:obl:npmod	_
+16	for	for	ADP	IN	_	18	case	18:case	_
+17	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	18:det	_
+18	weekend	weekend	NOUN	NN	Number=Sing	9	obl	9:obl:for	SpaceAfter=No
+19	,	,	PUNCT	,	_	30	punct	30:punct	_
+20	and	and	CCONJ	CC	_	30	cc	30:cc	_
+21	the	the	DET	DT	Definite=Def|PronType=Art	22	det	22:det	_
+22	experience	experience	NOUN	NN	Number=Sing	30	nsubj	30:nsubj	_
+23	and	and	CCONJ	CC	_	24	cc	24:cc	_
+24	stay	stay	NOUN	NN	Number=Sing	22	conj	22:conj:and|30:nsubj	_
+25	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	30	aux	30:aux	_
+26	always	always	ADV	RB	_	30	advmod	30:advmod	_
+27	been	be	AUX	VBN	Tense=Past|VerbForm=Part	30	cop	30:cop	_
+28	five	five	NUM	CD	NumType=Card	30	nummod	30:nummod	SpaceAfter=No
+29	-	-	PUNCT	HYPH	_	30	punct	30:punct	SpaceAfter=No
+30	star	star	NOUN	NN	Number=Sing	9	conj	9:conj:and	SpaceAfter=No
+31	.	.	PUNCT	.	_	9	punct	9:punct	_
+

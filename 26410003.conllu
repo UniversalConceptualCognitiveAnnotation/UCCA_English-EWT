@@ -1,0 +1,28 @@
+# sent_id = 26410003 reviews-299148-0004
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	family	family	NOUN	NN	Number=Sing	3	compound	3:compound	_
+3	suite	suite	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	7:cop	_
+5	basically	basically	ADV	RB	_	7	advmod	7:advmod	_
+6	two	two	NUM	CD	NumType=Card	7	nummod	7:nummod	_
+7	rooms	room	NOUN	NNS	Number=Plur	0	root	0:root	_
+8	with	with	ADP	IN	_	11	case	11:case	_
+9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	_
+10	small	small	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	opening	opening	NOUN	NN	Number=Sing	7	nmod	7:nmod:with	_
+12	between	between	ADP	IN	_	13	case	13:case	_
+13	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	nmod	11:nmod:between	_
+14	which	which	PRON	WDT	PronType=Int	15	nsubj	15:nsubj	_
+15	worked	work	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	parataxis	7:parataxis	_
+16	great	great	ADV	RB	_	15	advmod	15:advmod	_
+17	for	for	ADP	IN	_	18	case	18:case	_
+18	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	15	obl	15:obl:for	_
+19	because	because	SCONJ	IN	_	23	mark	23:mark	_
+20	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	23	nsubj	23:nsubj	_
+21	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	23	cop	23:cop	_
+22	two	two	NUM	CD	NumType=Card	23	nummod	23:nummod	_
+23	families	family	NOUN	NNS	Number=Plur	15	advcl	15:advcl:because	_
+24	traveling	travel	VERB	VBG	VerbForm=Ger	23	acl	23:acl	_
+25	together	together	ADV	RB	_	24	advmod	24:advmod	SpaceAfter=No
+26	.	.	PUNCT	.	_	7	punct	7:punct	_
+

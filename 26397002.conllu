@@ -1,0 +1,14 @@
+# sent_id = 26397002 reviews-029230-0003
+1	Not	not	PART	RB	_	5	advmod	5:advmod	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+3	same	same	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+4	old	old	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	stuff	stuff	NOUN	NN	Number=Sing	0	root	11:obj	_
+6	that	that	PRON	WDT	PronType=Rel	11	obj	5:ref	_
+7	all	all	DET	PDT	_	10	det:predet	10:det:predet	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+9	other	other	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
+10	stores	store	NOUN	NNS	Number=Plur	11	nsubj	11:nsubj	_
+11	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	acl:relcl	5:acl:relcl	SpaceAfter=No
+12	.	.	PUNCT	.	_	5	punct	5:punct	_
+

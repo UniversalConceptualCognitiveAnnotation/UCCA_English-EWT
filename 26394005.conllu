@@ -1,0 +1,12 @@
+# sent_id = 26394005 reviews-291046-0006
+1	So	so	ADV	RB	_	2	advmod	2:advmod	_
+2	long	long	ADV	RB	Degree=Pos	0	root	0:root	_
+3	Ham	Ham	PROPN	NNP	Number=Sing	2	vocative	2:vocative	SpaceAfter=No
+4	s	's	PART	POS	_	3	case	3:case	_
+5	...	...	PUNCT	,	_	9	punct	9:punct	_
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj:pass	9:nsubj:pass	_
+7	will	will	AUX	MD	VerbForm=Fin	9	aux	9:aux	_
+8	be	be	AUX	VB	VerbForm=Inf	9	aux:pass	9:aux:pass	_
+9	missed	miss	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	parataxis	2:parataxis	SpaceAfter=No
+10	.	.	PUNCT	.	_	9	punct	9:punct	_
+

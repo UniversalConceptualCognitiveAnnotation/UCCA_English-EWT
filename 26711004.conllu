@@ -1,0 +1,21 @@
+# sent_id = 26711004 reviews-081796-0005
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	mark	mark	NOUN	NN	Number=Sing	3	compound	3:compound	_
+3	up	up	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+5	minimal	minimal	ADJ	JJ	Degree=Pos	0	root	0:root	_
+6	considering	consider	VERB	VBG	VerbForm=Ger	5	advcl	5:advcl	_
+7	that	that	SCONJ	IN	_	11	mark	11:mark	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+9	clothing	clothing	NOUN	NN	Number=Sing	11	nsubj:pass	11:nsubj:pass|16:nsubj:pass	_
+10	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	11:aux:pass	_
+11	hard	hard	ADJ	JJ	Degree=Pos	6	ccomp	6:ccomp	_
+12	to	to	PART	TO	_	13	mark	13:mark	_
+13	find	find	VERB	VB	VerbForm=Inf	11	ccomp	11:ccomp	_
+14	and	and	CCONJ	CC	_	16	cc	16:cc	_
+15	often	often	ADV	RB	_	16	advmod	16:advmod	_
+16	shipped	ship	VERB	VBN	Tense=Past|VerbForm=Part	11	conj	6:ccomp|11:conj:and	_
+17	for	for	ADP	IN	_	18	case	18:case	_
+18	Europe	Europe	PROPN	NNP	Number=Sing	16	obl	16:obl:for	SpaceAfter=No
+19	.	.	PUNCT	.	_	5	punct	5:punct	_
+

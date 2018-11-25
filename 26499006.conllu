@@ -1,0 +1,17 @@
+# sent_id = 26499006 reviews-003418-0007
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	office	office	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	refused	refuse	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+5	requests	request	NOUN	NNS	Number=Plur	3	obj	3:obj	_
+6	to	to	PART	TO	_	7	mark	7:mark	_
+7	see	see	VERB	VB	VerbForm=Inf	5	acl	5:acl:to	_
+8	what	what	PRON	WP	PronType=Int	10	obj	10:obj	_
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	10:nsubj	_
+10	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	ccomp	7:ccomp	_
+11	from	from	ADP	IN	_	12	case	12:case	_
+12	BC	BC	PROPN	NNP	Number=Sing	10	obl	10:obl:from	SpaceAfter=No
+13	/	/	PUNCT	HYPH	_	14	cc	14:cc	SpaceAfter=No
+14	BS	BS	PROPN	NNP	Number=Sing	12	conj	10:obl:from|12:conj	SpaceAfter=No
+15	.	.	PUNCT	.	_	3	punct	3:punct	_
+

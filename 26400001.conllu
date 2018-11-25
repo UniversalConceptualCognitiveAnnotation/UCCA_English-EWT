@@ -1,0 +1,18 @@
+# sent_id = 26400001 reviews-294081-0002
+1	TEXAS	TEXAS	PROPN	NNP	Number=Sing	2	compound	2:compound	_
+2	ROADHOUSE	ROADHOUSE	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
+3	HAS	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	VERY	very	ADV	RB	_	5	advmod	5:advmod	_
+5	GOOD	good	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	MEALS	meal	NOUN	NNS	Number=Plur	3	obj	3:obj	SpaceAfter=No
+7	,	,	PUNCT	,	_	6	punct	6:punct	_
+8	THAT	that	SCONJ	IN	_	11	mark	11:mark	_
+9	THE	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+10	MEAT	meat	NOUN	NN	Number=Sing	11	nsubj	11:nsubj	_
+11	COMES	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	parataxis	6:parataxis	_
+12	RIGHT	right	ADV	RB	_	15	advmod	15:advmod	_
+13	OFF	off	ADP	IN	_	15	case	15:case	_
+14	THE	the	DET	DT	Definite=Def|PronType=Art	15	det	15:det	_
+15	BONES	bone	NOUN	NNS	Number=Plur	11	obl	11:obl:off	SpaceAfter=No
+16	.	.	PUNCT	.	_	3	punct	3:punct	_
+

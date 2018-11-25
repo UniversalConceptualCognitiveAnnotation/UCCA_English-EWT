@@ -1,0 +1,31 @@
+# sent_id = 26528001 reviews-354336-0002
+1	This	this	DET	DT	Number=Sing|PronType=Dem	7	det	7:det	_
+2	French	french	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	born	bear	VERB	VBN	Tense=Past|VerbForm=Part	7	amod	7:amod	SpaceAfter=No
+4	,	,	PUNCT	,	_	7	punct	7:punct	_
+5	French	french	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	trained	train	VERB	VBN	Tense=Past|VerbForm=Part	7	amod	7:amod	_
+7	chef	chef	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	_
+8	and	and	CCONJ	CC	_	11	cc	11:cc	_
+9	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
+10	creative	creative	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	partners	partner	NOUN	NNS	Number=Plur	7	conj	7:conj:and|12:nsubj	_
+12	offer	offer	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+13	a	a	DET	DT	Definite=Ind|PronType=Art	22	compound	22:compound	_
+14	taste	taste	NOUN	NN	Number=Sing	12	obj	12:obj	_
+15	fresh	fresh	ADJ	JJ	Degree=Pos	22	amod	22:amod	SpaceAfter=No
+16	,	,	PUNCT	,	_	22	punct	22:punct	_
+17	locally	locally	ADV	RB	_	18	advmod	18:advmod	_
+18	sourced	source	VERB	VBN	Tense=Past|VerbForm=Part	22	amod	22:amod	SpaceAfter=No
+19	,	,	PUNCT	,	_	22	punct	22:punct	_
+20	fabulously	fabulously	ADV	RB	_	21	advmod	21:advmod	_
+21	prepared	prepare	VERB	VBN	Tense=Past|VerbForm=Part	22	amod	22:amod	_
+22	food	food	NOUN	NN	Number=Sing	12	obj	12:obj	_
+23	in	in	ADP	IN	_	26	case	26:case	_
+24	the	the	DET	DT	Definite=Def|PronType=Art	26	det	26:det	_
+25	most	most	ADV	RBS	_	26	advmod	26:advmod	_
+26	unlikely	unlikely	ADJ	JJ	Degree=Pos	12	obl	12:obl:in	_
+27	of	of	ADP	IN	_	28	case	28:case	_
+28	locations	location	NOUN	NNS	Number=Plur	26	obl	26:obl:of	SpaceAfter=No
+29	.	.	PUNCT	.	_	12	punct	12:punct	_
+

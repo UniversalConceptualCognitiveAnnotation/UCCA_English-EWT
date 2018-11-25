@@ -1,0 +1,20 @@
+# sent_id = 26315004 reviews-024385-0005
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	SpaceAfter=No
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
+3	assuming	assume	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	9:nsubj	_
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
+6	completely	completely	ADV	RB	_	9	advmod	9:advmod	_
+7	out	out	ADP	IN	_	9	case	9:case	_
+8	of	of	ADP	IN	_	9	case	9:case	_
+9	business	business	NOUN	NN	Number=Sing	3	ccomp	3:ccomp	_
+10	since	since	SCONJ	IN	_	14	mark	14:mark	_
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	14:nsubj	_
+12	ca	can	AUX	MD	VerbForm=Fin	14	aux	14:aux	SpaceAfter=No
+13	n't	not	PART	RB	_	14	advmod	14:advmod	_
+14	find	find	VERB	VB	VerbForm=Inf	3	advcl	3:advcl:since	_
+15	any	any	DET	DT	_	17	det	17:det	_
+16	contact	contact	NOUN	NN	Number=Sing	17	compound	17:compound	_
+17	information	information	NOUN	NN	Number=Sing	14	obj	14:obj	SpaceAfter=No
+18	.	.	PUNCT	.	_	3	punct	3:punct	_
+
