@@ -1,0 +1,21 @@
+# sent_id = 26328006 reviews-251774-0007
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|3:nsubj:xsubj|5:nsubj	_
+2	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	lighter	lighter	ADJ	JJR	Degree=Cmp	2	xcomp	2:xcomp	_
+4	and	and	CCONJ	CC	_	5	cc	5:cc	_
+5	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	2:conj:and	_
+6	that	that	SCONJ	IN	_	8	mark	8:mark	_
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	8:nsubj	_
+8	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	ccomp	5:ccomp	_
+9	more	more	ADJ	JJR	Degree=Cmp	10	amod	10:amod	_
+10	possibilities	possibility	NOUN	NNS	Number=Plur	8	obj	8:obj	_
+11	open	open	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
+12	to	to	ADP	IN	_	13	case	13:case	_
+13	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obl	11:obl:to	_
+14	now	now	ADV	RB	_	8	advmod	8:advmod	_
+15	than	than	SCONJ	IN	_	17	mark	17:mark	_
+16	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	17:nsubj	_
+17	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	advcl	9:advcl:than	_
+18	before	before	ADV	RB	_	17	advmod	17:advmod	SpaceAfter=No
+19	.	.	PUNCT	.	_	2	punct	2:punct	_
+

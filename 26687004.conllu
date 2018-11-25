@@ -1,0 +1,19 @@
+# sent_id = 26687004 reviews-071518-0005
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	4:cop	_
+3	so	so	ADV	RB	_	4	advmod	4:advmod	_
+4	impressed	impressed	ADJ	JJ	Degree=Pos	0	root	0:root	_
+5	with	with	ADP	IN	_	7	case	7:case	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	honesty	honesty	NOUN	NN	Number=Sing	4	obl	4:obl:with	_
+8	and	and	CCONJ	CC	_	9	cc	9:cc	_
+9	integrity	integrity	NOUN	NN	Number=Sing	7	conj	4:obl:with|7:conj:and	_
+10	of	of	ADP	IN	_	11	case	11:case	_
+11	Mike	Mike	PROPN	NNP	Number=Sing	7	nmod	7:nmod:of	_
+12	and	and	CCONJ	CC	_	13	cc	13:cc	_
+13	everyone	everyone	PRON	NN	Number=Sing	11	conj	7:nmod:of|11:conj:and	_
+14	at	at	ADP	IN	_	16	case	16:case	_
+15	Eagle	Eagle	PROPN	NNP	Number=Sing	16	compound	16:compound	_
+16	Transmission	Transmission	PROPN	NNP	Number=Sing	13	nmod	13:nmod:at	SpaceAfter=No
+17	!	!	PUNCT	.	_	4	punct	4:punct	_
+

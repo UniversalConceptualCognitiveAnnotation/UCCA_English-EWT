@@ -1,0 +1,34 @@
+# sent_id = 26688006 reviews-071650-0007
+1	Back	back	ADV	RB	_	0	root	0:root	_
+2	to	to	ADP	IN	_	5	case	5:case	_
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+4	poor	poor	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	rating	rating	NOUN	NN	Number=Sing	1	obl	1:obl:to	_
+6	-	-	PUNCT	,	_	1	punct	1:punct	_
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj:pass	9:nsubj:pass|14:nsubj:pass	_
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	aux:pass	9:aux:pass	_
+9	excepted	accept	VERB	VBN	Tense=Past|Typo=Yes|VerbForm=Part|Voice=Pass	1	parataxis	1:parataxis	_
+10	to	to	ADP	IN	_	12	case	12:case	_
+11	medical	medical	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
+12	school	school	NOUN	NN	Number=Sing	9	obl	9:obl:to	_
+13	and	and	CCONJ	CC	_	14	cc	14:cc	_
+14	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	conj	9:conj:and	_
+15	in	in	ADV	RB	_	14	advmod	14:advmod	_
+16	to	to	PART	TO	_	17	mark	17:mark	_
+17	cancel	cancel	VERB	VB	VerbForm=Inf	14	advcl	14:advcl:to	_
+18	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	19	nmod:poss	19:nmod:poss	_
+19	membership	membership	NOUN	NN	Number=Sing	17	obj	17:obj	_
+20	as	as	SCONJ	IN	_	23	mark	23:mark	_
+21	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	23	nsubj:pass	23:nsubj:pass	_
+22	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	23	aux:pass	23:aux:pass	_
+23	told	tell	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	17	advcl	17:advcl:as	_
+24	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	26	nsubj	26:nsubj	_
+25	could	could	AUX	MD	VerbForm=Fin	26	aux	26:aux	_
+26	do	do	VERB	VB	VerbForm=Inf	23	ccomp	23:ccomp	_
+27	since	since	SCONJ	IN	_	30	mark	30:mark	_
+28	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	30	nsubj	30:nsubj	_
+29	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	30	aux	30:aux	_
+30	moving	move	VERB	VBG	Tense=Pres|VerbForm=Part	23	ccomp	23:ccomp	_
+31	away	away	ADV	RB	_	30	advmod	30:advmod	SpaceAfter=No
+32	.	.	PUNCT	.	_	1	punct	1:punct	_
+

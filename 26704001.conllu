@@ -1,0 +1,25 @@
+# sent_id = 26704001 reviews-079375-0002
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	recently	recently	ADV	RB	_	3	advmod	3:advmod	_
+3	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
+5	rescue	rescue	NOUN	NN	Number=Sing	6	compound	6:compound	_
+6	puppy	puppy	NOUN	NN	Number=Sing	3	obj	3:obj	_
+7	to	to	ADP	IN	_	9	case	9:case	_
+8	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	9:det	_
+9	Clinic	clinic	NOUN	NN	Number=Sing	3	obl	3:obl:to	_
+10	and	and	CCONJ	CC	_	13	cc	13:cc	_
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	13:nsubj	_
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	13:cop	_
+13	SHOCKED	shocked	ADJ	JJ	Degree=Pos	3	conj	3:conj:and	_
+14	at	at	SCONJ	IN	_	22	mark	22:mark	_
+15	how	how	ADV	WRB	PronType=Int	16	advmod	16:advmod	_
+16	well	well	ADV	RB	Degree=Pos	22	advmod	22:advmod	_
+17	Romeo	Romeo	PROPN	NNP	Number=Sing	22	nsubj:pass	22:nsubj:pass	_
+18	and	and	CCONJ	CC	_	20	cc	20:cc	_
+19	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	20	nmod:poss	20:nmod:poss	_
+20	family	family	NOUN	NN	Number=Sing	17	conj	17:conj:and|22:nsubj:pass	_
+21	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	aux:pass	22:aux:pass	_
+22	treated	treat	VERB	VBN	Tense=Past|VerbForm=Part	13	advcl	13:advcl:at	SpaceAfter=No
+23	.	.	PUNCT	.	_	3	punct	3:punct	_
+

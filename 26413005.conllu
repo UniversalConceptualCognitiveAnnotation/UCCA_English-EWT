@@ -1,0 +1,22 @@
+# sent_id = 26413005 reviews-030126-0006
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	education	education	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
+4	horrible	horrible	ADJ	JJ	Degree=Pos	0	root	0:root	_
+5	at	at	ADV	RB	_	6	case	6:case	_
+6	best	best	ADV	RBS	Degree=Sup	4	obl	4:obl:at	SpaceAfter=No
+7	,	,	PUNCT	,	_	4	punct	4:punct	_
+8	do	do	VERB	VB	Mood=Imp|VerbForm=Fin	4	parataxis	4:parataxis	_
+9	society	society	NOUN	NN	Number=Sing	8	iobj	8:iobj	_
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	_
+11	favor	favor	NOUN	NN	Number=Sing	8	obj	8:obj	SpaceAfter=No
+12	,	,	PUNCT	,	_	16	punct	16:punct	_
+13	and	and	CCONJ	CC	_	16	cc	16:cc	_
+14	do	do	AUX	VB	Mood=Imp|VerbForm=Fin	16	aux	16:aux	_
+15	NOT	not	PART	RB	_	16	advmod	16:advmod	_
+16	send	send	VERB	VB	Mood=Imp|VerbForm=Fin	8	conj	8:conj:and	_
+17	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	18	nmod:poss	18:nmod:poss	_
+18	student	student	NOUN	NN	Number=Sing	16	obj	16:obj	_
+19	here	here	ADV	RB	PronType=Dem	16	advmod	16:advmod	SpaceAfter=No
+20	.	.	PUNCT	.	_	4	punct	4:punct	_
+

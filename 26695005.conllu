@@ -1,0 +1,21 @@
+# sent_id = 26695005 reviews-074896-0006
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj|8:nsubj|13:nsubj	_
+2	immediately	immediately	ADV	RB	_	3	advmod	3:advmod	_
+3	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	to	to	ADP	IN	_	6	case	6:case	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+6	back	back	NOUN	NN	Number=Sing	3	obl	3:obl:to	SpaceAfter=No
+7	,	,	PUNCT	,	_	8	punct	8:punct	_
+8	brought	bring	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	3:conj:and	_
+9	out	out	ADV	RB	_	8	advmod	8:advmod	_
+10	leather	leather	NOUN	NN	Number=Sing	11	compound	11:compound	_
+11	cleaner	cleaner	NOUN	NN	Number=Sing	8	obj	8:obj	_
+12	and	and	CCONJ	CC	_	13	cc	13:cc	_
+13	cleaned	clean	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	3:conj:and	_
+14	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	15	nmod:poss	15:nmod:poss	_
+15	purse	purse	NOUN	NN	Number=Sing	13	obj	13:obj	_
+16	on	on	ADP	IN	_	18	case	18:case	_
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
+18	spot	spot	NOUN	NN	Number=Sing	13	obl	13:obl:on	SpaceAfter=No
+19	.	.	PUNCT	.	_	3	punct	3:punct	_
+

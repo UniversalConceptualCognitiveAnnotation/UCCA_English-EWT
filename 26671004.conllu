@@ -1,0 +1,21 @@
+# sent_id = 26671004 reviews-063549-0005
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	waiting	waiting	NOUN	NN	Number=Sing	3	compound	3:compound	_
+3	staff	staff	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+5	beyond	beyond	ADP	IN	_	6	case	6:case	_
+6	impeccable	impeccable	ADJ	JJ	Degree=Pos	0	root	0:root	_
+7	(	(	PUNCT	-LRB-	_	9	punct	9:punct	SpaceAfter=No
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	9:nsubj	_
+9	refold	refold	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	parataxis	6:parataxis	_
+10	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
+11	napkin	napkin	NOUN	NN	Number=Sing	9	obj	9:obj	_
+12	when	when	ADV	WRB	PronType=Int	14	mark	14:mark	_
+13	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	14:nsubj	_
+14	go	go	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	advcl	9:advcl:when	_
+15	to	to	ADP	IN	_	17	case	17:case	_
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
+17	bathroom	bathroom	NOUN	NN	Number=Sing	14	obl	14:obl:to	SpaceAfter=No
+18	)	)	PUNCT	-RRB-	_	9	punct	9:punct	SpaceAfter=No
+19	.	.	PUNCT	.	_	6	punct	6:punct	_
+

@@ -1,0 +1,31 @@
+# sent_id = 26398003 reviews-292841-0004
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	rooms	room	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	_
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+4	SO	so	ADV	RB	_	5	advmod	5:advmod	_
+5	clean	clean	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
+6	,	,	PUNCT	,	_	14	punct	14:punct	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+8	managers	manager	NOUN	NNS	Number=Plur	14	nsubj	14:nsubj	SpaceAfter=No
+9	/	/	PUNCT	,	_	10	cc	10:cc	SpaceAfter=No
+10	owners	owner	NOUN	NNS	Number=Plur	8	conj	8:conj|14:nsubj	_
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	cop	14:cop	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
+13	nicest	nicest	ADJ	JJS	Degree=Sup	14	amod	14:amod	_
+14	people	people	NOUN	NNS	Number=Plur	5	conj	5:conj:and	SpaceAfter=No
+15	,	,	PUNCT	,	_	18	punct	18:punct	_
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
+17	place	place	NOUN	NN	Number=Sing	18	nsubj	18:nsubj|20:nsubj:xsubj	_
+18	feels	feel	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	5:conj:and	_
+19	so	so	ADV	RB	_	20	advmod	20:advmod	_
+20	homey	homey	ADJ	JJ	Degree=Pos	18	xcomp	18:xcomp	SpaceAfter=No
+21	,	,	PUNCT	,	_	28	punct	28:punct	_
+22	and	and	CCONJ	CC	_	28	cc	28:cc	_
+23	the	the	DET	DT	Definite=Def|PronType=Art	24	det	24:det	_
+24	location	location	NOUN	NN	Number=Sing	28	nsubj	28:nsubj	_
+25	and	and	CCONJ	CC	_	26	cc	26:cc	_
+26	grounds	grounds	NOUN	NNS	Number=Plur	24	conj	24:conj:and|28:nsubj	_
+27	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	28	cop	28:cop	_
+28	beautiful	beautiful	ADJ	JJ	Degree=Pos	5	conj	5:conj:and	SpaceAfter=No
+29	.	.	PUNCT	.	_	5	punct	5:punct	_
+

@@ -1,0 +1,14 @@
+# sent_id = 26318008 reviews-247097-0009
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	hurt	hurt	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	very	very	ADV	RB	_	4	advmod	4:advmod	_
+4	little	little	ADV	RB	Degree=Pos	2	advmod	2:advmod	SpaceAfter=No
+5	,	,	PUNCT	,	_	2	punct	2:punct	_
+6	felt	feel	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	parataxis	2:parataxis	_
+7	more	more	ADV	RBR	_	9	advmod	9:advmod	_
+8	like	like	ADP	IN	_	9	case	9:case	_
+9	pressure	pressure	NOUN	NN	Number=Sing	6	obl	6:obl:like	_
+10	than	than	ADP	IN	_	11	case	11:case	_
+11	pain	pain	NOUN	NN	Number=Sing	7	obl	7:obl:than	SpaceAfter=No
+12	.	.	PUNCT	.	_	2	punct	2:punct	_
+

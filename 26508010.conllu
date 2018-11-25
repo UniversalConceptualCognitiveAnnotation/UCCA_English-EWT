@@ -1,0 +1,13 @@
+# sent_id = 26508010 reviews-345182-0011
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	explained	explain	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
+4	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	aux	6:aux	_
+5	not	not	PART	RB	_	6	advmod	6:advmod	_
+6	get	get	VERB	VB	VerbForm=Inf	2	ccomp	2:ccomp	_
+7	what	what	PRON	WP	PronType=Int	6	obj	6:obj	_
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	_
+9	paid	pay	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	acl:relcl	7:acl:relcl	_
+10	for	for	ADP	IN	_	9	obl	9:obl	SpaceAfter=No
+11	.	.	PUNCT	.	_	2	punct	2:punct	_
+
