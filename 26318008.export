@@ -8,27 +8,23 @@ felt	Word	--	Terminal	505
 more	Word	--	Terminal	506
 like	Word	--	Terminal	507
 pressure	Word	--	Terminal	508
-than	Word	--	Terminal	509
-pain	Word	--	Terminal	510
-.	Punctuation	--	Terminal	511
-#500	FN	--	A	515
-#501	FN	--	P	515
-#502	FN	--	E	512
-#503	FN	--	C	512
-#504	PNCT	--	U	519
-#505	FN	--	P	518
-#506	FN	--	R	517
-#507	FN	--	R	517
-#508	FN	--	P	513
-#509	FN	--	R	517
-#510	FN	--	S	514
-#511	PNCT	--	U	514
-#512	FN	--	Q	515
-#513	FN	--	C	517
-#514	FN	--	C	517
-#515	FN	--	H	519
-#516	FN	--	A	518
-#517	FN	--	A	518
-#518	FN	--	H	519
-#519	FN	--	--	0
+than	Word	--	Terminal	506
+pain	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	A	514	A*	511	A*	512
+#501	FN	--	P	514
+#502	FN	--	E	513
+#503	FN	--	C	513
+#504	PNCT	--	U	515
+#505	FN	--	G	511	G*	512
+#506	FN	--	L	515
+#507	FN	--	F	511
+#508	FN	--	P	511
+#509	FN	--	S	512
+#510	PNCT	--	U	512
+#511	FN	--	H	515
+#512	FN	--	H	515
+#513	FN	--	Q	514
+#514	FN	--	H	515
+#515	FN	--	--	0
 #EOS 26318008

@@ -20,16 +20,16 @@ with	Word	--	Terminal	517
 commercial	Word	--	Terminal	518
 purpose	Word	--	Terminal	519
 .	Punctuation	--	Terminal	520
-#500	FN	--	A	529	A*	521	A*	530
-#501	FN	--	F	529
-#502	FN	--	E	522
-#503	FN	--	D	529
-#504	FN	--	C	522
-#505	FN	--	E	523
-#506	FN	--	C	523
-#507	PNCT	--	U	531
+#500	FN	--	A	531	A*	522	A*	521	A*	529
+#501	FN	--	F	523
+#502	FN	--	E	523
+#503	FN	--	D	531
+#504	FN	--	C	523
+#505	FN	--	R	530
+#506	FN	--	S	522
+#507	PNCT	--	U	530
 #508	FN	--	S	521
-#509	FN	--	L	531
+#509	FN	--	L	530
 #510	FN	--	E	524
 #511	FN	--	C	524
 #512	FN	--	F	525
@@ -41,15 +41,16 @@ purpose	Word	--	Terminal	519
 #518	FN	--	E	527
 #519	FN	--	C	527
 #520	PNCT	--	U	527
-#521	FN	--	H	531
-#522	FN	--	S	529
-#523	FN	--	A	529
-#524	FN	--	D	530
-#525	FN	--	P	530
-#526	FN	--	N	528
+#521	FN	--	H	530
+#522	FN	--	H	530
+#523	FN	--	S	531
+#524	FN	--	D	529
+#525	FN	--	P	529
+#526	FN	--	R	528
 #527	FN	--	C	528
-#528	FN	--	A	530
-#529	FN	--	H	531
-#530	FN	--	H	531
-#531	FN	--	--	0
+#528	FN	--	A	529
+#529	FN	--	H	530
+#530	FN	--	A	531
+#531	FN	--	H	532
+#532	FN	--	--	0
 #EOS 26504002
