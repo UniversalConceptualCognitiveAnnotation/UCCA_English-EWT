@@ -1,6 +1,6 @@
 # ::id 26500003
 # ::tok Anyway , I was practically raised on this stuff , and being a connoisseur of West Indian cuisine , Jamaica Way is a bit toned down to suit the American palette .
-# ::alignments 0-1.1 2-1.2.1 4-1.2.3 5-1.2.4 6-1.2.5.1 7-1.2.5.2 8-1.2.5.3 10-1.3 11-1.4.1 12-1.4.2.1 13-1.4.2.2.1 14-1.4.2.3 15-1.4.2.4.1 16-1.4.2.4.1 17-1.4.2.4.2 19-1.5.1 20-1.5.1 22-1.5.3.1 23-1.5.3.2 24-1.5.4.1 26-1.6 27-1.7.1 28-1.7.2.1 29-1.7.2.2 30-1.7.2.3
+# ::alignments 0-1.1 2-1.2.1 4-1.2.3 5-1.2.4 6-1.2.5.1 7-1.2.5.2 8-1.2.5.3 10-1.3 11-1.4.1 12-1.4.2.1 13-1.4.2.2.1 14-1.4.2.3 15-1.4.2.4.1 16-1.4.2.4.1 17-1.4.2.4.2 19-1.5.1 20-1.5.1 22-1.5.3.1 23-1.5.3.2 24-1.5.4 25-1.5.4 26-1.6 27-1.7.1 28-1.7.2.1 29-1.7.2.2 30-1.7.2.3
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -18,24 +18,23 @@
            :A (v14 / label
                    :E (v23 / label~e.12)
                    :C (v24 / label
-                           :S (v33 / label~e.13))
+                           :S (v32 / label~e.13))
                    :R (v25 / label~e.14)
                    :E (v26 / label
-                           :E (v34 / label~e.15,16)
-                           :C (v35 / label~e.17)))
+                           :E (v33 / label~e.15,16)
+                           :C (v34 / label~e.17)))
            :A v9)
     :H (v6 / label
            :A (v15 / label~e.19,20)
            :D (v16 / label
                    :E (v27 / label~e.22)
                    :C (v28 / label~e.23))
-           :S (v17 / label
-                   :C (v29 / label~e.24)))
+           :S (v17 / label~e.24,25))
     :L (v7 / label~e.26)
     :H (v8 / label
            :P (v18 / label~e.27)
            :A (v19 / label
-                   :E (v30 / label~e.28)
-                   :E (v31 / label~e.29)
-                   :C (v32 / label~e.30))
+                   :E (v29 / label~e.28)
+                   :E (v30 / label~e.29)
+                   :C (v31 / label~e.30))
            :A v15))

@@ -1,6 +1,6 @@
 # ::id 26499012
 # ::tok I think this office has some serious billing practice issues !
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1.1 3-1.1.3.1.2 4-1.1.3.2 5-1.1.3.3.3.1 6-1.1.3.3.1 7-1.1.3.3.2.1.1 8-1.1.3.3.2.2.1 9-1.1.3.3.3.2
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1.1 3-1.1.3.1.2 4-1.1.3.2 5-1.1.3.3.1.1 6-1.1.3.3.2 7-1.1.3.3.3.1.1 8-1.1.3.3.3.2.1 9-1.1.3.3.1.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -12,12 +12,12 @@
                          :C (v10 / label~e.3))
                   :S (v7 / label~e.4)
                   :A (v8 / label
-                         :D (v11 / label~e.6)
-                         :A (v12 / label
-                                 :C (v14 / label
+                         :S (v11 / label
+                                 :Q (v14 / label~e.5)
+                                 :C (v15 / label~e.9))
+                         :D (v12 / label~e.6)
+                         :A (v13 / label
+                                 :C (v16 / label
                                          :P (v18 / label~e.7))
-                                 :C (v15 / label
-                                         :P (v19 / label~e.8)))
-                         :S (v13 / label
-                                 :Q (v16 / label~e.5)
-                                 :C (v17 / label~e.9))))))
+                                 :C (v17 / label
+                                         :P (v19 / label~e.8)))))))

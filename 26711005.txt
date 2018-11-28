@@ -1,41 +1,43 @@
 # ::id 26711005
 # ::tok In addition , the clothing is of much better quality than the clothing from hot topic , which is made as cheaply as possible by people living in horrible conditions in Asia .
-# ::alignments 0-1.1 1-1.1 3-1.2.1.1 4-1.4.5 7-1.2.4 8-1.2.5.1 9-1.2.5.2 10-1.2.6.1 11-1.2.6.2 12-1.2.6.3 13-1.2.6.4.1 14-1.2.6.4.2 15-1.2.6.4.2 17-1.3 19-1.4.1 20-1.4.2.1 21-1.4.2.2 22-1.4.2.3 23-1.4.2.4 24-1.4.3.1 25-1.4.3.2 26-1.4.3.3 27-1.4.3.4.1 28-1.4.3.4.2 29-1.4.3.4.3 30-1.4.4.1 31-1.4.4.2
+# ::alignments 0-1.1 1-1.1 3-1.2.3.1 4-1.2.3.2 7-1.2.6 8-1.2.1.1 9-1.2.1.2 10-1.2.2.1 11-1.2.2.2 12-1.2.2.3 13-1.2.2.4.1 14-1.2.2.4.2 15-1.2.2.4.2 17-1.2.2.5.2 19-1.2.2.5.4 20-1.2.2.5.5.1 21-1.2.2.5.5.2 22-1.2.2.5.5.3 23-1.2.2.5.5.4 24-1.2.2.5.6.1 25-1.2.2.5.6.2 26-1.2.2.5.6.3.2 27-1.2.2.5.6.3.3.1 28-1.2.2.5.6.3.3.2 29-1.2.2.5.6.3.3.3 30-1.2.2.5.6.3.4.1 31-1.2.2.5.6.3.4.2
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0,1)
     :H (v3 / label
+           :S (v4 / label
+                  :E (v8 / label~e.8)
+                  :C (v9 / label~e.9))
+           :A (v5 / label
+                  :R (v10 / label~e.10)
+                  :E (v11 / label~e.11)
+                  :C (v12 / label~e.12)
+                  :E (v13 / label
+                          :R (v17 / label~e.13)
+                          :C (v18 / label~e.14,15))
+                  :E (v14 / label
+                          :A v12
+                          :R (v19 / label~e.17)
+                          :P (v20 / label~e.19)
+                          :D (v21 / label
+                                  :R (v23 / label~e.20)
+                                  :C (v24 / label~e.21)
+                                  :R (v25 / label~e.22)
+                                  :C (v26 / label~e.23))
+                          :A (v22 / label
+                                  :R (v27 / label~e.24)
+                                  :C (v28 / label~e.25)
+                                  :E (v29 / label
+                                          :A v28
+                                          :P (v30 / label~e.26)
+                                          :A (v31 / label
+                                                  :R (v33 / label~e.27)
+                                                  :C (v34 / label~e.28)
+                                                  :E (v35 / label~e.29))
+                                          :A (v32 / label
+                                                  :R (v36 / label~e.30)
+                                                  :C (v37 / label~e.31))))))
            :A (v6 / label
                   :E (v15 / label~e.3)
-                  :C (v14 / label~e.4))
-           :D (v7 / label~e.7)
-           :S (v8 / label
-                  :E (v16 / label~e.8)
-                  :C (v17 / label~e.9))
-           :A (v9 / label
-                  :R (v18 / label~e.10)
-                  :E (v19 / label~e.11)
-                  :C (v20 / label~e.12)
-                  :E (v21 / label
-                          :R (v32 / label~e.13)
-                          :C (v33 / label~e.14,15))))
-    :L (v4 / label~e.17)
-    :H (v5 / label
-           :P (v10 / label~e.19)
-           :D (v11 / label
-                   :R (v22 / label~e.20)
-                   :C (v23 / label~e.21)
-                   :R (v24 / label~e.22)
-                   :C (v25 / label~e.23))
-           :A (v12 / label
-                   :R (v26 / label~e.24)
-                   :A (v27 / label~e.25)
-                   :P (v28 / label~e.26)
-                   :A (v29 / label
-                           :R (v34 / label~e.27)
-                           :C (v35 / label~e.28)
-                           :E (v36 / label~e.29)))
-           :A (v13 / label
-                   :R (v30 / label~e.30)
-                   :C (v31 / label~e.31))
-           :A v14))
+                  :C (v16 / label~e.4))
+           :D (v7 / label~e.7)))

@@ -1,6 +1,6 @@
 # ::id 26410002
 # ::tok It had listed that there was a hot breakfast but all this meant is that they added a waffle maker to the common continental affair at most cheap hotels .
-# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 6-1.1.4.4.1 7-1.1.4.5 8-1.1.4.4.2 9-1.2 10-1.3 11-1.3 12-1.3 15-1.4.6 16-1.4.1 17-1.4.2.1 18-1.4.2.2 19-1.4.2.3.1 20-1.4.3.1 21-1.4.3.2 22-1.4.3.3 23-1.4.3.4 24-1.4.3.5 25-1.4.3.6.1 26-1.4.3.6.2 27-1.4.3.6.3.1 28-1.4.3.6.4
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 6-1.1.4.4.1 7-1.1.4.5 8-1.1.4.4.2 9-1.2 10-1.3 11-1.3 12-1.3 15-1.4.6 16-1.4.1 17-1.4.2.1 18-1.4.2.2 19-1.4.2.3.1 20-1.4.3.1 21-1.4.3.3 22-1.4.3.4 23-1.4.3.5 24-1.4.3.6 25-1.4.3.2.1 26-1.4.3.2.2 27-1.4.3.2.3.1 28-1.4.3.2.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -23,14 +23,14 @@
                            :P (v27 / label~e.19)))
            :A (v11 / label
                    :R (v19 / label~e.20)
-                   :E (v20 / label~e.21)
-                   :E (v21 / label~e.22)
-                   :E (v22 / label~e.23)
-                   :C (v23 / label~e.24)
-                   :E (v24 / label
+                   :E (v20 / label
                            :R (v28 / label~e.25)
                            :E (v29 / label~e.26)
                            :E (v30 / label
                                    :S (v32 / label~e.27))
-                           :C (v31 / label~e.28)))
+                           :C (v31 / label~e.28))
+                   :E (v21 / label~e.21)
+                   :E (v22 / label~e.22)
+                   :E (v23 / label~e.23)
+                   :C (v24 / label~e.24))
            :A (v12 / label~e.15)))
