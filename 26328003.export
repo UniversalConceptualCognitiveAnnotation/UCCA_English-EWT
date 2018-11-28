@@ -22,19 +22,19 @@ do	Word	--	Terminal	519
 it	Word	--	Terminal	520
 too	Word	--	Terminal	521
 .	Punctuation	--	Terminal	522
-#500	FN	--	A	528
-#501	FN	--	F	528
+#500	FN	--	A	529
+#501	FN	--	F	529
 #502	FN	--	E	523
 #503	FN	--	C	523
-#504	FN	--	A	528
+#504	FN	--	C	528	A*	524
 #505	FN	--	R	524
 #506	FN	--	A	524
 #507	FN	--	F	524
 #508	FN	--	D	524
 #509	FN	--	P	524
-#510	FN	--	L	530
-#511	FN	--	A	529
-#512	FN	--	P	529
+#510	FN	--	L	531
+#511	FN	--	A	530
+#512	FN	--	P	530
 #513	FN	--	E	526
 #514	FN	--	S	525
 #515	FN	--	C	526	A*	525
@@ -45,12 +45,13 @@ too	Word	--	Terminal	521
 #520	FN	--	A	527
 #521	FN	--	D	527
 #522	PNCT	--	U	527
-#523	FN	--	S	528
-#524	FN	--	A	528
+#523	FN	--	S	529
+#524	FN	--	E	528
 #525	FN	--	E	526
-#526	FN	--	A	529
-#527	FN	--	A	529
-#528	FN	--	H	530
-#529	FN	--	H	530
-#530	FN	--	--	0
+#526	FN	--	A	530
+#527	FN	--	A	530
+#528	FN	--	A	529
+#529	FN	--	H	531
+#530	FN	--	H	531
+#531	FN	--	--	0
 #EOS 26328003
