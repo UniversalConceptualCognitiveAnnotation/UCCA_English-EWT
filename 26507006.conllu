@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 26507006
 # text = I gave the woman I spoke with today a " You 've been yelped ! " card to let her know that Yelp may be a good tool for helping spreading the word about Papeluna .
-1	I	_	Word	Word	_	2	A	2:A|21:A	_
+1	I	_	Word	Word	_	2	A	2:A|19:A	_
 2	gave	_	Word	Word	_	0	H	0:H	_
 3	the	_	Word	Word	_	4	E	4:E	_
 4	woman	_	Word	Word	_	2	A	2:A	_
@@ -19,16 +19,16 @@
 16	"	_	Punctuation	Punctuation	_	17	U	17:U	_
 17	card	_	Word	Word	_	2	A	2:A	_
 18	to	_	Word	Word	_	2	L	2:L	_
-19	let	_	Word	Word	_	21	D	21:D	_
-20	her	_	Word	Word	_	21	A	21:A	_
-21	know	_	Word	Word	_	2	H	2:H	_
+19	let	_	Word	Word	_	2	H	2:H	_
+20	her	_	Word	Word	_	19	A	19:A	_
+21	know	_	Word	Word	_	19	Terminal	19:Terminal	_
 22	that	_	Word	Word	_	28	R	28:R	_
 23	Yelp	_	Word	Word	_	28	A	28:A|31:A	_
 24	may	_	Word	Word	_	28	D	28:D	_
 25	be	_	Word	Word	_	28	F	28:F	_
 26	a	_	Word	Word	_	28	E	28:E	_
 27	good	_	Word	Word	_	28	E	28:E	_
-28	tool	_	Word	Word	_	21	A	21:A	_
+28	tool	_	Word	Word	_	19	A	19:A	_
 29	for	_	Word	Word	_	2	L	2:L	_
 30	helping	_	Word	Word	_	31	D	31:D	_
 31	spreading	_	Word	Word	_	2	H	2:H	_
