@@ -1,5 +1,5 @@
 # format = ucca
-1	They	_	Word	-	-	_	A	_	A*	A*	A*	_
+1	They	_	Word	-	-	_	A	_	A*	_	A*	_
 2	told	_	Word	-	+	_	_	_	_	_	_	_
 3	me	_	Word	-	-	_	A	_	_	_	_	_
 4	that	_	Word	-	-	_	_	R	_	_	_	_
@@ -9,14 +9,14 @@
 8	under	_	Word	-	-	_	_	F	_	_	_	_
 9	warranty	_	Word	-	+	_	A	_	_	_	_	_
 10	and	_	Word	-	-	_	L	_	_	_	_	_
-11	want	_	Word	-	+	_	H	_	_	_	_	_
-12	to	_	Word	-	-	_	_	_	_	F	_	_
-13	charge	_	Word	-	+	_	_	_	A	_	_	_
-14	me	_	Word	-	-	_	_	_	_	A	_	_
-15	$	_	Punctuation	-	-	_	_	_	_	U	_	_
-16	175	_	Word	-	-	_	_	_	_	A	_	_
-17	just	_	Word	-	-	_	_	_	_	_	D	_
-18	to	_	Word	-	-	_	_	_	_	_	F	_
+11	want	_	Word	-	-	_	_	_	D	_	_	_
+12	to	_	Word	-	-	_	_	_	F	_	_	_
+13	charge	_	Word	-	+	_	H	_	_	_	_	_
+14	me	_	Word	-	-	_	_	_	A	_	_	_
+15	$	_	Punctuation	-	-	_	_	_	U	_	_	_
+16	175	_	Word	-	-	_	_	_	A	_	_	_
+17	just	_	Word	-	-	_	_	_	_	E	_	_
+18	to	_	Word	-	+	_	L	_	_	_	_	_
 19	diagnose	_	Word	-	+	_	H	_	_	_	_	_
 20	the	_	Word	-	-	_	_	_	_	_	_	E
 21	problem	_	Word	-	+	_	_	_	_	_	A	_
