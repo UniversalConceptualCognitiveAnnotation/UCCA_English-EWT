@@ -1,11 +1,11 @@
 # ::id 26320004
 # ::tok There was not a customer to be found .
-# ::alignments 2-1.1.5 3-1.1.6.1 4-1.1.6.2 7-1.1.1
+# ::alignments 2-1.1.4 3-1.1.5.1 4-1.1.5.2 7-1.1.8
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :P (v3 / label~e.7)
-           :D (v4 / label~e.2)
-           :A (v5 / label
+           :D (v3 / label~e.2)
+           :A (v4 / label
                   :E (v6 / label~e.3)
-                  :C (v7 / label~e.4))))
+                  :C (v7 / label~e.4))
+           :P (v5 / label~e.7)))

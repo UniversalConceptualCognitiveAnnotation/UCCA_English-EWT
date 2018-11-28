@@ -1,6 +1,6 @@
 # ::id 26666000
 # ::tok Friendliest place I have ever stayed !
-# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2.5 4-1.1.2.2.1 5-1.1.2.2.2
+# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2.4 4-1.1.2.2.6 5-1.1.2.2.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -8,7 +8,7 @@
            :A (v4 / label
                   :C (v5 / label~e.1)
                   :E (v6 / label
-                         :T (v7 / label~e.4)
-                         :P (v8 / label~e.5)
+                         :P (v7 / label~e.5)
                          :A v5
-                         :A (v9 / label~e.2)))))
+                         :A (v8 / label~e.2)
+                         :T (v9 / label~e.4)))))
