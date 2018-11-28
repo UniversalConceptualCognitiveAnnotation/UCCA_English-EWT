@@ -157,10 +157,10 @@
       <edge toID="1.4" type="H">
         <attributes />
       </edge>
-      <edge toID="1.5" type="L">
+      <edge toID="1.6" type="L">
         <attributes />
       </edge>
-      <edge toID="1.6" type="H">
+      <edge toID="1.7" type="H">
         <attributes />
       </edge>
       <edge toID="1.45" type="U">
@@ -209,13 +209,13 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.5" type="FN">
+    <node ID="1.6" type="FN">
       <attributes />
       <edge toID="0.18" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.6" type="FN">
+    <node ID="1.7" type="FN">
       <attributes />
       <edge toID="1.9" type="T">
         <attributes />
@@ -337,7 +337,9 @@
     </node>
     <node ID="1.20" type="FN">
       <attributes />
-      <extra remarks="I added P. for C scene do I also need remote P?" />
+      <edge toID="1.22" type="A">
+        <attributes remote="True" />
+      </edge>
       <edge toID="1.24" type="P">
         <attributes />
       </edge>

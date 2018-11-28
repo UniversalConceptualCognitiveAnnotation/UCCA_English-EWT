@@ -166,13 +166,14 @@
     </node>
     <node ID="1.14" type="FN">
       <attributes />
-      <edge toID="1.17" type="A">
+      <extra remarks="Post review correction" />
+      <edge toID="1.17" type="E">
         <attributes />
       </edge>
-      <edge toID="1.18" type="A">
+      <edge toID="1.18" type="C">
         <attributes />
       </edge>
-      <edge toID="1.19" type="P">
+      <edge toID="1.19" type="E">
         <attributes />
       </edge>
     </node>
@@ -190,34 +191,37 @@
     </node>
     <node ID="1.17" type="FN">
       <attributes />
-      <edge toID="1.20" type="E">
-        <attributes />
-      </edge>
-      <edge toID="1.21" type="C">
+      <edge toID="0.1" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.18" type="FN">
       <attributes />
-      <edge toID="0.3" type="Terminal">
+      <edge toID="0.2" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.19" type="FN">
       <attributes />
-      <edge toID="0.4" type="Terminal">
+      <edge toID="1.18" type="A">
+        <attributes remote="True" />
+      </edge>
+      <edge toID="1.20" type="A">
+        <attributes />
+      </edge>
+      <edge toID="1.21" type="P">
         <attributes />
       </edge>
     </node>
     <node ID="1.20" type="FN">
       <attributes />
-      <edge toID="0.1" type="Terminal">
+      <edge toID="0.3" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.21" type="FN">
       <attributes />
-      <edge toID="0.2" type="Terminal">
+      <edge toID="0.4" type="Terminal">
         <attributes />
       </edge>
     </node>

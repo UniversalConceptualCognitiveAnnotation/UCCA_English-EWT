@@ -195,13 +195,13 @@
       <edge toID="1.10" type="A">
         <attributes remote="True" />
       </edge>
-      <edge toID="1.21" type="P">
+      <edge toID="1.20" type="P">
         <attributes />
       </edge>
-      <edge toID="1.22" type="D">
+      <edge toID="1.21" type="D">
         <attributes />
       </edge>
-      <edge toID="1.23" type="A">
+      <edge toID="1.22" type="A">
         <attributes />
       </edge>
       <edge toID="1.24" type="Q">
@@ -222,41 +222,41 @@
       <edge toID="1.10" type="A">
         <attributes remote="True" />
       </edge>
-      <edge toID="1.17" type="P">
+      <edge toID="1.16" type="P">
         <attributes />
       </edge>
-      <edge toID="1.18" type="A">
+      <edge toID="1.17" type="A">
         <attributes />
       </edge>
     </node>
-    <node ID="1.17" type="FN">
+    <node ID="1.16" type="FN">
       <attributes />
       <edge toID="0.15" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.18" type="FN">
+    <node ID="1.17" type="FN">
       <attributes />
-      <edge toID="1.19" type="R">
+      <edge toID="1.18" type="R">
         <attributes />
       </edge>
-      <edge toID="1.20" type="C">
+      <edge toID="1.19" type="C">
         <attributes />
       </edge>
     </node>
-    <node ID="1.19" type="FN">
+    <node ID="1.18" type="FN">
       <attributes />
       <edge toID="0.16" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.20" type="FN">
+    <node ID="1.19" type="FN">
       <attributes />
       <edge toID="0.17" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.21" type="FN">
+    <node ID="1.20" type="FN">
       <attributes />
       <edge toID="1.33" type="E">
         <attributes />
@@ -265,13 +265,13 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.22" type="FN">
+    <node ID="1.21" type="FN">
       <attributes />
       <edge toID="0.4" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.23" type="FN">
+    <node ID="1.22" type="FN">
       <attributes />
       <edge toID="1.29" type="R">
         <attributes />

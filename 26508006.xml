@@ -209,25 +209,25 @@
     </node>
     <node ID="1.14" type="FN">
       <attributes />
-      <edge toID="1.15" type="E">
-        <attributes />
-      </edge>
-      <edge toID="1.16" type="C">
+      <edge toID="1.15" type="P">
         <attributes />
       </edge>
     </node>
     <node ID="1.15" type="FN">
       <attributes />
-      <edge toID="0.19" type="Terminal">
+      <edge toID="1.16" type="E">
+        <attributes />
+      </edge>
+      <edge toID="1.17" type="C">
+        <attributes />
+      </edge>
+      <edge toID="1.31" type="U">
         <attributes />
       </edge>
     </node>
     <node ID="1.16" type="FN">
       <attributes />
-      <edge toID="1.17" type="P">
-        <attributes />
-      </edge>
-      <edge toID="1.31" type="U">
+      <edge toID="0.19" type="Terminal">
         <attributes />
       </edge>
     </node>

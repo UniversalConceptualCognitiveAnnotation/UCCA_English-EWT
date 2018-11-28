@@ -38,41 +38,41 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
-      <edge toID="1.3" type="A">
+      <edge toID="1.4" type="A">
         <attributes />
       </edge>
-      <edge toID="1.4" type="S">
+      <edge toID="1.5" type="S">
         <attributes />
       </edge>
-      <edge toID="1.5" type="A">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.3" type="FN">
-      <attributes />
-      <edge toID="0.1" type="Terminal">
+      <edge toID="1.6" type="A">
         <attributes />
       </edge>
     </node>
     <node ID="1.4" type="FN">
       <attributes />
-      <edge toID="0.2" type="Terminal">
+      <edge toID="0.1" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.5" type="FN">
       <attributes />
-      <edge toID="1.6" type="A">
+      <edge toID="0.2" type="Terminal">
         <attributes />
       </edge>
-      <edge toID="1.7" type="P">
+    </node>
+    <node ID="1.6" type="FN">
+      <attributes />
+      <edge toID="1.7" type="A">
+        <attributes />
+      </edge>
+      <edge toID="1.8" type="P">
         <attributes />
       </edge>
       <edge toID="1.12" type="U">
         <attributes />
       </edge>
     </node>
-    <node ID="1.6" type="FN">
+    <node ID="1.7" type="FN">
       <attributes />
       <edge toID="1.9" type="E">
         <attributes />
@@ -81,7 +81,7 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.7" type="FN">
+    <node ID="1.8" type="FN">
       <attributes />
       <extra remarks="&quot;BACK&quot; is standing in for &quot;returned&quot;" />
       <edge toID="0.5" type="Terminal">

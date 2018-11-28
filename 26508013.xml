@@ -203,7 +203,7 @@
     </node>
     <node ID="1.17" type="FN">
       <attributes />
-      <extra remarks="to my understanding, Dotan said it was okay to do this, in order to mark the &quot;also&quot; as a linker" />
+      <extra remarks="to my understanding, Dotan said it was okay to do this, in order to mark the &quot;also&quot; as a linker&#10;&#10;Dotan: Right, this is what we said then, it might change soon, but for now it's good. &#10;Changed &quot;going&quot; to D (instead of F)" />
       <edge toID="1.18" type="H">
         <attributes />
       </edge>
@@ -219,7 +219,7 @@
       <edge toID="1.21" type="F">
         <attributes />
       </edge>
-      <edge toID="1.22" type="F">
+      <edge toID="1.22" type="D">
         <attributes />
       </edge>
       <edge toID="1.23" type="F">
