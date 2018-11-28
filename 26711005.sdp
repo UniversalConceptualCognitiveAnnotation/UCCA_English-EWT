@@ -1,35 +1,35 @@
 # format = ucca
-1	In	_	Word	-	+	_	_	_	L	_	_	_	_	_	_	_
-2	addition	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_
-3	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_
-4	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_
-5	clothing	_	Word	-	+	_	_	_	_	_	_	A*	_	_	_	_
-6	is	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_
-7	of	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_
-8	much	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_
-9	better	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
-10	quality	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-11	than	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
-12	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_
-13	clothing	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
-14	from	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_
-15	hot	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_
-16	topic	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_
-17	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_
-18	which	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_
-19	is	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_
-20	made	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_
-21	as	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
-22	cheaply	_	Word	-	+	_	_	_	_	_	_	D	_	_	_	_
-23	as	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
-24	possible	_	Word	-	-	_	_	_	_	_	_	_	C	_	_	_
-25	by	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
-26	people	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_
-27	living	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
-28	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
-29	horrible	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
-30	conditions	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
-31	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
-32	Asia	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
-33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+1	In	_	Word	-	+	_	_	_	L	_	_	_	_	_	_	_	_
+2	addition	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
+4	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
+5	clothing	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
+6	is	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_
+7	of	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_
+8	much	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_
+9	better	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
+10	quality	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+11	than	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
+12	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
+13	clothing	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
+14	from	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
+15	hot	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_
+16	topic	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_
+17	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
+18	which	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
+19	is	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_
+20	made	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_
+21	as	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_
+22	cheaply	_	Word	-	+	_	_	_	_	_	_	D	_	_	_	_	_
+23	as	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_
+24	possible	_	Word	-	-	_	_	_	_	_	_	_	C	_	_	_	_
+25	by	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
+26	people	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
+27	living	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_
+28	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
+29	horrible	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
+30	conditions	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
+31	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
+32	Asia	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
+33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 
