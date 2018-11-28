@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 26507006
 1	I	_	Word	Word	_	2	A	_	_
-1	I	_	Word	Word	_	21	A*	_	_
+1	I	_	Word	Word	_	19	A*	_	_
 2	gave	_	Word	Word	_	0	H	_	_
 3	the	_	Word	Word	_	4	E	_	_
 4	woman	_	Word	Word	_	2	A	_	_
@@ -19,9 +19,9 @@
 16	"	_	Punctuation	Punctuation	_	17	U	_	_
 17	card	_	Word	Word	_	2	A	_	_
 18	to	_	Word	Word	_	2	L	_	_
-19	let	_	Word	Word	_	21	D	_	_
-20	her	_	Word	Word	_	21	A	_	_
-21	know	_	Word	Word	_	2	H	_	_
+19	let	_	Word	Word	_	2	H	_	_
+20	her	_	Word	Word	_	19	A	_	_
+21	know	_	Word	Word	_	19	Terminal	_	_
 22	that	_	Word	Word	_	28	R	_	_
 23	Yelp	_	Word	Word	_	28	A	_	_
 23	Yelp	_	Word	Word	_	31	A*	_	_
@@ -29,7 +29,7 @@
 25	be	_	Word	Word	_	28	F	_	_
 26	a	_	Word	Word	_	28	E	_	_
 27	good	_	Word	Word	_	28	E	_	_
-28	tool	_	Word	Word	_	21	A	_	_
+28	tool	_	Word	Word	_	19	A	_	_
 29	for	_	Word	Word	_	2	L	_	_
 30	helping	_	Word	Word	_	31	D	_	_
 31	spreading	_	Word	Word	_	2	H	_	_
