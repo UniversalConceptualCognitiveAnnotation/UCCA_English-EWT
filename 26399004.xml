@@ -187,10 +187,16 @@
       <edge toID="1.2" type="L">
         <attributes />
       </edge>
-      <edge toID="1.4" type="L">
+      <edge toID="1.3" type="L">
+        <attributes />
+      </edge>
+      <edge toID="1.4" type="H">
         <attributes />
       </edge>
       <edge toID="1.5" type="H">
+        <attributes />
+      </edge>
+      <edge toID="1.6" type="L">
         <attributes />
       </edge>
       <edge toID="1.7" type="H">
@@ -202,25 +208,19 @@
       <edge toID="1.9" type="H">
         <attributes />
       </edge>
-      <edge toID="1.11" type="L">
+      <edge toID="1.10" type="H">
         <attributes />
       </edge>
-      <edge toID="1.12" type="H">
+      <edge toID="1.56" type="U">
         <attributes />
       </edge>
-      <edge toID="1.14" type="H">
+      <edge toID="1.57" type="U">
         <attributes />
       </edge>
-      <edge toID="1.55" type="U">
+      <edge toID="1.67" type="U">
         <attributes />
       </edge>
-      <edge toID="1.65" type="U">
-        <attributes />
-      </edge>
-      <edge toID="1.68" type="U">
-        <attributes />
-      </edge>
-      <edge toID="1.70" type="U">
+      <edge toID="1.69" type="U">
         <attributes />
       </edge>
     </node>
@@ -230,13 +230,13 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.4" type="FN">
+    <node ID="1.3" type="FN">
       <attributes />
       <edge toID="0.3" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.5" type="FN">
+    <node ID="1.4" type="FN">
       <attributes />
       <edge toID="1.61" type="A">
         <attributes />
@@ -251,7 +251,7 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.7" type="FN">
+    <node ID="1.5" type="FN">
       <attributes />
       <extra remarks="I have played around with this a bit. the kicker is that using &quot;both&quot; is not grammatically accurate here, since what's being referred to is more than 2 items. thus I think it's more emphatic and can pass for G. it doesn't truly elaborate the latter Centers&#10;Dotan: Yes its a indeed a mistake, but since it does refer to &quot;region, varietal and vintage&quot;, I think it should still be included in the A and marked Q since the intention was to denote these three concepts as a group." />
       <edge toID="1.46" type="A">
@@ -264,13 +264,13 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.8" type="FN">
+    <node ID="1.6" type="FN">
       <attributes />
       <edge toID="0.21" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.9" type="FN">
+    <node ID="1.7" type="FN">
       <attributes />
       <edge toID="1.39" type="P">
         <attributes />
@@ -282,13 +282,13 @@
         <attributes remote="True" />
       </edge>
     </node>
-    <node ID="1.11" type="FN">
+    <node ID="1.8" type="FN">
       <attributes />
       <edge toID="0.27" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.12" type="FN">
+    <node ID="1.9" type="FN">
       <attributes />
       <extra remarks="think something needs to be done with the participant" />
       <edge toID="1.24" type="A">
@@ -297,20 +297,20 @@
       <edge toID="1.25" type="T">
         <attributes />
       </edge>
-      <edge toID="1.27" type="P">
+      <edge toID="1.26" type="P">
+        <attributes />
+      </edge>
+      <edge toID="1.27" type="A">
         <attributes />
       </edge>
       <edge toID="1.28" type="A">
         <attributes />
       </edge>
-      <edge toID="1.29" type="A">
-        <attributes />
-      </edge>
-      <edge toID="1.69" type="U">
+      <edge toID="1.68" type="U">
         <attributes />
       </edge>
     </node>
-    <node ID="1.14" type="FN">
+    <node ID="1.10" type="FN">
       <attributes />
       <edge toID="1.18" type="D">
         <attributes />
@@ -333,13 +333,13 @@
       <edge toID="1.21" type="C">
         <attributes />
       </edge>
+      <edge toID="1.70" type="U">
+        <attributes />
+      </edge>
       <edge toID="1.71" type="U">
         <attributes />
       </edge>
       <edge toID="1.72" type="U">
-        <attributes />
-      </edge>
-      <edge toID="1.73" type="U">
         <attributes />
       </edge>
     </node>
@@ -383,13 +383,13 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.27" type="FN">
+    <node ID="1.26" type="FN">
       <attributes />
       <edge toID="0.32" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.28" type="FN">
+    <node ID="1.27" type="FN">
       <attributes />
       <extra remarks="I think that maybe &quot;your own&quot; shouldn't be separated..?" />
       <edge toID="1.32" type="E">
@@ -402,7 +402,7 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.29" type="FN">
+    <node ID="1.28" type="FN">
       <attributes />
       <edge toID="1.30" type="R">
         <attributes />
@@ -563,19 +563,19 @@
       <edge toID="1.52" type="C">
         <attributes />
       </edge>
-      <edge toID="1.54" type="C">
+      <edge toID="1.53" type="C">
         <attributes />
       </edge>
-      <edge toID="1.56" type="N">
+      <edge toID="1.54" type="N">
         <attributes />
       </edge>
-      <edge toID="1.57" type="C">
+      <edge toID="1.55" type="C">
+        <attributes />
+      </edge>
+      <edge toID="1.65" type="U">
         <attributes />
       </edge>
       <edge toID="1.66" type="U">
-        <attributes />
-      </edge>
-      <edge toID="1.67" type="U">
         <attributes />
       </edge>
     </node>
@@ -585,27 +585,33 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.54" type="FN">
+    <node ID="1.53" type="FN">
       <attributes />
       <edge toID="0.17" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.55" type="PNCT">
-      <attributes />
-      <edge toID="0.2" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.56" type="FN">
+    <node ID="1.54" type="FN">
       <attributes />
       <edge toID="0.19" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.57" type="FN">
+    <node ID="1.55" type="FN">
       <attributes />
       <edge toID="0.20" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.56" type="PNCT">
+      <attributes />
+      <edge toID="0.2" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.57" type="PNCT">
+      <attributes />
+      <edge toID="0.8" type="Terminal">
         <attributes />
       </edge>
     </node>
@@ -653,53 +659,47 @@
     </node>
     <node ID="1.65" type="PNCT">
       <attributes />
-      <edge toID="0.8" type="Terminal">
+      <edge toID="0.16" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.66" type="PNCT">
       <attributes />
-      <edge toID="0.16" type="Terminal">
+      <edge toID="0.18" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.67" type="PNCT">
       <attributes />
-      <edge toID="0.18" type="Terminal">
+      <edge toID="0.26" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.68" type="PNCT">
       <attributes />
-      <edge toID="0.26" type="Terminal">
+      <edge toID="0.31" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.69" type="PNCT">
       <attributes />
-      <edge toID="0.31" type="Terminal">
+      <edge toID="0.38" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.70" type="PNCT">
       <attributes />
-      <edge toID="0.38" type="Terminal">
+      <edge toID="0.42" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.71" type="PNCT">
       <attributes />
-      <edge toID="0.42" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.72" type="PNCT">
-      <attributes />
       <edge toID="0.43" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.73" type="PNCT">
+    <node ID="1.72" type="PNCT">
       <attributes />
       <edge toID="0.44" type="Terminal">
         <attributes />

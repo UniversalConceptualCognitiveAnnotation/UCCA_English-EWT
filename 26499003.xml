@@ -83,47 +83,53 @@
     </node>
     <node ID="1.7" type="FN">
       <attributes />
-      <edge toID="1.9" type="E">
+      <edge toID="1.8" type="E">
         <attributes />
       </edge>
-      <edge toID="1.14" type="E">
+      <edge toID="1.9" type="C">
         <attributes />
       </edge>
-      <edge toID="1.15" type="C">
+      <edge toID="1.10" type="E">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.8" type="FN">
+      <attributes />
+      <edge toID="0.4" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.9" type="FN">
       <attributes />
-      <edge toID="1.10" type="R">
+      <edge toID="0.5" type="Terminal">
         <attributes />
       </edge>
-      <edge toID="1.11" type="C">
+    </node>
+    <node ID="1.10" type="FN">
+      <attributes />
+      <edge toID="1.11" type="R">
+        <attributes />
+      </edge>
+      <edge toID="1.12" type="C">
         <attributes />
       </edge>
       <edge toID="1.13" type="U">
         <attributes />
       </edge>
     </node>
-    <node ID="1.10" type="FN">
+    <node ID="1.11" type="FN">
       <attributes />
       <edge toID="0.6" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.11" type="FN">
-      <attributes />
-      <extra remarks="cannot code $ &#10;also, should this be:&#10;&#10; for_S [$_C 483.00_Q]_A  ?&#10;&#10;since prices are now A? " />
-      <edge toID="1.12" type="Q">
-        <attributes />
-      </edge>
-      <edge toID="1.16" type="U">
-        <attributes />
-      </edge>
-    </node>
     <node ID="1.12" type="FN">
       <attributes />
-      <edge toID="0.8" type="Terminal">
+      <extra remarks="cannot code $ &#10;also, should this be:&#10;&#10; for_S [$_C 483.00_Q]_A  ?&#10;&#10;since prices are now A? " />
+      <edge toID="1.14" type="Q">
+        <attributes />
+      </edge>
+      <edge toID="1.15" type="U">
         <attributes />
       </edge>
     </node>
@@ -135,17 +141,11 @@
     </node>
     <node ID="1.14" type="FN">
       <attributes />
-      <edge toID="0.4" type="Terminal">
+      <edge toID="0.8" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.15" type="FN">
-      <attributes />
-      <edge toID="0.5" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.16" type="PNCT">
+    <node ID="1.15" type="PNCT">
       <attributes />
       <edge toID="0.9" type="Terminal">
         <attributes />

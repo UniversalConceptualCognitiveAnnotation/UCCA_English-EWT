@@ -111,13 +111,13 @@
       <edge toID="1.2" type="H">
         <attributes />
       </edge>
-      <edge toID="1.4" type="L">
+      <edge toID="1.3" type="L">
+        <attributes />
+      </edge>
+      <edge toID="1.4" type="H">
         <attributes />
       </edge>
       <edge toID="1.5" type="H">
-        <attributes />
-      </edge>
-      <edge toID="1.7" type="H">
         <attributes />
       </edge>
       <edge toID="1.35" type="U">
@@ -142,13 +142,13 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.4" type="FN">
+    <node ID="1.3" type="FN">
       <attributes />
       <edge toID="0.8" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.5" type="FN">
+    <node ID="1.4" type="FN">
       <attributes />
       <edge toID="1.21" type="A">
         <attributes />
@@ -163,7 +163,7 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.7" type="FN">
+    <node ID="1.5" type="FN">
       <attributes />
       <extra remarks="&quot;kind of like&quot; isn't clear.&#10;&#10;I don't have  a clear suggestion of an alternative to offer (and what to do with &quot;kind of like&quot;) that I'm leaving it as is, with &quot;like&quot; as the State" />
       <edge toID="1.10" type="F">

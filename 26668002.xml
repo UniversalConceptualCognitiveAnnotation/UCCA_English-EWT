@@ -117,19 +117,19 @@
       <edge toID="1.4" type="A">
         <attributes />
       </edge>
-      <edge toID="1.6" type="F">
+      <edge toID="1.5" type="F">
+        <attributes />
+      </edge>
+      <edge toID="1.6" type="D">
         <attributes />
       </edge>
       <edge toID="1.7" type="D">
         <attributes />
       </edge>
-      <edge toID="1.8" type="D">
+      <edge toID="1.8" type="S">
         <attributes />
       </edge>
-      <edge toID="1.9" type="S">
-        <attributes />
-      </edge>
-      <edge toID="1.10" type="A">
+      <edge toID="1.9" type="A">
         <attributes />
       </edge>
       <edge toID="1.37" type="U">
@@ -150,26 +150,26 @@
       <edge toID="1.22" type="E">
         <attributes />
       </edge>
-      <edge toID="1.24" type="E">
+      <edge toID="1.23" type="E">
         <attributes />
       </edge>
       <edge toID="1.36" type="U">
         <attributes />
       </edge>
     </node>
-    <node ID="1.6" type="FN">
+    <node ID="1.5" type="FN">
       <attributes />
       <edge toID="0.15" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.7" type="FN">
+    <node ID="1.6" type="FN">
       <attributes />
       <edge toID="0.16" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.8" type="FN">
+    <node ID="1.7" type="FN">
       <attributes />
       <edge toID="1.17" type="E">
         <attributes />
@@ -178,13 +178,13 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.9" type="FN">
+    <node ID="1.8" type="FN">
       <attributes />
       <edge toID="0.19" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.10" type="FN">
+    <node ID="1.9" type="FN">
       <attributes />
       <edge toID="1.11" type="C">
         <attributes />
@@ -289,7 +289,7 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.24" type="FN">
+    <node ID="1.23" type="FN">
       <attributes />
       <edge toID="1.25" type="A">
         <attributes />
