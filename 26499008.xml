@@ -337,7 +337,9 @@
     </node>
     <node ID="1.20" type="FN">
       <attributes />
-      <extra remarks="I added P. for C scene do I also need remote P?" />
+      <edge toID="1.22" type="A">
+        <attributes remote="True" />
+      </edge>
       <edge toID="1.24" type="P">
         <attributes />
       </edge>

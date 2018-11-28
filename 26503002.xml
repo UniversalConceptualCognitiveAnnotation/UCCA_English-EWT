@@ -134,7 +134,13 @@
       <edge toID="1.9" type="A">
         <attributes />
       </edge>
+      <edge toID="1.12" type="A">
+        <attributes remote="True" />
+      </edge>
       <edge toID="1.13" type="A">
+        <attributes remote="True" />
+      </edge>
+      <edge toID="1.15" type="A">
         <attributes remote="True" />
       </edge>
     </node>

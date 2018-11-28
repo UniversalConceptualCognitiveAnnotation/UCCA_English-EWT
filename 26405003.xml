@@ -148,7 +148,7 @@
       <edge toID="1.13" type="A">
         <attributes />
       </edge>
-      <edge toID="1.14" type="R">
+      <edge toID="1.14" type="F">
         <attributes />
       </edge>
       <edge toID="1.15" type="D">
@@ -181,16 +181,15 @@
     </node>
     <node ID="1.13" type="FN">
       <attributes />
-      <edge toID="1.17" type="E">
+      <edge toID="1.17" type="C">
         <attributes />
       </edge>
-      <edge toID="1.18" type="C">
+      <edge toID="1.18" type="E">
         <attributes />
       </edge>
     </node>
     <node ID="1.14" type="FN">
       <attributes />
-      <extra remarks="maybe it should be R" />
       <edge toID="0.14" type="Terminal">
         <attributes />
       </edge>

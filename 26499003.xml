@@ -125,6 +125,7 @@
     </node>
     <node ID="1.12" type="FN">
       <attributes />
+      <extra remarks="cannot code $ &#10;also, should this be:&#10;&#10; for_S [$_C 483.00_Q]_A  ?&#10;&#10;since prices are now A? " />
       <edge toID="1.14" type="E">
         <attributes />
       </edge>
@@ -140,7 +141,6 @@
     </node>
     <node ID="1.14" type="FN">
       <attributes />
-      <extra remarks="cannot code $ &#10;also, should this be:&#10;&#10; for_S [$_C 483.00_Q]_A  ?&#10;&#10;since prices are now A? " />
       <edge toID="0.8" type="Terminal">
         <attributes />
       </edge>

@@ -745,10 +745,7 @@
     </node>
     <node ID="1.68" type="FN">
       <attributes />
-      <edge toID="1.66" type="A">
-        <attributes remote="True" />
-      </edge>
-      <edge toID="1.72" type="R">
+      <edge toID="1.72" type="F">
         <attributes />
       </edge>
       <edge toID="1.73" type="P">

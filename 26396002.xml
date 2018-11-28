@@ -96,29 +96,26 @@
     </node>
     <node ID="1.6" type="FN">
       <attributes />
-      <extra remarks="do you also think these could be parallel scenes?... or that 10 times more should be a scene unto itself, " />
-      <edge toID="1.7" type="H">
+      <extra remarks="do you also think these could be parallel scenes?... or that 10 times more should be a scene unto itself, &#10;Post review correction" />
+      <edge toID="1.7" type="C">
         <attributes />
       </edge>
-      <edge toID="1.8" type="L">
+      <edge toID="1.8" type="N">
         <attributes />
       </edge>
-      <edge toID="1.9" type="H">
+      <edge toID="1.9" type="C">
         <attributes />
       </edge>
     </node>
     <node ID="1.7" type="FN">
       <attributes />
-      <edge toID="1.15" type="A">
+      <edge toID="1.14" type="C">
         <attributes />
       </edge>
-      <edge toID="1.16" type="F">
+      <edge toID="1.15" type="E">
         <attributes />
       </edge>
-      <edge toID="1.17" type="A">
-        <attributes />
-      </edge>
-      <edge toID="1.18" type="P">
+      <edge toID="1.16" type="E">
         <attributes />
       </edge>
     </node>
@@ -130,24 +127,17 @@
     </node>
     <node ID="1.9" type="FN">
       <attributes />
-      <extra remarks="would need a Remote aDverbial to negate the asking (they didn't ask for 10 times more, but they received it anyway)" />
-      <edge toID="1.10" type="D">
+      <edge toID="1.10" type="E">
         <attributes />
       </edge>
-      <edge toID="1.11" type="A">
+      <edge toID="1.11" type="C">
         <attributes />
       </edge>
-      <edge toID="1.17" type="A">
-        <attributes remote="True" />
-      </edge>
-      <edge toID="1.18" type="P">
-        <attributes remote="True" />
+      <edge toID="1.23" type="U">
+        <attributes />
       </edge>
     </node>
     <node ID="1.10" type="FN">
-      <attributes implicit="True" />
-    </node>
-    <node ID="1.11" type="FN">
       <attributes />
       <edge toID="1.12" type="E">
         <attributes />
@@ -155,10 +145,10 @@
       <edge toID="1.13" type="C">
         <attributes />
       </edge>
-      <edge toID="1.14" type="C">
-        <attributes />
-      </edge>
-      <edge toID="1.23" type="U">
+    </node>
+    <node ID="1.11" type="FN">
+      <attributes />
+      <edge toID="0.12" type="Terminal">
         <attributes />
       </edge>
     </node>
@@ -175,39 +165,41 @@
       </edge>
     </node>
     <node ID="1.14" type="FN">
-      <attributes />
-      <edge toID="0.12" type="Terminal">
-        <attributes />
-      </edge>
+      <attributes implicit="True" />
     </node>
     <node ID="1.15" type="FN">
       <attributes />
-      <edge toID="1.19" type="E">
+      <edge toID="0.5" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.16" type="FN">
       <attributes />
-      <edge toID="0.6" type="Terminal">
+      <edge toID="1.17" type="R">
+        <attributes />
+      </edge>
+      <edge toID="1.18" type="A">
+        <attributes />
+      </edge>
+      <edge toID="1.19" type="P">
         <attributes />
       </edge>
     </node>
     <node ID="1.17" type="FN">
       <attributes />
-      <edge toID="0.7" type="Terminal">
+      <edge toID="0.6" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.18" type="FN">
       <attributes />
-      <edge toID="0.8" type="Terminal">
+      <edge toID="0.7" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.19" type="FN">
       <attributes />
-      <extra remarks="added" />
-      <edge toID="0.5" type="Terminal">
+      <edge toID="0.8" type="Terminal">
         <attributes />
       </edge>
     </node>

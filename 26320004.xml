@@ -50,8 +50,8 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
-      <extra remarks="Adi:&#10;&quot;there&quot; is expletive, therefore, should be marked F" />
-      <edge toID="1.3" type="A">
+      <extra remarks="the word &quot;there&quot; can be marked A or F, depending on interpretation:&#10;does &quot;there&quot; refer to a specific location (i.e. the restaurant); or&#10;is it expletive. Note that in the latter case, there still should be a remote participant to denote the location.&#10;&#10;" />
+      <edge toID="1.3" type="F">
         <attributes />
       </edge>
       <edge toID="1.4" type="F">
