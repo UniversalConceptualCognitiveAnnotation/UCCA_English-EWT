@@ -4,7 +4,8 @@ git clone -q https://github.com/UniversalDependencies/UD_English-EWT --branch=r2
 pip install -U semstr udapi
 
 # Extract all UD-annotated docs for which we also have UCCA annotations
-ls xml | sed 's/\..*/$/' | grep -f- streusle2ucca.txt | awk '/./{print "reviews-"$1}' | xargs python -m semstr.scripts.split UD_English-EWT/*.conllu -o ud --doc-ids
+ls xml | sed 's/\..*/$/' | grep -f- streusle2ucca.txt | awk '/./{print "reviews-"$1}' > ud_docids.txt
+xargs python -m semstr.scripts.split UD_English-EWT/*.conllu -o ud --doc-ids < ud_docids.txt
 
 # Rename UD files and in-file IDs to match UCCA IDs
 TOTAL=`cat streusle2ucca.txt | wc -l`
