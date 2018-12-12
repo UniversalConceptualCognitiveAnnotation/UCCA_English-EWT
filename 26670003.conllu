@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 26670003
 # text = After a train ride over the mountains , we enjoyed hiking in the flower - filled Wenatchee hills ( in May ) and a very interesting bike ride in a loop around the Columbia River ... and then wine if we wanted it on the patio in the evening ....
-1	After	_	Word	Word	_	4	L	4:L	_
+1	After	_	Word	Word	_	10	L	10:L	_
 2	a	_	Word	Word	_	4	E	4:E	_
 3	train	_	Word	Word	_	4	E	4:E	_
 4	ride	_	Word	Word	_	0	H	0:H	_
@@ -23,7 +23,7 @@
 20	in	_	Word	Word	_	21	R	21:R	_
 21	May	_	Word	Word	_	11	T	11:T	_
 22	)	_	Punctuation	Punctuation	_	4	U	4:U	_
-23	and	_	Word	Word	_	4	L	4:L	_
+23	and	_	Word	Word	_	28	L	28:L	_
 24	a	_	Word	Word	_	28	E	28:E	_
 25	very	_	Word	Word	_	26	E	26:E	_
 26	interesting	_	Word	Word	_	28	D	28:D	_
@@ -37,10 +37,10 @@
 34	Columbia	_	Word	Word	_	32	A	32:A	_
 35	River	_	Word	Word	_	34	Terminal	34:Terminal	_
 36	...	_	Punctuation	Punctuation	_	4	U	4:U	_
-37	and	_	Word	Word	_	4	L	4:L	_
+37	and	_	Word	Word	_	39	L	39:L	_
 38	then	_	Word	Word	_	37	Terminal	37:Terminal	_
 39	wine	_	Word	Word	_	4	H	4:H	_
-40	if	_	Word	Word	_	4	L	4:L	_
+40	if	_	Word	Word	_	42	L	42:L	_
 41	we	_	Word	Word	_	42	A	42:A	_
 42	wanted	_	Word	Word	_	4	H	4:H	_
 43	it	_	Word	Word	_	42	A	42:A	_
