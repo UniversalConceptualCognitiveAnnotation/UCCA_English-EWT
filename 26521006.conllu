@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 26521006
 # text = and I said , YES , CENTER CITY PHILLY , and he says , NO , Warwick is a township , If you 're at a Radison in Warwick that s too far , try dominos in Pottstown .
-1	and	_	Word	Word	_	3	L	3:L	_
+1	and	_	Word	Word	_	13	L	13:L	_
 2	I	_	Word	Word	_	3	A	3:A	_
 3	said	_	Word	Word	_	0	H	0:H	_
 4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
@@ -11,7 +11,7 @@
 8	CITY	_	Word	Word	_	9	E	9:E	_
 9	PHILLY	_	Word	Word	_	5	C	5:C	_
 10	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-11	and	_	Word	Word	_	3	L	3:L	_
+11	and	_	Word	Word	_	13	L	13:L	_
 12	he	_	Word	Word	_	13	A	13:A	_
 13	says	_	Word	Word	_	3	H	3:H	_
 14	,	_	Punctuation	Punctuation	_	13	U	13:U	_
@@ -22,7 +22,7 @@
 19	a	_	Word	Word	_	20	E	20:E	_
 20	township	_	Word	Word	_	18	A	18:A	_
 21	,	_	Punctuation	Punctuation	_	15	U	15:U	_
-22	If	_	Word	Word	_	15	L	15:L	_
+22	If	_	Word	Word	_	25	L	25:L	_
 23	you	_	Word	Word	_	25	A	25:A|35:A	_
 24	're	_	Word	Word	_	25	F	25:F	_
 25	at	_	Word	Word	_	15	H	15:H	_

@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 26513005
 # text = If I had time to drive to Tacoma before they closed during the work week , I would just so I could get those boots fixed properly again .
-1	If	_	Word	Word	_	3	L	3:L	_
+1	If	_	Word	Word	_	11	L	11:L	_
 2	I	_	Word	Word	_	3	A	3:A|6:A	_
 3	had	_	Word	Word	_	0	H	0:H	_
 4	time	_	Word	Word	_	3	A	3:A	_
@@ -9,7 +9,7 @@
 6	drive	_	Word	Word	_	0	P	0:P|17:P	_
 7	to	_	Word	Word	_	8	R	8:R	_
 8	Tacoma	_	Word	Word	_	6	A	6:A	_
-9	before	_	Word	Word	_	3	L	3:L	_
+9	before	_	Word	Word	_	11	L	11:L	_
 10	they	_	Word	Word	_	11	A	11:A	_
 11	closed	_	Word	Word	_	3	H	3:H	_
 12	during	_	Word	Word	_	11	D	11:D	_
@@ -19,7 +19,7 @@
 16	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 17	I	_	Word	Word	_	3	H	3:H	_
 18	would	_	Word	Word	_	17	D	17:D	_
-19	just	_	Word	Word	_	3	L	3:L	_
+19	just	_	Word	Word	_	26	L	26:L	_
 20	so	_	Word	Word	_	26	R	26:R	_
 21	I	_	Word	Word	_	26	A	26:A	_
 22	could	_	Word	Word	_	26	D	26:D	_

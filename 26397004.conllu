@@ -2,7 +2,7 @@
 # sent_id = 26397004
 # text = They also have the best tea I ever had , not at all like the junk you get at the grocery stores , I stock up when ever there because they are closed in the winter .
 1	They	_	Word	Word	_	3	A	3:A	_
-2	also	_	Word	Word	_	3	L	3:L	_
+2	also	_	Word	Word	_	14	L	14:L	_
 3	have	_	Word	Word	_	0	H	0:H	_
 4	the	_	Word	Word	_	5	E	5:E	_
 5	best	_	Word	Word	_	3	A	3:A	_
@@ -27,10 +27,10 @@
 24	I	_	Word	Word	_	25	A	25:A|29:A	_
 25	stock	_	Word	Word	_	3	H	3:H	_
 26	up	_	Word	Word	_	25	Terminal	25:Terminal	_
-27	when	_	Word	Word	_	3	L	3:L	_
+27	when	_	Word	Word	_	29	L	29:L	_
 28	ever	_	Word	Word	_	27	Terminal	27:Terminal	_
 29	there	_	Word	Word	_	3	H	3:H	_
-30	because	_	Word	Word	_	3	L	3:L	_
+30	because	_	Word	Word	_	33	L	33:L	_
 31	they	_	Word	Word	_	33	A	33:A	_
 32	are	_	Word	Word	_	33	F	33:F	_
 33	closed	_	Word	Word	_	3	H	3:H	_

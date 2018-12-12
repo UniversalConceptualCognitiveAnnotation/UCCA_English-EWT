@@ -7,7 +7,7 @@
 4	n't	_	Word	Word	_	5	D	5:D	_
 5	write	_	Word	Word	_	0	H	0:H	_
 6	reviews	_	Word	Word	_	5	A	5:A	_
-7	but	_	Word	Word	_	5	L	5:L	_
+7	but	_	Word	Word	_	11	L	11:L	_
 8	seeing	_	Word	Word	_	11	G	11:G	_
 9	that	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	I	_	Word	Word	_	11	A	11:A	_
@@ -30,12 +30,12 @@
 27	my	_	Word	Word	_	28	A	28:A	_
 28	business	_	Word	Word	_	5	H	5:H	_
 29	,	_	Punctuation	Punctuation	_	32	U	32:U	_
-30	nor	_	Word	Word	_	5	L	5:L|32:D	_
+30	nor	_	Word	Word	_	32	L	32:L|32:D	_
 31	my	_	Word	Word	_	32	E	32:E	_
 32	family	_	Word	Word	_	5	H	5:H	_
 33	's	_	Word	Word	_	32	E	32:E	_
 34	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-35	nor	_	Word	Word	_	5	L	5:L|37:D	_
+35	nor	_	Word	Word	_	37	L	37:L|37:D	_
 36	my	_	Word	Word	_	37	E	37:E	_
 37	co-workers	_	Word	Word	_	5	H	5:H	_
 38	.	_	Punctuation	Punctuation	_	37	U	37:U	_
