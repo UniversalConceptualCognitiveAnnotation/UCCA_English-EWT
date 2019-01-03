@@ -1,0 +1,42 @@
+#BOS 030395-0002
+Sanctuary	Word	--	Terminal	500
+serves	Word	--	Terminal	501
+delicious	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+somewhat	Word	--	Terminal	504
+healthy	Word	--	Terminal	505
+food	Word	--	Terminal	506
+in	Word	--	Terminal	507
+a	Word	--	Terminal	508
+great	Word	--	Terminal	509
+restaurant	Word	--	Terminal	510
+/	Punctuation	--	Terminal	511
+fast	Word	--	Terminal	512
+food	Word	--	Terminal	512
+style	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	A	522
+#501	FN	--	P	522
+#502	FN	--	S	515
+#503	PNCT	--	U	517
+#504	FN	--	D	516
+#505	FN	--	S	516
+#506	FN	--	C	517	A*	515	A*	516
+#507	FN	--	R	521
+#508	FN	--	E	518
+#509	FN	--	S	519
+#510	FN	--	C	518
+#511	PNCT	--	U	521
+#512	FN	--	C	520
+#513	FN	--	E	520
+#514	PNCT	--	U	520
+#515	FN	--	E	517
+#516	FN	--	E	517
+#517	FN	--	A	522
+#518	FN	--	A	519
+#519	FN	--	C	521
+#520	FN	--	C	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 030395-0002

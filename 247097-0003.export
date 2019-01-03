@@ -1,0 +1,45 @@
+#BOS 247097-0003
+Before	Word	--	Terminal	500
+treatment	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+my	Word	--	Terminal	503
+food	Word	--	Terminal	504
+cravings	Word	--	Terminal	505
+were	Word	--	Terminal	506
+"	Punctuation	--	Terminal	507
+out	Word	--	Terminal	508
+of	Word	--	Terminal	508
+control	Word	--	Terminal	508
+"	Punctuation	--	Terminal	509
+which	Word	--	Terminal	510
+caused	Word	--	Terminal	511
+me	Word	--	Terminal	512
+to	Word	--	Terminal	513
+be	Word	--	Terminal	514
+stressed	Word	--	Terminal	515
+out	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	L	522
+#501	FN	--	P	517
+#502	PNCT	--	U	522
+#503	FN	--	A	518
+#504	FN	--	A	518
+#505	FN	--	P	518	A*	521
+#506	FN	--	F	519
+#507	PNCT	--	U	519
+#508	FN	--	S	519
+#509	PNCT	--	U	522
+#510	FN	--	L	522
+#511	FN	--	P	521
+#512	FN	--	A	521
+#513	FN	--	R	520
+#514	FN	--	F	520
+#515	FN	--	P	520
+#516	PNCT	--	U	520
+#517	FN	--	H	522
+#518	FN	--	A	519
+#519	FN	--	H	522
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 247097-0003

@@ -1,0 +1,38 @@
+#BOS 095523-0003
+She	Word	--	Terminal	500
+continues	Word	--	Terminal	501
+to	Word	--	Terminal	502
+help	Word	--	Terminal	503
+me	Word	--	Terminal	504
+when	Word	--	Terminal	505
+needed	Word	--	Terminal	506
+even	Word	--	Terminal	507
+if	Word	--	Terminal	507
+I	Word	--	Terminal	508
+have	Word	--	Terminal	509
+a	Word	--	Terminal	510
+service	Word	--	Terminal	511
+question	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	A	514
+#501	FN	--	D	514
+#502	FN	--	F	514
+#503	FN	--	P	514	A*	515
+#504	FN	--	A	514	A*	515
+#505	FN	--	L	520
+#506	FN	--	P	515
+#507	FN	--	L	520
+#508	FN	--	A	519	A*	516
+#509	FN	--	S	519
+#510	FN	--	E	518
+#511	FN	--	S	517
+#512	FN	--	P	516	A*	517
+#513	PNCT	--	U	517
+#514	FN	--	H	520
+#515	FN	--	H	520
+#516	FN	--	C	518
+#517	FN	--	E	518
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 095523-0003
