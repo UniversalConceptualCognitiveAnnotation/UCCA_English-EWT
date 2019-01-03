@@ -206,9 +206,6 @@
       <edge toID="1.21" type="C">
         <attributes />
       </edge>
-      <edge toID="1.27" type="U">
-        <attributes />
-      </edge>
     </node>
     <node ID="1.18" type="FN">
       <attributes uncertain="True" />
@@ -217,6 +214,9 @@
         <attributes />
       </edge>
       <edge toID="0.14" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="1.27" type="U">
         <attributes />
       </edge>
     </node>

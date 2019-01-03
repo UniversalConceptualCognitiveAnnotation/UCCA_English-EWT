@@ -614,9 +614,6 @@
       <edge toID="1.59" type="A">
         <attributes remote="True" />
       </edge>
-      <edge toID="1.90" type="U">
-        <attributes />
-      </edge>
       <edge toID="1.91" type="U">
         <attributes />
       </edge>
@@ -627,6 +624,9 @@
         <attributes />
       </edge>
       <edge toID="0.41" type="Terminal">
+        <attributes />
+      </edge>
+      <edge toID="1.90" type="U">
         <attributes />
       </edge>
     </node>
