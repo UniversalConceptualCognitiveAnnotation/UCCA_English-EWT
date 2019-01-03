@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="063549-0001">
-  <attributes />
+  <attributes annotationID="1567" passageID="755" remarks="26671" userID="1" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -82,6 +82,7 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
+      <extra all_tags="UNC;H" tree_id="2" />
       <edge toID="1.4" type="F">
         <attributes />
       </edge>
@@ -97,18 +98,21 @@
     </node>
     <node ID="1.4" type="FN">
       <attributes />
+      <extra all_tags="F" tree_id="2-1" />
       <edge toID="0.1" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.5" type="FN">
       <attributes />
+      <extra all_tags="F" tree_id="2-2" />
       <edge toID="0.2" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.6" type="FN">
       <attributes />
+      <extra all_tags="S" tree_id="2-3" />
       <edge toID="1.20" type="E">
         <attributes />
       </edge>
@@ -121,6 +125,7 @@
     </node>
     <node ID="1.7" type="FN">
       <attributes />
+      <extra all_tags="A" tree_id="2-4" />
       <edge toID="1.8" type="A">
         <attributes />
       </edge>
@@ -136,6 +141,7 @@
     </node>
     <node ID="1.8" type="FN">
       <attributes />
+      <extra all_tags="A;UNA" tree_id="2-4-1" />
       <edge toID="0.6" type="Terminal">
         <attributes />
       </edge>
@@ -145,18 +151,21 @@
     </node>
     <node ID="1.9" type="FN">
       <attributes />
+      <extra all_tags="F" tree_id="2-4-2" />
       <edge toID="0.8" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.10" type="FN">
       <attributes />
+      <extra all_tags="P" tree_id="2-4-3" />
       <edge toID="0.9" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.11" type="FN">
       <attributes />
+      <extra all_tags="A" tree_id="2-4-4" />
       <edge toID="1.12" type="E">
         <attributes />
       </edge>
@@ -169,6 +178,7 @@
     </node>
     <node ID="1.12" type="FN">
       <attributes />
+      <extra all_tags="E" tree_id="2-4-4-1-1" />
       <edge toID="1.13" type="A">
         <attributes remote="True" />
       </edge>
@@ -178,13 +188,14 @@
     </node>
     <node ID="1.13" type="FN">
       <attributes />
+      <extra all_tags="C" tree_id="2-4-4-1-2" />
       <edge toID="0.11" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.14" type="FN">
       <attributes />
-      <extra remarks="Adi:&#10;here is an exapmle where i have removed one level of center, embedded below and above another C-E.&#10;Only include multiple layers of C-E if it is essential to preserve meaning." />
+      <extra all_tags="E" remarks="Adi:&#10;here is an exapmle where i have removed one level of center, embedded below and above another C-E.&#10;Only include multiple layers of C-E if it is essential to preserve meaning." tree_id="2-4-4-2" />
       <edge toID="1.15" type="R">
         <attributes />
       </edge>
@@ -203,18 +214,21 @@
     </node>
     <node ID="1.15" type="FN">
       <attributes />
+      <extra all_tags="R" tree_id="2-4-4-2-1" />
       <edge toID="0.12" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.16" type="FN">
       <attributes />
+      <extra all_tags="E" tree_id="2-4-4-2-2" />
       <edge toID="0.13" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.17" type="FN">
       <attributes />
+      <extra all_tags="E;UNA" tree_id="2-4-4-2-3" />
       <edge toID="0.14" type="Terminal">
         <attributes />
       </edge>
@@ -224,30 +238,35 @@
     </node>
     <node ID="1.18" type="FN">
       <attributes />
+      <extra all_tags="C" tree_id="2-4-4-2-4" />
       <edge toID="0.16" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.19" type="FN">
       <attributes />
+      <extra all_tags="S" tree_id="2-4-4-1-1-1" />
       <edge toID="0.10" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.20" type="FN">
       <attributes />
+      <extra all_tags="E" tree_id="2-3-1" />
       <edge toID="0.3" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.21" type="FN">
       <attributes />
+      <extra all_tags="C" tree_id="2-3-2" />
       <edge toID="0.4" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.22" type="FN">
       <attributes />
+      <extra all_tags="F" tree_id="2-3-3" />
       <edge toID="0.5" type="Terminal">
         <attributes />
       </edge>

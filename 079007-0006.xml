@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="079007-0006">
-  <attributes />
+  <attributes annotationID="1631" passageID="787" remarks="26703" userID="1" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -38,6 +38,7 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
+      <extra all_tags="H" tree_id="8" />
       <edge toID="1.4" type="A">
         <attributes />
       </edge>
@@ -56,6 +57,7 @@
     </node>
     <node ID="1.4" type="FN">
       <attributes />
+      <extra all_tags="A;UNA" tree_id="8-1" />
       <edge toID="0.1" type="Terminal">
         <attributes />
       </edge>
@@ -65,18 +67,21 @@
     </node>
     <node ID="1.5" type="FN">
       <attributes />
+      <extra all_tags="F" tree_id="8-2" />
       <edge toID="0.3" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.6" type="FN">
       <attributes />
+      <extra all_tags="D" tree_id="8-3" />
       <edge toID="0.4" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.7" type="FN">
       <attributes />
+      <extra all_tags="S" tree_id="8-4" />
       <edge toID="0.5" type="Terminal">
         <attributes />
       </edge>

@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="081796-0007">
-  <attributes />
+  <attributes annotationID="1651" passageID="797" remarks="26711" userID="1" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -34,6 +34,7 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
+      <extra all_tags="H" tree_id="21" />
       <edge toID="1.3" type="A">
         <attributes />
       </edge>
@@ -49,21 +50,25 @@
     </node>
     <node ID="1.3" type="FN">
       <attributes implicit="True" />
+      <extra all_tags="A" tree_id="21-1" />
     </node>
     <node ID="1.4" type="FN">
       <attributes />
+      <extra all_tags="P" tree_id="21-2" />
       <edge toID="0.1" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.5" type="FN">
       <attributes />
+      <extra all_tags="A" tree_id="21-3" />
       <edge toID="0.2" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.6" type="FN">
       <attributes />
+      <extra all_tags="A" tree_id="21-4" />
       <edge toID="1.7" type="R">
         <attributes />
       </edge>
@@ -76,12 +81,14 @@
     </node>
     <node ID="1.7" type="FN">
       <attributes />
+      <extra all_tags="R" tree_id="21-4-1" />
       <edge toID="0.3" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.8" type="FN">
       <attributes />
+      <extra all_tags="C" tree_id="21-4-2" />
       <edge toID="0.4" type="Terminal">
         <attributes />
       </edge>

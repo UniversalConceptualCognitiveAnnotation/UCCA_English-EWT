@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="243369-0000">
-  <attributes />
+  <attributes annotationID="1902" passageID="422" userID="4" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -34,53 +34,66 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
+      <extra all_tags="UNC;H" remarks="superlative" tree_id="1" />
       <edge toID="1.4" type="A">
         <attributes />
       </edge>
-      <edge toID="1.5" type="F">
+      <edge toID="1.5" type="S">
         <attributes />
       </edge>
-      <edge toID="1.6" type="S">
+      <edge toID="1.6" type="A">
         <attributes />
       </edge>
     </node>
     <node ID="1.4" type="FN">
       <attributes />
+      <extra all_tags="A" tree_id="1-1" />
       <edge toID="0.1" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.5" type="FN">
       <attributes />
+      <extra all_tags="S" tree_id="1-2" />
       <edge toID="0.2" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.6" type="FN">
       <attributes />
-      <edge toID="1.7" type="E">
+      <extra all_tags="A" tree_id="1-3" />
+      <edge toID="1.7" type="A">
         <attributes />
       </edge>
-      <edge toID="1.8" type="C">
+      <edge toID="1.8" type="F">
         <attributes />
       </edge>
-      <edge toID="1.9" type="U">
+      <edge toID="1.9" type="S">
+        <attributes />
+      </edge>
+      <edge toID="1.10" type="U">
         <attributes />
       </edge>
     </node>
     <node ID="1.7" type="FN">
+      <attributes implicit="True" />
+      <extra all_tags="A" tree_id="1-3-1" />
+    </node>
+    <node ID="1.8" type="FN">
       <attributes />
+      <extra all_tags="F" tree_id="1-3-2" />
       <edge toID="0.3" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.8" type="FN">
+    <node ID="1.9" type="FN">
       <attributes />
+      <extra all_tags="S" tree_id="1-3-3" />
       <edge toID="0.4" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.9" type="PNCT">
+    <node ID="1.10" type="PNCT">
       <attributes />
       <edge toID="0.5" type="Terminal">
         <attributes />
