@@ -1,0 +1,12 @@
+# ::id 251475-0002
+# ::tok Best to deal with !
+# ::alignments 0-1.1.1 1-1.1.2.3 2-1.1.2.4 3-1.1.2.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label~e.0)
+           :A (v4 / label
+                  :A (v5 / label)
+                  :R (v6 / label~e.1)
+                  :P (v7 / label~e.2)
+                  :R (v8 / label~e.3))))

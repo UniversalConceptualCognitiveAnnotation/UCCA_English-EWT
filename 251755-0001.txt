@@ -1,0 +1,11 @@
+# ::id 251755-0001
+# ::tok Absolutely amazing job !
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.0)
+           :S (v4 / label~e.1)
+           :A (v5 / label
+                  :A (v6 / label)
+                  :P (v7 / label~e.2))))

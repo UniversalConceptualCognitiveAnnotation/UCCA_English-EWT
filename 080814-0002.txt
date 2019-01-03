@@ -1,0 +1,34 @@
+# ::id 080814-0002
+# ::tok These guys really know their stuff .. they have almost anything you could want in terms of spy and surviellance equipment .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3 4-1.1.4.1.2 5-1.1.4.2 7-1.2.1 8-1.2.2 9-1.2.3.4 10-1.2.3.1 11-1.2.3.2.2 12-1.2.3.2.3 13-1.2.3.2.4 14-1.2.3.3.1 15-1.2.3.3.1 16-1.2.3.3.1 17-1.2.3.3.2.1 18-1.2.3.3.2.2 19-1.2.3.3.2.3 20-1.2.3.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v11 / label~e.0)
+                  :C (v12 / label~e.1))
+           :D (v5 / label~e.2)
+           :P (v6 / label~e.3)
+           :A (v7 / label
+                  :E (v13 / label
+                          :A (v14 / label~e.5)
+                          :S (v19 / label~e.4))
+                  :C v14))
+    :H (v3 / label
+           :A (v8 / label~e.7)
+           :S (v9 / label~e.8)
+           :A (v10 / label
+                   :C (v15 / label~e.10)
+                   :E (v16 / label
+                           :A (v20 / label)
+                           :A (v21 / label~e.11)
+                           :D (v22 / label~e.12)
+                           :P (v23 / label~e.13))
+                   :E (v17 / label
+                           :R (v24 / label~e.14,15,16)
+                           :E (v25 / label
+                                   :C (v27 / label~e.17)
+                                   :N (v28 / label~e.18)
+                                   :C (v29 / label~e.19))
+                           :C (v26 / label~e.20))
+                   :E (v18 / label~e.9))))

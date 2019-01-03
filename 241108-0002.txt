@@ -1,0 +1,9 @@
+# ::id 241108-0002
+# ::tok Horrible service .
+# ::alignments 0-1.1.1 1-1.1.2.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label~e.0)
+           :A (v4 / label
+                  :P (v5 / label~e.1))))
