@@ -1,9 +1,0 @@
-# sent_id = 0002
-1	THEY	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	4:nsubj|6:nsubj	_
-2	ARE	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
-3	VERY	very	ADV	RB	_	4	advmod	4:advmod	_
-4	RUDE	rude	ADJ	JJ	Degree=Pos	0	root	0:root	_
-5	AND	and	CCONJ	CC	_	6	cc	6:cc	_
-6	NASTY	nasty	ADJ	JJ	Degree=Pos	4	conj	4:conj:and	SpaceAfter=No
-7	.	.	PUNCT	.	_	4	punct	4:punct	_
-

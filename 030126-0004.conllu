@@ -1,0 +1,27 @@
+# sent_id = 030126-0004
+1	There	there	PRON	EX	_	2	expl	2:expl	SpaceAfter=No
+2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	holes	hole	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
+4	everywhere	everywhere	ADV	RB	_	3	advmod	3:advmod	_
+5	in	in	ADP	IN	_	7	case	7:case	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	ceiling	ceiling	NOUN	NN	Number=Sing	3	nmod	3:nmod:in	SpaceAfter=No
+8	,	,	PUNCT	,	_	11	punct	11:punct	_
+9	sewage	sewage	NOUN	NN	Number=Sing	11	nsubj	11:nsubj	_
+10	constantly	constantly	ADV	RB	_	11	advmod	11:advmod	_
+11	leaks	leak	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	2:conj:and	_
+12	through	through	ADP	IN	_	14	case	14:case	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
+14	ceiling	ceiling	NOUN	NN	Number=Sing	11	obl	11:obl:through	SpaceAfter=No
+15	,	,	PUNCT	,	_	24	punct	24:punct	_
+16	and	and	CCONJ	CC	_	24	cc	24:cc	_
+17	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
+18	whole	whole	ADJ	JJ	Degree=Pos	19	amod	19:amod	_
+19	condition	condition	NOUN	NN	Number=Sing	24	nsubj	24:nsubj	_
+20	of	of	ADP	IN	_	22	case	22:case	_
+21	the	the	DET	DT	Definite=Def|PronType=Art	22	det	22:det	_
+22	school	school	NOUN	NN	Number=Sing	19	nmod	19:nmod:of	_
+23	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	24:cop	_
+24	horrible	horrible	ADJ	JJ	Degree=Pos	2	conj	2:conj:and	SpaceAfter=No
+25	.	.	PUNCT	.	_	2	punct	2:punct	_
+

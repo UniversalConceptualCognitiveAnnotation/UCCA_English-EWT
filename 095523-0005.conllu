@@ -1,0 +1,11 @@
+# sent_id = 095523-0005
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	2:nsubj	_
+2	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	after	after	SCONJ	IN	_	5	mark	5:mark	_
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
+5	brought	bring	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	advcl	2:advcl:after	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	car	car	NOUN	NN	Number=Sing	5	obj	5:obj	SpaceAfter=No
+8	!!!!	!!!!	PUNCT	.	_	2	punct	2:punct	SpaceAfter=No
+9	!	!	PUNCT	.	_	2	punct	2:punct	_
+

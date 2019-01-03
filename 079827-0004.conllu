@@ -1,0 +1,10 @@
+# sent_id = 079827-0004
+1	Most	most	ADV	RBS	_	2	advmod	2:advmod	_
+2	importantly	importantly	ADV	RB	_	7	advmod	7:advmod	SpaceAfter=No
+3	,	,	PUNCT	,	_	7	punct	7:punct	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	food	food	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	7:cop	_
+7	outstanding	outstanding	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
+8	.	.	PUNCT	.	_	7	punct	7:punct	_
+

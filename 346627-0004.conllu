@@ -1,0 +1,25 @@
+# sent_id = 346627-0004
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj|4:nsubj|8:nsubj	_
+2	trust	trust	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	and	and	CCONJ	CC	_	4	cc	4:cc	_
+4	appreciate	appreciate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	2:conj:and	_
+5	Scott	Scott	PROPN	NNP	Number=Sing	2	obj	2:obj|4:obj	_
+6	Larson	Larson	PROPN	NNP	Number=Sing	5	flat	5:flat	_
+7	and	and	CCONJ	CC	_	8	cc	8:cc	_
+8	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	2:conj:and	_
+9	that	that	SCONJ	IN	_	13	mark	13:mark	_
+10	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	13:nsubj|19:nsubj	_
+11	will	will	AUX	MD	VerbForm=Fin	13	aux	13:aux	_
+12	always	always	ADV	RB	_	13	advmod	13:advmod	_
+13	take	take	VERB	VB	VerbForm=Inf	8	ccomp	8:ccomp	_
+14	good	good	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
+15	care	care	NOUN	NN	Number=Sing	13	obj	13:obj	_
+16	of	of	ADP	IN	_	17	case	17:case	_
+17	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	13	obl	13:obl:of	_
+18	and	and	CCONJ	CC	_	19	cc	19:cc	_
+19	listen	listen	VERB	VB	VerbForm=Inf	13	conj	8:ccomp|13:conj:and	_
+20	to	to	ADP	IN	_	22	case	22:case	_
+21	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	22	nmod:poss	22:nmod:poss	_
+22	needs	need	NOUN	NNS	Number=Plur	19	obl	19:obl:to	SpaceAfter=No
+23	!	!	PUNCT	.	_	2	punct	2:punct	_
+

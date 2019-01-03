@@ -1,0 +1,23 @@
+# sent_id = 294081-0007
+1	IT	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	SpaceAfter=No
+2	S	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+3	NOT	not	PART	RB	_	6	advmod	6:advmod	_
+4	A	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
+5	BIG	big	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	DEAL	deal	NOUN	NN	Number=Sing	0	root	0:root	_
+7	BUT	but	CCONJ	CC	_	9	cc	9:cc	_
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj|11:nsubj:xsubj	_
+9	HAD	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	conj	6:conj:but	_
+10	TO	to	PART	TO	_	11	mark	11:mark	_
+11	TAKE	take	VERB	VB	VerbForm=Inf	9	xcomp	9:xcomp	_
+12	MY	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	13:nmod:poss	_
+13	SALAD	salad	NOUN	NN	Number=Sing	11	obj	11:obj	_
+14	HOME	home	ADV	RB	_	11	advmod	11:advmod	_
+15	BECAUSE	because	SCONJ	IN	_	17	mark	17:mark	_
+16	THEY	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	17:nsubj|19:nsubj:xsubj	_
+17	FORGOT	forget	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	advcl	11:advcl:because	_
+18	TO	to	PART	TO	_	19	mark	19:mark	_
+19	BRING	bring	VERB	VB	VerbForm=Inf	17	xcomp	17:xcomp	_
+20	IT	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	obj	19:obj	SpaceAfter=No
+21	.	.	PUNCT	.	_	6	punct	6:punct	_
+

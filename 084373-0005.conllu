@@ -1,0 +1,12 @@
+# sent_id = 084373-0005
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	cop	4:cop	_
+3	very	very	ADV	RB	_	4	advmod	4:advmod	_
+4	happy	happy	ADJ	JJ	Degree=Pos	0	root	0:root	_
+5	how	how	ADV	WRB	PronType=Int	6	advmod	6:advmod	_
+6	clean	clean	ADJ	JJ	Degree=Pos	7	advmod	7:advmod	_
+7	looked	look	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	advcl	4:advcl	_
+8	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
+9	windows	windows	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	SpaceAfter=No
+10	.	.	PUNCT	.	_	4	punct	4:punct	_
+
