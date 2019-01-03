@@ -1,0 +1,31 @@
+#BOS 007403-0003
+I	Word	--	Terminal	500
+offer	Word	--	Terminal	501
+compassionate	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+approachable	Word	--	Terminal	504
+and	Word	--	Terminal	505
+personalized	Word	--	Terminal	506
+counseling	Word	--	Terminal	507
+services	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	A	517
+#501	FN	--	P	517
+#502	FN	--	S	510
+#503	PNCT	--	U	515
+#504	FN	--	S	511
+#505	FN	--	N	515
+#506	FN	--	S	512
+#507	FN	--	P	513
+#508	FN	--	P	514	A*	510	A*	511	A*	512
+#509	PNCT	--	U	514
+#510	FN	--	C	515
+#511	FN	--	C	515
+#512	FN	--	C	515
+#513	FN	--	E	516
+#514	FN	--	C	516
+#515	FN	--	E	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 007403-0003

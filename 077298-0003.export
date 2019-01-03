@@ -1,0 +1,45 @@
+#BOS 077298-0003
+It	Word	--	Terminal	500
+'s	Word	--	Terminal	501
+never	Word	--	Terminal	502
+ok	Word	--	Terminal	503
+to	Word	--	Terminal	504
+let	Word	--	Terminal	505
+a	Word	--	Terminal	506
+customer	Word	--	Terminal	507
+walk	Word	--	Terminal	508
+out	Word	--	Terminal	509
+unhappy	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+especially	Word	--	Terminal	512
+when	Word	--	Terminal	512
+they	Word	--	Terminal	513
+are	Word	--	Terminal	514
+right	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	F	523
+#501	FN	--	F	523
+#502	FN	--	D	523
+#503	FN	--	S	523
+#504	FN	--	F	521
+#505	FN	--	D	521
+#506	FN	--	E	517
+#507	FN	--	C	517	A*	518
+#508	FN	--	P	521
+#509	FN	--	D	521
+#510	FN	--	S	518
+#511	PNCT	--	U	524
+#512	FN	--	L	524
+#513	FN	--	A	519
+#514	FN	--	F	519
+#515	FN	--	S	519
+#516	PNCT	--	U	519
+#517	FN	--	A	521
+#518	FN	--	H	522
+#519	FN	--	H	524
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 077298-0003

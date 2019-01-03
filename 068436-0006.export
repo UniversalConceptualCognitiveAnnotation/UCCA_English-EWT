@@ -1,0 +1,36 @@
+#BOS 068436-0006
+Do	Word	--	Terminal	500
+n't	Word	--	Terminal	501
+go	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+or	Word	--	Terminal	504
+you	Word	--	Terminal	505
+will	Word	--	Terminal	506
+learn	Word	--	Terminal	507
+how	Word	--	Terminal	508
+to	Word	--	Terminal	509
+waste	Word	--	Terminal	510
+your	Word	--	Terminal	511
+money	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	D	514
+#501	FN	--	D	514
+#502	FN	--	P	514
+#503	PNCT	--	U	519
+#504	FN	--	L	519
+#505	FN	--	A	518	A*	514
+#506	FN	--	F	518
+#507	FN	--	P	518
+#508	FN	--	D	517
+#509	FN	--	F	517
+#510	FN	--	P	517
+#511	FN	--	S	515
+#512	FN	--	C	516	A*	515
+#513	PNCT	--	U	516
+#514	FN	--	H	519
+#515	FN	--	E	516
+#516	FN	--	A	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 068436-0006
