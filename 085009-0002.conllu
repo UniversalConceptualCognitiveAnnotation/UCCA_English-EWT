@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 085009-0002
+# text = The work was completed within one week , and everything was cleaned up on completion .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	work	_	Word	Word	_	0	P	0:P|15:A	_
+3	was	_	Word	Word	_	4	F	4:F	_
+4	completed	_	Word	Word	_	0	H	0:H	_
+5	within	_	Word	Word	_	7	R	7:R	_
+6	one	_	Word	Word	_	7	Q	7:Q	_
+7	week	_	Word	Word	_	4	T	4:T	_
+8	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	and	_	Word	Word	_	12	L	12:L	_
+10	everything	_	Word	Word	_	12	A	12:A	_
+11	was	_	Word	Word	_	12	F	12:F	_
+12	cleaned	_	Word	Word	_	4	H	4:H	_
+13	up	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	on	_	Word	Word	_	15	R	15:R	_
+15	completion	_	Word	Word	_	4	H	4:H	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

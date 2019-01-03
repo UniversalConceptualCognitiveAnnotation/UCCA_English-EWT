@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 349020-0008
+# text = Who knows how much they want me to pay to fix this thing .
+1	Who	_	Word	Word	_	2	A	2:A	_
+2	knows	_	Word	Word	_	0	H	0:H	_
+3	how	_	Word	Word	_	9	A	9:A	_
+4	much	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	they	_	Word	Word	_	9	A	9:A|11:A	_
+6	want	_	Word	Word	_	9	D	9:D	_
+7	me	_	Word	Word	_	9	A	9:A	_
+8	to	_	Word	Word	_	9	F	9:F	_
+9	pay	_	Word	Word	_	2	A	2:A	_
+10	to	_	Word	Word	_	11	L	11:L	_
+11	fix	_	Word	Word	_	9	H	9:H	_
+12	this	_	Word	Word	_	13	E	13:E	_
+13	thing	_	Word	Word	_	11	A	11:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

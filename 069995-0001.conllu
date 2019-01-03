@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 069995-0001
+# text = Went to the Willow Lounge this past weekend for dinner and drinks ... place is awesome .
+1	Went	_	Word	Word	_	0	H	0:H	_
+2	to	_	Word	Word	_	4	R	4:R	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	Willow	_	Word	Word	_	1	A	1:A	_
+5	Lounge	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	this	_	Word	Word	_	8	E	8:E	_
+7	past	_	Word	Word	_	8	E	8:E	_
+8	weekend	_	Word	Word	_	1	T	1:T	_
+9	for	_	Word	Word	_	10	L	10:L	_
+10	dinner	_	Word	Word	_	1	H	1:H	_
+11	and	_	Word	Word	_	12	L	12:L	_
+12	drinks	_	Word	Word	_	1	H	1:H	_
+13	...	_	Punctuation	Punctuation	_	1	U	1:U	_
+14	place	_	Word	Word	_	16	A	16:A	_
+15	is	_	Word	Word	_	16	F	16:F	_
+16	awesome	_	Word	Word	_	1	H	1:H	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+
