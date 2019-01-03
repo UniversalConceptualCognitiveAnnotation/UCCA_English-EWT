@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 241739-0004
+# text = I have terrible hair and he really takes his time to make it look right .
+1	I	_	Word	Word	_	3	A	3:A	_
+2	have	_	Word	Word	_	3	F	3:F	_
+3	terrible	_	Word	Word	_	0	H	0:H	_
+4	hair	_	Word	Word	_	3	A	3:A	_
+5	and	_	Word	Word	_	12	L	12:L	_
+6	he	_	Word	Word	_	12	A	12:A	_
+7	really	_	Word	Word	_	12	D	12:D	_
+8	takes	_	Word	Word	_	12	D	12:D	_
+9	his	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	time	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	to	_	Word	Word	_	12	F	12:F	_
+12	make	_	Word	Word	_	3	H	3:H	_
+13	it	_	Word	Word	_	12	A	12:A|14:A	_
+14	look	_	Word	Word	_	12	A	12:A	_
+15	right	_	Word	Word	_	14	D	14:D	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+
