@@ -4,7 +4,7 @@
     <attributes />
     <extra doc="[[]]" />
     <node ID="0.1" type="Word">
-      <attributes paragraph="1" paragraph_position="1" text="Food" />
+      <attributes paragraph="1" paragraph_position="1" text="Service" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.2" type="Word">
@@ -39,13 +39,13 @@
       <edge toID="1.6" type="S">
         <attributes />
       </edge>
-      <edge toID="1.7" type="U">
+      <edge toID="1.8" type="U">
         <attributes />
       </edge>
     </node>
     <node ID="1.4" type="FN">
       <attributes />
-      <edge toID="0.1" type="Terminal">
+      <edge toID="1.7" type="P">
         <attributes />
       </edge>
     </node>
@@ -61,7 +61,13 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.7" type="PNCT">
+    <node ID="1.7" type="FN">
+      <attributes />
+      <edge toID="0.1" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.8" type="PNCT">
       <attributes />
       <edge toID="0.4" type="Terminal">
         <attributes />

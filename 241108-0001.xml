@@ -4,15 +4,11 @@
     <attributes />
     <extra doc="[[]]" />
     <node ID="0.1" type="Word">
-      <attributes paragraph="1" paragraph_position="1" text="Horrible" />
+      <attributes paragraph="1" paragraph_position="1" text="STAY" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.2" type="Word">
-      <attributes paragraph="1" paragraph_position="2" text="service" />
-      <extra orig_paragraph="1" />
-    </node>
-    <node ID="0.3" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="3" text="." />
+      <attributes paragraph="1" paragraph_position="2" text="AWAY" />
       <extra orig_paragraph="1" />
     </node>
   </layer>
@@ -26,12 +22,18 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
-      <edge toID="1.4" type="S">
+      <edge toID="1.3" type="A">
+        <attributes />
+      </edge>
+      <edge toID="1.4" type="P">
         <attributes />
       </edge>
       <edge toID="1.5" type="A">
         <attributes />
       </edge>
+    </node>
+    <node ID="1.3" type="FN">
+      <attributes implicit="True" />
     </node>
     <node ID="1.4" type="FN">
       <attributes />
@@ -41,22 +43,7 @@
     </node>
     <node ID="1.5" type="FN">
       <attributes />
-      <edge toID="1.6" type="P">
-        <attributes />
-      </edge>
-      <edge toID="1.7" type="U">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.6" type="FN">
-      <attributes />
       <edge toID="0.2" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.7" type="PNCT">
-      <attributes />
-      <edge toID="0.3" type="Terminal">
         <attributes />
       </edge>
     </node>
