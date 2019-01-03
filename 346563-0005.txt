@@ -1,11 +1,13 @@
 # ::id 346563-0005
-# ::tok My post-op treatment was TERRIBLE .
-# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3 4-1.1.4
+# ::tok My results were just AWFUL .
+# ::alignments 0-1.1.2.1.1 1-1.1.2.2 3-1.1.4 4-1.1.5
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
-                  :A (v5 / label~e.0)
-                  :D (v6 / label~e.1)
-                  :P (v7 / label~e.2))
-           :S (v4 / label~e.4)))
+                  :E (v6 / label
+                         :S (v8 / label~e.0)
+                         :A (v7 / label~e.1))
+                  :C v7)
+           :D (v4 / label~e.3)
+           :S (v5 / label~e.4)))

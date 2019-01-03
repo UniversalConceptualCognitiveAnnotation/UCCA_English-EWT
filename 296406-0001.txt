@@ -1,11 +1,10 @@
 # ::id 296406-0001
-# ::tok But no other complaints .
-# ::alignments 0-1.1 1-1.2.2 2-1.2.3 3-1.2.4
+# ::tok Horrible tap water .
+# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2
 # ::format ucca
 (v1 / label
-    :L (v2 / label~e.0)
-    :H (v3 / label
-           :A (v4 / label)
-           :D (v5 / label~e.1)
-           :D (v6 / label~e.2)
-           :P (v7 / label~e.3)))
+    :H (v2 / label
+           :S (v3 / label~e.0)
+           :A (v4 / label
+                  :E (v5 / label~e.1)
+                  :C (v6 / label~e.2))))

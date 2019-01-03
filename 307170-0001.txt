@@ -1,16 +1,15 @@
 # ::id 307170-0001
-# ::tok Great Limos company int he DFW fort Worth Metro area .
-# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2 3-1.1.3.4 4-1.1.3.5 5-1.1.3.6 6-1.1.3.6 7-1.1.3.6 8-1.1.3.1 9-1.1.3.2
+# ::tok Best Limo Limousine service in all of Dallas
+# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2 3-1.1.3 4-1.1.4.2 5-1.1.4.3 7-1.1.4.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :S (v3 / label~e.0)
+           :D (v3 / label~e.0)
            :A (v4 / label
-                  :E (v6 / label~e.1)
-                  :C (v7 / label~e.2))
-           :A (v5 / label
-                  :E (v8 / label~e.8)
-                  :C (v9 / label~e.9)
-                  :R (v10 / label~e.3)
-                  :E (v11 / label~e.4)
-                  :E (v12 / label~e.5,6,7))))
+                  :E (v7 / label~e.1)
+                  :C (v8 / label~e.2))
+           :P (v5 / label~e.3)
+           :A (v6 / label
+                  :C (v9 / label~e.7)
+                  :R (v10 / label~e.4)
+                  :E (v11 / label~e.5))))

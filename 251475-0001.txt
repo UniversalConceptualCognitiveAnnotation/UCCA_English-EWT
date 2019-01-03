@@ -1,12 +1,14 @@
 # ::id 251475-0001
-# ::tok Best to deal with !
-# ::alignments 0-1.1.1 1-1.1.2.3 2-1.1.2.4 3-1.1.2.5
+# ::tok Great People and even better service !
+# ::alignments 0-1.1.1 1-1.1.2 2-1.2 3-1.3.1 4-1.3.2 5-1.3.3.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :S (v3 / label~e.0)
-           :A (v4 / label
-                  :A (v5 / label)
-                  :R (v6 / label~e.1)
-                  :P (v7 / label~e.2)
-                  :R (v8 / label~e.3))))
+           :S (v5 / label~e.0)
+           :A (v6 / label~e.1))
+    :L (v3 / label~e.2)
+    :H (v4 / label
+           :D (v7 / label~e.3)
+           :S (v8 / label~e.4)
+           :A (v9 / label
+                  :P (v10 / label~e.5))))

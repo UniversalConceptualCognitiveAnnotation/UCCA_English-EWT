@@ -1,12 +1,8 @@
 # ::id 305681-0002
-# ::tok Most of all , my daughter loves it !
-# ::alignments 0-1.1 1-1.1 2-1.1 4-1.2.2.2 5-1.2.2.1 6-1.2.3 7-1.2.4
+# ::tok Great instructors !
+# ::alignments 0-1.1.1 1-1.1.2
 # ::format ucca
 (v1 / label
-    :L (v2 / label~e.0,1,2)
-    :H (v3 / label
-           :A (v4 / label
-                  :C (v7 / label~e.5)
-                  :E (v8 / label~e.4))
-           :S (v5 / label~e.6)
-           :A (v6 / label~e.7)))
+    :H (v2 / label
+           :S (v3 / label~e.0)
+           :A (v4 / label~e.1)))
