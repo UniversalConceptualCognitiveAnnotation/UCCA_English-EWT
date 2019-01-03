@@ -1,13 +1,19 @@
 # format = ucca
-1	We	_	Word	-	-	_	A	_	_
-2	called	_	Word	-	+	_	_	_	_
-3	few	_	Word	-	-	_	_	E	_
-4	companies	_	Word	-	+	_	A	_	_
-5	before	_	Word	-	-	_	L	_	_
-6	we	_	Word	-	-	_	_	_	A
-7	decide	_	Word	-	-	_	_	_	D
-8	to	_	Word	-	-	_	_	_	F
-9	hire	_	Word	-	+	_	H	_	_
-10	them	_	Word	-	-	_	_	_	A
-11	.	_	Punctuation	-	-	_	_	_	U
+1	Our	_	Word	-	+	_	_	E	_	_	_	_	_
+2	window	_	Word	-	-	_	A*	E	_	_	_	_	_
+3	panes	_	Word	-	+	_	_	_	A	_	_	_	_
+4	were	_	Word	-	-	_	_	_	F	_	_	_	_
+5	so	_	Word	-	-	_	_	_	D	_	_	_	_
+6	dirty	_	Word	-	+	_	_	_	_	_	_	_	_
+7	that	_	Word	-	-	_	_	_	L	_	_	_	_
+8	they	_	Word	-	-	_	_	_	_	A	_	_	_
+9	needed	_	Word	-	+	_	_	_	H	_	_	_	_
+10	a	_	Word	-	-	_	_	_	_	_	E	_	_
+11	specialist	_	Word	-	+	_	_	_	_	_	_	A*	A*
+12	to	_	Word	-	-	_	_	_	_	_	_	R	_
+13	come	_	Word	-	+	_	_	_	H	_	_	_	_
+14	and	_	Word	-	-	_	_	_	L	_	_	_	_
+15	clean	_	Word	-	+	_	_	_	H	_	_	_	_
+16	them	_	Word	-	-	_	_	_	_	_	_	_	A
+17	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

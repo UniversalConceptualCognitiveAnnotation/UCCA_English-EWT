@@ -1,14 +1,16 @@
 # format = ucca
-1	ALSO	_	Word	-	-	_	L	_
-2	,	_	Punctuation	-	-	_	U	_
-3	THERE	_	Word	-	-	_	F	_
-4	SHOULD	_	Word	-	-	_	D	_
-5	NOT	_	Word	-	-	_	D	_
-6	BE	_	Word	-	-	_	F	_
-7	PEANUTS	_	Word	-	-	_	A	_
-8	ALL	_	Word	-	+	_	_	_
-9	OVER	_	Word	-	-	_	Terminal	_
-10	THE	_	Word	-	-	_	_	E
-11	FLOOR	_	Word	-	+	_	A	_
-12	.	_	Punctuation	-	-	_	_	U
+1	ON	_	Word	-	+	_	_	_	L	_
+2	A	_	Word	-	-	_	Terminal	_	_	_
+3	BAD	_	Word	-	-	_	Terminal	_	_	_
+4	NOTE	_	Word	-	-	_	Terminal	_	_	_
+5	THE	_	Word	-	-	_	_	E	_	_
+6	WAITING	_	Word	-	-	_	_	E	_	_
+7	AREA	_	Word	-	+	_	_	_	_	A*
+8	IS	_	Word	-	-	_	_	_	F	_
+9	NOT	_	Word	-	-	_	_	_	D	D*
+10	ENJOYABLE	_	Word	-	+	_	_	_	_	_
+11	OR	_	Word	-	-	_	_	_	L	_
+12	ENOUGH	_	Word	-	+	_	_	_	H	_
+13	SEATS	_	Word	-	-	_	_	_	_	A
+14	.	_	Punctuation	-	-	_	_	_	_	U
 
