@@ -17,9 +17,6 @@ Files included
 1. The passages files in XML format. file names are of the form `XXX.xml` where XXX 
    is the passage ID. Please see [the UCCA resource webpage](http://www.cs.huji.ac.il/~oabend/ucca.html)
    for a software package for reading and using these files.
-2. [`streusle2ucca.txt`](streusle2ucca.txt): mapping from document IDs used in the STREUSLE project
-   (which are the same as the UD document IDs) to UCCA passage IDs.
 3. [`scripts/get_ud.sh`](scripts/get_ud.sh): script to download all UD-annotated sentences corresponding
-   to the UCCA passages in this corpus, rename them according to the UCCA IDs, and split the UCCA
-   passages according to the UD sentences. The renamed UD files are saved in `ud`, and the split UCCA
-   files in `sentences_by_ud`.
+   to the UCCA passages in this corpus, and split the UCCA passages according to the UD sentences.
+   The split UD files are saved in `ud`, and the split UCCA files in `sentences_by_ud`.
