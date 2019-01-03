@@ -1,0 +1,19 @@
+# sent_id = 294081-0014
+1	IN	in	ADP	IN	_	3	case	3:case	_
+2	MY	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+3	OPINION	opinion	NOUN	NN	Number=Sing	7	obl	7:obl:in	_
+4	SHOULD	should	AUX	MD	VerbForm=Fin	7	aux	7:aux	_
+5	OF	have	AUX	VB	VerbForm=Inf	7	aux	7:aux	_
+6	JUST	just	ADV	RB	_	7	advmod	7:advmod	_
+7	TOOK	take	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+8	OFF	off	ADP	RP	_	7	compound:prt	7:compound:prt	_
+9	THE	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+10	PRICE	price	NOUN	NN	Number=Sing	7	obj	7:obj	_
+11	OF	of	ADP	IN	_	13	case	13:case	_
+12	THE	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
+13	WINGS	wing	NOUN	NNS	Number=Plur	10	nmod	10:nmod:of	_
+14	FROM	from	ADP	IN	_	16	case	16:case	_
+15	THE	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
+16	BILL	bill	NOUN	NN	Number=Sing	7	obl	7:obl:from	SpaceAfter=No
+17	.	.	PUNCT	.	_	7	punct	7:punct	_
+

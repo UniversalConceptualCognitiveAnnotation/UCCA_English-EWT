@@ -1,0 +1,16 @@
+# sent_id = 079375-0003
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	worked	work	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	around	around	ADP	IN	_	5	case	5:case	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	clock	clock	NOUN	NN	Number=Sing	2	obl	2:obl:around	_
+6	to	to	PART	TO	_	7	mark	7:mark	_
+7	ensure	ensure	VERB	VB	VerbForm=Inf	2	advcl	2:advcl:to	_
+8	that	that	SCONJ	IN	_	13	mark	13:mark	_
+9	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	10:nmod:poss	_
+10	puppy	puppy	NOUN	NN	Number=Sing	11	compound	11:compound	_
+11	life	life	NOUN	NN	Number=Sing	13	nsubj:pass	13:nsubj:pass	_
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux:pass	13:aux:pass	_
+13	saved	save	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	ccomp	7:ccomp	SpaceAfter=No
+14	.	.	PUNCT	.	_	2	punct	2:punct	_
+

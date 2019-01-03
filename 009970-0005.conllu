@@ -1,0 +1,20 @@
+# sent_id = 009970-0005
+1	Every	every	DET	DT	_	2	det	2:det	_
+2	time	time	NOUN	NN	Number=Sing	13	obl:tmod	13:obl:tmod	_
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+4	go	go	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	SpaceAfter=No
+5	,	,	PUNCT	,	_	13	punct	13:punct	_
+6	Kevin	Kevin	PROPN	NNP	Number=Sing	13	nsubj	13:nsubj	SpaceAfter=No
+7	,	,	PUNCT	,	_	6	punct	6:punct	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+9	manager	manager	NOUN	NN	Number=Sing	6	appos	6:appos	SpaceAfter=No
+10	,	,	PUNCT	,	_	13	punct	13:punct	_
+11	will	will	AUX	MD	VerbForm=Fin	13	aux	13:aux	_
+12	always	always	ADV	RB	_	13	advmod	13:advmod	_
+13	remember	remember	VERB	VB	VerbForm=Inf	0	root	0:root	_
+14	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	15	nmod:poss	15:nmod:poss	_
+15	family	family	NOUN	NN	Number=Sing	13	obj	13:obj	_
+16	and	and	CCONJ	CC	_	17	cc	17:cc	_
+17	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	conj	13:obj|15:conj:and	SpaceAfter=No
+18	.	.	PUNCT	.	_	13	punct	13:punct	_
+
