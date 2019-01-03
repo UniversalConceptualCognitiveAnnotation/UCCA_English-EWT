@@ -1,16 +1,17 @@
 # format = ucca
 # sent_id = 083563-0001
-1	A	_	Word	Word	_	3	E	_	_
+1	A	_	Word	Word	_	3	F	_	_
 2	fast	_	Word	Word	_	3	D	_	_
-3	service	_	Word	Word	_	12	A	_	_
+3	service	_	Word	Word	_	0	C	_	_
+3	service	_	Word	Word	_	12	A*	_	_
 4	,	_	Punctuation	Punctuation	_	12	U	_	_
 5	saved	_	Word	Word	_	12	D	_	_
-6	a	_	Word	Word	_	8	E	_	_
+6	a	_	Word	Word	_	8	F	_	_
 7	bad	_	Word	Word	_	8	D	_	_
 8	situation	_	Word	Word	_	12	A	_	_
 9	getting	_	Word	Word	_	12	D	_	_
 10	a	_	Word	Word	_	12	D	_	_
 11	lot	_	Word	Word	_	10	Terminal	_	_
-12	worse	_	Word	Word	_	0	H	_	_
+12	worse	_	Word	Word	_	3	H	_	_
 13	.	_	Punctuation	Punctuation	_	12	U	_	_
 
