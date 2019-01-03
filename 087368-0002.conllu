@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 087368-0002
+# text = Clean store , friendly check - out staff up front .
+1	Clean	_	Word	Word	_	0	H	0:H	_
+2	store	_	Word	Word	_	1	A	1:A	_
+3	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+4	friendly	_	Word	Word	_	1	H	1:H	_
+5	check	_	Word	Word	_	4	A	4:A	_
+6	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	out	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	staff	_	Word	Word	_	5	A	5:A	_
+9	up	_	Word	Word	_	4	A	4:A	_
+10	front	_	Word	Word	_	9	R	9:R	_
+11	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

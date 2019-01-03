@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 148012-0004
+# text = Like the sushi , do n't like the pad thai .
+1	Like	_	Word	Word	_	0	H	0:H	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	sushi	_	Word	Word	_	1	A	1:A	_
+4	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	do	_	Word	Word	_	7	F	7:F	_
+6	n't	_	Word	Word	_	7	D	7:D	_
+7	like	_	Word	Word	_	1	H	1:H	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	pad	_	Word	Word	_	7	A	7:A	_
+10	thai	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

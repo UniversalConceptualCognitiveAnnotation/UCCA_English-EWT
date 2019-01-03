@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 255736-0000
+# text = Remember seeing " Stop Making Sense " at Cinema 21 multiple times !
+1	Remember	_	Word	Word	_	0	H	0:H	_
+2	seeing	_	Word	Word	_	1	A	1:A	_
+3	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	Stop	_	Word	Word	_	2	A	2:A	_
+5	Making	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	Sense	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	at	_	Word	Word	_	9	R	9:R	_
+9	Cinema	_	Word	Word	_	2	A	2:A	_
+10	21	_	Word	Word	_	9	E	9:E	_
+11	multiple	_	Word	Word	_	12	E	12:E	_
+12	times	_	Word	Word	_	2	Q	2:Q	_
+13	!	_	Punctuation	Punctuation	_	12	U	12:U	_
+

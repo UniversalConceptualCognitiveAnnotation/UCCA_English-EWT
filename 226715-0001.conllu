@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 226715-0001
+# text = Media , Software , Fun and Games , Website design , Web Promotion , B2B , Business Promotion , Search Engine Optimization .
+1	Media	_	Word	Word	_	0	H	0:H	_
+2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	Software	_	Word	Word	_	1	H	1:H	_
+4	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	Fun	_	Word	Word	_	1	H	1:H	_
+6	and	_	Word	Word	_	7	L	7:L	_
+7	Games	_	Word	Word	_	1	H	1:H	_
+8	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+9	Website	_	Word	Word	_	10	A	10:A	_
+10	design	_	Word	Word	_	1	H	1:H	_
+11	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+12	Web	_	Word	Word	_	13	A	13:A	_
+13	Promotion	_	Word	Word	_	1	H	1:H	_
+14	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+15	B2B	_	Word	Word	_	1	H	1:H	_
+16	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+17	Business	_	Word	Word	_	18	A	18:A	_
+18	Promotion	_	Word	Word	_	1	H	1:H	_
+19	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+20	Search	_	Word	Word	_	22	A	22:A	_
+21	Engine	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	Optimization	_	Word	Word	_	1	H	1:H	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

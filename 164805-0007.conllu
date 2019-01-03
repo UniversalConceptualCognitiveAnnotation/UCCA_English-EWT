@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 164805-0007
+# text = Fair give and take on both sides until we agreed on a deal that was within my parameters and was fair to both sides .
+1	Fair	_	Word	Word	_	0	H	0:H	_
+2	give	_	Word	Word	_	1	A	1:A	_
+3	and	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	take	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	on	_	Word	Word	_	7	R	7:R	_
+6	both	_	Word	Word	_	7	E	7:E	_
+7	sides	_	Word	Word	_	1	A	1:A	_
+8	until	_	Word	Word	_	10	L	10:L	_
+9	we	_	Word	Word	_	10	A	10:A	_
+10	agreed	_	Word	Word	_	1	H	1:H	_
+11	on	_	Word	Word	_	13	R	13:R	_
+12	a	_	Word	Word	_	13	E	13:E	_
+13	deal	_	Word	Word	_	0	P	0:P|16:A|21:A	_
+14	that	_	Word	Word	_	16	L	16:L	_
+15	was	_	Word	Word	_	16	F	16:F	_
+16	within	_	Word	Word	_	1	H	1:H	_
+17	my	_	Word	Word	_	18	E	18:E	_
+18	parameters	_	Word	Word	_	16	A	16:A	_
+19	and	_	Word	Word	_	21	L	21:L	_
+20	was	_	Word	Word	_	21	F	21:F	_
+21	fair	_	Word	Word	_	1	H	1:H	_
+22	to	_	Word	Word	_	24	R	24:R	_
+23	both	_	Word	Word	_	24	Q	24:Q	_
+24	sides	_	Word	Word	_	21	A	21:A	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

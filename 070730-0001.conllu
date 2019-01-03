@@ -1,19 +1,19 @@
 # format = ucca
 # sent_id = 070730-0001
 # text = Additionally we tried the Logan Circle roll , spicy crab and tuna roll , and sweet potato tempura roll ( $ 15 , $ 10 , and $ 3.75 respectively ) .
-1	Additionally	_	Word	Word	_	22	L	22:L	_
+1	Additionally	_	Word	Word	_	21	L	21:L	_
 2	we	_	Word	Word	_	3	A	3:A	_
 3	tried	_	Word	Word	_	0	H	0:H	_
 4	the	_	Word	Word	_	7	E	7:E	_
 5	Logan	_	Word	Word	_	7	E	7:E	_
 6	Circle	_	Word	Word	_	5	Terminal	5:Terminal	_
-7	roll	_	Word	Word	_	0	C	0:C|22:A	_
+7	roll	_	Word	Word	_	0	C	0:C|21:A	_
 8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 9	spicy	_	Word	Word	_	10	E	10:E	_
 10	crab	_	Word	Word	_	13	E	13:E	_
 11	and	_	Word	Word	_	10	N	10:N	_
 12	tuna	_	Word	Word	_	10	C	10:C	_
-13	roll	_	Word	Word	_	7	C	7:C|25:A	_
+13	roll	_	Word	Word	_	7	C	7:C|24:A	_
 14	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 15	and	_	Word	Word	_	7	N	7:N	_
 16	sweet	_	Word	Word	_	19	E	19:E	_
@@ -21,14 +21,14 @@
 18	tempura	_	Word	Word	_	16	C	16:C	_
 19	roll	_	Word	Word	_	7	C	7:C|29:A	_
 20	(	_	Punctuation	Punctuation	_	3	U	3:U	_
-21	$	_	Punctuation	Punctuation	_	3	U	3:U	_
-22	15	_	Word	Word	_	3	H	3:H	_
+21	$	_	Word	Word	_	3	H	3:H	_
+22	15	_	Word	Word	_	21	Terminal	21:Terminal	_
 23	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-24	$	_	Punctuation	Punctuation	_	3	U	3:U	_
-25	10	_	Word	Word	_	3	H	3:H	_
+24	$	_	Word	Word	_	3	H	3:H	_
+25	10	_	Word	Word	_	24	Terminal	24:Terminal	_
 26	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 27	and	_	Word	Word	_	29	L	29:L	_
-28	$	_	Punctuation	Punctuation	_	3	U	3:U	_
+28	$	_	Word	Word	_	29	Terminal	29:Terminal	_
 29	3.75	_	Word	Word	_	3	H	3:H	_
 30	respectively	_	Word	Word	_	3	L	3:L	_
 31	)	_	Punctuation	Punctuation	_	3	U	3:U	_

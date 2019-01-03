@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 135010-0006
+# text = Chicken saltimboca was excellent and then there 's the chocolate mousse that comes straight from heaven .
+1	Chicken	_	Word	Word	_	4	A	4:A	_
+2	saltimboca	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	was	_	Word	Word	_	4	F	4:F	_
+4	excellent	_	Word	Word	_	0	H	0:H	_
+5	and	_	Word	Word	_	8	L	8:L	_
+6	then	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	there	_	Word	Word	_	8	R	8:R	_
+8	's	_	Word	Word	_	4	H	4:H	_
+9	the	_	Word	Word	_	11	E	11:E	_
+10	chocolate	_	Word	Word	_	11	E	11:E	_
+11	mousse	_	Word	Word	_	13	A	13:A	_
+12	that	_	Word	Word	_	13	F	13:F	_
+13	comes	_	Word	Word	_	8	A	8:A	_
+14	straight	_	Word	Word	_	13	A	13:A	_
+15	from	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	heaven	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

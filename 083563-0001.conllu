@@ -1,17 +1,17 @@
 # format = ucca
 # sent_id = 083563-0001
 # text = A fast service , saved a bad situation getting a lot worse .
-1	A	_	Word	Word	_	3	E	3:E	_
+1	A	_	Word	Word	_	3	F	3:F	_
 2	fast	_	Word	Word	_	3	D	3:D	_
-3	service	_	Word	Word	_	12	A	12:A	_
+3	service	_	Word	Word	_	0	C	0:C|12:A	_
 4	,	_	Punctuation	Punctuation	_	12	U	12:U	_
 5	saved	_	Word	Word	_	12	D	12:D	_
-6	a	_	Word	Word	_	8	E	8:E	_
+6	a	_	Word	Word	_	8	F	8:F	_
 7	bad	_	Word	Word	_	8	D	8:D	_
 8	situation	_	Word	Word	_	12	A	12:A	_
 9	getting	_	Word	Word	_	12	D	12:D	_
 10	a	_	Word	Word	_	12	D	12:D	_
 11	lot	_	Word	Word	_	10	Terminal	10:Terminal	_
-12	worse	_	Word	Word	_	0	H	0:H	_
+12	worse	_	Word	Word	_	3	H	3:H	_
 13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
 

@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 183518-0009
+# text = Expect to pay full price , and the theatres themselves are on the small side .
+1	Expect	_	Word	Word	_	0	H	0:H	_
+2	to	_	Word	Word	_	3	R	3:R	_
+3	pay	_	Word	Word	_	1	A	1:A	_
+4	full	_	Word	Word	_	5	E	5:E	_
+5	price	_	Word	Word	_	3	A	3:A	_
+6	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+7	and	_	Word	Word	_	14	L	14:L	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	theatres	_	Word	Word	_	14	A	14:A	_
+10	themselves	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	are	_	Word	Word	_	14	F	14:F	_
+12	on	_	Word	Word	_	14	R	14:R	_
+13	the	_	Word	Word	_	14	E	14:E	_
+14	small	_	Word	Word	_	1	H	1:H	_
+15	side	_	Word	Word	_	14	F	14:F	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

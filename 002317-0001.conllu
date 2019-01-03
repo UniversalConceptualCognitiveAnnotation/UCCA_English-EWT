@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 002317-0001
+# text = the telephone number is incorrect - our new mobile number is 07551310002 or landline 01634 710033 .
+1	the	_	Word	Word	_	3	F	3:F	_
+2	telephone	_	Word	Word	_	3	E	3:E	_
+3	number	_	Word	Word	_	5	A	5:A	_
+4	is	_	Word	Word	_	5	F	5:F	_
+5	incorrect	_	Word	Word	_	0	H	0:H	_
+6	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	our	_	Word	Word	_	10	E	10:E|14:E	_
+8	new	_	Word	Word	_	10	E	10:E	_
+9	mobile	_	Word	Word	_	10	E	10:E	_
+10	number	_	Word	Word	_	11	A	11:A	_
+11	is	_	Word	Word	_	5	H	5:H	_
+12	07551310002	_	Word	Word	_	11	A	11:A	_
+13	or	_	Word	Word	_	14	L	14:L	_
+14	landline	_	Word	Word	_	5	H	5:H	_
+15	01634	_	Word	Word	_	14	A	14:A	_
+16	710033	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

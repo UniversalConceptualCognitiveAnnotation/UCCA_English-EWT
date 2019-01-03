@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 369087-0006
+# text = The advisor kept me up to date and informed on the progress of my vehicle .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	advisor	_	Word	Word	_	5	A	5:A	_
+3	kept	_	Word	Word	_	5	D	5:D	_
+4	me	_	Word	Word	_	5	A	5:A|9:A	_
+5	up	_	Word	Word	_	0	H	0:H	_
+6	to	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	date	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	and	_	Word	Word	_	9	L	9:L	_
+9	informed	_	Word	Word	_	5	H	5:H	_
+10	on	_	Word	Word	_	12	R	12:R	_
+11	the	_	Word	Word	_	12	F	12:F	_
+12	progress	_	Word	Word	_	9	A	9:A	_
+13	of	_	Word	Word	_	15	R	15:R	_
+14	my	_	Word	Word	_	15	E	15:E	_
+15	vehicle	_	Word	Word	_	12	A	12:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 219262-0002
+# text = I had John and Dustin working feverishly to get my exhaust motor replaced .
+1	I	_	Word	Word	_	2	A	2:A	_
+2	had	_	Word	Word	_	0	H	0:H	_
+3	John	_	Word	Word	_	6	A	6:A|13:A	_
+4	and	_	Word	Word	_	3	N	3:N	_
+5	Dustin	_	Word	Word	_	3	C	3:C	_
+6	working	_	Word	Word	_	2	A	2:A	_
+7	feverishly	_	Word	Word	_	6	D	6:D	_
+8	to	_	Word	Word	_	13	L	13:L	_
+9	get	_	Word	Word	_	13	D	13:D	_
+10	my	_	Word	Word	_	12	E	12:E	_
+11	exhaust	_	Word	Word	_	12	E	12:E	_
+12	motor	_	Word	Word	_	13	A	13:A	_
+13	replaced	_	Word	Word	_	2	H	2:H	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

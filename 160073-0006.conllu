@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 160073-0006
+# text = We stopped in and got some take out and can not stop going back .
+1	We	_	Word	Word	_	2	A	2:A|7:A|12:A	_
+2	stopped	_	Word	Word	_	0	H	0:H	_
+3	in	_	Word	Word	_	2	A	2:A	_
+4	and	_	Word	Word	_	7	L	7:L	_
+5	got	_	Word	Word	_	7	F	7:F	_
+6	some	_	Word	Word	_	7	D	7:D	_
+7	take	_	Word	Word	_	2	H	2:H	_
+8	out	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	and	_	Word	Word	_	12	L	12:L	_
+10	can	_	Word	Word	_	12	F	12:F	_
+11	not	_	Word	Word	_	12	D	12:D	_
+12	stop	_	Word	Word	_	2	H	2:H	_
+13	going	_	Word	Word	_	12	A	12:A	_
+14	back	_	Word	Word	_	13	D	13:D	_
+15	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

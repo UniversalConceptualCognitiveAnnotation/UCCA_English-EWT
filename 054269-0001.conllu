@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 054269-0001
+# text = Compact 's Corona dryers remove at least twice as much water as the previous dryers , allowing a production increase of over 10 % and a significant energy saving .
+1	Compact	_	Word	Word	_	2	A	2:A	_
+2	's	_	Word	Word	_	5	A	5:A	_
+3	Corona	_	Word	Word	_	4	E	4:E	_
+4	dryers	_	Word	Word	_	2	A	2:A	_
+5	remove	_	Word	Word	_	0	H	0:H	_
+6	at	_	Word	Word	_	8	E	8:E	_
+7	least	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	twice	_	Word	Word	_	11	Q	11:Q	_
+9	as	_	Word	Word	_	11	R	11:R	_
+10	much	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	water	_	Word	Word	_	5	A	5:A	_
+12	as	_	Word	Word	_	15	R	15:R	_
+13	the	_	Word	Word	_	15	E	15:E	_
+14	previous	_	Word	Word	_	15	E	15:E	_
+15	dryers	_	Word	Word	_	5	H	5:H	_
+16	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+17	allowing	_	Word	Word	_	19	L	19:L	_
+18	a	_	Word	Word	_	19	E	19:E	_
+19	production	_	Word	Word	_	5	H	5:H	_
+20	increase	_	Word	Word	_	19	D	19:D	_
+21	of	_	Word	Word	_	23	R	23:R	_
+22	over	_	Word	Word	_	23	E	23:E	_
+23	10	_	Word	Word	_	20	Q	20:Q	_
+24	%	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	and	_	Word	Word	_	29	L	29:L	_
+26	a	_	Word	Word	_	27	E	27:E	_
+27	significant	_	Word	Word	_	29	D	29:D	_
+28	energy	_	Word	Word	_	29	A	29:A	_
+29	saving	_	Word	Word	_	5	H	5:H	_
+30	.	_	Punctuation	Punctuation	_	29	U	29:U	_
+

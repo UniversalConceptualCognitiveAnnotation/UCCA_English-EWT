@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 043020-0005
+# text = We called our representative who assured me he would call the office and have it taken care of .
+1	We	_	Word	Word	_	2	A	2:A	_
+2	called	_	Word	Word	_	0	H	0:H	_
+3	our	_	Word	Word	_	4	E	4:E	_
+4	representative	_	Word	Word	_	0	C	0:C|3:A|6:A	_
+5	who	_	Word	Word	_	6	L	6:L	_
+6	assured	_	Word	Word	_	2	H	2:H	_
+7	me	_	Word	Word	_	6	A	6:A	_
+8	he	_	Word	Word	_	10	A	10:A|16:A	_
+9	would	_	Word	Word	_	10	D	10:D	_
+10	call	_	Word	Word	_	6	A	6:A	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	office	_	Word	Word	_	10	A	10:A	_
+13	and	_	Word	Word	_	16	L	16:L	_
+14	have	_	Word	Word	_	16	F	16:F	_
+15	it	_	Word	Word	_	16	A	16:A	_
+16	taken	_	Word	Word	_	10	H	10:H	_
+17	care	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	of	_	Word	Word	_	16	R	16:R	_
+19	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

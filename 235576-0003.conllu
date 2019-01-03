@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 235576-0003
+# text = T 's has been a North County landmark for thirty years and with good reason .
+1	T	_	Word	Word	_	8	A	8:A	_
+2	's	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	has	_	Word	Word	_	8	F	8:F	_
+4	been	_	Word	Word	_	8	F	8:F	_
+5	a	_	Word	Word	_	8	F	8:F	_
+6	North	_	Word	Word	_	8	A	8:A	_
+7	County	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	landmark	_	Word	Word	_	0	C	0:C|15:A	_
+9	for	_	Word	Word	_	11	R	11:R	_
+10	thirty	_	Word	Word	_	11	Q	11:Q	_
+11	years	_	Word	Word	_	8	T	8:T	_
+12	and	_	Word	Word	_	15	L	15:L	_
+13	with	_	Word	Word	_	15	R	15:R	_
+14	good	_	Word	Word	_	15	D	15:D	_
+15	reason	_	Word	Word	_	8	H	8:H	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

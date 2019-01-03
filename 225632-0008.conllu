@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 225632-0008
+# text = The point is -- FHS gives you the opportunity to make it to a good college , but you need to work hard .
+1	The	_	Word	Word	_	22	L	22:L	_
+2	point	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	is	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	--	_	Punctuation	Punctuation	_	9	U	9:U	_
+5	FHS	_	Word	Word	_	9	A	9:A	_
+6	gives	_	Word	Word	_	9	F	9:F	_
+7	you	_	Word	Word	_	9	A	9:A|11:A	_
+8	the	_	Word	Word	_	9	F	9:F	_
+9	opportunity	_	Word	Word	_	0	H	0:H	_
+10	to	_	Word	Word	_	11	R	11:R	_
+11	make	_	Word	Word	_	9	A	9:A	_
+12	it	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	to	_	Word	Word	_	16	R	16:R	_
+14	a	_	Word	Word	_	16	F	16:F	_
+15	good	_	Word	Word	_	16	E	16:E	_
+16	college	_	Word	Word	_	11	A	11:A	_
+17	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+18	but	_	Word	Word	_	22	L	22:L	_
+19	you	_	Word	Word	_	22	A	22:A	_
+20	need	_	Word	Word	_	22	D	22:D	_
+21	to	_	Word	Word	_	22	F	22:F	_
+22	work	_	Word	Word	_	9	H	9:H	_
+23	hard	_	Word	Word	_	22	D	22:D	_
+24	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 004940-0003
+# text = On one order , we needed it rushed and shipped to a different state .
+1	On	_	Word	Word	_	3	R	3:R	_
+2	one	_	Word	Word	_	3	Q	3:Q	_
+3	order	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	we	_	Word	Word	_	8	A	8:A	_
+6	needed	_	Word	Word	_	8	D	8:D	_
+7	it	_	Word	Word	_	8	A	8:A|10:A	_
+8	rushed	_	Word	Word	_	3	H	3:H	_
+9	and	_	Word	Word	_	10	L	10:L	_
+10	shipped	_	Word	Word	_	3	H	3:H	_
+11	to	_	Word	Word	_	14	R	14:R	_
+12	a	_	Word	Word	_	14	E	14:E	_
+13	different	_	Word	Word	_	14	E	14:E	_
+14	state	_	Word	Word	_	10	A	10:A	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

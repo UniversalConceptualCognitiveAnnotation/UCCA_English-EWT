@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 317594-0004
+# text = Not only was it a good cut but my wife and friends comment on my hair every time I leave ... saying it 's the best look I 've ever had .
+1	Not	_	Word	Word	_	13	L	13:L	_
+2	only	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	was	_	Word	Word	_	7	F	7:F	_
+4	it	_	Word	Word	_	7	A	7:A	_
+5	a	_	Word	Word	_	7	F	7:F	_
+6	good	_	Word	Word	_	7	D	7:D	_
+7	cut	_	Word	Word	_	0	H	0:H	_
+8	but	_	Word	Word	_	13	L	13:L	_
+9	my	_	Word	Word	_	10	A	10:A|12:A	_
+10	wife	_	Word	Word	_	13	A	13:A|22:A	_
+11	and	_	Word	Word	_	12	L	12:L	_
+12	friends	_	Word	Word	_	10	H	10:H	_
+13	comment	_	Word	Word	_	7	H	7:H	_
+14	on	_	Word	Word	_	16	R	16:R	_
+15	my	_	Word	Word	_	16	E	16:E	_
+16	hair	_	Word	Word	_	13	A	13:A	_
+17	every	_	Word	Word	_	20	L	20:L	_
+18	time	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	I	_	Word	Word	_	20	A	20:A	_
+20	leave	_	Word	Word	_	7	H	7:H	_
+21	...	_	Punctuation	Punctuation	_	7	U	7:U	_
+22	saying	_	Word	Word	_	7	H	7:H	_
+23	it	_	Word	Word	_	26	A	26:A	_
+24	's	_	Word	Word	_	26	F	26:F	_
+25	the	_	Word	Word	_	26	F	26:F	_
+26	best	_	Word	Word	_	22	A	22:A	_
+27	look	_	Word	Word	_	26	A	26:A|31:A	_
+28	I	_	Word	Word	_	31	A	31:A	_
+29	've	_	Word	Word	_	31	F	31:F	_
+30	ever	_	Word	Word	_	31	T	31:T	_
+31	had	_	Word	Word	_	26	A	26:A	_
+32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

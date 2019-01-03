@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 241855-0004
 # text = The Brick , Ikea , and Leon 's have their place .
-1	The	_	Word	Word	_	9	A	9:A	_
+1	The	_	Word	Word	_	11	A	11:A	_
 2	Brick	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	,	_	Punctuation	Punctuation	_	1	U	1:U	_
 4	Ikea	_	Word	Word	_	1	C	1:C	_
@@ -9,8 +9,8 @@
 6	and	_	Word	Word	_	1	N	1:N	_
 7	Leon	_	Word	Word	_	1	C	1:C	_
 8	's	_	Word	Word	_	7	Terminal	7:Terminal	_
-9	have	_	Word	Word	_	0	H	0:H	_
-10	their	_	Word	Word	_	9	A	9:A	_
-11	place	_	Word	Word	_	9	Terminal	9:Terminal	_
-12	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	have	_	Word	Word	_	11	F	11:F	_
+10	their	_	Word	Word	_	11	A	11:A	_
+11	place	_	Word	Word	_	0	H	0:H	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
 

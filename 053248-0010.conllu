@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 053248-0010
+# text = The vegetarian dishes and lighter fare were almost always spot - on , while the lamb was often dry and / or overcooked .
+1	The	_	Word	Word	_	3	E	3:E	_
+2	vegetarian	_	Word	Word	_	3	E	3:E	_
+3	dishes	_	Word	Word	_	10	A	10:A	_
+4	and	_	Word	Word	_	3	N	3:N	_
+5	lighter	_	Word	Word	_	6	E	6:E	_
+6	fare	_	Word	Word	_	3	C	3:C	_
+7	were	_	Word	Word	_	10	F	10:F	_
+8	almost	_	Word	Word	_	9	E	9:E	_
+9	always	_	Word	Word	_	10	T	10:T	_
+10	spot	_	Word	Word	_	0	H	0:H	_
+11	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	on	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+14	while	_	Word	Word	_	19	L	19:L	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	lamb	_	Word	Word	_	0	C	0:C|23:A	_
+17	was	_	Word	Word	_	19	F	19:F	_
+18	often	_	Word	Word	_	19	T	19:T	_
+19	dry	_	Word	Word	_	10	H	10:H	_
+20	and	_	Word	Word	_	23	L	23:L	_
+21	/	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	or	_	Word	Word	_	20	Terminal	20:Terminal	_
+23	overcooked	_	Word	Word	_	10	H	10:H	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

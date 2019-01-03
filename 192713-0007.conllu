@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 192713-0007
+# text = It put hair on my chest and thanks to the owner s advice I invested vanguard , got myself a woman like Jerry , and became a republican .
+1	It	_	Word	Word	_	2	A	2:A	_
+2	put	_	Word	Word	_	0	H	0:H	_
+3	hair	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	on	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	my	_	Word	Word	_	2	Terminal	2:Terminal	_
+6	chest	_	Word	Word	_	2	Terminal	2:Terminal	_
+7	and	_	Word	Word	_	8	L	8:L	_
+8	thanks	_	Word	Word	_	2	H	2:H	_
+9	to	_	Word	Word	_	13	R	13:R	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	owner	_	Word	Word	_	12	A	12:A	_
+12	s	_	Word	Word	_	13	A	13:A	_
+13	advice	_	Word	Word	_	8	A	8:A	_
+14	I	_	Word	Word	_	15	A	15:A|18:A|28:A	_
+15	invested	_	Word	Word	_	2	H	2:H	_
+16	vanguard	_	Word	Word	_	15	A	15:A	_
+17	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+18	got	_	Word	Word	_	2	H	2:H	_
+19	myself	_	Word	Word	_	18	A	18:A	_
+20	a	_	Word	Word	_	21	E	21:E	_
+21	woman	_	Word	Word	_	18	A	18:A	_
+22	like	_	Word	Word	_	23	R	23:R	_
+23	Jerry	_	Word	Word	_	21	E	21:E	_
+24	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+25	and	_	Word	Word	_	28	L	28:L	_
+26	became	_	Word	Word	_	28	D	28:D	_
+27	a	_	Word	Word	_	28	E	28:E	_
+28	republican	_	Word	Word	_	2	H	2:H	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

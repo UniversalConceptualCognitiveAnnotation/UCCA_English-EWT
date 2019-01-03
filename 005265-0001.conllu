@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 005265-0001
+# text = it is a cute little nice and quiet library
+1	it	_	Word	Word	_	4	A	4:A	_
+2	is	_	Word	Word	_	4	F	4:F	_
+3	a	_	Word	Word	_	9	E	9:E	_
+4	cute	_	Word	Word	_	0	H	0:H	_
+5	little	_	Word	Word	_	4	H	4:H	_
+6	nice	_	Word	Word	_	4	H	4:H	_
+7	and	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	quiet	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	library	_	Word	Word	_	0	C	0:C|5:A|6:A	_
+

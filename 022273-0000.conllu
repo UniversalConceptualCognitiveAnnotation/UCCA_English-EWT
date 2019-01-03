@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 022273-0000
+# text = Good food , good location , and good prices .
+1	Good	_	Word	Word	_	0	H	0:H	_
+2	food	_	Word	Word	_	1	A	1:A	_
+3	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+4	good	_	Word	Word	_	1	H	1:H	_
+5	location	_	Word	Word	_	4	A	4:A	_
+6	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+7	and	_	Word	Word	_	8	L	8:L	_
+8	good	_	Word	Word	_	1	H	1:H	_
+9	prices	_	Word	Word	_	8	A	8:A	_
+10	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

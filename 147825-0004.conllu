@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 147825-0004
+# text = Oh , and salad cream , not mayonnaise , on the coleslaw .
+1	Oh	_	Word	Word	_	5	G	5:G	_
+2	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+3	and	_	Word	Word	_	8	L	8:L	_
+4	salad	_	Word	Word	_	5	E	5:E	_
+5	cream	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	not	_	Word	Word	_	8	D	8:D	_
+8	mayonnaise	_	Word	Word	_	5	H	5:H	_
+9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	on	_	Word	Word	_	12	R	12:R	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	coleslaw	_	Word	Word	_	0	C	0:C|5:A	_
+13	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

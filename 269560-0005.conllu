@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 269560-0005
+# text = I think he did it on purpose because of my simple request for another slice of grandma that was n't so well - done ( actually , burnt ) .
+1	I	_	Word	Word	_	2	A	2:A	_
+2	think	_	Word	Word	_	0	H	0:H	_
+3	he	_	Word	Word	_	4	A	4:A	_
+4	did	_	Word	Word	_	2	A	2:A	_
+5	it	_	Word	Word	_	4	A	4:A	_
+6	on	_	Word	Word	_	7	R	7:R	_
+7	purpose	_	Word	Word	_	4	A	4:A	_
+8	because	_	Word	Word	_	12	L	12:L	_
+9	of	_	Word	Word	_	12	R	12:R	_
+10	my	_	Word	Word	_	12	E	12:E	_
+11	simple	_	Word	Word	_	12	D	12:D	_
+12	request	_	Word	Word	_	2	H	2:H	_
+13	for	_	Word	Word	_	17	R	17:R	_
+14	another	_	Word	Word	_	15	E	15:E	_
+15	slice	_	Word	Word	_	0	C	0:C|22:A	_
+16	of	_	Word	Word	_	17	F	17:F	_
+17	grandma	_	Word	Word	_	12	A	12:A	_
+18	that	_	Word	Word	_	22	L	22:L	_
+19	was	_	Word	Word	_	22	F	22:F	_
+20	n't	_	Word	Word	_	22	D	22:D	_
+21	so	_	Word	Word	_	22	D	22:D	_
+22	well	_	Word	Word	_	2	H	2:H	_
+23	-	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	done	_	Word	Word	_	22	Terminal	22:Terminal	_
+25	(	_	Punctuation	Punctuation	_	2	U	2:U	_
+26	actually	_	Word	Word	_	28	G	28:G	_
+27	,	_	Punctuation	Punctuation	_	28	U	28:U	_
+28	burnt	_	Word	Word	_	2	H	2:H	_
+29	)	_	Punctuation	Punctuation	_	28	U	28:U	_
+30	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

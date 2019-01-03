@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 385436-0000
+# text = This is the best Mediterranean Restaurant in the West Valley , I have friend who drive from central Phx to come here .
+1	This	_	Word	Word	_	2	A	2:A	_
+2	is	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	6	F	6:F	_
+4	best	_	Word	Word	_	6	E	6:E	_
+5	Mediterranean	_	Word	Word	_	6	E	6:E	_
+6	Restaurant	_	Word	Word	_	2	A	2:A	_
+7	in	_	Word	Word	_	10	R	10:R	_
+8	the	_	Word	Word	_	10	F	10:F	_
+9	West	_	Word	Word	_	10	E	10:E	_
+10	Valley	_	Word	Word	_	6	E	6:E	_
+11	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+12	I	_	Word	Word	_	14	A	14:A	_
+13	have	_	Word	Word	_	14	F	14:F	_
+14	friend	_	Word	Word	_	0	C	0:C|16:A|21:A	_
+15	who	_	Word	Word	_	16	L	16:L	_
+16	drive	_	Word	Word	_	2	H	2:H	_
+17	from	_	Word	Word	_	19	R	19:R	_
+18	central	_	Word	Word	_	19	E	19:E	_
+19	Phx	_	Word	Word	_	16	A	16:A	_
+20	to	_	Word	Word	_	21	L	21:L	_
+21	come	_	Word	Word	_	2	H	2:H	_
+22	here	_	Word	Word	_	21	A	21:A	_
+23	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+
