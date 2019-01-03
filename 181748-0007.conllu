@@ -1,0 +1,34 @@
+# sent_id = 181748-0007
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	SpaceAfter=No
+3	n't	not	PART	RB	_	4	advmod	4:advmod	_
+4	know	know	VERB	VB	VerbForm=Inf	0	root	0:root	_
+5	if	if	SCONJ	IN	_	8	mark	8:mark	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	kid	kid	NOUN	NN	Number=Sing	8	nsubj	8:nsubj|13:nsubj	_
+8	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	advcl	4:advcl:if	_
+9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	_
+10	bad	bad	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	day	day	NOUN	NN	Number=Sing	8	obl:tmod	8:obl:tmod	_
+12	or	or	CCONJ	CC	_	13	cc	13:cc	_
+13	what	what	PRON	WP	PronType=Int	8	conj	4:advcl:if|8:conj:or	SpaceAfter=No
+14	,	,	PUNCT	,	_	17	punct	17:punct	_
+15	but	but	CCONJ	CC	_	17	cc	17:cc	_
+16	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	17:nsubj|19:nsubj:xsubj|21:nsubj:xsubj	_
+17	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	4:conj:but	_
+18	to	to	PART	TO	_	19	mark	19:mark	_
+19	sit	sit	VERB	VB	VerbForm=Inf	17	xcomp	17:xcomp	_
+20	and	and	CCONJ	CC	_	21	cc	21:cc	_
+21	apologize	apologize	VERB	VB	VerbForm=Inf	19	conj	17:xcomp|19:conj:and	_
+22	about	about	ADP	IN	_	23	case	23:case	_
+23	nothing	nothing	PRON	NN	Number=Sing	21	obl	21:obl:about	_
+24	for	for	ADP	IN	_	26	case	26:case	_
+25	10	10	NUM	CD	NumType=Card	26	nummod	26:nummod	_
+26	minutes	minute	NOUN	NNS	Number=Plur	21	obl	21:obl:for	_
+27	until	until	SCONJ	IN	_	29	mark	29:mark	_
+28	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	nsubj	29:nsubj	_
+29	dropped	drop	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	21	advcl	21:advcl:until	_
+30	the	the	DET	DT	Definite=Def|PronType=Art	31	det	31:det	_
+31	issue	issue	NOUN	NN	Number=Sing	29	obj	29:obj	SpaceAfter=No
+32	.	.	PUNCT	.	_	4	punct	4:punct	_
+

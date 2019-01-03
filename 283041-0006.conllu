@@ -1,0 +1,18 @@
+# sent_id = 283041-0006
+1	And	and	CCONJ	CC	_	3	cc	3:cc	_
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+3	bought	buy	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
+5	few	few	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	cookies	cookie	NOUN	NNS	Number=Plur	3	obj	3:obj	_
+7	there	there	ADV	RB	PronType=Dem	3	advmod	3:advmod	_
+8	too	too	ADV	RB	_	3	advmod	3:advmod	SpaceAfter=No
+9	,	,	PUNCT	,	_	3	punct	3:punct	_
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	12:nsubj	_
+11	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12	cop	12:cop	_
+12	fantastic	fantastic	ADJ	JJ	Degree=Pos	3	parataxis	3:parataxis	_
+13	as	as	ADV	RB	_	12	advmod	12:advmod	_
+14	well	well	ADV	RB	Degree=Pos	13	fixed	13:fixed	SpaceAfter=No
+15	!	!	PUNCT	.	_	3	punct	3:punct	SpaceAfter=No
+16	)	)	PUNCT	-RRB-	_	3	punct	3:punct	_
+

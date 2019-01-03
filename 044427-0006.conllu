@@ -1,0 +1,14 @@
+# sent_id = 044427-0006
+1	Because	because	ADP	IN	_	4	case	4:case	_
+2	of	of	ADP	IN	_	1	fixed	1:fixed	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
+4	ants	ant	NOUN	NNS	Number=Plur	6	obl	6:obl:because_of	_
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
+6	dropped	drop	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+7	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	6	obj	6:obj	_
+8	to	to	ADP	IN	_	11	case	11:case	_
+9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	_
+10	3	3	NUM	CD	NumType=Card	11	compound	11:compound	_
+11	star	star	NOUN	NN	Number=Sing	6	obl	6:obl:to	SpaceAfter=No
+12	.	.	PUNCT	.	_	6	punct	6:punct	_
+

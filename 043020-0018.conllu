@@ -1,0 +1,17 @@
+# sent_id = 043020-0018
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	in	in	ADV	RB	_	2	advmod	2:advmod	_
+4	under	under	ADP	IN	_	6	case	6:case	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
+6	lot	lot	NOUN	NN	Number=Sing	2	obl	2:obl:under	_
+7	of	of	ADP	IN	_	9	case	9:case	_
+8	other	other	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
+9	quotes	quote	NOUN	NNS	Number=Plur	6	nmod	6:nmod:of	_
+10	and	and	CCONJ	CC	_	13	cc	13:cc	_
+11	now	now	ADV	RB	_	13	advmod	13:advmod	_
+12	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	13:nsubj	_
+13	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	2:conj:and	_
+14	why	why	ADV	WRB	PronType=Int	13	advmod	13:advmod	SpaceAfter=No
+15	!!!	!!!	PUNCT	.	_	2	punct	2:punct	_
+

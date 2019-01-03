@@ -1,0 +1,19 @@
+# sent_id = 160442-0002
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
+2	not	not	PART	RB	_	3	advmod	3:advmod	_
+3	go	go	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
+4	to	to	ADP	IN	_	6	case	6:case	_
+5	this	this	DET	DT	Number=Sing|PronType=Dem	6	det	6:det	_
+6	salon	salon	NOUN	NN	Number=Sing	3	obl	3:obl:to	SpaceAfter=No
+7	,	,	PUNCT	,	_	3	punct	3:punct	_
+8	especially	especially	ADV	RB	_	11	advmod	11:advmod	_
+9	if	if	SCONJ	IN	_	11	mark	11:mark	_
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	11:nsubj|13:nsubj:xsubj	_
+11	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	advcl	3:advcl:if	_
+12	to	to	PART	TO	_	13	mark	13:mark	_
+13	get	get	VERB	VB	VerbForm=Inf	11	xcomp	11:xcomp	_
+14	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	15	nmod:poss	15:nmod:poss	_
+15	hair	hair	NOUN	NN	Number=Sing	13	obj	13:obj|16:nsubj:xsubj	_
+16	straightened	straighten	VERB	VBN	Tense=Past|VerbForm=Part	13	xcomp	13:xcomp	SpaceAfter=No
+17	.	.	PUNCT	.	_	3	punct	3:punct	_
+

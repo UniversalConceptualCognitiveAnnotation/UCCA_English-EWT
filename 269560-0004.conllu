@@ -1,0 +1,28 @@
+# sent_id = 269560-0004
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
+3	in	in	ADP	IN	_	5	case	5:case	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	process	process	NOUN	NN	Number=Sing	0	root	0:root	_
+6	of	of	SCONJ	IN	_	7	mark	7:mark	_
+7	making	make	VERB	VBG	VerbForm=Ger	5	acl	5:acl:of	_
+8	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	iobj	7:iobj	_
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	_
+10	pie	pie	NOUN	NN	Number=Sing	7	obj	7:obj	_
+11	and	and	CCONJ	CC	_	21	cc	21:cc	_
+12	when	when	ADV	WRB	PronType=Int	14	mark	14:mark	_
+13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	14:nsubj	_
+14	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	21	advcl	21:advcl:when	_
+15	home	home	ADV	RB	_	14	advmod	14:advmod	SpaceAfter=No
+16	,	,	PUNCT	,	_	21	punct	21:punct	_
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
+18	pie	pie	NOUN	NN	Number=Sing	21	nsubj	21:nsubj	_
+19	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	cop	21:cop	_
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	_
+21	worst	worst	ADJ	JJS	Degree=Sup	5	conj	5:conj:and	_
+22	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	25	nsubj	25:nsubj	_
+23	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	25	aux	25:aux	_
+24	ever	ever	ADV	RB	_	25	advmod	25:advmod	_
+25	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	21	ccomp	21:ccomp	SpaceAfter=No
+26	.	.	PUNCT	.	_	5	punct	5:punct	_
+

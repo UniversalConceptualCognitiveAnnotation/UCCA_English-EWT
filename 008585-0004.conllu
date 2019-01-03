@@ -1,0 +1,21 @@
+# sent_id = 008585-0004
+1	Not	not	ADV	RB	_	2	advmod	2:advmod	_
+2	only	only	ADV	RB	_	5	advmod	5:advmod	_
+3	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	5:aux	_
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
+5	answer	answer	VERB	VB	VerbForm=Inf	0	root	0:root	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	phone	phone	NOUN	NN	Number=Sing	5	obj	5:obj	_
+8	at	at	ADP	IN	_	9	case	9:case	_
+9	4:50	4:50	NUM	CD	NumType=Card	5	obl	5:obl:at	_
+10	on	on	ADP	IN	_	12	case	12:case	_
+11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	_
+12	Thursday	Thursday	PROPN	NNP	Number=Sing	5	obl	5:obl:on	SpaceAfter=No
+13	,	,	PUNCT	,	_	15	punct	15:punct	_
+14	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	15:nsubj	_
+15	hit	hit	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	parataxis	5:parataxis	_
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
+17	ground	ground	NOUN	NN	Number=Sing	15	obj	15:obj	_
+18	moving	move	VERB	VBG	VerbForm=Ger	15	advcl	15:advcl	SpaceAfter=No
+19	!.	!.	PUNCT	.	_	5	punct	5:punct	_
+

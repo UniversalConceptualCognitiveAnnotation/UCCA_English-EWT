@@ -1,0 +1,16 @@
+# sent_id = 043020-0002
+1	B&B	B&B	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
+2	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	out	out	ADV	RB	_	2	advmod	2:advmod	_
+4	very	very	ADV	RB	_	5	advmod	5:advmod	_
+5	quickly	quickly	ADV	RB	_	2	advmod	2:advmod	_
+6	to	to	PART	TO	_	7	mark	7:mark	_
+7	give	give	VERB	VB	VerbForm=Inf	2	advcl	2:advcl:to	_
+8	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	7	iobj	7:iobj	_
+9	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	10:nmod:poss	_
+10	quote	quote	NOUN	NN	Number=Sing	7	obj	7:obj	_
+11	back	back	ADV	RB	_	13	advmod	13:advmod	_
+12	in	in	ADP	IN	_	13	case	13:case	_
+13	June	June	PROPN	NNP	Number=Sing	2	obl	2:obl:in	SpaceAfter=No
+14	.	.	PUNCT	.	_	2	punct	2:punct	_
+

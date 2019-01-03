@@ -1,0 +1,13 @@
+# sent_id = 216281-0002
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	called	call	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	over	over	ADP	IN	_	5	case	5:case	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	weekend	weekend	NOUN	NN	Number=Sing	2	obl	2:obl:over	_
+6	due	due	ADP	IN	_	10	case	10:case	_
+7	to	to	ADP	IN	_	6	fixed	6:fixed	_
+8	clogged	clog	VERB	VBN	Tense=Past|VerbForm=Part	10	amod	10:amod	_
+9	kitchen	kitchen	NOUN	NN	Number=Sing	10	compound	10:compound	_
+10	sink	sink	NOUN	NN	Number=Sing	2	obl	2:obl:due_to	SpaceAfter=No
+11	.	.	PUNCT	.	_	2	punct	2:punct	_
+

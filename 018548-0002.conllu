@@ -1,0 +1,13 @@
+# sent_id = 018548-0002
+1	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+2	mezza	mezza	NOUN	NN	Number=Sing	3	compound	3:compound	_
+3	luna's	luna'	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj	_
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+5	deffly	deffly	ADV	RB	_	6	advmod	6:advmod	_
+6	better	better	ADJ	JJR	Degree=Cmp	0	root	0:root	_
+7	than	than	ADP	IN	_	10	case	10:case	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+9	pizza	pizza	NOUN	NN	Number=Sing	10	compound	10:compound	_
+10	rolls	roll	NOUN	NNS	Number=Plur	6	obl	6:obl:than	SpaceAfter=No
+11	.	.	PUNCT	.	_	6	punct	6:punct	_
+

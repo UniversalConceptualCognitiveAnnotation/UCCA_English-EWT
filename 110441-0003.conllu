@@ -1,0 +1,20 @@
+# sent_id = 110441-0003
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj|8:nsubj	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	4:cop	_
+3	just	just	ADV	RB	_	4	advmod	4:advmod	_
+4	in	in	ADV	RB	_	0	root	0:root	_
+5	last	last	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	night	night	NOUN	NN	Number=Sing	4	obl:tmod	4:obl:tmod	_
+7	and	and	CCONJ	CC	_	8	cc	8:cc	_
+8	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	4:conj:and	_
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	_
+10	chance	chance	NOUN	NN	Number=Sing	8	obj	8:obj	_
+11	to	to	PART	TO	_	12	mark	12:mark	_
+12	dine	dine	VERB	VB	VerbForm=Inf	10	acl	10:acl:to	_
+13	in	in	ADP	IN	_	17	case	17:case	_
+14	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	nmod:poss	17:nmod:poss	_
+15	new	new	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
+16	dining	dining	NOUN	NN	Number=Sing	17	compound	17:compound	_
+17	room	room	NOUN	NN	Number=Sing	12	obl	12:obl:in	SpaceAfter=No
+18	.	.	PUNCT	.	_	4	punct	4:punct	_
+

@@ -1,0 +1,16 @@
+# sent_id = 049766-0006
+1	and	and	CCONJ	CC	_	9	cc	9:cc	_
+2	most	most	ADV	RBS	_	3	advmod	3:advmod	_
+3	correctly	correctly	ADV	RB	_	9	advmod	9:advmod	SpaceAfter=No
+4	,	,	PUNCT	,	_	9	punct	9:punct	_
+5	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	9	nsubj	9:nsubj	_
+6	visitors	visitor	NOUN	NNS	Number=Plur	5	appos	5:appos	_
+7	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	aux	9:aux	_
+8	not	not	PART	RB	_	9	advmod	9:advmod	_
+9	mingle	mingle	VERB	VB	VerbForm=Inf	0	root	0:root	_
+10	with	with	ADP	IN	_	13	case	13:case	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
+12	native	native	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
+13	wildlife	wildlife	NOUN	NN	Number=Sing	9	obl	9:obl:with	SpaceAfter=No
+14	.	.	PUNCT	.	_	9	punct	9:punct	_
+

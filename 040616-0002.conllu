@@ -1,0 +1,30 @@
+# sent_id = 040616-0002
+1	Since	since	ADP	IN	_	2	case	2:case	_
+2	then	then	ADV	RB	PronType=Dem	5	obl	5:obl:since	_
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	5:nsubj|7:nsubj:xsubj	_
+4	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
+5	decided	decide	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+6	to	to	PART	TO	_	7	mark	7:mark	_
+7	have	have	VERB	VB	VerbForm=Inf	5	xcomp	5:xcomp	_
+8	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	obj	7:obj|9:nsubj:xsubj	_
+9	manage	manage	VERB	VB	VerbForm=Inf	7	xcomp	7:xcomp	_
+10	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	13:nmod:poss	_
+11	other	other	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
+12	investment	investment	NOUN	NN	Number=Sing	13	compound	13:compound	_
+13	properties	property	NOUN	NNS	Number=Plur	9	obj	9:obj	_
+14	as	as	ADV	RB	_	9	advmod	9:advmod	_
+15	well	well	ADV	RB	Degree=Pos	14	fixed	14:fixed	_
+16	as	as	SCONJ	IN	_	19	mark	19:mark	_
+17	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	19	nsubj	19:nsubj|24:nsubj	_
+18	getting	get	VERB	VBG	VerbForm=Ger	19	aux	19:aux	_
+19	older	older	ADJ	JJR	Degree=Cmp	7	advcl	7:advcl:as	_
+20	and	and	CCONJ	CC	_	24	cc	24:cc	_
+21	can	can	AUX	MD	VerbForm=Fin	24	aux	24:aux	_
+22	no	no	ADV	RB	_	23	advmod	23:advmod	_
+23	longer	longer	ADV	RBR	Degree=Cmp	24	advmod	24:advmod	_
+24	perform	perform	VERB	VB	VerbForm=Inf	19	conj	7:advcl:as|19:conj:and	_
+25	all	all	DET	PDT	_	27	det:predet	27:det:predet	_
+26	the	the	DET	DT	Definite=Def|PronType=Art	27	det	27:det	_
+27	inquires	inquire	NOUN	NNS	Number=Plur	24	obj	24:obj	SpaceAfter=No
+28	.	.	PUNCT	.	_	5	punct	5:punct	_
+

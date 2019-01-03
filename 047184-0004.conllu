@@ -1,0 +1,31 @@
+# sent_id = 047184-0004
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	classes	class	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
+3	cover	cover	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	all	all	DET	DT	_	8	det	8:det	_
+5	age	age	NOUN	NN	Number=Sing	8	compound	8:compound	_
+6	and	and	CCONJ	CC	_	7	cc	7:cc	_
+7	skill	skill	NOUN	NN	Number=Sing	5	conj	5:conj:and|8:compound	_
+8	ranges	range	NOUN	NNS	Number=Plur	3	obj	3:obj	SpaceAfter=No
+9	,	,	PUNCT	,	_	3	punct	3:punct	_
+10	with	with	ADP	IN	_	11	case	11:case	_
+11	BALLROOM	ballroom	NOUN	NN	Number=Sing	3	obl	3:obl:with	SpaceAfter=No
+12	,	,	PUNCT	,	_	13	punct	13:punct	_
+13	LATIN	latin	ADJ	JJ	Degree=Pos	11	conj	3:obl:with|11:conj	SpaceAfter=No
+14	,	,	PUNCT	,	_	15	punct	15:punct	_
+15	SEQUENCE	sequence	NOUN	NN	Number=Sing	11	conj	3:obl:with|11:conj	SpaceAfter=No
+16	,	,	PUNCT	,	_	17	punct	17:punct	_
+17	STREET	street	NOUN	NN	Number=Sing	11	conj	3:obl:with|11:conj	SpaceAfter=No
+18	,	,	PUNCT	,	_	19	punct	19:punct	_
+19	DISCO	disco	NOUN	NN	Number=Sing	11	conj	3:obl:with|11:conj	SpaceAfter=No
+20	,	,	PUNCT	,	_	22	punct	22:punct	_
+21	LINE	line	NOUN	NN	Number=Sing	22	compound	22:compound	_
+22	DANCING	dancing	NOUN	NN	Number=Sing	11	conj	3:obl:with|11:conj	SpaceAfter=No
+23	,	,	PUNCT	,	_	24	punct	24:punct	_
+24	BALLET	ballet	NOUN	NN	Number=Sing	11	conj	3:obl:with|11:conj	SpaceAfter=No
+25	,	,	PUNCT	,	_	26	punct	26:punct	_
+26	TAP	tap	NOUN	NN	Number=Sing	11	conj	3:obl:with|11:conj	_
+27	&	&	CCONJ	CC	_	28	cc	28:cc	_
+28	JAZZ	jazz	NOUN	NN	Number=Sing	11	conj	3:obl:with|11:conj	SpaceAfter=No
+29	.	.	PUNCT	.	_	3	punct	3:punct	_
+

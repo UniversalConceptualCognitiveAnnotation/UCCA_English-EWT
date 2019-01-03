@@ -1,0 +1,10 @@
+# sent_id = 110441-0008
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj:pass	3:nsubj:pass|6:nsubj:pass	_
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	aux:pass	3:aux:pass	_
+3	greeted	greet	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+4	again	again	ADV	RB	_	3	advmod	3:advmod	_
+5	and	and	CCONJ	CC	_	6	cc	6:cc	_
+6	sat	sit	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	3:conj:and	_
+7	promptly	promptly	ADV	RB	_	6	advmod	6:advmod	SpaceAfter=No
+8	.	.	PUNCT	.	_	3	punct	3:punct	_
+

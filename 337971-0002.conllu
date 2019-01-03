@@ -1,0 +1,31 @@
+# sent_id = 337971-0002
+1	Fresh	Fresh	PROPN	NNP	Number=Sing	2	compound	2:compound	_
+2	Design	Design	PROPN	NNP	Number=Sing	3	compound	3:compound	_
+3	Studio	Studio	PROPN	NNP	Number=Sing	4	nsubj	4:nsubj|7:nsubj:xsubj	_
+4	helped	help	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+5	jump	jump	NOUN	NN	Number=Sing	7	compound	7:compound	SpaceAfter=No
+6	-	-	PUNCT	HYPH	_	7	punct	7:punct	SpaceAfter=No
+7	start	start	VERB	VB	VerbForm=Inf	4	xcomp	4:xcomp	_
+8	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	10:nmod:poss	_
+9	own	own	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
+10	business	business	NOUN	NN	Number=Sing	7	obj	7:obj	_
+11	by	by	SCONJ	IN	_	12	mark	12:mark	_
+12	providing	provide	VERB	VBG	VerbForm=Ger	4	advcl	4:advcl:by	_
+13	affordable	affordable	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
+14	and	and	CCONJ	CC	_	15	cc	15:cc	_
+15	effective	effective	ADJ	JJ	Degree=Pos	13	conj	13:conj:and|17:amod	_
+16	marketing	marketing	NOUN	NN	Number=Sing	17	compound	17:compound	_
+17	materials	material	NOUN	NNS	Number=Plur	12	obj	12:obj	SpaceAfter=No
+18	:	:	PUNCT	:	_	17	punct	17:punct	_
+19	logo	logo	NOUN	NN	Number=Sing	17	appos	17:appos	SpaceAfter=No
+20	,	,	PUNCT	,	_	21	punct	21:punct	_
+21	flyers	flyer	NOUN	NNS	Number=Plur	19	conj	17:appos|19:conj:and	SpaceAfter=No
+22	,	,	PUNCT	,	_	25	punct	25:punct	_
+23	posters	poster	NOUN	NNS	Number=Plur	24	compound	24:compound	_
+24	ad	ad	NOUN	NN	Number=Sing	25	compound	25:compound	_
+25	design	design	NOUN	NN	Number=Sing	19	conj	17:appos|19:conj:and	SpaceAfter=No
+26	,	,	PUNCT	,	_	28	punct	28:punct	_
+27	and	and	CCONJ	CC	_	28	cc	28:cc	_
+28	more	more	ADJ	JJR	Degree=Cmp	19	conj	17:appos|19:conj:and	SpaceAfter=No
+29	.	.	PUNCT	.	_	4	punct	4:punct	_
+

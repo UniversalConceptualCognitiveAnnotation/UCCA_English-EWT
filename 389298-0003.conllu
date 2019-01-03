@@ -1,0 +1,17 @@
+# sent_id = 389298-0003
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	sales	sale	NOUN	NNS	Number=Plur	3	compound	3:compound	_
+3	staff	staff	NOUN	NNS	Number=Plur	10	nsubj	10:nsubj	_
+4	and	and	CCONJ	CC	_	7	cc	7:cc	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+6	installation	installation	NOUN	NN	Number=Sing	7	compound	7:compound	_
+7	staff	staff	NOUN	NNS	Number=Plur	3	conj	3:conj:and|10:nsubj	_
+8	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	cop	10:cop	_
+9	all	all	ADV	RB	_	10	advmod	10:advmod	_
+10	easy	easy	ADJ	JJ	Degree=Pos	0	root	0:root	_
+11	to	to	PART	TO	_	12	mark	12:mark	_
+12	get	get	VERB	VB	VerbForm=Inf	10	advcl	10:advcl:to	_
+13	along	along	ADV	RB	_	12	advmod	12:advmod	_
+14	with	with	ADP	IN	_	12	obl	12:obl	SpaceAfter=No
+15	.	.	PUNCT	.	_	10	punct	10:punct	_
+

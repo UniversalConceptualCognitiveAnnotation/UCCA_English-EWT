@@ -1,0 +1,37 @@
+# sent_id = 053248-0018
+1	Service	service	NOUN	NN	Number=Sing	3	nsubj	3:nsubj|6:nsubj	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	3:cop	_
+3	average	average	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
+4	,	,	PUNCT	,	_	6	punct	6:punct	_
+5	but	but	CCONJ	CC	_	6	cc	6:cc	_
+6	nothing	nothing	PRON	NN	Number=Sing	3	conj	3:conj:but	_
+7	special	special	ADJ	JJ	Degree=Pos	6	amod	6:amod	SpaceAfter=No
+8	,	,	PUNCT	,	_	18	punct	18:punct	_
+9	and	and	CCONJ	CC	_	18	cc	18:cc	_
+10	restaurants	restaurant	NOUN	NNS	Number=Plur	18	nsubj	13:nsubj|16:nsubj:xsubj|18:nsubj	_
+11	that	that	PRON	WDT	PronType=Rel	13	nsubj	10:ref	_
+12	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	13:aux	_
+13	supposed	suppose	VERB	VBN	Tense=Past|VerbForm=Part	10	acl:relcl	10:acl:relcl	_
+14	to	to	PART	TO	_	16	mark	16:mark	_
+15	be	be	AUX	VB	VerbForm=Inf	16	cop	16:cop	_
+16	excellent	excellent	ADJ	JJ	Degree=Pos	13	xcomp	13:xcomp	_
+17	should	should	AUX	MD	VerbForm=Fin	18	aux	18:aux	_
+18	do	do	VERB	VB	VerbForm=Inf	3	conj	3:conj:but	_
+19	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	21:det	_
+20	better	better	ADJ	JJR	Degree=Cmp	21	amod	21:amod	_
+21	job	job	NOUN	NN	Number=Sing	18	obj	18:obj	_
+22	of	of	SCONJ	IN	_	23	mark	23:mark	_
+23	training	train	VERB	VBG	VerbForm=Ger	21	acl	21:acl:of	_
+24	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	25	nmod:poss	25:nmod:poss	_
+25	waitstaff	waitstaff	NOUN	NN	Number=Sing	23	obj	23:obj|28:nsubj:xsubj|30:nsubj:xsubj|34:nsubj:xsubj	_
+26	to	to	PART	TO	_	28	mark	28:mark	_
+27	be	be	AUX	VB	VerbForm=Inf	28	cop	28:cop	_
+28	communicative	communicative	ADJ	JJ	Degree=Pos	23	xcomp	23:xcomp	_
+29	and	and	CCONJ	CC	_	30	cc	30:cc	_
+30	friendly	friendly	ADJ	JJ	Degree=Pos	28	conj	23:xcomp|28:conj:and	SpaceAfter=No
+31	,	,	PUNCT	,	_	34	punct	34:punct	_
+32	not	not	ADV	RB	_	34	advmod	34:advmod	_
+33	merely	merely	ADV	RB	_	34	advmod	34:advmod	_
+34	capable	capable	ADJ	JJ	Degree=Pos	28	conj	23:xcomp|28:conj:and	SpaceAfter=No
+35	.	.	PUNCT	.	_	3	punct	3:punct	_
+

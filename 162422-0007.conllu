@@ -1,0 +1,17 @@
+# sent_id = 162422-0007
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
+2	immediately	immediately	ADV	RB	_	3	advmod	3:advmod	_
+3	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	"	"	PUNCT	``	_	3	punct	3:punct	SpaceAfter=No
+5	no	no	INTJ	UH	_	8	discourse	8:discourse	SpaceAfter=No
+6	,	,	PUNCT	,	_	8	punct	8:punct	_
+7	there	there	PRON	EX	_	8	expl	8:expl	_
+8	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	3:ccomp	_
+9	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	_
+10	$	$	SYM	$	_	12	compound	12:compound	SpaceAfter=No
+11	50	50	NUM	CD	NumType=Card	10	nummod	10:nummod	_
+12	deposit	deposit	NOUN	NN	Number=Sing	8	nsubj	8:nsubj	_
+13	now	now	ADV	RB	_	8	advmod	8:advmod	SpaceAfter=No
+14	!	!	PUNCT	.	_	3	punct	3:punct	SpaceAfter=No
+15	"	"	PUNCT	''	_	3	punct	3:punct	_
+

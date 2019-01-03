@@ -1,0 +1,15 @@
+# sent_id = 287360-0003
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+2	would	would	AUX	MD	VerbForm=Fin	4	aux	4:aux	SpaceAfter=No
+3	n't	not	PART	RB	_	4	advmod	4:advmod	_
+4	want	want	VERB	VB	VerbForm=Inf	0	root	0:root	_
+5	any	any	DET	DT	_	7	det	7:det	_
+6	other	other	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
+7	company	company	NOUN	NN	Number=Sing	4	obj	4:obj	_
+8	in	in	ADP	IN	_	10	case	10:case	_
+9	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	10:nmod:poss	_
+10	time	time	NOUN	NN	Number=Sing	4	obl	4:obl:in	_
+11	of	of	ADP	IN	_	12	case	12:case	_
+12	need	need	NOUN	NN	Number=Sing	10	nmod	10:nmod:of	SpaceAfter=No
+13	.	.	PUNCT	.	_	4	punct	4:punct	_
+

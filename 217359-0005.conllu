@@ -1,0 +1,16 @@
+# sent_id = 217359-0005
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	up	up	ADP	RP	_	2	compound:prt	2:compound:prt	_
+4	excuses	excuse	NOUN	NNS	Number=Plur	2	obj	2:obj	_
+5	in	in	ADP	IN	_	6	case	6:case	_
+6	hopes	hope	NOUN	NNS	Number=Plur	2	obl	2:obl:in	_
+7	to	to	PART	TO	_	8	mark	8:mark	_
+8	confuse	confuse	VERB	VB	VerbForm=Inf	6	acl	6:acl:to	_
+9	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
+10	policy	policy	NOUN	NN	Number=Sing	11	compound	11:compound	_
+11	holders	holder	NOUN	NNS	Number=Plur	8	obj	8:obj	_
+12	with	with	ADP	IN	_	13	case	13:case	_
+13	misinformation	misinformation	NOUN	NN	Number=Sing	8	obl	8:obl:with	_
+14	.	.	PUNCT	.	_	2	punct	2:punct	_
+

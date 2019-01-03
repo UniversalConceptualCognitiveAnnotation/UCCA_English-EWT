@@ -1,0 +1,13 @@
+# newdoc id = 210019
+# sent_id = 210019-0001
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
+3	stayed	stay	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+4	at	at	ADP	IN	_	5	case	5:case	_
+5	Tanglewood	Tanglewood	PROPN	NNP	Number=Sing	3	obl	3:obl:at	_
+6	for	for	ADP	IN	_	8	case	8:case	_
+7	many	many	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
+8	years	year	NOUN	NNS	Number=Plur	3	obl	3:obl:for	_
+9	now	now	ADV	RB	_	8	advmod	8:advmod	SpaceAfter=No
+10	.	.	PUNCT	.	_	3	punct	3:punct	_
+

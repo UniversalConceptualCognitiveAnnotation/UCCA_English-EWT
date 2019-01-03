@@ -1,0 +1,28 @@
+# sent_id = 278775-0006
+1	2	2	X	LS	_	5	nummod	5:nummod	SpaceAfter=No
+2	.	.	PUNCT	.	_	1	punct	1:punct	_
+3	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
+4	really	really	ADV	RB	_	5	advmod	5:advmod	_
+5	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	fact	fact	NOUN	NN	Number=Sing	5	obj	5:obj	_
+8	that	that	SCONJ	IN	_	10	mark	10:mark	_
+9	Stuart	Stuart	PROPN	NNP	Number=Sing	10	nsubj	10:nsubj	_
+10	sets	set	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl	7:acl:that	_
+11	defined	define	VERB	VBN	Tense=Past|VerbForm=Part	12	amod	12:amod	_
+12	objectives	objective	NOUN	NNS	Number=Plur	10	obj	10:obj	_
+13	and	and	CCONJ	CC	_	15	cc	15:cc	_
+14	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	nsubj	15:nsubj	_
+15	meet	meet	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	conj	5:conj:and	_
+16	once	once	ADV	RB	NumType=Mult	15	advmod	15:advmod	_
+17	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	18:det	_
+18	month	month	NOUN	NN	Number=Sing	16	obl:npmod	16:obl:npmod	_
+19	to	to	PART	TO	_	20	mark	20:mark	_
+20	go	go	VERB	VB	VerbForm=Inf	15	advcl	15:advcl:to	_
+21	over	over	ADP	IN	_	25	case	25:case	_
+22	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	25	nmod:poss	25:nmod:poss	_
+23	Key	key	ADJ	JJ	Degree=Pos	25	amod	25:amod	_
+24	Performance	performance	NOUN	NN	Number=Sing	25	compound	25:compound	_
+25	Indicators	indicator	NOUN	NNS	Number=Plur	20	obl	20:obl:over	SpaceAfter=No
+26	.	.	PUNCT	.	_	5	punct	5:punct	_
+

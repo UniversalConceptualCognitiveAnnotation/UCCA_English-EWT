@@ -1,0 +1,35 @@
+# sent_id = 160073-0016
+1	So	so	ADV	RB	_	16	advmod	16:advmod	_
+2	anyone	anyone	PRON	NN	Number=Sing	16	nsubj	16:nsubj|19:nsubj	_
+3	looking	look	VERB	VBG	VerbForm=Ger	2	acl	2:acl	_
+4	for	for	ADP	IN	_	7	case	7:case	_
+5	an	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
+6	Excellent	excellent	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
+7	night	night	NOUN	NN	Number=Sing	3	obl	3:obl:for	_
+8	out	out	ADV	RB	_	7	advmod	7:advmod	_
+9	for	for	ADP	IN	_	10	case	10:case	_
+10	Chinese	chinese	ADJ	JJ	Degree=Pos	7	nmod	7:nmod:for	_
+11	or	or	CCONJ	CC	_	14	cc	14:cc	_
+12	maybe	maybe	ADV	RB	_	14	advmod	14:advmod	_
+13	just	just	ADV	RB	_	14	advmod	14:advmod	_
+14	lunch	lunch	NOUN	NN	Number=Sing	7	conj	3:obl:for|7:conj:or	_
+15	should	should	AUX	MD	VerbForm=Fin	16	aux	16:aux	_
+16	stop	stop	VERB	VB	VerbForm=Inf	0	root	0:root	_
+17	in	in	ADV	RB	_	16	advmod	16:advmod	_
+18	and	and	CCONJ	CC	_	19	cc	19:cc	_
+19	try	try	VERB	VB	VerbForm=Inf	16	conj	16:conj:and	_
+20	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	obj	19:obj	_
+21	because	because	SCONJ	IN	_	23	mark	23:mark	_
+22	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	23	nsubj	23:nsubj	_
+23	promise	promise	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	advcl	19:advcl:because	_
+24	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	23	iobj	23:iobj	_
+25	2	2	NUM	CD	NumType=Card	26	nummod	26:nummod	_
+26	things	thing	NOUN	NNS	Number=Plur	23	obj	23:obj	SpaceAfter=No
+27	---	---	PUNCT	:	_	16	punct	16:punct	SpaceAfter=No
+28	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	31	nsubj	31:nsubj	_
+29	wo	will	AUX	MD	VerbForm=Fin	31	aux	31:aux	SpaceAfter=No
+30	n't	not	PART	RB	_	31	advmod	31:advmod	_
+31	regret	regret	VERB	VB	VerbForm=Inf	16	parataxis	16:parataxis	_
+32	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	31	obj	31:obj	SpaceAfter=No
+33	!!	!!	PUNCT	.	_	16	punct	16:punct	_
+

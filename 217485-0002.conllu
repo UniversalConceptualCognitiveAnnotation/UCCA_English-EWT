@@ -1,0 +1,20 @@
+# sent_id = 217485-0002
+1	The	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+2	chicken	chicken	NOUN	NN	Number=Sing	5	compound	5:compound	_
+3	cordon	cordon	NOUN	NN	Number=Sing	5	compound	5:compound	SpaceAfter=No
+4	-	-	PUNCT	HYPH	_	5	punct	5:punct	SpaceAfter=No
+5	blu	blu	NOUN	NN	Number=Sing	7	nsubj	7:nsubj|9:nsubj	_
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	7:cop	_
+7	tasty	tasty	ADJ	JJ	Degree=Pos	0	root	0:root	_
+8	and	and	CCONJ	CC	_	9	cc	9:cc	_
+9	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	conj	7:conj:and	_
+10	in	in	ADP	IN	_	14	case	14:case	_
+11	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	_
+12	huge	huge	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
+13	portion	portion	NOUN	NN	Number=Sing	14	compound	14:compound	_
+14	size	size	NOUN	NN	Number=Sing	9	obl	9:obl:in	_
+15	for	for	ADP	IN	_	17	case	17:case	_
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
+17	money	money	NOUN	NN	Number=Sing	14	nmod	14:nmod:for	SpaceAfter=No
+18	.	.	PUNCT	.	_	7	punct	7:punct	_
+

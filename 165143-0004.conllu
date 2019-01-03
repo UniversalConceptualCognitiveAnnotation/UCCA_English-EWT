@@ -1,0 +1,29 @@
+# sent_id = 165143-0004
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	service	service	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	7:cop	_
+4	just	just	ADV	RB	_	5	advmod	5:advmod	_
+5	about	about	ADV	RB	_	7	advmod	7:advmod	_
+6	as	as	ADV	RB	_	7	advmod	7:advmod	_
+7	good	good	ADJ	JJ	Degree=Pos	0	root	0:root	_
+8	as	as	SCONJ	IN	_	11	mark	11:mark	_
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	11:nsubj	SpaceAfter=No
+10	'd	would	AUX	MD	VerbForm=Fin	11	aux	11:aux	_
+11	get	get	VERB	VB	VerbForm=Inf	7	advcl	7:advcl:as	_
+12	in	in	ADP	IN	_	13	case	13:case	_
+13	NYC	NYC	PROPN	NNP	Number=Sing	11	obl	11:obl:in	_
+14	(	(	PUNCT	-LRB-	_	16	punct	16:punct	SpaceAfter=No
+15	that	that	PRON	DT	Number=Sing|PronType=Dem	16	nsubj	16:nsubj	_
+16	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	parataxis	7:parataxis	_
+17	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	nsubj	19:nsubj	_
+18	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	cop	19:cop	_
+19	poor	poor	ADJ	JJ	Degree=Pos	16	ccomp	16:ccomp	SpaceAfter=No
+20	)	)	PUNCT	-RRB-	_	16	punct	16:punct	_
+21	and	and	CCONJ	CC	_	26	cc	26:cc	_
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	23:det	_
+23	food	food	NOUN	NN	Number=Sing	26	nsubj	26:nsubj	_
+24	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	cop	26:cop	_
+25	almost	almost	ADV	RB	_	26	advmod	26:advmod	_
+26	mediocre	mediocre	ADJ	JJ	Degree=Pos	7	conj	7:conj:and	SpaceAfter=No
+27	.	.	PUNCT	.	_	7	punct	7:punct	_
+

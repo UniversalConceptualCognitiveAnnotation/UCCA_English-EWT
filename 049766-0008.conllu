@@ -1,0 +1,14 @@
+# sent_id = 049766-0008
+1	Kathy	Kathy	PROPN	NNP	Number=Sing	9	nsubj	9:nsubj	_
+2	and	and	CCONJ	CC	_	3	cc	3:cc	_
+3	Stewart	Stewart	PROPN	NNP	Number=Sing	1	conj	1:conj:and|9:nsubj	SpaceAfter=No
+4	,	,	PUNCT	,	_	1	punct	1:punct	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+6	proprietors	proprietor	NOUN	NNS	Number=Plur	1	appos	1:appos	_
+7	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	cop	9:cop	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+9	epitome	epitome	NOUN	NN	Number=Sing	0	root	0:root	_
+10	of	of	ADP	IN	_	11	case	11:case	_
+11	perfection	perfection	NOUN	NN	Number=Sing	9	nmod	9:nmod:of	SpaceAfter=No
+12	.	.	PUNCT	.	_	9	punct	9:punct	_
+

@@ -1,0 +1,25 @@
+# sent_id = 398152-0005
+1	If	if	SCONJ	IN	_	5	mark	5:mark	_
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	5:nsubj	SpaceAfter=No
+3	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
+5	fan	fan	NOUN	NN	Number=Sing	20	advcl	20:advcl:if	_
+6	of	of	ADP	IN	_	7	case	7:case	_
+7	herpes	herpes	NOUN	NN	Number=Sing	5	nmod	5:nmod:of	SpaceAfter=No
+8	,	,	PUNCT	,	_	10	punct	10:punct	_
+9	being	be	AUX	VBG	VerbForm=Ger	10	aux:pass	10:aux:pass	_
+10	ripped	rip	VERB	VBN	Tense=Past|VerbForm=Part	7	conj	5:nmod:of|7:conj:and	_
+11	off	off	ADP	RP	_	10	compound:prt	10:compound:prt	SpaceAfter=No
+12	,	,	PUNCT	,	_	15	punct	15:punct	_
+13	and	and	CCONJ	CC	_	15	cc	15:cc	_
+14	child	child	NOUN	NN	Number=Sing	15	compound	15:compound	_
+15	molesters	molester	NOUN	NNS	Number=Plur	7	conj	5:nmod:of|7:conj:and	SpaceAfter=No
+16	,	,	PUNCT	,	_	20	punct	20:punct	_
+17	this	this	PRON	DT	Number=Sing|PronType=Dem	20	nsubj	20:nsubj	_
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	20:cop	_
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	20:det	_
+20	garage	garage	NOUN	NN	Number=Sing	0	root	0:root	_
+21	for	for	ADP	IN	_	22	case	22:case	_
+22	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	20	nmod	20:nmod:for	SpaceAfter=No
+23	.	.	PUNCT	.	_	20	punct	20:punct	_
+

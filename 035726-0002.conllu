@@ -1,0 +1,20 @@
+# sent_id = 035726-0002
+1	Dr.	Dr.	PROPN	NNP	Number=Sing	10	nsubj	10:nsubj	_
+2	Aster	Aster	PROPN	NNP	Number=Sing	1	flat	1:flat	_
+3	and	and	CCONJ	CC	_	5	cc	5:cc	_
+4	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+5	team	team	NOUN	NN	Number=Sing	1	conj	1:conj:and|10:nsubj	_
+6	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	10:aux	_
+7	been	be	AUX	VBN	Tense=Past|VerbForm=Part	10	cop	10:cop	_
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	_
+9	strong	strong	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
+10	advocate	advocate	NOUN	NN	Number=Sing	0	root	0:root	_
+11	in	in	ADP	IN	_	13	case	13:case	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
+13	health	health	NOUN	NN	Number=Sing	10	nmod	10:nmod:in	_
+14	of	of	ADP	IN	_	17	case	17:case	_
+15	both	both	DET	PDT	_	17	det:predet	17:det:predet	_
+16	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	17	nmod:poss	17:nmod:poss	_
+17	daughters	daughter	NOUN	NNS	Number=Plur	13	nmod	13:nmod:of	SpaceAfter=No
+18	.	.	PUNCT	.	_	10	punct	10:punct	_
+

@@ -1,0 +1,20 @@
+# sent_id = 135800-0009
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	found	find	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	out	out	ADP	RP	_	2	compound:prt	2:compound:prt	_
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
+5	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	aux	8:aux	_
+6	not	not	PART	RB	_	8	advmod	8:advmod	_
+7	even	even	ADV	RB	_	8	advmod	8:advmod	_
+8	drive	drive	VERB	VB	VerbForm=Inf	2	ccomp	2:ccomp	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+10	car	car	NOUN	NN	Number=Sing	8	obj	8:obj	SpaceAfter=No
+11	,	,	PUNCT	,	_	2	punct	2:punct	_
+12	stated	state	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	parataxis	2:parataxis	_
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	14:nsubj	_
+14	looked	look	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12	ccomp	12:ccomp	_
+15	at	at	ADP	IN	_	16	case	16:case	_
+16	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	obl	14:obl:at	_
+17	before	before	ADV	RB	_	14	advmod	14:advmod	SpaceAfter=No
+18	.	.	PUNCT	.	_	2	punct	2:punct	_
+

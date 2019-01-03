@@ -1,0 +1,36 @@
+# sent_id = 210066-0006
+1	Got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+3	tile	tile	NOUN	NN	Number=Sing	1	obj	1:obj|4:nsubj:xsubj	_
+4	ripped	rip	VERB	VBN	Tense=Past|VerbForm=Part	1	xcomp	1:xcomp	_
+5	out	out	ADP	RP	_	4	compound:prt	4:compound:prt	SpaceAfter=No
+6	,	,	PUNCT	,	_	1	punct	1:punct	_
+7	call	call	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	parataxis	1:parataxis	_
+8	today	today	NOUN	NN	Number=Sing	7	obl:tmod	7:obl:tmod	SpaceAfter=No
+9	,	,	PUNCT	,	_	1	punct	1:punct	_
+10	now	now	ADV	RB	_	18	advmod	18:advmod	_
+11	all	all	ADV	RB	_	13	advmod	13:advmod	_
+12	the	the	ADV	RB	_	13	advmod	13:advmod	_
+13	sudden	sudden	ADV	RB	_	18	obl:tmod	18:obl:tmod	_
+14	this	this	DET	DT	Number=Sing|PronType=Dem	15	det	15:det	_
+15	grinder	grinder	NOUN	NN	Number=Sing	18	nsubj	18:nsubj	_
+16	wo	will	AUX	MD	VerbForm=Fin	18	aux	18:aux	SpaceAfter=No
+17	n't	not	PART	RB	_	18	advmod	18:advmod	_
+18	leave	leave	VERB	VB	VerbForm=Inf	1	parataxis	1:parataxis	_
+19	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	21:det	_
+20	finished	finish	VERB	VBN	Tense=Past|VerbForm=Part	21	amod	21:amod	_
+21	look	look	NOUN	NN	Number=Sing	18	obj	18:obj	_
+22	AND	and	CCONJ	CC	_	25	cc	25:cc	_
+23	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	25	nsubj	25:nsubj|29:nsubj	SpaceAfter=No
+24	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	25:cop	_
+25	$	$	SYM	$	_	18	conj	18:conj:and	SpaceAfter=No
+26	125	125	NUM	CD	NumType=Card	25	nummod	25:nummod	_
+27	PLUS	plus	CCONJ	CC	_	29	cc	29:cc	_
+28	around	around	ADV	RB	_	29	advmod	29:advmod	_
+29	$	$	SYM	$	_	25	conj	25:conj:plus	SpaceAfter=No
+30	75	75	NUM	CD	NumType=Card	29	compound	29:compound	_
+31	for	for	ADP	IN	_	33	case	33:case	_
+32	the	the	DET	DT	Definite=Def|PronType=Art	33	det	33:det	_
+33	inserts	insert	NOUN	NNS	Number=Plur	29	nmod	29:nmod:for	SpaceAfter=No
+34	.	.	PUNCT	.	_	1	punct	1:punct	_
+

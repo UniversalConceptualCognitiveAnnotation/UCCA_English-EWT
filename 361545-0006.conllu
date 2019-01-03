@@ -1,0 +1,26 @@
+# sent_id = 361545-0006
+1	Did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	aux	3:aux	SpaceAfter=No
+2	n't	not	PART	RB	_	3	advmod	3:advmod	_
+3	hurt	hurt	VERB	VB	VerbForm=Inf	0	root	0:root	_
+4	any	any	ADV	RB	_	3	obj	3:obj	_
+5	that	that	SCONJ	IN	_	7	mark	7:mark	_
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	7:nsubj|15:nsubj	_
+7	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	ccomp	3:ccomp	_
+8	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
+9	name	name	NOUN	NN	Number=Sing	7	obj	7:obj	_
+10	by	by	ADP	IN	_	13	case	13:case	_
+11	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	13:nmod:poss	_
+12	second	second	ADJ	JJ	Degree=Pos|NumType=Ord	13	amod	13:amod	_
+13	visit	visit	NOUN	NN	Number=Sing	7	obl	7:obl:by	_
+14	and	and	CCONJ	CC	_	15	cc	15:cc	_
+15	greeted	greet	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	conj	3:ccomp|7:conj:and	_
+16	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	15	obj	15:obj	_
+17	warmly	warmly	ADV	RB	_	15	advmod	15:advmod	_
+18	then	then	ADV	RB	PronType=Dem	15	advmod	15:advmod	_
+19	and	and	CCONJ	CC	_	23	cc	23:cc	_
+20	on	on	ADP	IN	_	23	case	23:case	_
+21	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	23	nmod:poss	23:nmod:poss	_
+22	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	23	amod	23:amod	_
+23	visit	visit	NOUN	NN	Number=Sing	18	conj	15:advmod|18:conj:and	SpaceAfter=No
+24	.	.	PUNCT	.	_	3	punct	3:punct	_
+

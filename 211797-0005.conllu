@@ -1,0 +1,25 @@
+# sent_id = 211797-0005
+1	So	so	ADV	RB	_	8	advmod	8:advmod	SpaceAfter=No
+2	,	,	PUNCT	,	_	8	punct	8:punct	_
+3	as	as	SCONJ	IN	_	6	mark	6:mark	_
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	6	aux	6:aux	_
+6	leaving	leave	VERB	VBG	Tense=Pres|VerbForm=Part	8	advcl	8:advcl:as	_
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	8:nsubj	_
+8	asked	ask	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+9	for	for	ADP	IN	_	14	case	14:case	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
+11	designer	designer	NOUN	NN	Number=Sing	14	compound	14:compound	SpaceAfter=No
+12	/	/	PUNCT	,	_	13	cc	13:cc	SpaceAfter=No
+13	dress	dress	NOUN	NN	Number=Sing	11	conj	11:conj|14:compound	_
+14	name	name	NOUN	NN	Number=Sing	8	obl	8:obl:for	_
+15	or	or	CCONJ	CC	_	17	cc	17:cc	_
+16	style	style	NOUN	NN	Number=Sing	17	compound	17:compound	_
+17	number	number	NOUN	NN	Number=Sing	14	conj	8:obl:for|14:conj:or	_
+18	associated	associate	VERB	VBN	Tense=Past|VerbForm=Part	14	acl	14:acl	_
+19	with	with	ADP	IN	_	22	case	22:case	_
+20	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	22	nmod:poss	22:nmod:poss	_
+21	top	top	ADJ	JJ	Degree=Pos	22	amod	22:amod	_
+22	picks	pick	NOUN	NNS	Number=Plur	18	obl	18:obl:with	SpaceAfter=No
+23	.	.	PUNCT	.	_	8	punct	8:punct	_
+

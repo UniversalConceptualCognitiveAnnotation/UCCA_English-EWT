@@ -1,0 +1,13 @@
+# sent_id = 164580-0004
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	best	best	ADJ	JJS	Degree=Sup	3	amod	3:amod	_
+3	value	value	NOUN	NN	Number=Sing	0	root	0:root	_
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	SpaceAfter=No
+5	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_
+6	found	find	VERB	VBN	Tense=Past|VerbForm=Part	3	acl:relcl	3:acl:relcl	_
+7	from	from	ADP	IN	_	10	case	10:case	_
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	_
+9	Chinese	chinese	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
+10	restaurant	restaurant	NOUN	NN	Number=Sing	6	obl	6:obl:from	SpaceAfter=No
+11	.	.	PUNCT	.	_	3	punct	3:punct	_
+

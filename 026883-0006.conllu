@@ -1,0 +1,17 @@
+# sent_id = 026883-0006
+1	After	after	ADP	IN	_	3	case	3:case	_
+2	seventeen	seventeen	NUM	CD	NumType=Card	3	nummod	3:nummod	_
+3	days	day	NOUN	NNS	Number=Plur	7	obl	7:obl:after	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+5	delivery	delivery	NOUN	NN	Number=Sing	6	compound	6:compound	_
+6	van	van	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
+7	showed	show	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+8	up	up	ADP	RP	_	7	compound:prt	7:compound:prt	_
+9	at	at	ADP	IN	_	11	case	11:case	_
+10	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
+11	home	home	NOUN	NN	Number=Sing	7	obl	7:obl:at	_
+12	minus	minus	ADP	IN	_	14	case	14:case	_
+13	two	two	NUM	CD	NumType=Card	14	nummod	14:nummod	_
+14	pieces	piece	NOUN	NNS	Number=Plur	7	obl	7:obl:minus	SpaceAfter=No
+15	.	.	PUNCT	.	_	7	punct	7:punct	_
+
