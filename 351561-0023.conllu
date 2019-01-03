@@ -1,23 +1,26 @@
 # format = ucca
 # sent_id = 351561-0023
-# text = Hmmm , she says , Then why are you calling here , we do n't go past broad ?
-1	Hmmm	_	Word	Word	_	4	A	4:A	_
+# text = Broad , I say , is 14th street and I am 3 blocks west of broad and one south of walnut .
+1	Broad	_	Word	Word	_	6	A	6:A	_
 2	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-3	she	_	Word	Word	_	4	A	4:A	_
-4	says	_	Word	Word	_	0	H	0:H	_
+3	I	_	Word	Word	_	4	A	4:A	_
+4	say	_	Word	Word	_	0	H	0:H	_
 5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-6	Then	_	Word	Word	_	7	L	7:L	_
-7	why	_	Word	Word	_	1	H	1:H	_
-8	are	_	Word	Word	_	10	F	10:F	_
-9	you	_	Word	Word	_	10	A	10:A	_
-10	calling	_	Word	Word	_	1	H	1:H	_
-11	here	_	Word	Word	_	10	A	10:A	_
-12	,	_	Punctuation	Punctuation	_	1	U	1:U	_
-13	we	_	Word	Word	_	16	A	16:A	_
-14	do	_	Word	Word	_	16	F	16:F	_
-15	n't	_	Word	Word	_	16	D	16:D	_
-16	go	_	Word	Word	_	1	H	1:H	_
-17	past	_	Word	Word	_	18	E	18:E	_
-18	broad	_	Word	Word	_	16	A	16:A	_
-19	?	_	Punctuation	Punctuation	_	18	U	18:U	_
+6	is	_	Word	Word	_	4	A	4:A	_
+7	14th	_	Word	Word	_	6	A	6:A	_
+8	street	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	and	_	Word	Word	_	14	L	14:L	_
+10	I	_	Word	Word	_	14	A	14:A|19:A	_
+11	am	_	Word	Word	_	14	F	14:F	_
+12	3	_	Word	Word	_	13	Q	13:Q	_
+13	blocks	_	Word	Word	_	0	C	0:C|18:C	_
+14	west	_	Word	Word	_	6	H	6:H	_
+15	of	_	Word	Word	_	16	R	16:R	_
+16	broad	_	Word	Word	_	14	A	14:A	_
+17	and	_	Word	Word	_	19	L	19:L	_
+18	one	_	Word	Word	_	19	A	19:A	_
+19	south	_	Word	Word	_	6	H	6:H	_
+20	of	_	Word	Word	_	21	R	21:R	_
+21	walnut	_	Word	Word	_	19	A	19:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
 

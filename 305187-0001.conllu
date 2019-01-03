@@ -1,16 +1,16 @@
 # format = ucca
 # sent_id = 305187-0001
-# text = Enjoyed this cozy little spot with a group of 8 folks .
-1	Enjoyed	_	Word	Word	_	0	H	0:H	_
-2	this	_	Word	Word	_	5	E	5:E	_
-3	cozy	_	Word	Word	_	5	E	5:E	_
-4	little	_	Word	Word	_	5	E	5:E	_
-5	spot	_	Word	Word	_	1	A	1:A	_
-6	with	_	Word	Word	_	8	R	8:R	_
-7	a	_	Word	Word	_	8	E	8:E	_
-8	group	_	Word	Word	_	1	A	1:A	_
-9	of	_	Word	Word	_	11	R	11:R	_
-10	8	_	Word	Word	_	11	Q	11:Q	_
-11	folks	_	Word	Word	_	8	E	8:E	_
-12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+# text = Apps 4 Salad 3 Entree 3.5 Wine 5 ( NOV 07 )
+1	Apps	_	Word	Word	_	2	A	2:A	_
+2	4	_	Word	Word	_	0	H	0:H	_
+3	Salad	_	Word	Word	_	4	A	4:A	_
+4	3	_	Word	Word	_	2	H	2:H	_
+5	Entree	_	Word	Word	_	6	A	6:A	_
+6	3.5	_	Word	Word	_	2	H	2:H	_
+7	Wine	_	Word	Word	_	8	A	8:A	_
+8	5	_	Word	Word	_	2	H	2:H	_
+9	(	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	NOV	_	Word	Word	_	2	H	2:H	_
+11	07	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	)	_	Punctuation	Punctuation	_	10	U	10:U	_
 

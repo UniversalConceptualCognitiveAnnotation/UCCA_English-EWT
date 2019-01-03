@@ -1,11 +1,16 @@
 # format = ucca
 # sent_id = 255261-0007
-# text = God was pleased with that one !
-1	God	_	Word	Word	_	3	A	3:A	_
-2	was	_	Word	Word	_	3	F	3:F	_
-3	pleased	_	Word	Word	_	0	H	0:H	_
-4	with	_	Word	Word	_	6	R	6:R	_
-5	that	_	Word	Word	_	6	E	6:E	_
-6	one	_	Word	Word	_	3	A	3:A	_
-7	!	_	Punctuation	Punctuation	_	6	U	6:U	_
+# text = He had a robe that was made back in the '60s .
+1	He	_	Word	Word	_	2	A	2:A	_
+2	had	_	Word	Word	_	0	H	0:H	_
+3	a	_	Word	Word	_	4	E	4:E	_
+4	robe	_	Word	Word	_	2	A	2:A	_
+5	that	_	Word	Word	_	7	R	7:R	_
+6	was	_	Word	Word	_	7	F	7:F	_
+7	made	_	Word	Word	_	4	E	4:E	_
+8	back	_	Word	Word	_	11	R	11:R	_
+9	in	_	Word	Word	_	11	R	11:R	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	'60s	_	Word	Word	_	7	T	7:T	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
 

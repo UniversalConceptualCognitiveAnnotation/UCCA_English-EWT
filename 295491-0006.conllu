@@ -1,18 +1,17 @@
 # format = ucca
 # sent_id = 295491-0006
-# text = Overall , Joe is a happy camper who has found a great spot .
-1	Overall	_	Word	Word	_	10	L	10:L	_
-2	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-3	Joe	_	Word	Word	_	6	A	6:A|10:A	_
-4	is	_	Word	Word	_	6	F	6:F	_
-5	a	_	Word	Word	_	6	E	6:E	_
-6	happy	_	Word	Word	_	0	H	0:H	_
-7	camper	_	Word	Word	_	6	Terminal	6:Terminal	_
-8	who	_	Word	Word	_	10	L	10:L	_
-9	has	_	Word	Word	_	10	F	10:F	_
-10	found	_	Word	Word	_	6	H	6:H	_
-11	a	_	Word	Word	_	13	E	13:E	_
-12	great	_	Word	Word	_	13	E	13:E	_
-13	spot	_	Word	Word	_	10	A	10:A	_
-14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+# text = Will be staying here any and every time I come anywhere near .
+1	Will	_	Word	Word	_	3	F	3:F	_
+2	be	_	Word	Word	_	3	F	3:F	_
+3	staying	_	Word	Word	_	0	H	0:H	_
+4	here	_	Word	Word	_	3	A	3:A	_
+5	any	_	Word	Word	_	8	E	8:E	_
+6	and	_	Word	Word	_	5	N	5:N	_
+7	every	_	Word	Word	_	5	C	5:C	_
+8	time	_	Word	Word	_	10	L	10:L	_
+9	I	_	Word	Word	_	10	A	10:A	_
+10	come	_	Word	Word	_	3	H	3:H	_
+11	anywhere	_	Word	Word	_	12	E	12:E	_
+12	near	_	Word	Word	_	10	A	10:A	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
 

@@ -1,21 +1,16 @@
 # format = ucca
 # sent_id = 084373-0001
-# text = Our window panes were so dirty that they needed a specialist to come and clean them .
-1	Our	_	Word	Word	_	3	E	3:E	_
-2	window	_	Word	Word	_	3	E	3:E|1:A	_
-3	panes	_	Word	Word	_	6	A	6:A	_
-4	were	_	Word	Word	_	6	F	6:F	_
-5	so	_	Word	Word	_	6	D	6:D	_
-6	dirty	_	Word	Word	_	0	H	0:H	_
-7	that	_	Word	Word	_	13	L	13:L	_
-8	they	_	Word	Word	_	13	A	13:A|15:A	_
-9	needed	_	Word	Word	_	13	D	13:D|15:D	_
-10	a	_	Word	Word	_	11	E	11:E	_
-11	specialist	_	Word	Word	_	0	C	0:C|15:A	_
-12	to	_	Word	Word	_	13	F	13:F	_
-13	come	_	Word	Word	_	6	H	6:H	_
-14	and	_	Word	Word	_	15	L	15:L	_
-15	clean	_	Word	Word	_	6	H	6:H	_
-16	them	_	Word	Word	_	15	A	15:A	_
-17	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+# text = We are very pleased with the services of First Glass Window .
+1	We	_	Word	Word	_	4	A	4:A	_
+2	are	_	Word	Word	_	4	F	4:F	_
+3	very	_	Word	Word	_	4	D	4:D	_
+4	pleased	_	Word	Word	_	0	H	0:H	_
+5	with	_	Word	Word	_	7	R	7:R	_
+6	the	_	Word	Word	_	7	E	7:E	_
+7	services	_	Word	Word	_	4	A	4:A	_
+8	of	_	Word	Word	_	9	R	9:R	_
+9	First	_	Word	Word	_	7	E	7:E	_
+10	Glass	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Window	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	.	_	Punctuation	Punctuation	_	9	U	9:U	_
 

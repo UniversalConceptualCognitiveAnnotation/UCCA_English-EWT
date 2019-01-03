@@ -1,7 +1,12 @@
 # format = ucca
 # sent_id = 097507-0003
-# text = Good Food .
-1	Good	_	Word	Word	_	0	H	0:H	_
-2	Food	_	Word	Word	_	1	A	1:A	_
-3	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+# text = I especially like the Chicken Curry pie .
+1	I	_	Word	Word	_	3	A	3:A	_
+2	especially	_	Word	Word	_	3	G	3:G	_
+3	like	_	Word	Word	_	0	H	0:H	_
+4	the	_	Word	Word	_	7	E	7:E	_
+5	Chicken	_	Word	Word	_	7	E	7:E	_
+6	Curry	_	Word	Word	_	5	C	5:C	_
+7	pie	_	Word	Word	_	3	A	3:A	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
 

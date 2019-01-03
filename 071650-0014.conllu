@@ -1,15 +1,21 @@
 # format = ucca
 # sent_id = 071650-0014
-# text = There are better places on the Cape - FITNESS 500 !
-1	There	_	Word	Word	_	3	F	3:F	_
-2	are	_	Word	Word	_	3	F	3:F	_
-3	better	_	Word	Word	_	0	H	0:H	_
-4	places	_	Word	Word	_	3	A	3:A	_
-5	on	_	Word	Word	_	6	R	6:R	_
-6	the	_	Word	Word	_	3	A	3:A	_
-7	Cape	_	Word	Word	_	6	Terminal	6:Terminal	_
-8	-	_	Punctuation	Punctuation	_	3	U	3:U	_
-9	FITNESS	_	Word	Word	_	3	H	3:H	_
-10	500	_	Word	Word	_	9	Terminal	9:Terminal	_
-11	!	_	Punctuation	Punctuation	_	9	U	9:U	_
+# text = The equipment and classes are n't good enough to deal with the rudeness from the staff !!!
+1	The	_	Word	Word	_	2	E	2:E	_
+2	equipment	_	Word	Word	_	7	A	7:A	_
+3	and	_	Word	Word	_	2	N	2:N	_
+4	classes	_	Word	Word	_	2	C	2:C	_
+5	are	_	Word	Word	_	7	F	7:F	_
+6	n't	_	Word	Word	_	7	D	7:D	_
+7	good	_	Word	Word	_	0	H	0:H	_
+8	enough	_	Word	Word	_	7	D	7:D	_
+9	to	_	Word	Word	_	10	R	10:R	_
+10	deal	_	Word	Word	_	7	A	7:A	_
+11	with	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	rudeness	_	Word	Word	_	10	A	10:A	_
+14	from	_	Word	Word	_	16	R	16:R	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	staff	_	Word	Word	_	13	A	13:A	_
+17	!!!	_	Punctuation	Punctuation	_	16	U	16:U	_
 

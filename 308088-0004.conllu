@@ -1,10 +1,33 @@
 # format = ucca
 # sent_id = 308088-0004
-# text = Stay away from this dealership !!!
-1	Stay	_	Word	Word	_	0	H	0:H	_
-2	away	_	Word	Word	_	1	D	1:D	_
-3	from	_	Word	Word	_	5	R	5:R	_
-4	this	_	Word	Word	_	5	E	5:E	_
-5	dealership	_	Word	Word	_	1	A	1:A	_
-6	!!!	_	Punctuation	Punctuation	_	5	U	5:U	_
+# text = As a previous Internet Manager I would deal with anyone looking to buy a car for a profit and not care if they came in with a broker .
+1	As	_	Word	Word	_	8	L	8:L	_
+2	a	_	Word	Word	_	5	E	5:E	_
+3	previous	_	Word	Word	_	5	T	5:T	_
+4	Internet	_	Word	Word	_	5	E	5:E	_
+5	Manager	_	Word	Word	_	0	H	0:H	_
+6	I	_	Word	Word	_	8	A	8:A|21:A	_
+7	would	_	Word	Word	_	8	D	8:D	_
+8	deal	_	Word	Word	_	5	H	5:H	_
+9	with	_	Word	Word	_	10	R	10:R	_
+10	anyone	_	Word	Word	_	8	A	8:A	_
+11	looking	_	Word	Word	_	13	D	13:D	_
+12	to	_	Word	Word	_	13	F	13:F	_
+13	buy	_	Word	Word	_	10	E	10:E	_
+14	a	_	Word	Word	_	15	E	15:E	_
+15	car	_	Word	Word	_	13	A	13:A	_
+16	for	_	Word	Word	_	18	L	18:L	_
+17	a	_	Word	Word	_	18	E	18:E	_
+18	profit	_	Word	Word	_	13	H	13:H	_
+19	and	_	Word	Word	_	21	L	21:L	_
+20	not	_	Word	Word	_	21	D	21:D	_
+21	care	_	Word	Word	_	5	H	5:H	_
+22	if	_	Word	Word	_	24	R	24:R	_
+23	they	_	Word	Word	_	24	A	24:A	_
+24	came	_	Word	Word	_	21	A	21:A	_
+25	in	_	Word	Word	_	24	D	24:D	_
+26	with	_	Word	Word	_	28	R	28:R	_
+27	a	_	Word	Word	_	28	E	28:E	_
+28	broker	_	Word	Word	_	24	A	24:A	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
 

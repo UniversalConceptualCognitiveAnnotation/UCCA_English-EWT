@@ -1,25 +1,16 @@
 # format = ucca
 # sent_id = 299169-0002
-# text = When I tried to return it they refused , so I had to leave without a refund and still hungry .
-1	When	_	Word	Word	_	8	L	8:L	_
-2	I	_	Word	Word	_	5	A	5:A|20:A	_
-3	tried	_	Word	Word	_	5	D	5:D	_
-4	to	_	Word	Word	_	5	F	5:F	_
-5	return	_	Word	Word	_	0	H	0:H	_
-6	it	_	Word	Word	_	5	A	5:A	_
-7	they	_	Word	Word	_	8	A	8:A	_
-8	refused	_	Word	Word	_	5	H	5:H	_
-9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-10	so	_	Word	Word	_	14	L	14:L	_
-11	I	_	Word	Word	_	14	A	14:A|17:A	_
-12	had	_	Word	Word	_	14	D	14:D	_
-13	to	_	Word	Word	_	14	F	14:F	_
-14	leave	_	Word	Word	_	5	H	5:H	_
-15	without	_	Word	Word	_	17	L	17:L|17:D	_
-16	a	_	Word	Word	_	17	E	17:E	_
-17	refund	_	Word	Word	_	5	H	5:H	_
-18	and	_	Word	Word	_	20	L	20:L	_
-19	still	_	Word	Word	_	20	D	20:D	_
-20	hungry	_	Word	Word	_	5	H	5:H	_
-21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+# text = Fried rice has NO flavor , it literally taste like water .
+1	Fried	_	Word	Word	_	2	E	2:E	_
+2	rice	_	Word	Word	_	3	A	3:A	_
+3	has	_	Word	Word	_	0	H	0:H	_
+4	NO	_	Word	Word	_	3	D	3:D	_
+5	flavor	_	Word	Word	_	3	A	3:A	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	it	_	Word	Word	_	9	A	9:A	_
+8	literally	_	Word	Word	_	9	D	9:D	_
+9	taste	_	Word	Word	_	3	H	3:H	_
+10	like	_	Word	Word	_	11	R	11:R	_
+11	water	_	Word	Word	_	9	A	9:A	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
 

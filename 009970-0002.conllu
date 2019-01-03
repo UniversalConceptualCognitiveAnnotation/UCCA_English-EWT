@@ -1,25 +1,15 @@
 # format = ucca
 # sent_id = 009970-0002
-# text = All the food tasted excellent , and with the new renovation of chairs and the bathroom , it is awesome .
-1	All	_	Word	Word	_	3	Q	3:Q	_
-2	the	_	Word	Word	_	3	E	3:E	_
-3	food	_	Word	Word	_	5	A	5:A	_
-4	tasted	_	Word	Word	_	5	G	5:G	_
-5	excellent	_	Word	Word	_	0	H	0:H	_
-6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-7	and	_	Word	Word	_	11	L	11:L	_
-8	with	_	Word	Word	_	7	Terminal	7:Terminal	_
-9	the	_	Word	Word	_	11	E	11:E	_
-10	new	_	Word	Word	_	11	D	11:D	_
-11	renovation	_	Word	Word	_	5	H	5:H	_
-12	of	_	Word	Word	_	13	R	13:R	_
-13	chairs	_	Word	Word	_	11	A	11:A	_
-14	and	_	Word	Word	_	13	N	13:N	_
-15	the	_	Word	Word	_	16	E	16:E	_
-16	bathroom	_	Word	Word	_	13	C	13:C	_
-17	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-18	it	_	Word	Word	_	20	A	20:A	_
-19	is	_	Word	Word	_	20	F	20:F	_
-20	awesome	_	Word	Word	_	5	H	5:H	_
-21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+# text = It was the best Chinese food I have ever had .
+1	It	_	Word	Word	_	4	A	4:A	_
+2	was	_	Word	Word	_	4	F	4:F	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	best	_	Word	Word	_	0	H	0:H	_
+5	Chinese	_	Word	Word	_	6	E	6:E	_
+6	food	_	Word	Word	_	4	A	4:A	_
+7	I	_	Word	Word	_	10	A	10:A	_
+8	have	_	Word	Word	_	10	F	10:F	_
+9	ever	_	Word	Word	_	10	T	10:T	_
+10	had	_	Word	Word	_	6	E	6:E	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
 

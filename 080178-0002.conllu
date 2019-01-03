@@ -1,22 +1,19 @@
 # format = ucca
 # sent_id = 080178-0002
-# text = The store manager , Jim Smith , made an excellent tire recommendation for my newly acquired Lexus .
-1	The	_	Word	Word	_	3	E	3:E	_
-2	store	_	Word	Word	_	3	E	3:E	_
-3	manager	_	Word	Word	_	12	A	12:A	_
-4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-5	Jim	_	Word	Word	_	3	C	3:C	_
-6	Smith	_	Word	Word	_	5	Terminal	5:Terminal	_
-7	,	_	Punctuation	Punctuation	_	12	U	12:U	_
-8	made	_	Word	Word	_	12	D	12:D	_
-9	an	_	Word	Word	_	11	E	11:E	_
-10	excellent	_	Word	Word	_	12	D	12:D	_
+# text = Allen Tire was recommended by friend after my having bad tire experiences in Temecula .
+1	Allen	_	Word	Word	_	4	A	4:A	_
+2	Tire	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	was	_	Word	Word	_	4	F	4:F	_
+4	recommended	_	Word	Word	_	0	H	0:H	_
+5	by	_	Word	Word	_	6	R	6:R	_
+6	friend	_	Word	Word	_	4	A	4:A	_
+7	after	_	Word	Word	_	12	L	12:L	_
+8	my	_	Word	Word	_	12	A	12:A	_
+9	having	_	Word	Word	_	12	F	12:F	_
+10	bad	_	Word	Word	_	12	D	12:D	_
 11	tire	_	Word	Word	_	12	A	12:A	_
-12	recommendation	_	Word	Word	_	0	H	0:H	_
-13	for	_	Word	Word	_	16	L	16:L	_
-14	my	_	Word	Word	_	17	E	17:E	_
-15	newly	_	Word	Word	_	16	D	16:D	_
-16	acquired	_	Word	Word	_	12	H	12:H	_
-17	Lexus	_	Word	Word	_	16	A	16:A	_
-18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+12	experiences	_	Word	Word	_	4	H	4:H	_
+13	in	_	Word	Word	_	14	R	14:R	_
+14	Temecula	_	Word	Word	_	12	A	12:A	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
 

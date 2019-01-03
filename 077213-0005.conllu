@@ -1,6 +1,14 @@
 # format = ucca
 # sent_id = 077213-0005
-# text = seriously .
-1	seriously	_	Word	Word	_	0	G	0:G	_
-2	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+# text = if you want good pizza , go to famoso .
+1	if	_	Word	Word	_	7	L	7:L	_
+2	you	_	Word	Word	_	3	A	3:A|7:A	_
+3	want	_	Word	Word	_	0	H	0:H	_
+4	good	_	Word	Word	_	3	A	3:A	_
+5	pizza	_	Word	Word	_	4	A	4:A	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	go	_	Word	Word	_	3	H	3:H	_
+8	to	_	Word	Word	_	9	R	9:R	_
+9	famoso	_	Word	Word	_	7	A	7:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
 

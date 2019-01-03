@@ -1,16 +1,10 @@
 # format = ucca
 # sent_id = 255261-0004
-# text = Go there on christian holidays for a bit of churchy grandure .
-1	Go	_	Word	Word	_	0	H	0:H	_
-2	there	_	Word	Word	_	1	A	1:A	_
-3	on	_	Word	Word	_	5	R	5:R	_
-4	christian	_	Word	Word	_	5	E	5:E	_
-5	holidays	_	Word	Word	_	1	T	1:T	_
-6	for	_	Word	Word	_	11	L	11:L	_
-7	a	_	Word	Word	_	11	Q	11:Q	_
-8	bit	_	Word	Word	_	7	Terminal	7:Terminal	_
-9	of	_	Word	Word	_	7	R	7:R	_
-10	churchy	_	Word	Word	_	11	A	11:A	_
-11	grandure	_	Word	Word	_	1	H	1:H	_
-12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+# text = Big , grey and imposing .
+1	Big	_	Word	Word	_	0	H	0:H	_
+2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	grey	_	Word	Word	_	1	H	1:H	_
+4	and	_	Word	Word	_	5	L	5:L	_
+5	imposing	_	Word	Word	_	1	H	1:H	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
 

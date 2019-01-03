@@ -1,17 +1,23 @@
 # format = ucca
 # sent_id = 063549-0005
-# text = If you want great food then L'espalier is the place to go .
-1	If	_	Word	Word	_	8	L	8:L	_
-2	you	_	Word	Word	_	3	A	3:A	_
-3	want	_	Word	Word	_	0	H	0:H	_
-4	great	_	Word	Word	_	5	E	5:E	_
-5	food	_	Word	Word	_	3	A	3:A	_
-6	then	_	Word	Word	_	8	L	8:L	_
-7	L'espalier	_	Word	Word	_	8	A	8:A	_
-8	is	_	Word	Word	_	3	H	3:H	_
-9	the	_	Word	Word	_	10	E	10:E	_
-10	place	_	Word	Word	_	8	A	8:A	_
-11	to	_	Word	Word	_	12	F	12:F	_
-12	go	_	Word	Word	_	10	E	10:E	_
-13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+# text = The waiting staff is beyond impeccable ( they refold your napkin when you go to the bathroom ) .
+1	The	_	Word	Word	_	3	E	3:E	_
+2	waiting	_	Word	Word	_	3	E	3:E	_
+3	staff	_	Word	Word	_	6	A	6:A	_
+4	is	_	Word	Word	_	6	F	6:F	_
+5	beyond	_	Word	Word	_	6	D	6:D	_
+6	impeccable	_	Word	Word	_	0	H	0:H	_
+7	(	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	they	_	Word	Word	_	9	A	9:A	_
+9	refold	_	Word	Word	_	6	H	6:H	_
+10	your	_	Word	Word	_	11	E	11:E	_
+11	napkin	_	Word	Word	_	9	A	9:A	_
+12	when	_	Word	Word	_	14	L	14:L	_
+13	you	_	Word	Word	_	14	A	14:A	_
+14	go	_	Word	Word	_	6	H	6:H	_
+15	to	_	Word	Word	_	17	R	17:R	_
+16	the	_	Word	Word	_	17	E	17:E	_
+17	bathroom	_	Word	Word	_	14	A	14:A	_
+18	)	_	Punctuation	Punctuation	_	17	U	17:U	_
+19	.	_	Punctuation	Punctuation	_	17	U	17:U	_
 

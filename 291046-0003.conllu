@@ -1,14 +1,15 @@
 # format = ucca
 # sent_id = 291046-0003
-# text = According to news accounts , the company is struggling .
-1	According	_	Word	Word	_	9	L	9:L	_
-2	to	_	Word	Word	_	1	Terminal	1:Terminal	_
-3	news	_	Word	Word	_	4	A	4:A	_
-4	accounts	_	Word	Word	_	0	H	0:H	_
-5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-6	the	_	Word	Word	_	7	E	7:E	_
-7	company	_	Word	Word	_	9	A	9:A	_
-8	is	_	Word	Word	_	9	F	9:F	_
-9	struggling	_	Word	Word	_	4	H	4:H	_
-10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+# text = Victim of hard times and I suspect failing corporate management .
+1	Victim	_	Word	Word	_	0	H	0:H	_
+2	of	_	Word	Word	_	4	R	4:R	_
+3	hard	_	Word	Word	_	4	E	4:E	_
+4	times	_	Word	Word	_	1	A	1:A	_
+5	and	_	Word	Word	_	7	L	7:L	_
+6	I	_	Word	Word	_	7	A	7:A	_
+7	suspect	_	Word	Word	_	1	H	1:H	_
+8	failing	_	Word	Word	_	7	A	7:A	_
+9	corporate	_	Word	Word	_	10	E	10:E	_
+10	management	_	Word	Word	_	8	A	8:A	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
 

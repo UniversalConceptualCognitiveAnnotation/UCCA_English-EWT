@@ -1,19 +1,21 @@
 # format = ucca
 # sent_id = 351727-0003
-# text = Do n't even get me started on how expensive it is to drink there .
-1	Do	_	Word	Word	_	9	G	9:G	_
-2	n't	_	Word	Word	_	1	Terminal	1:Terminal	_
-3	even	_	Word	Word	_	1	Terminal	1:Terminal	_
-4	get	_	Word	Word	_	1	Terminal	1:Terminal	_
-5	me	_	Word	Word	_	1	Terminal	1:Terminal	_
-6	started	_	Word	Word	_	1	Terminal	1:Terminal	_
-7	on	_	Word	Word	_	9	R	9:R	_
-8	how	_	Word	Word	_	9	D	9:D	_
-9	expensive	_	Word	Word	_	0	H	0:H	_
-10	it	_	Word	Word	_	13	F	13:F	_
-11	is	_	Word	Word	_	13	F	13:F	_
-12	to	_	Word	Word	_	13	F	13:F	_
-13	drink	_	Word	Word	_	9	A	9:A	_
-14	there	_	Word	Word	_	13	A	13:A	_
-15	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+# text = The food is mediocre at best , and largely overpriced given the portion size and quality .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	food	_	Word	Word	_	0	C	0:C|10:A	_
+3	is	_	Word	Word	_	4	F	4:F	_
+4	mediocre	_	Word	Word	_	0	H	0:H	_
+5	at	_	Word	Word	_	6	E	6:E	_
+6	best	_	Word	Word	_	4	D	4:D	_
+7	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	and	_	Word	Word	_	10	L	10:L	_
+9	largely	_	Word	Word	_	10	D	10:D	_
+10	overpriced	_	Word	Word	_	4	H	4:H	_
+11	given	_	Word	Word	_	14	L	14:L	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	portion	_	Word	Word	_	0	C	0:C|16:A	_
+14	size	_	Word	Word	_	4	H	4:H	_
+15	and	_	Word	Word	_	16	L	16:L	_
+16	quality	_	Word	Word	_	4	H	4:H	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
 

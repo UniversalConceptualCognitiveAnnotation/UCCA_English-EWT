@@ -1,19 +1,28 @@
 # format = ucca
 # sent_id = 248124-0003
-# text = The teachers are highly trained and are expert at handling all types of clients .
-1	The	_	Word	Word	_	2	F	2:F	_
-2	teachers	_	Word	Word	_	5	A	5:A|10:A	_
-3	are	_	Word	Word	_	5	F	5:F	_
-4	highly	_	Word	Word	_	5	D	5:D	_
-5	trained	_	Word	Word	_	0	H	0:H	_
-6	and	_	Word	Word	_	10	L	10:L	_
-7	are	_	Word	Word	_	10	F	10:F	_
-8	expert	_	Word	Word	_	10	D	10:D	_
-9	at	_	Word	Word	_	10	F	10:F	_
-10	handling	_	Word	Word	_	5	H	5:H	_
-11	all	_	Word	Word	_	12	Q	12:Q	_
-12	types	_	Word	Word	_	14	E	14:E	_
-13	of	_	Word	Word	_	14	F	14:F	_
-14	clients	_	Word	Word	_	10	A	10:A	_
-15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+# text = It is the attention to detail and the quality of the work taught at TomiPilates that sets this studio apart from the others .
+1	It	_	Word	Word	_	20	F	20:F	_
+2	is	_	Word	Word	_	20	F	20:F	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	attention	_	Word	Word	_	0	C	0:C|13:A	_
+5	to	_	Word	Word	_	6	R	6:R	_
+6	detail	_	Word	Word	_	4	A	4:A	_
+7	and	_	Word	Word	_	4	L	4:L	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	quality	_	Word	Word	_	0	C	0:C|13:A	_
+10	of	_	Word	Word	_	12	R	12:R	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	work	_	Word	Word	_	9	A	9:A	_
+13	taught	_	Word	Word	_	4	E	4:E	_
+14	at	_	Word	Word	_	15	R	15:R	_
+15	TomiPilates	_	Word	Word	_	13	A	13:A	_
+16	that	_	Word	Word	_	20	R	20:R	_
+17	sets	_	Word	Word	_	20	F	20:F	_
+18	this	_	Word	Word	_	19	E	19:E	_
+19	studio	_	Word	Word	_	20	A	20:A	_
+20	apart	_	Word	Word	_	0	H	0:H	_
+21	from	_	Word	Word	_	23	R	23:R	_
+22	the	_	Word	Word	_	23	E	23:E	_
+23	others	_	Word	Word	_	20	A	20:A	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
 

@@ -1,15 +1,37 @@
 # format = ucca
 # sent_id = 081796-0006
-# text = Exile is environmentally conscious and involved heavily in our community .
-1	Exile	_	Word	Word	_	4	A	4:A|6:A	_
-2	is	_	Word	Word	_	4	F	4:F	_
-3	environmentally	_	Word	Word	_	4	D	4:D	_
-4	conscious	_	Word	Word	_	0	H	0:H	_
-5	and	_	Word	Word	_	6	L	6:L	_
-6	involved	_	Word	Word	_	4	H	4:H	_
-7	heavily	_	Word	Word	_	6	D	6:D	_
-8	in	_	Word	Word	_	10	R	10:R	_
-9	our	_	Word	Word	_	10	E	10:E	_
-10	community	_	Word	Word	_	6	A	6:A	_
-11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+# text = In addition , the clothing is of much better quality than the clothing from hot topic , which is made as cheaply as possible by people living in horrible conditions in Asia .
+1	In	_	Word	Word	_	10	L	10:L	_
+2	addition	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	clothing	_	Word	Word	_	10	A	10:A	_
+6	is	_	Word	Word	_	10	F	10:F	_
+7	of	_	Word	Word	_	10	F	10:F	_
+8	much	_	Word	Word	_	10	D	10:D	_
+9	better	_	Word	Word	_	10	E	10:E	_
+10	quality	_	Word	Word	_	0	H	0:H	_
+11	than	_	Word	Word	_	13	R	13:R	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	clothing	_	Word	Word	_	10	A	10:A	_
+14	from	_	Word	Word	_	15	R	15:R	_
+15	hot	_	Word	Word	_	13	E	13:E	_
+16	topic	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+18	which	_	Word	Word	_	20	R	20:R	_
+19	is	_	Word	Word	_	20	F	20:F	_
+20	made	_	Word	Word	_	13	E	13:E	_
+21	as	_	Word	Word	_	22	R	22:R	_
+22	cheaply	_	Word	Word	_	20	D	20:D	_
+23	as	_	Word	Word	_	22	R	22:R	_
+24	possible	_	Word	Word	_	22	C	22:C	_
+25	by	_	Word	Word	_	26	R	26:R	_
+26	people	_	Word	Word	_	20	A	20:A	_
+27	living	_	Word	Word	_	26	E	26:E	_
+28	in	_	Word	Word	_	29	R	29:R	_
+29	horrible	_	Word	Word	_	27	A	27:A	_
+30	conditions	_	Word	Word	_	29	E	29:E	_
+31	in	_	Word	Word	_	32	R	32:R	_
+32	Asia	_	Word	Word	_	27	A	27:A	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
 

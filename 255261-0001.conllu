@@ -1,17 +1,8 @@
 # format = ucca
 # sent_id = 255261-0001
-# text = Might as well just hotpot the curb and rate the traffic light .
-1	Might	_	Word	Word	_	9	L	9:L	_
-2	as	_	Word	Word	_	1	Terminal	1:Terminal	_
-3	well	_	Word	Word	_	1	Terminal	1:Terminal	_
-4	just	_	Word	Word	_	5	D	5:D	_
-5	hotpot	_	Word	Word	_	0	H	0:H	_
-6	the	_	Word	Word	_	7	F	7:F	_
-7	curb	_	Word	Word	_	5	A	5:A	_
-8	and	_	Word	Word	_	9	L	9:L	_
-9	rate	_	Word	Word	_	5	H	5:H	_
-10	the	_	Word	Word	_	12	F	12:F	_
-11	traffic	_	Word	Word	_	12	E	12:E	_
-12	light	_	Word	Word	_	9	A	9:A	_
-13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+# text = Rate a church ?
+1	Rate	_	Word	Word	_	0	H	0:H	_
+2	a	_	Word	Word	_	3	E	3:E	_
+3	church	_	Word	Word	_	1	A	1:A	_
+4	?	_	Punctuation	Punctuation	_	3	U	3:U	_
 

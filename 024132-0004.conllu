@@ -1,16 +1,7 @@
 # format = ucca
 # sent_id = 024132-0004
-# text = Steve .... proud Range Rover Sport owner ( with rear tints )
-1	Steve	_	Word	Word	_	0	root	0:root	_
-2	....	_	Punctuation	Punctuation	_	7	U	7:U	_
-3	proud	_	Word	Word	_	7	D	7:D	_
-4	Range	_	Word	Word	_	7	A	7:A	_
-5	Rover	_	Word	Word	_	4	Terminal	4:Terminal	_
-6	Sport	_	Word	Word	_	4	E	4:E	_
-7	owner	_	Word	Word	_	0	H	0:H	_
-8	(	_	Punctuation	Punctuation	_	7	U	7:U	_
-9	with	_	Word	Word	_	11	R	11:R	_
-10	rear	_	Word	Word	_	11	E	11:E	_
-11	tints	_	Word	Word	_	4	E	4:E	_
-12	)	_	Punctuation	Punctuation	_	11	U	11:U	_
+# text = Thanks Mark .
+1	Thanks	_	Word	Word	_	0	H	0:H	_
+2	Mark	_	Word	Word	_	1	A	1:A	_
+3	.	_	Punctuation	Punctuation	_	2	U	2:U	_
 

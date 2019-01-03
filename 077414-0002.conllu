@@ -1,27 +1,31 @@
 # format = ucca
 # sent_id = 077414-0002
-# text = I much preferred the one - on - one service here to the experiences I 've had with bigger offices and firms .
-1	I	_	Word	Word	_	3	A	3:A	_
-2	much	_	Word	Word	_	3	D	3:D	_
-3	preferred	_	Word	Word	_	0	H	0:H	_
-4	the	_	Word	Word	_	10	E	10:E	_
-5	one	_	Word	Word	_	10	D	10:D	_
-6	-	_	Punctuation	Punctuation	_	5	U	5:U	_
-7	on	_	Word	Word	_	5	Terminal	5:Terminal	_
-8	-	_	Punctuation	Punctuation	_	5	U	5:U	_
-9	one	_	Word	Word	_	5	Terminal	5:Terminal	_
-10	service	_	Word	Word	_	3	A	3:A	_
-11	here	_	Word	Word	_	3	A	3:A	_
-12	to	_	Word	Word	_	14	L	14:L	_
-13	the	_	Word	Word	_	14	E	14:E	_
-14	experiences	_	Word	Word	_	3	H	3:H	_
-15	I	_	Word	Word	_	14	A	14:A	_
-16	've	_	Word	Word	_	14	F	14:F	_
-17	had	_	Word	Word	_	14	F	14:F	_
-18	with	_	Word	Word	_	20	R	20:R	_
-19	bigger	_	Word	Word	_	20	E	20:E	_
-20	offices	_	Word	Word	_	14	A	14:A	_
-21	and	_	Word	Word	_	20	N	20:N	_
-22	firms	_	Word	Word	_	20	C	20:C	_
-23	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+# text = Bloom Legal was really attentive to my problem , and Seth Bloom took the time to help me understand the legal issue I was dealing with .
+1	Bloom	_	Word	Word	_	5	A	5:A	_
+2	Legal	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	was	_	Word	Word	_	5	F	5:F	_
+4	really	_	Word	Word	_	5	D	5:D	_
+5	attentive	_	Word	Word	_	0	H	0:H	_
+6	to	_	Word	Word	_	8	R	8:R	_
+7	my	_	Word	Word	_	8	E	8:E	_
+8	problem	_	Word	Word	_	5	A	5:A	_
+9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+10	and	_	Word	Word	_	15	L	15:L	_
+11	Seth	_	Word	Word	_	15	A	15:A|19:A	_
+12	Bloom	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	took	_	Word	Word	_	15	F	15:F	_
+14	the	_	Word	Word	_	15	E	15:E	_
+15	time	_	Word	Word	_	5	H	5:H	_
+16	to	_	Word	Word	_	19	F	19:F	_
+17	help	_	Word	Word	_	19	D	19:D	_
+18	me	_	Word	Word	_	19	A	19:A	_
+19	understand	_	Word	Word	_	15	A	15:A	_
+20	the	_	Word	Word	_	22	E	22:E	_
+21	legal	_	Word	Word	_	22	E	22:E	_
+22	issue	_	Word	Word	_	19	A	19:A	_
+23	I	_	Word	Word	_	25	A	25:A	_
+24	was	_	Word	Word	_	25	F	25:F	_
+25	dealing	_	Word	Word	_	22	E	22:E	_
+26	with	_	Word	Word	_	25	A	25:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
 

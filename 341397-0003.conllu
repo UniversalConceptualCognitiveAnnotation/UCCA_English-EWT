@@ -1,17 +1,29 @@
 # format = ucca
 # sent_id = 341397-0003
-# text = i could n't be more happier with the way my garage looks .
-1	i	_	Word	Word	_	6	A	6:A	_
-2	could	_	Word	Word	_	6	D	6:D	_
-3	n't	_	Word	Word	_	6	D	6:D	_
-4	be	_	Word	Word	_	6	F	6:F	_
-5	more	_	Word	Word	_	6	D	6:D	_
-6	happier	_	Word	Word	_	0	H	0:H	_
-7	with	_	Word	Word	_	12	R	12:R	_
-8	the	_	Word	Word	_	9	E	9:E	_
-9	way	_	Word	Word	_	12	D	12:D	_
-10	my	_	Word	Word	_	11	E	11:E	_
-11	garage	_	Word	Word	_	12	A	12:A	_
-12	looks	_	Word	Word	_	6	A	6:A	_
-13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+# text = the guy came on time and did n't take any breaks , he went straight to work and finished the job efficiently and promptly !
+1	the	_	Word	Word	_	2	E	2:E	_
+2	guy	_	Word	Word	_	0	C	0:C|11:A	_
+3	came	_	Word	Word	_	0	H	0:H	_
+4	on	_	Word	Word	_	5	R	5:R	_
+5	time	_	Word	Word	_	3	T	3:T	_
+6	and	_	Word	Word	_	11	L	11:L	_
+7	did	_	Word	Word	_	11	F	11:F	_
+8	n't	_	Word	Word	_	11	D	11:D	_
+9	take	_	Word	Word	_	11	D	11:D	_
+10	any	_	Word	Word	_	11	Q	11:Q	_
+11	breaks	_	Word	Word	_	3	H	3:H	_
+12	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+13	he	_	Word	Word	_	17	A	17:A|19:A	_
+14	went	_	Word	Word	_	17	D	17:D	_
+15	straight	_	Word	Word	_	17	D	17:D	_
+16	to	_	Word	Word	_	17	F	17:F	_
+17	work	_	Word	Word	_	3	H	3:H	_
+18	and	_	Word	Word	_	19	L	19:L	_
+19	finished	_	Word	Word	_	3	H	3:H	_
+20	the	_	Word	Word	_	21	E	21:E	_
+21	job	_	Word	Word	_	19	A	19:A	_
+22	efficiently	_	Word	Word	_	19	D	19:D	_
+23	and	_	Word	Word	_	22	N	22:N	_
+24	promptly	_	Word	Word	_	22	C	22:C	_
+25	!	_	Punctuation	Punctuation	_	22	U	22:U	_
 

@@ -1,12 +1,13 @@
 # format = ucca
 # sent_id = 072271-0003
-# text = The owner Karla is welcoming and fun .
-1	The	_	Word	Word	_	2	E	2:E	_
-2	owner	_	Word	Word	_	0	C	0:C|7:A	_
-3	Karla	_	Word	Word	_	2	C	2:C	_
-4	is	_	Word	Word	_	5	F	5:F	_
-5	welcoming	_	Word	Word	_	0	H	0:H	_
-6	and	_	Word	Word	_	7	L	7:L	_
-7	fun	_	Word	Word	_	5	H	5:H	_
-8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+# text = Destiny Allison 's metal sculptures were my favorite .
+1	Destiny	_	Word	Word	_	5	E	5:E|3:A	_
+2	Allison	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	's	_	Word	Word	_	5	E	5:E	_
+4	metal	_	Word	Word	_	5	E	5:E	_
+5	sculptures	_	Word	Word	_	8	A	8:A	_
+6	were	_	Word	Word	_	8	F	8:F	_
+7	my	_	Word	Word	_	8	A	8:A	_
+8	favorite	_	Word	Word	_	0	H	0:H	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
 

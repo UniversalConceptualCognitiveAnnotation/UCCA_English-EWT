@@ -1,27 +1,22 @@
 # format = ucca
 # sent_id = 079375-0009
-# text = In fact I look forward to taking my animals to the vet simply because of how my animals and I are treated .
-1	In	_	Word	Word	_	22	L	22:L	_
-2	fact	_	Word	Word	_	1	Terminal	1:Terminal	_
-3	I	_	Word	Word	_	4	A	4:A|7:A	_
-4	look	_	Word	Word	_	0	H	0:H	_
-5	forward	_	Word	Word	_	4	Terminal	4:Terminal	_
-6	to	_	Word	Word	_	7	R	7:R	_
-7	taking	_	Word	Word	_	4	A	4:A	_
-8	my	_	Word	Word	_	9	E	9:E	_
-9	animals	_	Word	Word	_	7	A	7:A	_
-10	to	_	Word	Word	_	12	R	12:R	_
-11	the	_	Word	Word	_	12	E	12:E	_
-12	vet	_	Word	Word	_	7	A	7:A	_
-13	simply	_	Word	Word	_	22	L	22:L	_
-14	because	_	Word	Word	_	13	Terminal	13:Terminal	_
-15	of	_	Word	Word	_	13	Terminal	13:Terminal	_
-16	how	_	Word	Word	_	22	D	22:D	_
-17	my	_	Word	Word	_	18	E	18:E	_
-18	animals	_	Word	Word	_	22	A	22:A	_
-19	and	_	Word	Word	_	18	N	18:N	_
-20	I	_	Word	Word	_	18	C	18:C	_
-21	are	_	Word	Word	_	22	F	22:F	_
-22	treated	_	Word	Word	_	4	H	4:H	_
-23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+# text = I live nearly two hours away and yet I will still make the drive to see them !
+1	I	_	Word	Word	_	2	A	2:A	_
+2	live	_	Word	Word	_	0	H	0:H	_
+3	nearly	_	Word	Word	_	5	E	5:E	_
+4	two	_	Word	Word	_	5	E	5:E	_
+5	hours	_	Word	Word	_	6	Q	6:Q	_
+6	away	_	Word	Word	_	2	A	2:A	_
+7	and	_	Word	Word	_	14	L	14:L	_
+8	yet	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	I	_	Word	Word	_	14	A	14:A|16:A	_
+10	will	_	Word	Word	_	14	D	14:D	_
+11	still	_	Word	Word	_	14	D	14:D	_
+12	make	_	Word	Word	_	14	F	14:F	_
+13	the	_	Word	Word	_	14	E	14:E	_
+14	drive	_	Word	Word	_	2	H	2:H	_
+15	to	_	Word	Word	_	16	L	16:L	_
+16	see	_	Word	Word	_	2	H	2:H	_
+17	them	_	Word	Word	_	16	A	16:A	_
+18	!	_	Punctuation	Punctuation	_	16	U	16:U	_
 

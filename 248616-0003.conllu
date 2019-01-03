@@ -1,22 +1,16 @@
 # format = ucca
 # sent_id = 248616-0003
-# text = Phone calls were n't returned when promised and the botched repair took a week longer than promised .
-1	Phone	_	Word	Word	_	2	A	2:A	_
-2	calls	_	Word	Word	_	0	P	0:P|7:A	_
-3	were	_	Word	Word	_	5	F	5:F	_
-4	n't	_	Word	Word	_	5	D	5:D	_
-5	returned	_	Word	Word	_	0	H	0:H	_
-6	when	_	Word	Word	_	7	L	7:L	_
-7	promised	_	Word	Word	_	5	H	5:H	_
-8	and	_	Word	Word	_	11	L	11:L	_
-9	the	_	Word	Word	_	11	F	11:F	_
-10	botched	_	Word	Word	_	11	D	11:D	_
-11	repair	_	Word	Word	_	5	H	5:H	_
-12	took	_	Word	Word	_	14	R	14:R	_
-13	a	_	Word	Word	_	14	F	14:F	_
-14	week	_	Word	Word	_	11	T	11:T	_
-15	longer	_	Word	Word	_	14	E	14:E	_
-16	than	_	Word	Word	_	17	L	17:L	_
-17	promised	_	Word	Word	_	5	H	5:H	_
-18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+# text = The video cable was replaced and suddenly the motherboard was dead .
+1	The	_	Word	Word	_	3	E	3:E	_
+2	video	_	Word	Word	_	3	E	3:E	_
+3	cable	_	Word	Word	_	5	A	5:A	_
+4	was	_	Word	Word	_	5	F	5:F	_
+5	replaced	_	Word	Word	_	0	H	0:H	_
+6	and	_	Word	Word	_	11	L	11:L	_
+7	suddenly	_	Word	Word	_	11	T	11:T	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	motherboard	_	Word	Word	_	11	A	11:A	_
+10	was	_	Word	Word	_	11	F	11:F	_
+11	dead	_	Word	Word	_	5	H	5:H	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
 

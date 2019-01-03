@@ -1,12 +1,15 @@
 # format = ucca
 # sent_id = 351561-0021
-# text = YES , I am west of broad .
-1	YES	_	Word	Word	_	0	H	0:H	_
-2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
-3	I	_	Word	Word	_	5	A	5:A	_
-4	am	_	Word	Word	_	5	F	5:F	_
-5	west	_	Word	Word	_	1	H	1:H	_
-6	of	_	Word	Word	_	7	R	7:R	_
-7	broad	_	Word	Word	_	5	A	5:A	_
-8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+# text = She says , Is that 17th like over past broad .
+1	She	_	Word	Word	_	2	A	2:A	_
+2	says	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	Is	_	Word	Word	_	9	F	9:F	_
+5	that	_	Word	Word	_	9	F	9:F	_
+6	17th	_	Word	Word	_	9	A	9:A	_
+7	like	_	Word	Word	_	9	G	9:G	_
+8	over	_	Word	Word	_	9	F	9:F	_
+9	past	_	Word	Word	_	2	A	2:A	_
+10	broad	_	Word	Word	_	9	A	9:A	_
+11	.	_	Punctuation	Punctuation	_	9	U	9:U	_
 

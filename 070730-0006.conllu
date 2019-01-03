@@ -1,15 +1,29 @@
 # format = ucca
 # sent_id = 070730-0006
-# text = But I 'd go elsewhere unless the prices are cut .
-1	But	_	Word	Word	_	10	L	10:L	_
-2	I	_	Word	Word	_	4	A	4:A	_
-3	'd	_	Word	Word	_	4	D	4:D	_
-4	go	_	Word	Word	_	0	H	0:H	_
-5	elsewhere	_	Word	Word	_	4	A	4:A	_
-6	unless	_	Word	Word	_	10	L	10:L	_
-7	the	_	Word	Word	_	8	E	8:E	_
-8	prices	_	Word	Word	_	10	A	10:A	_
-9	are	_	Word	Word	_	10	F	10:F	_
-10	cut	_	Word	Word	_	4	H	4:H	_
-11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+# text = The service is solicitous , the atmosphere is nice and mod except the out - of - place flat - screen TV playing football .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	service	_	Word	Word	_	0	H	0:H	_
+3	is	_	Word	Word	_	2	F	2:F	_
+4	solicitous	_	Word	Word	_	2	D	2:D	_
+5	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	the	_	Word	Word	_	7	E	7:E	_
+7	atmosphere	_	Word	Word	_	9	A	9:A|11:A	_
+8	is	_	Word	Word	_	9	F	9:F	_
+9	nice	_	Word	Word	_	2	H	2:H	_
+10	and	_	Word	Word	_	11	L	11:L	_
+11	mod	_	Word	Word	_	2	H	2:H	_
+12	except	_	Word	Word	_	14	L	14:L	_
+13	the	_	Word	Word	_	22	E	22:E	_
+14	out	_	Word	Word	_	2	H	2:H	_
+15	-	_	Punctuation	Punctuation	_	14	U	14:U	_
+16	of	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	-	_	Punctuation	Punctuation	_	14	U	14:U	_
+18	place	_	Word	Word	_	14	Terminal	14:Terminal	_
+19	flat	_	Word	Word	_	21	E	21:E	_
+20	-	_	Punctuation	Punctuation	_	21	U	21:U	_
+21	screen	_	Word	Word	_	22	E	22:E	_
+22	TV	_	Word	Word	_	14	A	14:A	_
+23	playing	_	Word	Word	_	22	E	22:E	_
+24	football	_	Word	Word	_	23	A	23:A	_
+25	.	_	Punctuation	Punctuation	_	23	U	23:U	_
 

@@ -1,17 +1,14 @@
 # format = ucca
 # sent_id = 007403-0005
-# text = Please visit my website to learn more about my practice at www.veraakulov.com .
-1	Please	_	Word	Word	_	2	G	2:G	_
-2	visit	_	Word	Word	_	0	H	0:H	_
-3	my	_	Word	Word	_	4	E	4:E	_
-4	website	_	Word	Word	_	2	A	2:A	_
-5	to	_	Word	Word	_	6	L	6:L	_
-6	learn	_	Word	Word	_	2	H	2:H	_
-7	more	_	Word	Word	_	6	D	6:D	_
-8	about	_	Word	Word	_	10	R	10:R	_
-9	my	_	Word	Word	_	10	E	10:E	_
-10	practice	_	Word	Word	_	6	A	6:A	_
-11	at	_	Word	Word	_	12	R	12:R	_
-12	www.veraakulov.com	_	Word	Word	_	4	E	4:E	_
-13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+# text = My style is compassionate , nonjudgmental , and caring .
+1	My	_	Word	Word	_	2	E	2:E	_
+2	style	_	Word	Word	_	4	A	4:A|6:A|9:A	_
+3	is	_	Word	Word	_	4	F	4:F	_
+4	compassionate	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	nonjudgmental	_	Word	Word	_	4	H	4:H	_
+7	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	and	_	Word	Word	_	9	L	9:L	_
+9	caring	_	Word	Word	_	4	H	4:H	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
 
