@@ -1,0 +1,11 @@
+# ::id 073356-0002
+# ::tok Great service - high class !
+# ::alignments 0-1.1.1 1-1.1.2 3-1.2.3 4-1.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v4 / label~e.0)
+           :P (v5 / label~e.1))
+    :H (v3 / label
+           :A (v6 / label)
+           :S (v7 / label~e.3,4)))

@@ -1,0 +1,20 @@
+# ::id 346627-0003
+# ::tok This is car number 3 we 've purchased through them .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2.1 4-1.1.3.2.2 5-1.1.3.3.1 7-1.1.3.3.3 8-1.1.3.3.4.1 9-1.1.3.3.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :S (v4 / label~e.1)
+           :A (v5 / label
+                  :C (v6 / label~e.2)
+                  :E (v7 / label
+                         :C (v9 / label~e.3)
+                         :E (v10 / label~e.4))
+                  :E (v8 / label
+                         :A (v11 / label~e.5)
+                         :P (v12 / label~e.7)
+                         :A (v13 / label
+                                 :R (v14 / label~e.8)
+                                 :C (v15 / label~e.9))
+                         :A v6))))

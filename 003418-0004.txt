@@ -1,0 +1,16 @@
+# ::id 003418-0004
+# ::tok Then I got a bill for $ 483.00 .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3.2 4-1.2.3.3 5-1.2.3.1.1 7-1.2.3.1.2.1
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label~e.1)
+           :P (v5 / label~e.2)
+           :A (v6 / label
+                  :E (v7 / label
+                         :R (v10 / label~e.5)
+                         :C (v11 / label
+                                 :E (v12 / label~e.7)))
+                  :E (v8 / label~e.3)
+                  :C (v9 / label~e.4))))

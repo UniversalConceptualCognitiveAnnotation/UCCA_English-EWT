@@ -1,0 +1,14 @@
+# ::id 071650-0015
+# ::tok There are better places on the Cape - FITNESS 500 !
+# ::alignments 2-1.1.5 3-1.1.1 4-1.1.2.1 5-1.1.2.2 6-1.1.2.2 8-1.2.2 9-1.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.3)
+           :A (v5 / label
+                  :R (v8 / label~e.4)
+                  :C (v9 / label~e.5,6))
+           :S (v6 / label~e.2))
+    :H (v3 / label
+           :A (v7 / label~e.8,9)
+           :S v6))

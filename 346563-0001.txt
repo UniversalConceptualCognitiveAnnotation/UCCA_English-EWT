@@ -1,0 +1,10 @@
+# ::id 346563-0001
+# ::tok A TERRIBLE EXPERIENCE !
+# ::alignments 0-1.1.1.1 1-1.1.2 2-1.1.1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label
+                  :E (v5 / label~e.0)
+                  :C (v6 / label~e.2))
+           :D (v4 / label~e.1)))
