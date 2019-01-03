@@ -1,41 +1,20 @@
 # ::id 345182-0009
-# ::tok She told me she could not use the piece I was returning and the company would only put it in the trash so I could not return it .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3 6-1.1.4.4 7-1.1.4.5.1 8-1.1.4.5.2 9-1.1.4.5.3.2 11-1.1.4.5.3.4 12-1.2 13-1.3.1.1 14-1.3.1.2 15-1.3.2 16-1.3.3 17-1.3.4 18-1.3.5 19-1.3.6.1 20-1.3.6.2 21-1.3.6.3 22-1.4 23-1.5.5 24-1.5.6 25-1.5.1 26-1.5.2 27-1.5.3
+# ::tok The girl at the desk was sooo rude I could not believe it !
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3.1 3-1.1.1.3.2 4-1.1.1.3.3 6-1.1.3 7-1.1.4 8-1.2.2 9-1.2.3 10-1.2.4 11-1.2.5
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v7 / label~e.0)
-           :P (v8 / label~e.1)
-           :A (v9 / label~e.2)
-           :A (v10 / label
-                   :A (v22 / label~e.3)
-                   :D (v23 / label~e.4)
-                   :D (v24 / label~e.5)
-                   :P (v25 / label~e.6)
-                   :A (v26 / label
-                           :E (v32 / label~e.7)
-                           :C (v33 / label~e.8)
-                           :E (v34 / label
-                                   :A v33
-                                   :A (v35 / label~e.9)
-                                   :P (v36 / label~e.11)))))
-    :L (v3 / label~e.12)
-    :H (v4 / label
-           :A (v11 / label
-                   :E (v27 / label~e.13)
-                   :C (v28 / label~e.14))
-           :D (v12 / label~e.15)
-           :D (v13 / label~e.16)
-           :P (v14 / label~e.17)
-           :A (v15 / label~e.18)
-           :A (v16 / label
-                   :R (v29 / label~e.19)
-                   :E (v30 / label~e.20)
-                   :C (v31 / label~e.21)))
-    :L (v5 / label~e.22)
-    :H (v6 / label
-           :D (v17 / label~e.25)
-           :P (v18 / label~e.26)
-           :A (v19 / label~e.27)
-           :A (v20 / label~e.23)
-           :D (v21 / label~e.24)))
+           :A (v4 / label
+                  :E (v11 / label~e.0)
+                  :C (v12 / label~e.1)
+                  :E (v13 / label
+                          :R (v14 / label~e.2)
+                          :E (v15 / label~e.3)
+                          :C (v16 / label~e.4)))
+           :D (v5 / label~e.6)
+           :S (v6 / label~e.7))
+    :H (v3 / label
+           :A (v7 / label~e.8)
+           :D (v8 / label~e.9)
+           :D (v9 / label~e.10)
+           :P (v10 / label~e.11)))
