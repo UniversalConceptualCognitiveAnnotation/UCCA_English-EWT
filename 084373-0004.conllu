@@ -1,14 +1,14 @@
 # format = ucca
 # sent_id = 084373-0004
-# text = We were very happy how clean looked our windows .
-1	We	_	Word	Word	_	4	A	4:A	_
-2	were	_	Word	Word	_	4	F	4:F	_
-3	very	_	Word	Word	_	4	D	4:D	_
-4	happy	_	Word	Word	_	0	H	0:H	_
-5	how	_	Word	Word	_	6	D	6:D	_
-6	clean	_	Word	Word	_	4	H	4:H	_
-7	looked	_	Word	Word	_	6	D	6:D	_
-8	our	_	Word	Word	_	9	E	9:E	_
-9	windows	_	Word	Word	_	6	A	6:A	_
-10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+# text = They came on time and completed their work quickly .
+1	They	_	Word	Word	_	2	A	2:A|6:A	_
+2	came	_	Word	Word	_	0	H	0:H	_
+3	on	_	Word	Word	_	4	R	4:R	_
+4	time	_	Word	Word	_	2	D	2:D	_
+5	and	_	Word	Word	_	6	L	6:L	_
+6	completed	_	Word	Word	_	2	H	2:H	_
+7	their	_	Word	Word	_	8	E	8:E	_
+8	work	_	Word	Word	_	0	P	0:P|7:A	_
+9	quickly	_	Word	Word	_	6	D	6:D	_
+10	.	_	Punctuation	Punctuation	_	6	U	6:U	_
 

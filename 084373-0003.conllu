@@ -1,14 +1,15 @@
 # format = ucca
 # sent_id = 084373-0003
-# text = They came on time and completed their work quickly .
-1	They	_	Word	Word	_	2	A	2:A|6:A	_
-2	came	_	Word	Word	_	0	H	0:H	_
-3	on	_	Word	Word	_	4	R	4:R	_
-4	time	_	Word	Word	_	2	D	2:D	_
-5	and	_	Word	Word	_	6	L	6:L	_
-6	completed	_	Word	Word	_	2	H	2:H	_
-7	their	_	Word	Word	_	8	E	8:E	_
-8	work	_	Word	Word	_	0	P	0:P|7:A	_
-9	quickly	_	Word	Word	_	6	D	6:D	_
-10	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+# text = We called few companies before we decide to hire them .
+1	We	_	Word	Word	_	2	A	2:A	_
+2	called	_	Word	Word	_	0	H	0:H	_
+3	few	_	Word	Word	_	4	E	4:E	_
+4	companies	_	Word	Word	_	2	A	2:A	_
+5	before	_	Word	Word	_	9	L	9:L	_
+6	we	_	Word	Word	_	9	A	9:A	_
+7	decide	_	Word	Word	_	9	D	9:D	_
+8	to	_	Word	Word	_	9	F	9:F	_
+9	hire	_	Word	Word	_	2	H	2:H	_
+10	them	_	Word	Word	_	9	A	9:A	_
+11	.	_	Punctuation	Punctuation	_	9	U	9:U	_
 

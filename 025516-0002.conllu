@@ -1,12 +1,12 @@
 # format = ucca
 # sent_id = 025516-0002
-# text = Recommend you call in for a look .
-1	Recommend	_	Word	Word	_	0	H	0:H	_
-2	you	_	Word	Word	_	1	A	1:A|3:A	_
-3	call	_	Word	Word	_	1	A	1:A	_
-4	in	_	Word	Word	_	3	R	3:R	_
-5	for	_	Word	Word	_	7	R	7:R	_
-6	a	_	Word	Word	_	7	E	7:E	_
-7	look	_	Word	Word	_	3	A	3:A	_
+# text = Sent scented flowers home instead of postcards .
+1	Sent	_	Word	Word	_	0	H	0:H	_
+2	scented	_	Word	Word	_	3	E	3:E	_
+3	flowers	_	Word	Word	_	1	A	1:A	_
+4	home	_	Word	Word	_	1	A	1:A	_
+5	instead	_	Word	Word	_	7	L	7:L	_
+6	of	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	postcards	_	Word	Word	_	1	H	1:H	_
 8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
 

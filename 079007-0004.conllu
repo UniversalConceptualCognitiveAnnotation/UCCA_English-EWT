@@ -1,10 +1,9 @@
 # format = ucca
 # sent_id = 079007-0004
-# text = Sometimes even gives wrong dish .
-1	Sometimes	_	Word	Word	_	3	D	3:D	_
-2	even	_	Word	Word	_	3	D	3:D	_
-3	gives	_	Word	Word	_	0	H	0:H	_
-4	wrong	_	Word	Word	_	5	E	5:E	_
-5	dish	_	Word	Word	_	3	A	3:A	_
-6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+# text = Never gives a receipt .
+1	Never	_	Word	Word	_	2	D	2:D	_
+2	gives	_	Word	Word	_	0	H	0:H	_
+3	a	_	Word	Word	_	4	E	4:E	_
+4	receipt	_	Word	Word	_	2	A	2:A	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
 

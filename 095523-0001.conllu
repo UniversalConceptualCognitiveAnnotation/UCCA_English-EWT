@@ -1,21 +1,9 @@
 # format = ucca
 # sent_id = 095523-0001
-# text = Deb Watson is the contact person and she and the rest of the staff were great !!!
-1	Deb	_	Word	Word	_	3	A	3:A	_
-2	Watson	_	Word	Word	_	1	Terminal	1:Terminal	_
-3	is	_	Word	Word	_	0	H	0:H	_
-4	the	_	Word	Word	_	6	E	6:E	_
-5	contact	_	Word	Word	_	6	E	6:E	_
-6	person	_	Word	Word	_	3	A	3:A	_
-7	and	_	Word	Word	_	16	L	16:L	_
-8	she	_	Word	Word	_	16	A	16:A	_
-9	and	_	Word	Word	_	8	N	8:N	_
-10	the	_	Word	Word	_	11	E	11:E	_
-11	rest	_	Word	Word	_	14	E	14:E	_
-12	of	_	Word	Word	_	11	R	11:R	_
-13	the	_	Word	Word	_	14	E	14:E	_
-14	staff	_	Word	Word	_	8	C	8:C	_
-15	were	_	Word	Word	_	16	F	16:F	_
-16	great	_	Word	Word	_	3	H	3:H	_
-17	!!!	_	Punctuation	Punctuation	_	16	U	16:U	_
+# text = GREAT SERVICE AND PEOPLE !!
+1	GREAT	_	Word	Word	_	2	D	2:D|4:S	_
+2	SERVICE	_	Word	Word	_	0	H	0:H	_
+3	AND	_	Word	Word	_	4	L	4:L	_
+4	PEOPLE	_	Word	Word	_	2	H	2:H	_
+5	!!	_	Punctuation	Punctuation	_	4	U	4:U	_
 

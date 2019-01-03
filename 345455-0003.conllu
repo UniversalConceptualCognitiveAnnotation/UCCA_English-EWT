@@ -1,22 +1,25 @@
 # format = ucca
 # sent_id = 345455-0003
-# text = The staff was very helpful and gave me exactly what I needed for my first time ballerina .
-1	The	_	Word	Word	_	2	E	2:E	_
-2	staff	_	Word	Word	_	0	C	0:C|7:A	_
-3	was	_	Word	Word	_	5	F	5:F	_
-4	very	_	Word	Word	_	5	D	5:D	_
-5	helpful	_	Word	Word	_	0	H	0:H	_
-6	and	_	Word	Word	_	7	L	7:L	_
-7	gave	_	Word	Word	_	5	H	5:H	_
-8	me	_	Word	Word	_	7	A	7:A	_
-9	exactly	_	Word	Word	_	10	E	10:E	_
-10	what	_	Word	Word	_	7	A	7:A	_
-11	I	_	Word	Word	_	12	A	12:A	_
-12	needed	_	Word	Word	_	10	E	10:E	_
-13	for	_	Word	Word	_	16	R	16:R	_
-14	my	_	Word	Word	_	16	E	16:E	_
-15	first	_	Word	Word	_	16	E	16:E	_
-16	time	_	Word	Word	_	12	A	12:A	_
-17	ballerina	_	Word	Word	_	16	C	16:C	_
-18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+# text = I 'm a soccer mom so I was n't sure what I was looking for when it comes to dancewear .
+1	I	_	Word	Word	_	2	A	2:A	_
+2	'm	_	Word	Word	_	0	H	0:H	_
+3	a	_	Word	Word	_	5	E	5:E	_
+4	soccer	_	Word	Word	_	5	E	5:E	_
+5	mom	_	Word	Word	_	2	A	2:A	_
+6	so	_	Word	Word	_	10	L	10:L	_
+7	I	_	Word	Word	_	10	A	10:A	_
+8	was	_	Word	Word	_	10	F	10:F	_
+9	n't	_	Word	Word	_	10	D	10:D	_
+10	sure	_	Word	Word	_	2	H	2:H	_
+11	what	_	Word	Word	_	14	A	14:A|20:C	_
+12	I	_	Word	Word	_	14	A	14:A	_
+13	was	_	Word	Word	_	14	F	14:F	_
+14	looking	_	Word	Word	_	10	A	10:A	_
+15	for	_	Word	Word	_	20	R	20:R	_
+16	when	_	Word	Word	_	20	R	20:R	_
+17	it	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	comes	_	Word	Word	_	16	Terminal	16:Terminal	_
+19	to	_	Word	Word	_	16	Terminal	16:Terminal	_
+20	dancewear	_	Word	Word	_	14	A	14:A	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
 

@@ -1,8 +1,31 @@
 # format = ucca
 # sent_id = 083459-0002
-# text = The salesperson refused !
-1	The	_	Word	Word	_	2	E	2:E	_
-2	salesperson	_	Word	Word	_	3	A	3:A	_
-3	refused	_	Word	Word	_	0	H	0:H	_
-4	!	_	Punctuation	Punctuation	_	3	U	3:U	_
+# text = Went there yesterday : we are trying to decide between two different Honda models , so we wanted to test - drive both back to back .
+1	Went	_	Word	Word	_	0	H	0:H	_
+2	there	_	Word	Word	_	1	A	1:A	_
+3	yesterday	_	Word	Word	_	1	D	1:D	_
+4	:	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	we	_	Word	Word	_	9	A	9:A|1:A	_
+6	are	_	Word	Word	_	9	F	9:F	_
+7	trying	_	Word	Word	_	9	D	9:D	_
+8	to	_	Word	Word	_	9	F	9:F	_
+9	decide	_	Word	Word	_	1	H	1:H	_
+10	between	_	Word	Word	_	14	R	14:R	_
+11	two	_	Word	Word	_	14	E	14:E	_
+12	different	_	Word	Word	_	14	E	14:E	_
+13	Honda	_	Word	Word	_	14	E	14:E	_
+14	models	_	Word	Word	_	9	A	9:A	_
+15	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+16	so	_	Word	Word	_	18	L	18:L	_
+17	we	_	Word	Word	_	18	A	18:A	_
+18	wanted	_	Word	Word	_	1	H	1:H	_
+19	to	_	Word	Word	_	22	R	22:R	_
+20	test	_	Word	Word	_	22	E	22:E	_
+21	-	_	Punctuation	Punctuation	_	22	U	22:U	_
+22	drive	_	Word	Word	_	18	A	18:A	_
+23	both	_	Word	Word	_	22	A	22:A	_
+24	back	_	Word	Word	_	22	D	22:D	_
+25	to	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	back	_	Word	Word	_	24	Terminal	24:Terminal	_
+27	.	_	Punctuation	Punctuation	_	22	U	22:U	_
 

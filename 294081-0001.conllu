@@ -1,20 +1,8 @@
 # format = ucca
 # sent_id = 294081-0001
-# text = TEXAS ROADHOUSE HAS VERY GOOD MEALS , THAT THE MEAT COMES RIGHT OFF THE BONES .
-1	TEXAS	_	Word	Word	_	3	A	3:A	_
-2	ROADHOUSE	_	Word	Word	_	1	Terminal	1:Terminal	_
-3	HAS	_	Word	Word	_	0	H	0:H	_
-4	VERY	_	Word	Word	_	5	E	5:E	_
-5	GOOD	_	Word	Word	_	6	D	6:D	_
-6	MEALS	_	Word	Word	_	3	A	3:A	_
-7	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-8	THAT	_	Word	Word	_	11	L	11:L	_
-9	THE	_	Word	Word	_	10	E	10:E	_
-10	MEAT	_	Word	Word	_	11	A	11:A	_
-11	COMES	_	Word	Word	_	3	H	3:H	_
-12	RIGHT	_	Word	Word	_	11	D	11:D	_
-13	OFF	_	Word	Word	_	11	F	11:F	_
-14	THE	_	Word	Word	_	15	E	15:E	_
-15	BONES	_	Word	Word	_	11	A	11:A	_
-16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+# text = DINING AT TEXAS ROADHOUSE
+1	DINING	_	Word	Word	_	0	H	0:H	_
+2	AT	_	Word	Word	_	3	R	3:R	_
+3	TEXAS	_	Word	Word	_	1	A	1:A	_
+4	ROADHOUSE	_	Word	Word	_	3	Terminal	3:Terminal	_
 

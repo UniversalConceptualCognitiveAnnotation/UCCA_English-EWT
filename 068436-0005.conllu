@@ -1,12 +1,19 @@
 # format = ucca
 # sent_id = 068436-0005
-# text = Disgusting french fries is very best menu .
-1	Disgusting	_	Word	Word	_	6	A	6:A	_
-2	french	_	Word	Word	_	1	A	1:A	_
-3	fries	_	Word	Word	_	2	Terminal	2:Terminal	_
-4	is	_	Word	Word	_	6	F	6:F	_
-5	very	_	Word	Word	_	6	D	6:D	_
-6	best	_	Word	Word	_	0	H	0:H	_
-7	menu	_	Word	Word	_	6	A	6:A	_
-8	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+# text = I asked them to change it but they rudely said that it was okay .
+1	I	_	Word	Word	_	2	A	2:A	_
+2	asked	_	Word	Word	_	0	H	0:H	_
+3	them	_	Word	Word	_	2	A	2:A|5:A	_
+4	to	_	Word	Word	_	5	R	5:R	_
+5	change	_	Word	Word	_	2	A	2:A	_
+6	it	_	Word	Word	_	5	A	5:A	_
+7	but	_	Word	Word	_	10	L	10:L	_
+8	they	_	Word	Word	_	10	A	10:A	_
+9	rudely	_	Word	Word	_	10	D	10:D	_
+10	said	_	Word	Word	_	2	H	2:H	_
+11	that	_	Word	Word	_	14	R	14:R	_
+12	it	_	Word	Word	_	14	A	14:A	_
+13	was	_	Word	Word	_	14	F	14:F	_
+14	okay	_	Word	Word	_	10	A	10:A	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
 

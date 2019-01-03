@@ -1,8 +1,16 @@
 # format = ucca
 # sent_id = 341750-0005
-# text = But not so .
-1	But	_	Word	Word	_	3	L	3:L	_
-2	not	_	Word	Word	_	3	D	3:D	_
-3	so	_	Word	Word	_	0	H	0:H	_
-4	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+# text = I was hoping to have found a regular place to eat .
+1	I	_	Word	Word	_	3	A	3:A|6:A|11:A	_
+2	was	_	Word	Word	_	3	F	3:F	_
+3	hoping	_	Word	Word	_	0	H	0:H	_
+4	to	_	Word	Word	_	6	F	6:F	_
+5	have	_	Word	Word	_	6	F	6:F	_
+6	found	_	Word	Word	_	3	A	3:A	_
+7	a	_	Word	Word	_	9	E	9:E	_
+8	regular	_	Word	Word	_	9	E	9:E	_
+9	place	_	Word	Word	_	6	A	6:A	_
+10	to	_	Word	Word	_	11	F	11:F	_
+11	eat	_	Word	Word	_	9	E	9:E	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
 

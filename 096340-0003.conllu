@@ -1,15 +1,23 @@
 # format = ucca
 # sent_id = 096340-0003
-# text = They do have a good selection of fabric and notions .
-1	They	_	Word	Word	_	3	A	3:A	_
-2	do	_	Word	Word	_	3	D	3:D	_
-3	have	_	Word	Word	_	0	H	0:H	_
-4	a	_	Word	Word	_	6	E	6:E	_
-5	good	_	Word	Word	_	6	E	6:E	_
-6	selection	_	Word	Word	_	3	A	3:A	_
-7	of	_	Word	Word	_	8	R	8:R	_
-8	fabric	_	Word	Word	_	6	E	6:E	_
-9	and	_	Word	Word	_	8	N	8:N	_
-10	notions	_	Word	Word	_	8	C	8:C	_
-11	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+# text = We have Hobby Lobby , Just for Fun Fabrics , Walmart , and Interior Mall just inside Barling .
+1	We	_	Word	Word	_	17	A	17:A	_
+2	have	_	Word	Word	_	17	F	17:F	_
+3	Hobby	_	Word	Word	_	17	A	17:A	_
+4	Lobby	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	Just	_	Word	Word	_	3	C	3:C	_
+7	for	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	Fun	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	Fabrics	_	Word	Word	_	6	Terminal	6:Terminal	_
+10	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+11	Walmart	_	Word	Word	_	3	C	3:C	_
+12	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+13	and	_	Word	Word	_	3	N	3:N	_
+14	Interior	_	Word	Word	_	3	C	3:C	_
+15	Mall	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	just	_	Word	Word	_	17	D	17:D	_
+17	inside	_	Word	Word	_	0	H	0:H	_
+18	Barling	_	Word	Word	_	17	A	17:A	_
+19	.	_	Punctuation	Punctuation	_	17	U	17:U	_
 

@@ -1,29 +1,16 @@
 # format = ucca
 # sent_id = 061768-0002
-# text = The one guy who was there , I 'm guessing was the owner , was probably the least helpful person I 've ever met .
-1	The	_	Word	Word	_	3	E	3:E	_
-2	one	_	Word	Word	_	3	E	3:E	_
-3	guy	_	Word	Word	_	19	A	19:A	_
-4	who	_	Word	Word	_	6	R	6:R	_
-5	was	_	Word	Word	_	6	F	6:F	_
-6	there	_	Word	Word	_	3	E	3:E	_
-7	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-8	I	_	Word	Word	_	10	A	10:A	_
-9	'm	_	Word	Word	_	10	F	10:F	_
-10	guessing	_	Word	Word	_	3	E	3:E	_
-11	was	_	Word	Word	_	13	F	13:F	_
-12	the	_	Word	Word	_	13	E	13:E	_
-13	owner	_	Word	Word	_	10	A	10:A	_
-14	,	_	Punctuation	Punctuation	_	19	U	19:U	_
-15	was	_	Word	Word	_	19	F	19:F	_
-16	probably	_	Word	Word	_	19	D	19:D	_
-17	the	_	Word	Word	_	18	E	18:E	_
-18	least	_	Word	Word	_	19	D	19:D	_
-19	helpful	_	Word	Word	_	0	H	0:H	_
-20	person	_	Word	Word	_	19	A	19:A	_
-21	I	_	Word	Word	_	24	A	24:A	_
-22	've	_	Word	Word	_	24	F	24:F	_
-23	ever	_	Word	Word	_	24	D	24:D	_
-24	met	_	Word	Word	_	20	E	20:E	_
-25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+# text = I came in to get a nice gift for my wife .
+1	I	_	Word	Word	_	2	A	2:A|5:A	_
+2	came	_	Word	Word	_	0	H	0:H	_
+3	in	_	Word	Word	_	2	D	2:D	_
+4	to	_	Word	Word	_	5	L	5:L	_
+5	get	_	Word	Word	_	2	H	2:H	_
+6	a	_	Word	Word	_	8	E	8:E	_
+7	nice	_	Word	Word	_	8	E	8:E	_
+8	gift	_	Word	Word	_	5	A	5:A	_
+9	for	_	Word	Word	_	11	R	11:R	_
+10	my	_	Word	Word	_	11	E	11:E	_
+11	wife	_	Word	Word	_	5	A	5:A	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
 

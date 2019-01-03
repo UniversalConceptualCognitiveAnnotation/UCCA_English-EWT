@@ -1,17 +1,12 @@
 # format = ucca
 # sent_id = 351561-0013
-# text = he says : Why you tell me you r in WARWICK TOWNSHIP ?
-1	he	_	Word	Word	_	2	A	2:A	_
-2	says	_	Word	Word	_	0	H	0:H	_
-3	:	_	Punctuation	Punctuation	_	2	U	2:U	_
-4	Why	_	Word	Word	_	2	A	2:A	_
-5	you	_	Word	Word	_	6	A	6:A	_
-6	tell	_	Word	Word	_	4	H	4:H	_
-7	me	_	Word	Word	_	6	A	6:A	_
-8	you	_	Word	Word	_	10	A	10:A	_
-9	r	_	Word	Word	_	10	F	10:F	_
-10	in	_	Word	Word	_	6	A	6:A	_
-11	WARWICK	_	Word	Word	_	12	E	12:E	_
-12	TOWNSHIP	_	Word	Word	_	10	A	10:A	_
-13	?	_	Punctuation	Punctuation	_	12	U	12:U	_
+# text = OK , 1701 LOCUST STREET i say .
+1	OK	_	Word	Word	_	3	G	3:G	_
+2	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+3	1701	_	Word	Word	_	7	A	7:A	_
+4	LOCUST	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	STREET	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	i	_	Word	Word	_	7	A	7:A	_
+7	say	_	Word	Word	_	0	H	0:H	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
 

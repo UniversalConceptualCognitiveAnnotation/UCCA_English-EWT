@@ -1,17 +1,26 @@
 # format = ucca
 # sent_id = 291088-0002
-# text = I found the office to be very clean and professional - looking .
-1	I	_	Word	Word	_	2	A	2:A	_
-2	found	_	Word	Word	_	0	H	0:H	_
-3	the	_	Word	Word	_	4	E	4:E	_
-4	office	_	Word	Word	_	0	C	0:C|10:A	_
-5	to	_	Word	Word	_	8	F	8:F	_
-6	be	_	Word	Word	_	8	F	8:F	_
-7	very	_	Word	Word	_	8	D	8:D	_
-8	clean	_	Word	Word	_	2	A	2:A	_
-9	and	_	Word	Word	_	10	L	10:L	_
-10	professional	_	Word	Word	_	8	H	8:H	_
-11	-	_	Punctuation	Punctuation	_	10	U	10:U	_
-12	looking	_	Word	Word	_	10	E	10:E	_
-13	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+# text = I have visited Dr. Cooper 's office twice and I am very impressed with how friendly and polite the staff is .
+1	I	_	Word	Word	_	3	A	3:A	_
+2	have	_	Word	Word	_	3	F	3:F	_
+3	visited	_	Word	Word	_	0	H	0:H	_
+4	Dr.	_	Word	Word	_	5	E	5:E	_
+5	Cooper	_	Word	Word	_	6	A	6:A	_
+6	's	_	Word	Word	_	7	E	7:E	_
+7	office	_	Word	Word	_	3	A	3:A	_
+8	twice	_	Word	Word	_	3	D	3:D	_
+9	and	_	Word	Word	_	13	L	13:L	_
+10	I	_	Word	Word	_	13	A	13:A	_
+11	am	_	Word	Word	_	13	F	13:F	_
+12	very	_	Word	Word	_	13	D	13:D	_
+13	impressed	_	Word	Word	_	3	H	3:H	_
+14	with	_	Word	Word	_	16	R	16:R	_
+15	how	_	Word	Word	_	16	D	16:D	_
+16	friendly	_	Word	Word	_	13	A	13:A	_
+17	and	_	Word	Word	_	18	L	18:L	_
+18	polite	_	Word	Word	_	16	H	16:H	_
+19	the	_	Word	Word	_	20	E	20:E	_
+20	staff	_	Word	Word	_	0	C	0:C|18:A	_
+21	is	_	Word	Word	_	16	F	16:F	_
+22	.	_	Punctuation	Punctuation	_	16	U	16:U	_
 

@@ -1,27 +1,36 @@
 # format = ucca
 # sent_id = 063963-0005
-# text = ( For some reason it will not let me rate it one star - it is not rated 5 by me ! )
-1	(	_	Punctuation	Punctuation	_	10	U	10:U	_
-2	For	_	Word	Word	_	18	L	18:L	_
-3	some	_	Word	Word	_	2	Terminal	2:Terminal	_
-4	reason	_	Word	Word	_	2	Terminal	2:Terminal	_
-5	it	_	Word	Word	_	10	A	10:A	_
-6	will	_	Word	Word	_	10	F	10:F	_
-7	not	_	Word	Word	_	10	D	10:D	_
-8	let	_	Word	Word	_	10	D	10:D	_
-9	me	_	Word	Word	_	10	A	10:A	_
-10	rate	_	Word	Word	_	0	H	0:H	_
-11	it	_	Word	Word	_	10	A	10:A	_
-12	one	_	Word	Word	_	13	E	13:E	_
-13	star	_	Word	Word	_	0	C	0:C|19:C	_
-14	-	_	Punctuation	Punctuation	_	18	U	18:U	_
-15	it	_	Word	Word	_	18	A	18:A	_
-16	is	_	Word	Word	_	18	F	18:F	_
-17	not	_	Word	Word	_	18	D	18:D	_
-18	rated	_	Word	Word	_	10	H	10:H	_
-19	5	_	Word	Word	_	18	A	18:A	_
-20	by	_	Word	Word	_	21	R	21:R	_
-21	me	_	Word	Word	_	18	A	18:A	_
-22	!	_	Punctuation	Punctuation	_	21	U	21:U	_
-23	)	_	Punctuation	Punctuation	_	21	U	21:U	_
+# text = If you are really desperate for something to pass the time and are willing to shell out the best part of £ 30 for 2 two people then go for it .
+1	If	_	Word	Word	_	16	L	16:L	_
+2	you	_	Word	Word	_	5	A	5:A|9:A|16:A|29:A	_
+3	are	_	Word	Word	_	5	F	5:F	_
+4	really	_	Word	Word	_	5	D	5:D	_
+5	desperate	_	Word	Word	_	0	H	0:H	_
+6	for	_	Word	Word	_	7	R	7:R	_
+7	something	_	Word	Word	_	5	A	5:A	_
+8	to	_	Word	Word	_	9	F	9:F	_
+9	pass	_	Word	Word	_	7	E	7:E	_
+10	the	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	time	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	and	_	Word	Word	_	16	L	16:L	_
+13	are	_	Word	Word	_	16	F	16:F	_
+14	willing	_	Word	Word	_	16	D	16:D	_
+15	to	_	Word	Word	_	16	F	16:F	_
+16	shell	_	Word	Word	_	5	H	5:H	_
+17	out	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	the	_	Word	Word	_	20	E	20:E	_
+19	best	_	Word	Word	_	20	E	20:E	_
+20	part	_	Word	Word	_	22	E	22:E	_
+21	of	_	Word	Word	_	22	R	22:R	_
+22	£	_	Word	Word	_	16	A	16:A	_
+23	30	_	Word	Word	_	22	E	22:E	_
+24	for	_	Word	Word	_	27	R	27:R	_
+25	2	_	Word	Word	_	27	E	27:E	_
+26	two	_	Word	Word	_	25	C	25:C	_
+27	people	_	Word	Word	_	16	A	16:A	_
+28	then	_	Word	Word	_	29	L	29:L	_
+29	go	_	Word	Word	_	5	H	5:H	_
+30	for	_	Word	Word	_	29	Terminal	29:Terminal	_
+31	it	_	Word	Word	_	29	Terminal	29:Terminal	_
+32	.	_	Punctuation	Punctuation	_	29	U	29:U	_
 

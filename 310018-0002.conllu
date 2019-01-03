@@ -1,13 +1,25 @@
 # format = ucca
 # sent_id = 310018-0002
-# text = You will not be disappointed with her work !!
-1	You	_	Word	Word	_	5	A	5:A	_
-2	will	_	Word	Word	_	5	F	5:F	_
-3	not	_	Word	Word	_	5	D	5:D	_
-4	be	_	Word	Word	_	5	F	5:F	_
-5	disappointed	_	Word	Word	_	0	H	0:H	_
-6	with	_	Word	Word	_	8	R	8:R	_
-7	her	_	Word	Word	_	8	A	8:A	_
-8	work	_	Word	Word	_	5	A	5:A	_
-9	!!	_	Punctuation	Punctuation	_	8	U	8:U	_
+# text = She has a great way with children and is able to capture their personality as well as many spontaneous images .
+1	She	_	Word	Word	_	5	A	5:A|12:A	_
+2	has	_	Word	Word	_	5	F	5:F	_
+3	a	_	Word	Word	_	5	E	5:E	_
+4	great	_	Word	Word	_	5	D	5:D	_
+5	way	_	Word	Word	_	0	H	0:H	_
+6	with	_	Word	Word	_	7	R	7:R	_
+7	children	_	Word	Word	_	5	A	5:A	_
+8	and	_	Word	Word	_	12	L	12:L	_
+9	is	_	Word	Word	_	12	F	12:F	_
+10	able	_	Word	Word	_	12	D	12:D	_
+11	to	_	Word	Word	_	12	F	12:F	_
+12	capture	_	Word	Word	_	5	H	5:H	_
+13	their	_	Word	Word	_	14	E	14:E	_
+14	personality	_	Word	Word	_	12	A	12:A	_
+15	as	_	Word	Word	_	14	N	14:N	_
+16	well	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	as	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	many	_	Word	Word	_	20	E	20:E	_
+19	spontaneous	_	Word	Word	_	20	E	20:E	_
+20	images	_	Word	Word	_	14	C	14:C	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
 

@@ -1,10 +1,11 @@
 # format = ucca
 # sent_id = 079007-0006
-# text = Line up is so stupid .
-1	Line	_	Word	Word	_	5	A	5:A	_
-2	up	_	Word	Word	_	1	Terminal	1:Terminal	_
-3	is	_	Word	Word	_	5	F	5:F	_
-4	so	_	Word	Word	_	5	D	5:D	_
-5	stupid	_	Word	Word	_	0	H	0:H	_
-6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+# text = So confused at the payment area .
+1	So	_	Word	Word	_	2	D	2:D	_
+2	confused	_	Word	Word	_	0	H	0:H	_
+3	at	_	Word	Word	_	6	R	6:R	_
+4	the	_	Word	Word	_	6	E	6:E	_
+5	payment	_	Word	Word	_	6	E	6:E	_
+6	area	_	Word	Word	_	2	A	2:A	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
 

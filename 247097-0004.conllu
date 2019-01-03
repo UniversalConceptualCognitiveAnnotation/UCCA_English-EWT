@@ -1,21 +1,26 @@
 # format = ucca
 # sent_id = 247097-0004
-# text = I actually loss 4 pounds after my 1st treatment and 2 pounds after my 2nd treatment .
-1	I	_	Word	Word	_	3	A	3:A|12:A	_
-2	actually	_	Word	Word	_	3	G	3:G	_
-3	loss	_	Word	Word	_	0	H	0:H	_
-4	4	_	Word	Word	_	5	E	5:E	_
-5	pounds	_	Word	Word	_	3	A	3:A	_
-6	after	_	Word	Word	_	9	L	9:L	_
-7	my	_	Word	Word	_	9	A	9:A	_
-8	1st	_	Word	Word	_	9	D	9:D	_
-9	treatment	_	Word	Word	_	3	H	3:H	_
-10	and	_	Word	Word	_	12	L	12:L	_
-11	2	_	Word	Word	_	12	E	12:E	_
-12	pounds	_	Word	Word	_	3	H	3:H	_
-13	after	_	Word	Word	_	16	L	16:L	_
-14	my	_	Word	Word	_	16	A	16:A	_
-15	2nd	_	Word	Word	_	16	D	16:D	_
-16	treatment	_	Word	Word	_	3	H	3:H	_
-17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+# text = I experienced a Definite Decrease in food craving ( about 50 % ) and decrease in stress after the 1st treatment .
+1	I	_	Word	Word	_	2	A	2:A|5:A|15:A	_
+2	experienced	_	Word	Word	_	0	H	0:H	_
+3	a	_	Word	Word	_	5	E	5:E	_
+4	Definite	_	Word	Word	_	5	D	5:D	_
+5	Decrease	_	Word	Word	_	2	A	2:A	_
+6	in	_	Word	Word	_	8	R	8:R	_
+7	food	_	Word	Word	_	8	E	8:E	_
+8	craving	_	Word	Word	_	5	A	5:A	_
+9	(	_	Punctuation	Punctuation	_	5	U	5:U	_
+10	about	_	Word	Word	_	12	R	12:R	_
+11	50	_	Word	Word	_	12	E	12:E	_
+12	%	_	Word	Word	_	5	D	5:D	_
+13	)	_	Punctuation	Punctuation	_	5	U	5:U	_
+14	and	_	Word	Word	_	15	L	15:L	_
+15	decrease	_	Word	Word	_	5	H	5:H	_
+16	in	_	Word	Word	_	17	R	17:R	_
+17	stress	_	Word	Word	_	15	A	15:A	_
+18	after	_	Word	Word	_	21	L	21:L	_
+19	the	_	Word	Word	_	21	E	21:E	_
+20	1st	_	Word	Word	_	21	D	21:D	_
+21	treatment	_	Word	Word	_	2	H	2:H	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
 

@@ -1,22 +1,23 @@
 # format = ucca
 # sent_id = 342811-0006
-# text = In the second room it took 3 tries to get all the towels and linens we requested .
-1	In	_	Word	Word	_	4	R	4:R	_
-2	the	_	Word	Word	_	4	E	4:E	_
-3	second	_	Word	Word	_	4	E	4:E	_
-4	room	_	Word	Word	_	8	A	8:A	_
-5	it	_	Word	Word	_	8	F	8:F	_
-6	took	_	Word	Word	_	8	D	8:D	_
-7	3	_	Word	Word	_	8	D	8:D	_
-8	tries	_	Word	Word	_	0	H	0:H	_
-9	to	_	Word	Word	_	10	L	10:L	_
-10	get	_	Word	Word	_	8	H	8:H	_
-11	all	_	Word	Word	_	13	E	13:E	_
-12	the	_	Word	Word	_	13	E	13:E	_
-13	towels	_	Word	Word	_	10	A	10:A	_
-14	and	_	Word	Word	_	13	N	13:N	_
-15	linens	_	Word	Word	_	13	C	13:C	_
-16	we	_	Word	Word	_	17	A	17:A	_
-17	requested	_	Word	Word	_	13	E	13:E	_
-18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+# text = There were 3 adults in our room but towels for only 2 , no linens for sofa bed .
+1	There	_	Word	Word	_	5	F	5:F	_
+2	were	_	Word	Word	_	5	F	5:F|9:S|15:S	_
+3	3	_	Word	Word	_	4	E	4:E	_
+4	adults	_	Word	Word	_	5	A	5:A	_
+5	in	_	Word	Word	_	0	H	0:H	_
+6	our	_	Word	Word	_	7	E	7:E	_
+7	room	_	Word	Word	_	5	A	5:A	_
+8	but	_	Word	Word	_	9	L	9:L	_
+9	towels	_	Word	Word	_	5	H	5:H	_
+10	for	_	Word	Word	_	12	R	12:R	_
+11	only	_	Word	Word	_	12	E	12:E	_
+12	2	_	Word	Word	_	9	E	9:E	_
+13	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+14	no	_	Word	Word	_	15	D	15:D	_
+15	linens	_	Word	Word	_	5	H	5:H	_
+16	for	_	Word	Word	_	18	R	18:R	_
+17	sofa	_	Word	Word	_	18	E	18:E	_
+18	bed	_	Word	Word	_	15	E	15:E	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
 

@@ -1,14 +1,10 @@
 # format = ucca
 # sent_id = 348369-0004
-# text = they save me from having to deal with Tmobile ...
-1	they	_	Word	Word	_	2	A	2:A	_
-2	save	_	Word	Word	_	0	H	0:H	_
-3	me	_	Word	Word	_	2	A	2:A	_
-4	from	_	Word	Word	_	7	R	7:R	_
-5	having	_	Word	Word	_	7	F	7:F	_
-6	to	_	Word	Word	_	7	F	7:F	_
-7	deal	_	Word	Word	_	2	A	2:A	_
-8	with	_	Word	Word	_	9	R	9:R	_
-9	Tmobile	_	Word	Word	_	7	A	7:A	_
-10	...	_	Punctuation	Punctuation	_	9	U	9:U	_
+# text = But i paid $ 100 .
+1	But	_	Word	Word	_	3	L	3:L	_
+2	i	_	Word	Word	_	3	A	3:A	_
+3	paid	_	Word	Word	_	0	H	0:H	_
+4	$	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	100	_	Word	Word	_	3	A	3:A	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
 

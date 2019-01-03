@@ -1,8 +1,11 @@
 # format = ucca
 # sent_id = 250878-0001
-# text = Just ask American Express
-1	Just	_	Word	Word	_	2	D	2:D	_
-2	ask	_	Word	Word	_	0	H	0:H	_
-3	American	_	Word	Word	_	2	A	2:A	_
-4	Express	_	Word	Word	_	3	Terminal	3:Terminal	_
+# text = This is my favorite coffee store .
+1	This	_	Word	Word	_	4	A	4:A	_
+2	is	_	Word	Word	_	4	F	4:F	_
+3	my	_	Word	Word	_	4	A	4:A	_
+4	favorite	_	Word	Word	_	0	H	0:H	_
+5	coffee	_	Word	Word	_	6	E	6:E	_
+6	store	_	Word	Word	_	4	A	4:A	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
 

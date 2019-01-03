@@ -1,23 +1,22 @@
 # format = ucca
 # sent_id = 080178-0003
-# text = Tires were the right price and now the car feels like it is riding on rails around turns .
-1	Tires	_	Word	Word	_	5	A	5:A	_
-2	were	_	Word	Word	_	5	F	5:F	_
-3	the	_	Word	Word	_	5	E	5:E	_
-4	right	_	Word	Word	_	5	E	5:E	_
-5	price	_	Word	Word	_	0	H	0:H	_
-6	and	_	Word	Word	_	14	L	14:L	_
-7	now	_	Word	Word	_	14	D	14:D	_
-8	the	_	Word	Word	_	9	E	9:E	_
-9	car	_	Word	Word	_	14	A	14:A	_
-10	feels	_	Word	Word	_	14	G	14:G	_
-11	like	_	Word	Word	_	10	Terminal	10:Terminal	_
-12	it	_	Word	Word	_	14	F	14:F	_
-13	is	_	Word	Word	_	14	F	14:F	_
-14	riding	_	Word	Word	_	5	H	5:H	_
-15	on	_	Word	Word	_	16	R	16:R	_
-16	rails	_	Word	Word	_	14	A	14:A	_
-17	around	_	Word	Word	_	18	R	18:R	_
-18	turns	_	Word	Word	_	14	A	14:A	_
-19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+# text = The store manager , Jim Smith , made an excellent tire recommendation for my newly acquired Lexus .
+1	The	_	Word	Word	_	3	E	3:E	_
+2	store	_	Word	Word	_	3	E	3:E	_
+3	manager	_	Word	Word	_	12	A	12:A	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	Jim	_	Word	Word	_	3	C	3:C	_
+6	Smith	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+8	made	_	Word	Word	_	12	D	12:D	_
+9	an	_	Word	Word	_	11	E	11:E	_
+10	excellent	_	Word	Word	_	12	D	12:D	_
+11	tire	_	Word	Word	_	12	A	12:A	_
+12	recommendation	_	Word	Word	_	0	H	0:H	_
+13	for	_	Word	Word	_	16	L	16:L	_
+14	my	_	Word	Word	_	17	E	17:E	_
+15	newly	_	Word	Word	_	16	D	16:D	_
+16	acquired	_	Word	Word	_	12	H	12:H	_
+17	Lexus	_	Word	Word	_	16	A	16:A	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
 

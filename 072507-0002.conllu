@@ -1,10 +1,27 @@
 # format = ucca
 # sent_id = 072507-0002
-# text = Dave has much to offer .
-1	Dave	_	Word	Word	_	5	A	5:A	_
-2	has	_	Word	Word	_	5	F	5:F	_
-3	much	_	Word	Word	_	5	D	5:D	_
-4	to	_	Word	Word	_	5	F	5:F	_
-5	offer	_	Word	Word	_	0	H	0:H	_
-6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+# text = Also , he loves teaching so much , his price is unbeatable , but that does not change his level of skill .
+1	Also	_	Word	Word	_	12	L	12:L	_
+2	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	he	_	Word	Word	_	4	A	4:A	_
+4	loves	_	Word	Word	_	0	H	0:H	_
+5	teaching	_	Word	Word	_	4	A	4:A	_
+6	so	_	Word	Word	_	7	E	7:E	_
+7	much	_	Word	Word	_	4	D	4:D	_
+8	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	his	_	Word	Word	_	10	E	10:E	_
+10	price	_	Word	Word	_	12	A	12:A	_
+11	is	_	Word	Word	_	12	F	12:F	_
+12	unbeatable	_	Word	Word	_	4	H	4:H	_
+13	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+14	but	_	Word	Word	_	18	L	18:L	_
+15	that	_	Word	Word	_	18	R	18:R	_
+16	does	_	Word	Word	_	18	F	18:F	_
+17	not	_	Word	Word	_	18	D	18:D	_
+18	change	_	Word	Word	_	4	H	4:H	_
+19	his	_	Word	Word	_	20	E	20:E	_
+20	level	_	Word	Word	_	18	A	18:A	_
+21	of	_	Word	Word	_	22	R	22:R	_
+22	skill	_	Word	Word	_	20	E	20:E	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
 

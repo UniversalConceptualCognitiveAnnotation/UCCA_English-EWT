@@ -1,26 +1,10 @@
 # format = ucca
 # sent_id = 346960-0003
-# text = I have n't been able to find a shoe repair place in Seattle since that has been able to do it .
-1	I	_	Word	Word	_	7	A	7:A	_
-2	have	_	Word	Word	_	7	F	7:F	_
-3	n't	_	Word	Word	_	7	D	7:D	_
-4	been	_	Word	Word	_	7	F	7:F	_
-5	able	_	Word	Word	_	7	D	7:D	_
-6	to	_	Word	Word	_	7	F	7:F	_
-7	find	_	Word	Word	_	0	H	0:H	_
-8	a	_	Word	Word	_	11	E	11:E	_
-9	shoe	_	Word	Word	_	10	A	10:A	_
-10	repair	_	Word	Word	_	11	E	11:E	_
-11	place	_	Word	Word	_	7	A	7:A	_
-12	in	_	Word	Word	_	13	R	13:R	_
-13	Seattle	_	Word	Word	_	11	E	11:E	_
-14	since	_	Word	Word	_	7	D	7:D	_
-15	that	_	Word	Word	_	20	R	20:R	_
-16	has	_	Word	Word	_	20	F	20:F	_
-17	been	_	Word	Word	_	20	F	20:F	_
-18	able	_	Word	Word	_	20	D	20:D	_
-19	to	_	Word	Word	_	20	F	20:F	_
-20	do	_	Word	Word	_	11	E	11:E	_
-21	it	_	Word	Word	_	20	A	20:A	_
-22	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+# text = That was 4 years ago .
+1	That	_	Word	Word	_	0	H	0:H	_
+2	was	_	Word	Word	_	1	F	1:F	_
+3	4	_	Word	Word	_	4	E	4:E	_
+4	years	_	Word	Word	_	1	D	1:D	_
+5	ago	_	Word	Word	_	4	E	4:E	_
+6	.	_	Punctuation	Punctuation	_	4	U	4:U	_
 
