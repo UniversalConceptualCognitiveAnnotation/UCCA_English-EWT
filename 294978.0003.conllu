@@ -1,0 +1,15 @@
+# sent_id = 0003
+1	Nothing	nothing	PRON	NN	Number=Sing	0	root	0:root	_
+2	wrong	wrong	ADJ	JJ	Degree=Pos	1	amod	1:amod	_
+3	with	with	ADP	IN	_	4	case	4:case	_
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obl	2:obl:with	SpaceAfter=No
+5	,	,	PUNCT	,	_	1	punct	1:punct	_
+6	just	just	ADV	RB	_	8	advmod	8:advmod	_
+7	better	better	ADJ	JJR	Degree=Cmp	8	amod	8:amod	_
+8	options	option	NOUN	NNS	Number=Plur	1	parataxis	1:parataxis	_
+9	at	at	ADP	IN	_	12	case	12:case	_
+10	this	this	DET	DT	Number=Sing|PronType=Dem	12	det	12:det	_
+11	price	price	NOUN	NN	Number=Sing	12	compound	12:compound	_
+12	point	point	NOUN	NN	Number=Sing	8	nmod	8:nmod:at	SpaceAfter=No
+13	.	.	PUNCT	.	_	1	punct	1:punct	_
+

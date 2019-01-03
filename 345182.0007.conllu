@@ -1,0 +1,23 @@
+# sent_id = 0007
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|9:nsubj	_
+2	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+4	original	original	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	piece	piece	NOUN	NN	Number=Sing	2	obj	2:obj	_
+6	of	of	ADP	IN	_	7	case	7:case	_
+7	metal	metal	NOUN	NN	Number=Sing	5	nmod	5:nmod:of	_
+8	and	and	CCONJ	CC	_	9	cc	9:cc	_
+9	rigged	rig	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
+10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	obj	9:obj	_
+11	to	to	PART	TO	_	12	mark	12:mark	_
+12	make	make	VERB	VB	VerbForm=Inf	9	advcl	9:advcl:to	_
+13	due	due	VERB	VB	VerbForm=Inf	12	ccomp	12:ccomp	_
+14	since	since	SCONJ	IN	_	16	mark	16:mark	_
+15	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	16:nsubj|18:nsubj:xsubj	_
+16	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	advcl	9:advcl:since	_
+17	to	to	PART	TO	_	18	mark	18:mark	_
+18	complete	complete	VERB	VB	VerbForm=Inf	16	xcomp	16:xcomp	_
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	20:det	_
+20	job	job	NOUN	NN	Number=Sing	18	obj	18:obj	SpaceAfter=No
+21	.	.	PUNCT	.	_	2	punct	2:punct	_
+

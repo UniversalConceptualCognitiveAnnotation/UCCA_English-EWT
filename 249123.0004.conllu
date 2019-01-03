@@ -1,0 +1,22 @@
+# sent_id = 0004
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	2:expl	_
+2	was	be	VERB	VBD	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
+3	n't	not	PART	RB	_	2	advmod	2:advmod	_
+4	until	until	SCONJ	IN	_	6	mark	6:mark	_
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj|9:nsubj	_
+6	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	advcl	2:advcl:until	_
+7	up	up	ADP	RP	_	6	compound:prt	6:compound:prt	_
+8	and	and	CCONJ	CC	_	9	cc	9:cc	_
+9	walked	walk	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	conj	2:advcl:until|6:conj:and	_
+10	out	out	ADP	IN	_	12	case	12:case	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
+12	door	door	NOUN	NN	Number=Sing	9	obl	9:obl:out	_
+13	that	that	SCONJ	IN	_	15	mark	15:mark	_
+14	someone	someone	PRON	NN	Number=Sing	15	nsubj	15:nsubj	_
+15	asked	ask	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	csubj	2:csubj	_
+16	Can	can	AUX	MD	VerbForm=Fin	18	aux	18:aux	_
+17	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	18:nsubj	_
+18	help	help	VERB	VB	VerbForm=Inf	15	ccomp	15:ccomp	_
+19	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	18	obj	18:obj	SpaceAfter=No
+20	.	.	PUNCT	.	_	2	punct	2:punct	_
+

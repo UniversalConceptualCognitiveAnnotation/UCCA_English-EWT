@@ -1,0 +1,20 @@
+# sent_id = 0008
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	3:nsubj|15:nsubj	_
+2	eventually	eventually	ADV	RB	_	3	advmod	3:advmod	_
+3	turned	turn	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	3:obj	_
+5	over	over	ADP	RP	_	3	compound:prt	3:compound:prt	_
+6	to	to	ADP	IN	_	9	case	9:case	_
+7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
+8	collection	collection	NOUN	NN	Number=Sing	9	compound	9:compound	_
+9	agency	agency	NOUN	NN	Number=Sing	3	obl	3:obl:to	_
+10	and	and	CCONJ	CC	_	15	cc	15:cc	_
+11	now	now	ADV	RB	_	15	advmod	15:advmod	_
+12	will	will	AUX	MD	VerbForm=Fin	15	aux	15:aux	_
+13	not	not	PART	RB	_	15	advmod	15:advmod	_
+14	even	even	ADV	RB	_	15	advmod	15:advmod	_
+15	discuss	discuss	VERB	VB	VerbForm=Inf	3	conj	3:conj:and	_
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
+17	matter	matter	NOUN	NN	Number=Sing	15	obj	15:obj	SpaceAfter=No
+18	.	.	PUNCT	.	_	3	punct	3:punct	_
+

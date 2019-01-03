@@ -1,0 +1,12 @@
+# sent_id = 0005
+1	i	i	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	SpaceAfter=No
+2	'll	will	AUX	MD	VerbForm=Fin	4	aux	4:aux	_
+3	be	be	AUX	VB	VerbForm=Inf	4	aux	4:aux	_
+4	coming	come	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
+5	back	back	ADV	RB	_	4	advmod	4:advmod	_
+6	for	for	ADP	IN	_	7	case	7:case	_
+7	years	year	NOUN	NNS	Number=Plur	4	obl	4:obl:for	_
+8	to	to	PART	TO	_	9	mark	9:mark	_
+9	come	come	VERB	VB	VerbForm=Inf	7	acl	7:acl:to	SpaceAfter=No
+10	!	!	PUNCT	.	_	4	punct	4:punct	_
+

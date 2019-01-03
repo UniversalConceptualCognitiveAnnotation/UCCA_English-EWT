@@ -1,0 +1,18 @@
+# sent_id = 0004
+1	Nothing	nothing	PRON	NN	Number=Sing	2	nsubj	2:nsubj	_
+2	compares	compare	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	to	to	ADP	IN	_	7	case	7:case	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
+5	home	home	NOUN	NN	Number=Sing	6	compound	6:compound	_
+6	made	make	VERB	VBN	Tense=Past|VerbForm=Part	7	amod	7:amod	_
+7	product	product	NOUN	NN	Number=Sing	2	obl	2:obl:to|10:nsubj	_
+8	that	that	PRON	WDT	PronType=Rel	10	nsubj	7:ref	_
+9	really	really	ADV	RB	_	10	advmod	10:advmod	_
+10	stands	stand	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	7:acl:relcl	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
+12	test	test	NOUN	NN	Number=Sing	10	obj	10:obj	_
+13	of	of	ADP	IN	_	14	case	14:case	_
+14	time	time	NOUN	NN	Number=Sing	12	nmod	12:nmod:of	SpaceAfter=No
+15	.	.	PUNCT	.	_	2	punct	2:punct	_
+16	-	-	PUNCT	NFP	_	2	punct	2:punct	_
+

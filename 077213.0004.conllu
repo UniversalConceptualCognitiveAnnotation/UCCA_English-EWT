@@ -1,0 +1,17 @@
+# sent_id = 0004
+1	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	SpaceAfter=No
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
+3	passable	passable	ADJ	JJ	Degree=Pos	0	root	0:root	_
+4	as	as	ADP	IN	_	6	case	6:case	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
+6	pub	pub	NOUN	NN	Number=Sing	3	obl	3:obl:as	SpaceAfter=No
+7	,	,	PUNCT	,	_	14	punct	14:punct	_
+8	but	but	CCONJ	CC	_	14	cc	14:cc	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+10	pizza	pizza	NOUN	NN	Number=Sing	14	nsubj	14:nsubj	_
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	14:cop	_
+12	not	not	PART	RB	_	14	advmod	14:advmod	_
+13	that	that	ADV	RB	_	14	advmod	14:advmod	_
+14	great	great	ADJ	JJ	Degree=Pos	3	conj	3:conj:but	SpaceAfter=No
+15	.	.	PUNCT	.	_	3	punct	3:punct	_
+

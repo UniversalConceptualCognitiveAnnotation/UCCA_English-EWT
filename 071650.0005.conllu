@@ -1,0 +1,17 @@
+# sent_id = 0005
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	locker	locker	NOUN	NN	Number=Sing	3	compound	3:compound	_
+3	room	room	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_
+5	certainly	certainly	ADV	RB	_	6	advmod	6:advmod	_
+6	lacking	lack	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
+7	-	-	PUNCT	,	_	6	punct	6:punct	_
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	11:nsubj|13:nsubj	_
+9	would	would	AUX	MD	VerbForm=Fin	11	aux	11:aux	_
+10	never	never	ADV	RB	_	11	advmod	11:advmod	_
+11	shower	shower	VERB	VB	VerbForm=Inf	6	parataxis	6:parataxis	_
+12	or	or	CCONJ	CC	_	13	cc	13:cc	_
+13	change	change	VERB	VB	VerbForm=Inf	11	conj	11:conj:or	_
+14	there	there	ADV	RB	PronType=Dem	11	advmod	11:advmod	SpaceAfter=No
+15	.	.	PUNCT	.	_	6	punct	6:punct	_
+

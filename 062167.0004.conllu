@@ -1,0 +1,35 @@
+# sent_id = 0004
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	found	find	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	2:obj	_
+4	through	through	ADP	IN	_	6	case	6:case	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
+6	colleague	colleague	NOUN	NN	Number=Sing	2	obl	2:obl:through	_
+7	one	one	NUM	CD	NumType=Card	8	nummod	8:nummod	_
+8	day	day	NOUN	NN	Number=Sing	2	obl:tmod	2:obl:tmod	_
+9	when	when	ADV	WRB	PronType=Int	17	mark	17:mark	_
+10	one	one	NUM	CD	NumType=Card	17	nsubj	17:nsubj|23:nsubj	_
+11	of	of	ADP	IN	_	13	case	13:case	_
+12	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	13:nmod:poss	_
+13	clients	client	NOUN	NNS	Number=Plur	10	nmod	10:nmod:of	_
+14	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	17:cop	_
+15	in	in	ADP	IN	_	17	case	17:case	_
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
+17	midst	midst	NOUN	NN	Number=Sing	2	advcl	2:advcl:in	_
+18	of	of	ADP	IN	_	21	case	21:case	_
+19	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	21:det	_
+20	panic	panic	NOUN	NN	Number=Sing	21	compound	21:compound	_
+21	attack	attack	NOUN	NN	Number=Sing	17	nmod	17:nmod:of	_
+22	and	and	CCONJ	CC	_	23	cc	23:cc	_
+23	needed	need	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	17	conj	2:advcl:in|17:conj:and	_
+24	professional	professional	ADJ	JJ	Degree=Pos	25	amod	25:amod	_
+25	help	help	NOUN	NN	Number=Sing	23	obj	23:obj|30:obj	_
+26	that	that	PRON	WDT	PronType=Rel	30	obj	25:ref	_
+27	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	30	nsubj	30:nsubj	_
+28	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	30	cop	30:cop	_
+29	not	not	PART	RB	_	30	advmod	30:advmod	_
+30	qualified	qualified	ADJ	JJ	Degree=Pos	25	acl:relcl	25:acl:relcl	_
+31	to	to	PART	TO	_	32	mark	32:mark	_
+32	provide	provide	VERB	VB	VerbForm=Inf	30	advcl	30:advcl:to	SpaceAfter=No
+33	.	.	PUNCT	.	_	2	punct	2:punct	_
+

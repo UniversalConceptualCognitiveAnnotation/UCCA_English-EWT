@@ -1,0 +1,20 @@
+# newdoc id = 030811
+# sent_id = 0001
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	SpaceAfter=No
+2	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
+3	only	only	ADV	RB	_	4	advmod	4:advmod	_
+4	had	have	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+5	good	good	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	experiences	experience	NOUN	NNS	Number=Plur	4	obj	4:obj	_
+7	at	at	ADP	IN	_	8	case	8:case	_
+8	Adorn	Adorn	PROPN	NNP	Number=Sing	4	obl	4:obl:at	SpaceAfter=No
+9	,	,	PUNCT	,	_	4	punct	4:punct	_
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj:pass	12:nsubj:pass|14:nsubj:pass	_
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux:pass	12:aux:pass	_
+12	greeted	greet	VERB	VBN	Tense=Past|VerbForm=Part	4	parataxis	4:parataxis	_
+13	and	and	CCONJ	CC	_	14	cc	14:cc	_
+14	offered	offer	VERB	VBN	Tense=Past|VerbForm=Part	12	conj	12:conj:and	_
+15	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	_
+16	refreshment	refreshment	NOUN	NN	Number=Sing	14	obj	14:obj	SpaceAfter=No
+17	.	.	PUNCT	.	_	4	punct	4:punct	_
+

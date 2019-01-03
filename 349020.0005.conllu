@@ -1,0 +1,20 @@
+# sent_id = 0005
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	admit	admit	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	that	that	SCONJ	IN	_	7	mark	7:mark	_
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	_
+5	should	should	AUX	MD	VerbForm=Fin	7	aux	7:aux	_
+6	have	have	AUX	VB	VerbForm=Inf	7	aux	7:aux	_
+7	paid	pay	VERB	VBN	Tense=Past|VerbForm=Part	2	ccomp	2:ccomp	_
+8	attention	attention	NOUN	NN	Number=Sing	7	obj	7:obj	_
+9	to	to	ADP	IN	_	11	case	11:case	_
+10	this	this	DET	DT	Number=Sing|PronType=Dem	11	det	11:det	_
+11	kind	kind	NOUN	NN	Number=Sing	7	obl	7:obl:to	_
+12	of	of	ADP	IN	_	14	case	14:case	_
+13	little	little	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
+14	things	thing	NOUN	NNS	Number=Plur	11	nmod	11:nmod:of	_
+15	while	while	SCONJ	IN	_	17	mark	17:mark	_
+16	test	test	NOUN	NN	Number=Sing	17	compound	17:compound	_
+17	drive	driving	VERB	VBG	Typo=Yes|VerbForm=Ger	7	advcl	7:advcl:while	SpaceAfter=No
+18	.	.	PUNCT	.	_	2	punct	2:punct	_
+

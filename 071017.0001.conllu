@@ -1,0 +1,23 @@
+# newdoc id = 071017
+# sent_id = 0001
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	3:cop	_
+3	ok	ok	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
+4	,	,	PUNCT	,	_	3	punct	3:punct	_
+5	nice	nice	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	management	management	NOUN	NN	Number=Sing	3	list	3:list	SpaceAfter=No
+7	,	,	PUNCT	,	_	3	punct	3:punct	_
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	9:nsubj	_
+9	let	let	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	list	3:list	_
+10	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	9	obj	9:obj|11:nsubj:xsubj	_
+11	check	check	VERB	VB	VerbForm=Inf	9	xcomp	9:xcomp	_
+12	in	in	ADP	RP	_	11	compound:prt	11:compound:prt	_
+13	early	early	ADV	RB	Degree=Pos	11	advmod	11:advmod	SpaceAfter=No
+14	,	,	PUNCT	,	_	19	punct	19:punct	_
+15	but	but	CCONJ	CC	_	19	cc	19:cc	_
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
+17	place	place	NOUN	NN	Number=Sing	19	nsubj	19:nsubj	_
+18	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	cop	19:cop	_
+19	old	old	ADJ	JJ	Degree=Pos	3	conj	3:conj:but	SpaceAfter=No
+20	.	.	PUNCT	.	_	3	punct	3:punct	_
+

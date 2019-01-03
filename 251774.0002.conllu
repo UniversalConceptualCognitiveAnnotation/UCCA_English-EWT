@@ -1,0 +1,17 @@
+# sent_id = 0002
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|5:nsubj	_
+2	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	in	in	ADV	RB	_	2	advmod	2:advmod	_
+4	and	and	CCONJ	CC	_	5	cc	5:cc	_
+5	saw	see	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
+6	Dr.	Dr.	PROPN	NNP	Number=Sing	5	obj	5:obj	_
+7	Ruona	Ruona	PROPN	NNP	Number=Sing	6	flat	6:flat	_
+8	about	about	ADV	RB	_	10	advmod	10:advmod	_
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	_
+10	month	month	NOUN	NN	Number=Sing	11	obl:npmod	11:obl:npmod	_
+11	ago	ago	ADV	RB	_	5	advmod	5:advmod	_
+12	for	for	SCONJ	IN	_	13	mark	13:mark	_
+13	quitting	quit	VERB	VBG	VerbForm=Ger	5	advcl	5:advcl:for	_
+14	smoking	smoking	NOUN	NN	Number=Sing	13	obj	13:obj	SpaceAfter=No
+15	.	.	PUNCT	.	_	2	punct	2:punct	_
+

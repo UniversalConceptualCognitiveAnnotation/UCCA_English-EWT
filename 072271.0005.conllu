@@ -1,0 +1,12 @@
+# sent_id = 0005
+1	Give	give	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
+2	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	1	iobj	1:iobj	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
+4	gift	gift	NOUN	NN	Number=Sing	1	obj	1:obj	_
+5	of	of	SCONJ	IN	_	6	mark	6:mark	_
+6	visiting	visit	VERB	VBG	VerbForm=Ger	4	acl	4:acl:of	_
+7	Winterowd	Winterowd	PROPN	NNP	Number=Sing	9	compound	9:compound	_
+8	Fine	Fine	PROPN	NNP	Number=Sing	9	compound	9:compound	_
+9	Art	Art	PROPN	NNP	Number=Sing	6	obj	6:obj	SpaceAfter=No
+10	!	!	PUNCT	.	_	1	punct	1:punct	_
+

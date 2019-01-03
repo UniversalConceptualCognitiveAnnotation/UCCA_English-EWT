@@ -1,0 +1,14 @@
+# sent_id = 0006
+1	(	(	PUNCT	-LRB-	_	7	punct	7:punct	SpaceAfter=No
+2	But	but	CCONJ	CC	_	7	cc	7:cc	_
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	7	nsubj	7:nsubj	_
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
+6	certified	certified	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
+7	car	car	NOUN	NN	Number=Sing	0	root	0:root	_
+8	from	from	ADP	IN	_	10	case	10:case	_
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	_
+10	dealer	dealer	NOUN	NN	Number=Sing	7	nmod	7:nmod:from	SpaceAfter=No
+11	.	.	PUNCT	.	_	7	punct	7:punct	SpaceAfter=No
+12	)	)	PUNCT	-RRB-	_	7	punct	7:punct	_
+

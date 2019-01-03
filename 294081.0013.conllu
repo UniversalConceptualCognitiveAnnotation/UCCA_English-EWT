@@ -1,0 +1,36 @@
+# sent_id = 0013
+1	THE	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	MANAGER	manager	NOUN	NN	Number=Sing	3	nsubj	3:nsubj|6:nsubj|11:nsubj	_
+3	CAME	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	OVER	over	ADV	RB	_	3	advmod	3:advmod	_
+5	AND	and	CCONJ	CC	_	6	cc	6:cc	_
+6	SAID	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	3:conj:and	_
+7	HE	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	9:nsubj	_
+8	WAS	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	9:cop	_
+9	SORRY	sorry	ADJ	JJ	Degree=Pos	6	ccomp	6:ccomp	_
+10	AND	and	CCONJ	CC	_	11	cc	11:cc	_
+11	GAVE	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	3:conj:and	_
+12	A	a	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	_
+13	NEW	new	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
+14	BATCH	batch	NOUN	NN	Number=Sing	11	obj	11:obj	_
+15	OF	of	ADP	IN	_	16	case	16:case	_
+16	WINGS	wing	NOUN	NNS	Number=Plur	14	nmod	14:nmod:of	SpaceAfter=No
+17	,	,	PUNCT	,	_	3	punct	3:punct	_
+18	HE	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	19:nsubj	_
+19	SAID	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	parataxis	3:parataxis	_
+20	WE	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	24	nsubj	24:nsubj	_
+21	CA	can	AUX	MD	VerbForm=Fin	24	aux	24:aux	SpaceAfter=No
+22	NT	not	PART	RB	_	24	advmod	24:advmod	_
+23	REALLY	really	ADV	RB	_	24	advmod	24:advmod	_
+24	DO	do	VERB	VB	VerbForm=Inf	19	ccomp	19:ccomp	_
+25	ANYTHING	anything	PRON	NN	Number=Sing	24	obj	24:obj	_
+26	BECAUSE	because	SCONJ	IN	_	31	mark	31:mark	_
+27	THE	the	DET	DT	Definite=Def|PronType=Art	28	det	28:det	_
+28	DOORS	door	NOUN	NNS	Number=Plur	31	nsubj	31:nsubj|33:nsubj	_
+29	ARE	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	31	aux	31:aux	_
+30	ALWAYS	always	ADV	RB	_	31	advmod	31:advmod	_
+31	OPENING	open	VERB	VBG	Tense=Pres|VerbForm=Part	24	advcl	24:advcl:because	_
+32	AND	and	CCONJ	CC	_	33	cc	33:cc	_
+33	CLOSING	close	VERB	VBG	Tense=Pres|VerbForm=Part	31	conj	24:advcl:because|31:conj:and	_
+34	.	.	PUNCT	.	_	3	punct	3:punct	_
+

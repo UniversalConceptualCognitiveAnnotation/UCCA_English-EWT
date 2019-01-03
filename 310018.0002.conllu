@@ -1,0 +1,23 @@
+# sent_id = 0002
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj|10:nsubj|12:nsubj:xsubj	_
+2	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
+4	great	great	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	way	way	NOUN	NN	Number=Sing	2	obj	2:obj	_
+6	with	with	ADP	IN	_	7	case	7:case	_
+7	children	child	NOUN	NNS	Number=Plur	5	nmod	5:nmod:with	_
+8	and	and	CCONJ	CC	_	10	cc	10:cc	_
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
+10	able	able	ADJ	JJ	Degree=Pos	2	conj	2:conj:and	_
+11	to	to	PART	TO	_	12	mark	12:mark	_
+12	capture	capture	VERB	VB	VerbForm=Inf	10	xcomp	10:xcomp	_
+13	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	14:nmod:poss	_
+14	personality	personality	NOUN	NN	Number=Sing	12	obj	12:obj	_
+15	as	as	ADV	RB	_	20	cc	20:cc	_
+16	well	well	ADV	RB	Degree=Pos	15	fixed	15:fixed	_
+17	as	as	ADP	IN	_	15	fixed	15:fixed	_
+18	many	many	ADJ	JJ	Degree=Pos	20	amod	20:amod	_
+19	spontaneous	spontaneous	ADJ	JJ	Degree=Pos	20	amod	20:amod	_
+20	images	image	NOUN	NNS	Number=Plur	14	conj	12:obj|14:conj:as_well_as	SpaceAfter=No
+21	.	.	PUNCT	.	_	2	punct	2:punct	_
+

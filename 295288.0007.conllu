@@ -1,0 +1,30 @@
+# sent_id = 0007
+1	So	so	ADV	RB	_	7	advmod	7:advmod	_
+2	yes	yes	INTJ	UH	_	7	discourse	7:discourse	SpaceAfter=No
+3	,	,	PUNCT	,	_	7	punct	7:punct	_
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	_
+5	would	would	AUX	MD	VerbForm=Fin	7	aux	7:aux	SpaceAfter=No
+6	n't	not	PART	RB	_	7	advmod	7:advmod	_
+7	hesitate	hesitate	VERB	VB	VerbForm=Inf	0	root	0:root	_
+8	in	in	SCONJ	IN	_	9	mark	9:mark	_
+9	recommending	recommend	VERB	VBG	VerbForm=Ger	7	advcl	7:advcl:in	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
+11	team	team	NOUN	NN	Number=Sing	9	obj	9:obj	_
+12	at	at	ADP	IN	_	14	case	14:case	_
+13	Just	Just	PROPN	NNP	Number=Sing	14	compound	14:compound	_
+14	Autos	Autos	PROPN	NNPS	Number=Plur	11	nmod	11:nmod:at	_
+15	for	for	ADP	IN	_	19	case	19:case	_
+16	easy	easy	ADJ	JJ	Degree=Pos	19	amod	19:amod	_
+17	professional	professional	ADJ	JJ	Degree=Pos	19	amod	19:amod	_
+18	car	car	NOUN	NN	Number=Sing	19	compound	19:compound	_
+19	repairs	repair	NOUN	NNS	Number=Plur	9	obl	9:obl:for	SpaceAfter=No
+20	,	,	PUNCT	,	_	7	punct	7:punct	SpaceAfter=No
+21	Thank	thank	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	parataxis	7:parataxis	_
+22	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	21	obj	21:obj	_
+23	Just	Just	PROPN	NNP	Number=Sing	24	compound	24:compound	_
+24	Autos	Autos	PROPN	NNPS	Number=Plur	21	vocative	21:vocative	_
+25	for	for	ADP	IN	_	27	case	27:case	_
+26	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	27	nmod:poss	27:nmod:poss	_
+27	help	help	NOUN	NN	Number=Sing	21	obl	21:obl:for	SpaceAfter=No
+28	.	.	PUNCT	.	_	7	punct	7:punct	_
+

@@ -1,0 +1,12 @@
+# sent_id = 0003
+1	Excellent	excellent	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
+2	chefs	chef	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj	_
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+4	in	in	ADP	IN	_	6	case	6:case	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+6	kitchen	kitchen	NOUN	NN	Number=Sing	0	root	0:root	_
+7	preparing	prepare	VERB	VBG	VerbForm=Ger	2	acl	2:acl	_
+8	memorable	memorable	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
+9	breakfasts	breakfast	NOUN	NNS	Number=Plur	7	obj	7:obj	SpaceAfter=No
+10	.	.	PUNCT	.	_	6	punct	6:punct	_
+

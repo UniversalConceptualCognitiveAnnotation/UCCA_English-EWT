@@ -1,0 +1,16 @@
+# sent_id = 0004
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	other	other	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	rolls	roll	NOUN	NNS	Number=Plur	8	nsubj	8:nsubj	_
+4	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	cop	8:cop	SpaceAfter=No
+5	n't	not	PART	RB	_	8	advmod	8:advmod	_
+6	at	at	ADV	RB	_	7	case	7:case	_
+7	all	all	ADV	RB	_	8	obl	8:obl:at	_
+8	special	special	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
+9	,	,	PUNCT	,	_	8	punct	8:punct	_
+10	especially	especially	ADV	RB	_	11	advmod	11:advmod	_
+11	given	give	VERB	VBN	Tense=Past|VerbForm=Part	8	obl	8:obl	_
+12	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	13:nmod:poss	_
+13	pricing	pricing	NOUN	NN	Number=Sing	11	obj	11:obj	SpaceAfter=No
+14	.	.	PUNCT	.	_	8	punct	8:punct	_
+

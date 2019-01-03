@@ -1,0 +1,31 @@
+# sent_id = 0010
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	told	tell	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	2:obj	_
+4	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	7:nsubj	_
+5	could	could	AUX	MD	VerbForm=Fin	7	aux	7:aux	_
+6	not	not	PART	RB	_	7	advmod	7:advmod	_
+7	use	use	VERB	VB	VerbForm=Inf	2	ccomp	2:ccomp	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+9	piece	piece	NOUN	NN	Number=Sing	7	obj	7:obj	_
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	12:nsubj	_
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	12	aux	12:aux	_
+12	returning	return	VERB	VBG	Tense=Pres|VerbForm=Part	9	acl:relcl	9:acl:relcl	_
+13	and	and	CCONJ	CC	_	18	cc	18:cc	_
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	15:det	_
+15	company	company	NOUN	NN	Number=Sing	18	nsubj	18:nsubj	_
+16	would	would	AUX	MD	VerbForm=Fin	18	aux	18:aux	_
+17	only	only	ADV	RB	_	18	advmod	18:advmod	_
+18	put	put	VERB	VB	VerbForm=Inf	7	conj	2:ccomp|7:conj:and	_
+19	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	obj	18:obj	_
+20	in	in	ADP	IN	_	22	case	22:case	_
+21	the	the	DET	DT	Definite=Def|PronType=Art	22	det	22:det	_
+22	trash	trash	NOUN	NN	Number=Sing	18	obl	18:obl:in	_
+23	so	so	ADV	RB	_	27	advmod	27:advmod	_
+24	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	27	nsubj	27:nsubj	_
+25	could	could	AUX	MD	VerbForm=Fin	27	aux	27:aux	_
+26	not	not	PART	RB	_	27	advmod	27:advmod	_
+27	return	return	VERB	VB	VerbForm=Inf	7	conj	2:ccomp|7:conj:and	_
+28	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	27	obj	27:obj	SpaceAfter=No
+29	.	.	PUNCT	.	_	2	punct	2:punct	_
+

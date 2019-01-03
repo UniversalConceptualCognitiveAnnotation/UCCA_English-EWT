@@ -1,0 +1,24 @@
+# sent_id = 0015
+1	With	with	ADP	IN	_	3	case	3:case	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	3:det	_
+3	smirk	smirk	NOUN	NN	Number=Sing	8	obl	8:obl:with	_
+4	on	on	ADP	IN	_	6	case	6:case	_
+5	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	_
+6	face	face	NOUN	NN	Number=Sing	3	nmod	3:nmod:on	_
+7	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
+8	told	tell	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+9	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	obj	8:obj	_
+10	NO	no	DET	DT	_	11	det	11:det	_
+11	MONEY	money	NOUN	NN	Number=Sing	14	nsubj:pass	14:nsubj:pass	_
+12	IS	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	14:aux	_
+13	BEING	be	AUX	VBG	VerbForm=Ger	14	aux:pass	14:aux:pass	_
+14	RETURNED	return	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	ccomp	8:ccomp	_
+15	and	and	CCONJ	CC	_	19	cc	19:cc	_
+16	THAT	that	PRON	DT	Number=Sing|PronType=Dem	19	nsubj	19:nsubj	_
+17	IS	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	19:cop	_
+18	THE	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
+19	WAY	way	NOUN	NN	Number=Sing	14	conj	8:ccomp|14:conj:and	_
+20	IT	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	nsubj	21:nsubj	_
+21	WAS	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	acl:relcl	19:acl:relcl	SpaceAfter=No
+22	.	.	PUNCT	.	_	8	punct	8:punct	_
+

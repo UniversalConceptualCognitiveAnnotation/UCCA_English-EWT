@@ -1,0 +1,20 @@
+# sent_id = 0005
+1	If	if	SCONJ	IN	_	3	mark	3:mark	_
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	3:nsubj	_
+3	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	advcl	17:advcl:if	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
+5	cater	cater	NOUN	NN	Number=Sing	3	obj	3:obj|8:nsubj|10:nsubj	_
+6	that	that	PRON	WDT	PronType=Rel	8	nsubj	5:ref	_
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
+8	affordable	affordable	ADJ	JJ	Degree=Pos	5	acl:relcl	5:acl:relcl	_
+9	and	and	CCONJ	CC	_	10	cc	10:cc	_
+10	easy	easy	ADJ	JJ	Degree=Pos	8	conj	5:acl:relcl|8:conj:and	_
+11	to	to	PART	TO	_	12	mark	12:mark	_
+12	work	work	VERB	VB	VerbForm=Inf	10	ccomp	10:ccomp	_
+13	with	with	ADP	IN	_	12	obl	12:obl	_
+14	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	17:nsubj	_
+15	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	cop	17:cop	_
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
+17	ones	one	NOUN	NNS	Number=Plur	0	root	0:root	SpaceAfter=No
+18	.	.	PUNCT	.	_	17	punct	17:punct	_
+

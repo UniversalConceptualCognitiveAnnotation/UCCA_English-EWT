@@ -1,0 +1,28 @@
+# sent_id = 0002
+1	Boutique	boutique	NOUN	NN	Number=Sing	2	compound	2:compound	_
+2	stores	store	NOUN	NNS	Number=Plur	13	nsubj:pass	13:nsubj:pass	_
+3	dealing	deal	VERB	VBG	VerbForm=Ger	2	acl	2:acl	_
+4	in	in	ADP	IN	_	7	case	7:case	_
+5	children	child	NOUN	NNS	Number=Plur	7	nmod:poss	7:nmod:poss	SpaceAfter=No
+6	's	's	PART	POS	_	5	case	5:case	_
+7	clothing	clothing	NOUN	NN	Number=Sing	3	obl	3:obl:in	SpaceAfter=No
+8	/	/	PUNCT	,	_	9	cc	9:cc	SpaceAfter=No
+9	gifts	gift	NOUN	NNS	Number=Plur	7	conj	3:obl:in|7:conj	_
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux:pass	13:aux:pass	_
+11	often	often	ADV	RB	_	13	advmod	13:advmod	_
+12	outrageously	outrageously	ADV	RB	_	13	advmod	13:advmod	_
+13	priced	price	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+14	(	(	PUNCT	-LRB-	_	13	punct	13:punct	SpaceAfter=No
+15	who	who	PRON	WP	PronType=Int	16	nsubj	16:nsubj|18:nsubj:xsubj	_
+16	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	parataxis	13:parataxis	_
+17	to	to	PART	TO	_	18	mark	18:mark	_
+18	pay	pay	VERB	VB	VerbForm=Inf	16	xcomp	16:xcomp	_
+19	40	40	NUM	CD	NumType=Card	20	nummod	20:nummod	_
+20	dollars	dollar	NOUN	NNS	Number=Plur	18	obj	18:obj	_
+21	for	for	ADP	IN	_	24	case	24:case	_
+22	a	a	DET	DT	Definite=Ind|PronType=Art	24	det	24:det	_
+23	newborn	newborn	NOUN	NN	Number=Sing	24	compound	24:compound	_
+24	onesie	onesie	NOUN	NN	Number=Sing	18	obl	18:obl:for	SpaceAfter=No
+25	?	?	PUNCT	.	_	13	punct	13:punct	SpaceAfter=No
+26	)	)	PUNCT	-RRB-	_	13	punct	13:punct	_
+

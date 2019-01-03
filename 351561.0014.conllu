@@ -1,0 +1,15 @@
+# sent_id = 0014
+1	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
+3	:	:	PUNCT	:	_	2	punct	2:punct	_
+4	Why	why	ADV	WRB	PronType=Int	6	advmod	6:advmod	_
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	6:nsubj	_
+6	tell	tell	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	2:ccomp	_
+7	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	obj	6:obj	_
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	12:nsubj	SpaceAfter=No
+9	r	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
+10	in	in	ADP	IN	_	12	case	12:case	_
+11	WARWICK	WARWICK	PROPN	NNP	Number=Sing	12	compound	12:compound	_
+12	TOWNSHIP	TOWNSHIP	PROPN	NNP	Number=Sing	6	ccomp	6:ccomp	SpaceAfter=No
+13	?	?	PUNCT	.	_	2	punct	2:punct	_
+

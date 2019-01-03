@@ -1,0 +1,15 @@
+# sent_id = 0005
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	doctor	doctor	NOUN	NN	Number=Sing	4	nmod:poss	4:nmod:poss	SpaceAfter=No
+3	's	's	PART	POS	_	2	case	2:case	_
+4	office	office	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
+5	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+6	that	that	SCONJ	IN	_	11	mark	11:mark	_
+7	payments	payment	NOUN	NNS	Number=Plur	11	nsubj:pass	11:nsubj:pass	_
+8	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	aux	11:aux	_
+9	been	be	AUX	VBN	Tense=Past|VerbForm=Part	11	aux:pass	11:aux:pass	_
+10	"	"	PUNCT	``	_	11	punct	11:punct	SpaceAfter=No
+11	reversed	reverse	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	ccomp	5:ccomp	SpaceAfter=No
+12	"	"	PUNCT	''	_	11	punct	11:punct	SpaceAfter=No
+13	.	.	PUNCT	.	_	5	punct	5:punct	_
+

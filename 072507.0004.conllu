@@ -1,0 +1,36 @@
+# sent_id = 0004
+1	In	in	ADP	IN	_	7	case	7:case	_
+2	just	just	ADV	RB	_	3	advmod	3:advmod	_
+3	2	2	NUM	CD	NumType=Card	7	nummod	7:nummod	SpaceAfter=No
+4	-	-	SYM	SYM	_	5	case	5:case	SpaceAfter=No
+5	3	3	NUM	CD	NumType=Card	3	nmod	3:nmod	_
+6	focused	focus	VERB	VBN	Tense=Past|VerbForm=Part	7	amod	7:amod	_
+7	lessons	lesson	NOUN	NNS	Number=Plur	13	obl	13:obl:in	SpaceAfter=No
+8	,	,	PUNCT	,	_	13	punct	13:punct	_
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	13:nsubj|28:nsubj	SpaceAfter=No
+10	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	13:cop	_
+11	already	already	ADV	RB	_	13	advmod	13:advmod	_
+12	now	now	ADV	RB	_	13	advmod	13:advmod	_
+13	capable	capable	ADJ	JJ	Degree=Pos	0	root	0:root	_
+14	of	of	SCONJ	IN	_	15	mark	15:mark	_
+15	picking	pick	VERB	VBG	VerbForm=Ger	13	advcl	13:advcl:of	_
+16	up	up	ADP	RP	_	15	compound:prt	15:compound:prt	_
+17	new	new	ADJ	JJ	Degree=Pos	18	amod	18:amod	_
+18	songs	song	NOUN	NNS	Number=Plur	15	obj	15:obj	_
+19	off	off	ADP	IN	_	24	case	24:case	_
+20	YouTube	YouTube	PROPN	NNP	Number=Sing	24	compound	24:compound	_
+21	guitar	guitar	NOUN	NN	Number=Sing	24	compound	24:compound	_
+22	how	how	ADV	WRB	PronType=Int	23	advmod	23:advmod	_
+23	to	to	PART	TO	_	24	compound	24:compound	_
+24	videos	video	NOUN	NNS	Number=Plur	15	obl	15:obl:off	_
+25	and	and	CCONJ	CC	_	28	cc	28:cc	_
+26	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	28	aux	28:aux	_
+27	even	even	ADV	RB	_	28	advmod	28:advmod	_
+28	writing	write	VERB	VBG	Tense=Pres|VerbForm=Part	13	conj	13:conj:and	_
+29	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	31	nmod:poss	31:nmod:poss	_
+30	own	own	ADJ	JJ	Degree=Pos	31	amod	31:amod	_
+31	orginals	orginal	NOUN	NNS	Number=Plur	28	obj	28:obj	_
+32	with	with	ADP	IN	_	33	case	33:case	_
+33	confidence	confidence	NOUN	NN	Number=Sing	28	obl	28:obl:with	SpaceAfter=No
+34	!	!	PUNCT	.	_	13	punct	13:punct	_
+

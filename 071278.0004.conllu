@@ -1,0 +1,15 @@
+# sent_id = 0004
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
+3	always	always	ADV	RB	_	5	advmod	5:advmod	_
+4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	cop	5:cop	_
+5	there	there	ADV	RB	PronType=Dem	0	root	0:root	_
+6	for	for	ADP	IN	_	7	case	7:case	_
+7	Gracee	Gracee	PROPN	NNP	Number=Sing	5	obl	5:obl:for	_
+8	even	even	ADV	RB	_	12	advmod	12:advmod	_
+9	for	for	ADP	IN	_	12	case	12:case	_
+10	last	last	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	minute	minute	NOUN	NN	Number=Sing	12	compound	12:compound	_
+12	calls	call	NOUN	NNS	Number=Plur	5	obl	5:obl:for	SpaceAfter=No
+13	!	!	PUNCT	.	_	5	punct	5:punct	_
+

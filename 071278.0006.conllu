@@ -1,0 +1,15 @@
+# sent_id = 0006
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj|5:nsubj|9:nsubj	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
+3	caring	caring	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
+4	,	,	PUNCT	,	_	5	punct	5:punct	_
+5	punctual	punctual	ADJ	JJ	Degree=Pos	3	conj	3:conj:and	SpaceAfter=No
+6	,	,	PUNCT	,	_	9	punct	9:punct	_
+7	and	and	CCONJ	CC	_	9	cc	9:cc	_
+8	very	very	ADV	RB	_	9	advmod	9:advmod	_
+9	enthusiastic	enthusiastic	ADJ	JJ	Degree=Pos	3	conj	3:conj:and	_
+10	about	about	ADP	IN	_	12	case	12:case	_
+11	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	_
+12	job	job	NOUN	NN	Number=Sing	9	obl	9:obl:about	SpaceAfter=No
+13	!	!	PUNCT	.	_	3	punct	3:punct	_
+

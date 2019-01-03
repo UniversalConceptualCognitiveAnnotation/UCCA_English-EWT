@@ -1,0 +1,28 @@
+# sent_id = 0003
+1	So	so	ADV	RB	_	3	advmod	3:advmod	_
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+3	say	say	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
+4	:	:	PUNCT	:	_	3	punct	3:punct	_
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	11:nsubj	SpaceAfter=No
+6	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	11:cop	_
+7	at	at	ADP	IN	_	11	case	11:case	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
+9	Radison	Radison	PROPN	NNP	Number=Sing	11	compound	11:compound	_
+10	Warwick	Warwick	PROPN	NNP	Number=Sing	11	compound	11:compound	_
+11	hotel	hotel	NOUN	NN	Number=Sing	3	ccomp	3:ccomp	_
+12	in	in	ADP	IN	_	14	case	14:case	_
+13	Rittenhouse	Rittenhouse	PROPN	NNP	Number=Sing	14	compound	14:compound	_
+14	Square	Square	PROPN	NNP	Number=Sing	11	nmod	11:nmod:in	_
+15	(	(	PUNCT	-LRB-	_	16	punct	16:punct	SpaceAfter=No
+16	built	build	VERB	VBN	Tense=Past|VerbForm=Part	11	acl	11:acl	_
+17	in	in	ADP	IN	_	18	case	18:case	_
+18	1926	1926	NUM	CD	NumType=Card	16	obl	16:obl:in	SpaceAfter=No
+19	)	)	PUNCT	-RRB-	_	16	punct	16:punct	_
+20	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	22	aux	22:aux	_
+21	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	22	nsubj	22:nsubj	_
+22	deliver	deliver	VERB	VB	VerbForm=Inf	3	ccomp	3:ccomp	_
+23	to	to	ADP	IN	_	25	case	25:case	_
+24	the	the	DET	DT	Definite=Def|PronType=Art	25	det	25:det	_
+25	Warwick	Warwick	PROPN	NNP	Number=Sing	22	obl	22:obl:to	SpaceAfter=No
+26	?	?	PUNCT	.	_	3	punct	3:punct	_
+
