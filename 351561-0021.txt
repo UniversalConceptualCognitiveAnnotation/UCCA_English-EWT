@@ -1,0 +1,12 @@
+# ::id 351561-0021
+# ::tok YES , I am west of broad .
+# ::alignments 0-1.1 2-1.2.1 4-1.2.3 5-1.2.4.1 6-1.2.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label~e.2)
+           :S (v5 / label~e.4)
+           :A (v6 / label
+                  :R (v7 / label~e.5)
+                  :C (v8 / label~e.6))))

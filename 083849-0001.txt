@@ -1,0 +1,12 @@
+# ::id 083849-0001
+# ::tok It 's fresh and really tasty .
+# ::alignments 0-1.1.2 2-1.1.1 3-1.2 4-1.3.2 5-1.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v5 / label~e.2)
+           :A (v6 / label~e.0))
+    :L (v3 / label~e.3)
+    :H (v4 / label
+           :D (v7 / label~e.4)
+           :S (v8 / label~e.5)))

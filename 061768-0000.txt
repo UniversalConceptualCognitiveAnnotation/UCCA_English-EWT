@@ -1,0 +1,11 @@
+# ::id 061768-0000
+# ::tok Horrible customer service .
+# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label~e.0)
+           :A (v4 / label
+                  :E (v5 / label~e.1)
+                  :C (v6 / label
+                         :P (v7 / label~e.2)))))

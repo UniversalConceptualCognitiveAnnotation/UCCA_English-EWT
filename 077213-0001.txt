@@ -1,0 +1,22 @@
+# ::id 077213-0001
+# ::tok the waitress took my name and then called me that all night .
+# ::alignments 0-1.1.1.1 1-1.3.1 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.2 6-1.2 7-1.3.2 8-1.3.3 9-1.3.4 10-1.3.5.1 11-1.3.5.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v13 / label~e.0)
+                  :C (v8 / label~e.1))
+           :P (v6 / label~e.2)
+           :A (v7 / label
+                  :E (v14 / label~e.3)
+                  :C (v15 / label~e.4)))
+    :L (v3 / label~e.5,6)
+    :H (v4 / label
+           :A v8
+           :P (v9 / label~e.7)
+           :A (v10 / label~e.8)
+           :A (v11 / label~e.9)
+           :D (v12 / label
+                   :E (v16 / label~e.10)
+                   :C (v17 / label~e.11))))
