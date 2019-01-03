@@ -1,0 +1,12 @@
+# ::id 353684-0000
+# ::tok My favorite place to eat .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 4-1.1.3.2.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :S (v4 / label~e.1)
+           :A (v5 / label
+                  :C (v6 / label~e.2)
+                  :E (v7 / label
+                         :P (v8 / label~e.4)))))

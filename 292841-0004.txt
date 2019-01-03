@@ -1,0 +1,30 @@
+# ::id 292841-0004
+# ::tok There 's a restaurant nearby ( walking distance ) with a great breakfast , and a market across the street .
+# ::alignments 2-1.1.3.1 3-1.2.3 4-1.1.4 6-1.2.1 7-1.2.2 9-1.3.1 10-1.3.2.1 11-1.3.3 12-1.3.2.2 14-1.4 15-1.5.1.1 16-1.5.1.2 17-1.5.2 18-1.5.3.1 19-1.5.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :E (v18 / label~e.2)
+                  :C (v11 / label~e.3))
+           :S (v8 / label~e.4))
+    :H (v3 / label
+           :P (v9 / label~e.6)
+           :A (v10 / label~e.7)
+           :A v11)
+    :H (v4 / label
+           :R (v12 / label~e.9)
+           :P (v13 / label
+                   :E (v19 / label~e.10)
+                   :C (v20 / label~e.12))
+           :D (v14 / label~e.11)
+           :A v11)
+    :L (v5 / label~e.14)
+    :H (v6 / label
+           :A (v15 / label
+                   :E (v21 / label~e.15)
+                   :C (v22 / label~e.16))
+           :S (v16 / label~e.17)
+           :A (v17 / label
+                   :E (v23 / label~e.18)
+                   :C (v24 / label~e.19))))

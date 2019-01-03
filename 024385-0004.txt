@@ -1,0 +1,21 @@
+# ::id 024385-0004
+# ::tok I 'm assuming they are completely out of business since I ca n't find any contact information .
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 5-1.1.4.3 6-1.1.4.4 7-1.1.4.4 8-1.1.4.4 9-1.2 10-1.3.2 12-1.3.4 13-1.3.5 14-1.3.1.1 15-1.3.1.2 16-1.3.1.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :P (v6 / label~e.2)
+           :A (v7 / label
+                  :A (v12 / label~e.3)
+                  :D (v13 / label~e.5)
+                  :S (v14 / label~e.6,7,8)))
+    :L (v3 / label~e.9)
+    :H (v4 / label
+           :A (v8 / label
+                  :Q (v15 / label~e.14)
+                  :E (v16 / label~e.15)
+                  :C (v17 / label~e.16))
+           :A (v9 / label~e.10)
+           :D (v10 / label~e.12)
+           :P (v11 / label~e.13)))

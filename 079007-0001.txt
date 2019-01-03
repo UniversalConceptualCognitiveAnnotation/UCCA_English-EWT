@@ -1,0 +1,12 @@
+# ::id 079007-0001
+# ::tok But service is very poor .
+# ::alignments 0-1.1 1-1.2.2 3-1.2.4.3 4-1.2.4.1
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label)
+           :P (v5 / label~e.1)
+           :D (v6 / label
+                  :C (v7 / label~e.4)
+                  :E (v8 / label~e.3))))
