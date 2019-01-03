@@ -1,34 +1,14 @@
 <root annotationID="0" passageID="303922-0001">
-  <attributes annotationID="1088" passageID="525" remarks="26416" userID="1" />
+  <attributes />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
     <node ID="0.1" type="Word">
-      <attributes paragraph="1" paragraph_position="1" text="Excellent" />
+      <attributes paragraph="1" paragraph_position="1" text="A" />
       <extra orig_paragraph="1" />
     </node>
-    <node ID="0.2" type="Word">
-      <attributes paragraph="1" paragraph_position="2" text="customer" />
-      <extra orig_paragraph="1" />
-    </node>
-    <node ID="0.3" type="Word">
-      <attributes paragraph="1" paragraph_position="3" text="service" />
-      <extra orig_paragraph="1" />
-    </node>
-    <node ID="0.4" type="Word">
-      <attributes paragraph="1" paragraph_position="4" text="and" />
-      <extra orig_paragraph="1" />
-    </node>
-    <node ID="0.5" type="Word">
-      <attributes paragraph="1" paragraph_position="5" text="honest" />
-      <extra orig_paragraph="1" />
-    </node>
-    <node ID="0.6" type="Word">
-      <attributes paragraph="1" paragraph_position="6" text="feedback" />
-      <extra orig_paragraph="1" />
-    </node>
-    <node ID="0.7" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="7" text="." />
+    <node ID="0.2" type="Punctuation">
+      <attributes paragraph="1" paragraph_position="2" text="+" />
       <extra orig_paragraph="1" />
     </node>
   </layer>
@@ -39,91 +19,19 @@
       <edge toID="1.2" type="H">
         <attributes />
       </edge>
-      <edge toID="1.3" type="L">
-        <attributes />
-      </edge>
-      <edge toID="1.4" type="H">
+      <edge toID="1.3" type="U">
         <attributes />
       </edge>
     </node>
     <node ID="1.2" type="FN">
       <attributes />
-      <extra all_tags="H" tree_id="2" />
-      <edge toID="1.8" type="D">
-        <attributes />
-      </edge>
-      <edge toID="1.9" type="P">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.3" type="FN">
-      <attributes />
-      <extra all_tags="L" tree_id="3" />
-      <edge toID="0.4" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.4" type="FN">
-      <attributes />
-      <extra all_tags="H" tree_id="4" />
-      <edge toID="1.6" type="D">
-        <attributes />
-      </edge>
-      <edge toID="1.7" type="P">
-        <attributes />
-      </edge>
-      <edge toID="1.12" type="U">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.6" type="FN">
-      <attributes />
-      <extra all_tags="D" tree_id="4-1" />
-      <edge toID="0.5" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.7" type="FN">
-      <attributes />
-      <extra all_tags="P" tree_id="4-2" />
-      <edge toID="0.6" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.8" type="FN">
-      <attributes />
-      <extra all_tags="D" tree_id="2-1" />
       <edge toID="0.1" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.9" type="FN">
+    <node ID="1.3" type="PNCT">
       <attributes />
-      <extra all_tags="P" tree_id="2-2" />
-      <edge toID="1.10" type="E">
-        <attributes />
-      </edge>
-      <edge toID="1.11" type="C">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.10" type="FN">
-      <attributes />
-      <extra all_tags="E" tree_id="2-2-1" />
       <edge toID="0.2" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.11" type="FN">
-      <attributes />
-      <extra all_tags="C" tree_id="2-2-2" />
-      <edge toID="0.3" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.12" type="PNCT">
-      <attributes />
-      <edge toID="0.7" type="Terminal">
         <attributes />
       </edge>
     </node>
