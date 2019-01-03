@@ -1,0 +1,19 @@
+# sent_id = 069995-0002
+1	Went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+2	to	to	ADP	IN	_	5	case	5:case	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+4	Willow	Willow	PROPN	NNP	Number=Sing	5	compound	5:compound	_
+5	Lounge	Lounge	PROPN	NNP	Number=Sing	1	obl	1:obl:to	_
+6	this	this	DET	DT	Number=Sing|PronType=Dem	8	det	8:det	_
+7	past	past	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
+8	weekend	weekend	NOUN	NN	Number=Sing	1	obl:tmod	1:obl:tmod	_
+9	for	for	ADP	IN	_	10	case	10:case	_
+10	dinner	dinner	NOUN	NN	Number=Sing	1	obl	1:obl:for	_
+11	and	and	CCONJ	CC	_	12	cc	12:cc	_
+12	drinks	drink	NOUN	NNS	Number=Plur	10	conj	1:obl:for|10:conj:and	SpaceAfter=No
+13	...	...	PUNCT	,	_	1	punct	1:punct	SpaceAfter=No
+14	place	place	NOUN	NN	Number=Sing	16	nsubj	16:nsubj	_
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	16:cop	_
+16	awesome	awesome	ADJ	JJ	Degree=Pos	1	parataxis	1:parataxis	SpaceAfter=No
+17	.	.	PUNCT	.	_	1	punct	1:punct	_
+

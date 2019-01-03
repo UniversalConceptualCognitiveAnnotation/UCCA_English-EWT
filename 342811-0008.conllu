@@ -1,0 +1,15 @@
+# sent_id = 342811-0008
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	2:det	_
+2	package	package	NOUN	NN	Number=Sing	8	nsubj:pass	8:nsubj:pass	_
+3	and	and	CCONJ	CC	_	6	cc	6:cc	_
+4	some	some	DET	DT	_	6	det	6:det	_
+5	wedding	wedding	NOUN	NN	Number=Sing	6	compound	6:compound	_
+6	cards	card	NOUN	NNS	Number=Plur	2	conj	2:conj:and|8:nsubj:pass	_
+7	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	aux:pass	8:aux:pass	_
+8	left	leave	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+9	in	in	ADP	IN	_	12	case	12:case	_
+10	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	_
+11	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	12	amod	12:amod	_
+12	room	room	NOUN	NN	Number=Sing	8	obl	8:obl:in	SpaceAfter=No
+13	.	.	PUNCT	.	_	8	punct	8:punct	_
+

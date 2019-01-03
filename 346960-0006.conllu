@@ -1,0 +1,31 @@
+# sent_id = 346960-0006
+1	If	if	SCONJ	IN	_	3	mark	3:mark	_
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+3	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	23	advcl	23:advcl:if	_
+4	time	time	NOUN	NN	Number=Sing	3	obj	3:obj	_
+5	to	to	PART	TO	_	6	mark	6:mark	_
+6	drive	drive	VERB	VB	VerbForm=Inf	4	acl	4:acl:to	_
+7	to	to	ADP	IN	_	8	case	8:case	_
+8	Tacoma	Tacoma	PROPN	NNP	Number=Sing	6	obl	6:obl:to	_
+9	before	before	SCONJ	IN	_	11	mark	11:mark	_
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	11:nsubj	_
+11	closed	close	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	advcl	6:advcl:before	_
+12	during	during	ADP	IN	_	15	case	15:case	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	15	det	15:det	_
+14	work	work	NOUN	NN	Number=Sing	15	compound	15:compound	_
+15	week	week	NOUN	NN	Number=Sing	11	obl	11:obl:during	SpaceAfter=No
+16	,	,	PUNCT	,	_	23	punct	23:punct	_
+17	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	23	nsubj	23:nsubj	_
+18	would	would	AUX	MD	VerbForm=Fin	23	aux	23:aux	_
+19	just	just	ADV	RB	_	23	advmod	23:advmod	_
+20	so	so	SCONJ	IN	_	23	mark	23:mark	_
+21	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	23	nsubj	23:nsubj	_
+22	could	could	AUX	MD	VerbForm=Fin	23	aux	23:aux	_
+23	get	get	VERB	VB	VerbForm=Inf	0	root	0:root	_
+24	those	those	DET	DT	Number=Plur|PronType=Dem	25	det	25:det	_
+25	boots	boot	NOUN	NNS	Number=Plur	23	obj	23:obj|26:nsubj:xsubj	_
+26	fixed	fix	VERB	VBN	Tense=Past|VerbForm=Part	23	xcomp	23:xcomp	_
+27	properly	properly	ADV	RB	_	26	advmod	26:advmod	_
+28	again	again	ADV	RB	_	26	advmod	26:advmod	SpaceAfter=No
+29	.	.	PUNCT	.	_	23	punct	23:punct	_
+

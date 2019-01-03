@@ -1,0 +1,21 @@
+# sent_id = 342811-0006
+1	There	there	PRON	EX	_	2	expl	2:expl	_
+2	were	be	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	3	3	NUM	CD	NumType=Card	4	nummod	4:nummod	_
+4	adults	adult	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
+5	in	in	ADP	IN	_	7	case	7:case	_
+6	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
+7	room	room	NOUN	NN	Number=Sing	4	nmod	4:nmod:in	_
+8	but	but	CCONJ	CC	_	9	cc	9:cc	_
+9	towels	towel	NOUN	NNS	Number=Plur	4	conj	2:nsubj|4:conj:but	_
+10	for	for	ADP	IN	_	12	case	12:case	_
+11	only	only	ADV	RB	_	12	advmod	12:advmod	_
+12	2	2	NUM	CD	NumType=Card	9	nmod	9:nmod:for	SpaceAfter=No
+13	,	,	PUNCT	,	_	15	punct	15:punct	_
+14	no	no	DET	DT	_	15	det	15:det	_
+15	linens	linen	NOUN	NNS	Number=Plur	4	conj	2:nsubj|4:conj:but	_
+16	for	for	ADP	IN	_	18	case	18:case	_
+17	sofa	sofa	NOUN	NN	Number=Sing	18	compound	18:compound	_
+18	bed	bed	NOUN	NN	Number=Sing	15	nmod	15:nmod:for	SpaceAfter=No
+19	.	.	PUNCT	.	_	2	punct	2:punct	_
+

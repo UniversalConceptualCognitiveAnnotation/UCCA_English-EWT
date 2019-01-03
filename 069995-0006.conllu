@@ -1,0 +1,14 @@
+# sent_id = 069995-0006
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	6:nsubj	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+3	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
+4	awesome	awesome	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+5	date	date	NOUN	NN	Number=Sing	6	compound	6:compound	_
+6	spot	spot	NOUN	NN	Number=Sing	0	root	11:obj	_
+7	that	that	PRON	WDT	PronType=Rel	11	obj	6:ref	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+9	area	area	NOUN	NN	Number=Sing	11	nsubj	11:nsubj	_
+10	SERIOUSLY	seriously	ADV	RB	_	11	advmod	11:advmod	_
+11	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	6:acl:relcl	SpaceAfter=No
+12	.	.	PUNCT	.	_	6	punct	6:punct	_
+

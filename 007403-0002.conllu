@@ -1,0 +1,27 @@
+# sent_id = 007403-0002
+1	Hello	hello	INTJ	UH	_	5	discourse	5:discourse	_
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+3	name	name	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+5	Vera	Vera	PROPN	NNP	Number=Sing	0	root	0:root	_
+6	and	and	CCONJ	CC	_	9	cc	9:cc	_
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	SpaceAfter=No
+8	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
+9	writing	write	VERB	VBG	VerbForm=Ger	5	conj	5:conj:and	_
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	_
+11	review	review	NOUN	NN	Number=Sing	9	obj	9:obj	_
+12	about	about	ADP	IN	_	16	case	16:case	_
+13	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	16:nmod:poss	_
+14	own	own	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
+15	counseling	counseling	NOUN	NN	Number=Sing	16	compound	16:compound	_
+16	practice	practice	NOUN	NN	Number=Sing	11	nmod	11:nmod:about	_
+17	in	in	ADP	IN	_	18	case	18:case	_
+18	Bellevue	Bellevue	PROPN	NNP	Number=Sing	16	nmod	16:nmod:in	SpaceAfter=No
+19	,	,	PUNCT	,	_	18	punct	18:punct	_
+20	WA.	WA.	PROPN	NNP	Number=Sing	18	appos	18:appos	_
+21	and	and	CCONJ	CC	_	23	cc	23:cc	_
+22	in	in	ADP	IN	_	23	case	23:case	_
+23	Renton	Renton	PROPN	NNP	Number=Sing	18	conj	16:nmod:in|18:conj:and	_
+24	WA	WA	PROPN	NNP	Number=Sing	23	appos	23:appos	SpaceAfter=No
+25	.	.	PUNCT	.	_	5	punct	5:punct	_
+

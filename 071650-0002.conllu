@@ -1,0 +1,33 @@
+# sent_id = 071650-0002
+1	When	when	ADV	WRB	PronType=Int	4	mark	4:mark	_
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+3	originally	originally	ADV	RB	_	4	advmod	4:advmod	_
+4	joined	join	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	advcl	9:advcl:when	_
+5	in	in	ADP	IN	_	6	case	6:case	_
+6	January	January	PROPN	NNP	Number=Sing	4	obl	4:obl:in	_
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	_
+8	only	only	ADV	RB	_	9	advmod	9:advmod	_
+9	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+10	so	so	ADV	RB	_	9	advmod	9:advmod	_
+11	because	because	SCONJ	IN	_	14	mark	14:mark	_
+12	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj:pass	14:nsubj:pass	_
+13	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	aux:pass	14:aux:pass	_
+14	told	tell	VERB	VBN	Tense=Past|VerbForm=Part	9	advcl	9:advcl:because	_
+15	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	18:nsubj|20:nsubj:xsubj	_
+16	would	would	AUX	MD	VerbForm=Fin	18	aux	18:aux	_
+17	be	be	AUX	VB	VerbForm=Inf	18	cop	18:cop	_
+18	able	able	ADJ	JJ	Degree=Pos	14	ccomp	14:ccomp	_
+19	to	to	PART	TO	_	20	mark	20:mark	_
+20	cancel	cancel	VERB	VB	VerbForm=Inf	18	xcomp	18:xcomp	_
+21	the	the	DET	DT	Definite=Def|PronType=Art	24	det	24:det	_
+22	12	12	NUM	CD	NumType=Card	23	nummod	23:nummod	_
+23	month	month	NOUN	NN	Number=Sing	24	compound	24:compound	_
+24	membership	membership	NOUN	NN	Number=Sing	20	obj	20:obj	_
+25	if	if	SCONJ	IN	_	29	mark	29:mark	_
+26	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	29	nsubj	29:nsubj	_
+27	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	29	aux	29:aux	_
+28	to	to	PART	TO	_	29	mark	29:mark	_
+29	move	move	VERB	VB	VerbForm=Inf	20	advcl	20:advcl:to	_
+30	away	away	ADV	RB	_	29	advmod	29:advmod	SpaceAfter=No
+31	.	.	PUNCT	.	_	9	punct	9:punct	_
+

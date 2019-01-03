@@ -1,0 +1,18 @@
+# sent_id = 351058-0002
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	2:det	_
+2	place	place	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	_
+3	and	and	CCONJ	CC	_	6	cc	6:cc	_
+4	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	_
+5	sister	sister	NOUN	NN	Number=Sing	6	compound	6:compound	_
+6	store	store	NOUN	NN	Number=Sing	2	conj	2:conj:and|12:nsubj	_
+7	Peking	Peking	PROPN	NNP	Number=Sing	8	compound	8:compound	_
+8	Garden	Garden	PROPN	NNP	Number=Sing	6	appos	6:appos	_
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
+11	worst	worst	ADJ	JJS	Degree=Sup	12	amod	12:amod	_
+12	places	place	NOUN	NNS	Number=Plur	0	root	0:root	_
+13	to	to	PART	TO	_	14	mark	14:mark	_
+14	order	order	VERB	VB	VerbForm=Inf	12	acl	12:acl:to	_
+15	from	from	ADP	IN	_	14	obl	14:obl	SpaceAfter=No
+16	.	.	PUNCT	.	_	12	punct	12:punct	_
+
