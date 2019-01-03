@@ -689,7 +689,7 @@
     <node ID="1.15" type="FN">
       <attributes />
       <extra remarks="maybe needs an implicit &quot;to us&quot; type deal?" />
-      <edge toID="1.16" type="T">
+      <edge toID="1.16" type="D">
         <attributes />
       </edge>
       <edge toID="1.17" type="F">
@@ -701,7 +701,7 @@
       <edge toID="1.22" type="P">
         <attributes />
       </edge>
-      <edge toID="1.23" type="T">
+      <edge toID="1.23" type="D">
         <attributes />
       </edge>
     </node>
@@ -1391,7 +1391,7 @@
       <edge toID="1.117" type="P">
         <attributes />
       </edge>
-      <edge toID="1.118" type="T">
+      <edge toID="1.118" type="D">
         <attributes />
       </edge>
     </node>
@@ -1618,7 +1618,7 @@
       <edge toID="1.160" type="F">
         <attributes />
       </edge>
-      <edge toID="1.161" type="T">
+      <edge toID="1.161" type="D">
         <attributes />
       </edge>
       <edge toID="1.162" type="P">

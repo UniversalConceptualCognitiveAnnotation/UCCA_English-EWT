@@ -742,7 +742,7 @@
       <edge toID="1.8" type="A">
         <attributes />
       </edge>
-      <edge toID="1.9" type="T">
+      <edge toID="1.9" type="D">
         <attributes />
       </edge>
       <edge toID="1.10" type="P">
@@ -976,7 +976,7 @@
       <edge toID="1.39" type="P">
         <attributes />
       </edge>
-      <edge toID="1.40" type="T">
+      <edge toID="1.40" type="D">
         <attributes />
       </edge>
     </node>
@@ -1126,7 +1126,7 @@
       <edge toID="1.61" type="A">
         <attributes />
       </edge>
-      <edge toID="1.65" type="T">
+      <edge toID="1.65" type="D">
         <attributes />
       </edge>
     </node>
@@ -1195,7 +1195,7 @@
       <edge toID="1.66" type="R">
         <attributes />
       </edge>
-      <edge toID="1.67" type="Q">
+      <edge toID="1.67" type="E">
         <attributes />
       </edge>
       <edge toID="1.68" type="C">
@@ -1285,7 +1285,7 @@
       <edge toID="1.79" type="A">
         <attributes />
       </edge>
-      <edge toID="1.81" type="Q">
+      <edge toID="1.81" type="D">
         <attributes />
       </edge>
       <edge toID="1.85" type="A">
@@ -1402,7 +1402,7 @@
     </node>
     <node ID="1.90" type="FN">
       <attributes />
-      <edge toID="1.91" type="Q">
+      <edge toID="1.91" type="D">
         <attributes />
       </edge>
       <edge toID="1.94" type="A">
@@ -1704,7 +1704,7 @@
     <node ID="1.129" type="FN">
       <attributes uncertain="True" />
       <extra remarks="Adi:&#10;I would mark &quot;rare&quot; as Time and &quot;find&quot; as Process&#10;Dotan: I agree but I think maybe &quot;rare&quot; should be Q" />
-      <edge toID="1.130" type="T">
+      <edge toID="1.130" type="D">
         <attributes />
       </edge>
       <edge toID="1.134" type="F">
@@ -1713,7 +1713,7 @@
       <edge toID="1.135" type="F">
         <attributes />
       </edge>
-      <edge toID="1.136" type="Q">
+      <edge toID="1.136" type="D">
         <attributes />
       </edge>
       <edge toID="1.137" type="F">
@@ -2127,7 +2127,7 @@
     </node>
     <node ID="1.181" type="FN">
       <attributes />
-      <edge toID="1.182" type="Q">
+      <edge toID="1.182" type="E">
         <attributes />
       </edge>
       <edge toID="1.185" type="C">
@@ -2214,7 +2214,7 @@
       <edge toID="1.195" type="D">
         <attributes />
       </edge>
-      <edge toID="1.196" type="T">
+      <edge toID="1.196" type="D">
         <attributes />
       </edge>
       <edge toID="1.197" type="P">
@@ -2347,7 +2347,7 @@
     </node>
     <node ID="1.211" type="FN">
       <attributes />
-      <edge toID="1.212" type="Q">
+      <edge toID="1.212" type="E">
         <attributes />
       </edge>
       <edge toID="1.216" type="C">

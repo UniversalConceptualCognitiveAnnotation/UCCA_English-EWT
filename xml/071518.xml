@@ -680,7 +680,7 @@
     <node ID="1.32" type="FN">
       <attributes />
       <extra remarks="Dollars" />
-      <edge toID="1.33" type="Q">
+      <edge toID="1.33" type="E">
         <attributes />
       </edge>
     </node>
@@ -753,7 +753,7 @@
     <node ID="1.42" type="FN">
       <attributes />
       <extra remarks="Dollars" />
-      <edge toID="1.43" type="Q">
+      <edge toID="1.43" type="E">
         <attributes />
       </edge>
     </node>
@@ -882,7 +882,7 @@
     </node>
     <node ID="1.59" type="FN">
       <attributes />
-      <edge toID="1.61" type="Q">
+      <edge toID="1.61" type="E">
         <attributes />
       </edge>
       <edge toID="1.62" type="R">
@@ -1092,7 +1092,7 @@
       <edge toID="1.87" type="E">
         <attributes />
       </edge>
-      <edge toID="1.88" type="Q">
+      <edge toID="1.88" type="E">
         <attributes />
       </edge>
       <edge toID="1.180" type="U">
@@ -1308,7 +1308,7 @@
       <edge toID="1.121" type="D">
         <attributes />
       </edge>
-      <edge toID="1.122" type="T">
+      <edge toID="1.122" type="D">
         <attributes />
       </edge>
     </node>
@@ -1398,7 +1398,7 @@
       <edge toID="1.130" type="S">
         <attributes />
       </edge>
-      <edge toID="1.131" type="T">
+      <edge toID="1.131" type="D">
         <attributes />
       </edge>
     </node>
@@ -1449,7 +1449,7 @@
       <edge toID="1.137" type="F">
         <attributes />
       </edge>
-      <edge toID="1.138" type="T">
+      <edge toID="1.138" type="D">
         <attributes />
       </edge>
       <edge toID="1.139" type="P">

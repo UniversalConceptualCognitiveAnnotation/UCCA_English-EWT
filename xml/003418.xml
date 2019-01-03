@@ -680,7 +680,7 @@
       <edge toID="1.9" type="P">
         <attributes />
       </edge>
-      <edge toID="1.11" type="T">
+      <edge toID="1.11" type="D">
         <attributes />
       </edge>
       <edge toID="1.13" type="A">
@@ -988,7 +988,7 @@
     <node ID="1.51" type="FN">
       <attributes />
       <extra remarks="cannot code $ &#10;also, should this be:&#10;&#10; for_S [$_C 483.00_Q]_A  ?&#10;&#10;since prices are now A? " />
-      <edge toID="1.52" type="Q">
+      <edge toID="1.52" type="E">
         <attributes />
       </edge>
     </node>
@@ -1370,7 +1370,7 @@
       <edge toID="1.107" type="A">
         <attributes />
       </edge>
-      <edge toID="1.108" type="T">
+      <edge toID="1.108" type="D">
         <attributes />
       </edge>
       <edge toID="1.109" type="P">
@@ -1472,7 +1472,7 @@
       <edge toID="1.107" type="A">
         <attributes remote="True" />
       </edge>
-      <edge toID="1.120" type="T">
+      <edge toID="1.120" type="D">
         <attributes />
       </edge>
       <edge toID="1.121" type="F">
@@ -1547,7 +1547,7 @@
       <edge toID="1.130" type="A">
         <attributes />
       </edge>
-      <edge toID="1.131" type="T">
+      <edge toID="1.131" type="D">
         <attributes />
       </edge>
       <edge toID="1.132" type="P">
@@ -1646,7 +1646,7 @@
       <edge toID="1.145" type="F">
         <attributes />
       </edge>
-      <edge toID="1.146" type="T">
+      <edge toID="1.146" type="D">
         <attributes />
       </edge>
       <edge toID="1.147" type="F">
@@ -1709,7 +1709,7 @@
     </node>
     <node ID="1.151" type="FN">
       <attributes />
-      <edge toID="1.152" type="T">
+      <edge toID="1.152" type="D">
         <attributes />
       </edge>
       <edge toID="1.153" type="A">
@@ -1814,7 +1814,7 @@
       <edge toID="1.166" type="F">
         <attributes />
       </edge>
-      <edge toID="1.167" type="Q">
+      <edge toID="1.167" type="E">
         <attributes />
       </edge>
       <edge toID="1.245" type="U">
@@ -1935,7 +1935,7 @@
     </node>
     <node ID="1.181" type="FN">
       <attributes />
-      <edge toID="1.182" type="Q">
+      <edge toID="1.182" type="D">
         <attributes />
       </edge>
       <edge toID="1.183" type="D">
@@ -2258,7 +2258,7 @@
     </node>
     <node ID="1.222" type="FN">
       <attributes />
-      <edge toID="1.223" type="Q">
+      <edge toID="1.223" type="E">
         <attributes />
       </edge>
       <edge toID="1.230" type="C">

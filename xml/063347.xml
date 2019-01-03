@@ -611,7 +611,7 @@
     <node ID="1.23" type="FN">
       <attributes />
       <extra remarks="2Roles_Q&amp;A" />
-      <edge toID="1.24" type="Q">
+      <edge toID="1.24" type="E">
         <attributes />
       </edge>
     </node>
@@ -869,7 +869,7 @@
       <edge toID="1.61" type="A">
         <attributes />
       </edge>
-      <edge toID="1.72" type="T">
+      <edge toID="1.72" type="D">
         <attributes />
       </edge>
       <edge toID="1.175" type="U">
@@ -1133,7 +1133,7 @@
       <edge toID="1.105" type="A">
         <attributes />
       </edge>
-      <edge toID="1.109" type="T">
+      <edge toID="1.109" type="D">
         <attributes />
       </edge>
     </node>
@@ -1274,7 +1274,7 @@
       <edge toID="1.118" type="E">
         <attributes />
       </edge>
-      <edge toID="1.120" type="Q">
+      <edge toID="1.120" type="E">
         <attributes />
       </edge>
       <edge toID="1.123" type="C">
