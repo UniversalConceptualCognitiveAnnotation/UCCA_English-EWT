@@ -1,11 +1,17 @@
 #BOS 348369-0007
-Great	Word	--	Terminal	500
-service	Word	--	Terminal	501
-.	Punctuation	--	Terminal	502
-#500	FN	--	D	504
-#501	FN	--	P	504
-#502	PNCT	--	U	504
-#503	FN	--	A	504
-#504	FN	--	H	505
-#505	FN	--	--	0
+3	Word	--	Terminal	500
+Days	Word	--	Terminal	501
+For	Word	--	Terminal	502
+get	Word	--	Terminal	502
+that	Word	--	Terminal	503
+...	Punctuation	--	Terminal	504
+#500	FN	--	E	505
+#501	FN	--	C	505
+#502	FN	--	P	507
+#503	FN	--	A	507
+#504	PNCT	--	U	507
+#505	FN	--	D	507
+#506	FN	--	A	507
+#507	FN	--	H	508
+#508	FN	--	--	0
 #EOS 348369-0007

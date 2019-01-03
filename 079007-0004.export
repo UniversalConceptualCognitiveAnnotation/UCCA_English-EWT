@@ -1,19 +1,16 @@
 #BOS 079007-0004
-Sometimes	Word	--	Terminal	500
-even	Word	--	Terminal	501
-gives	Word	--	Terminal	502
-wrong	Word	--	Terminal	503
-dish	Word	--	Terminal	504
-.	Punctuation	--	Terminal	505
-#500	FN	--	D	509
-#501	FN	--	D	509
-#502	FN	--	P	509
-#503	FN	--	S	506
-#504	FN	--	C	507	A*	506
-#505	PNCT	--	U	507
-#506	FN	--	E	507
-#507	FN	--	A	509
-#508	FN	--	A	509
-#509	FN	--	H	510
-#510	FN	--	--	0
+Never	Word	--	Terminal	500
+gives	Word	--	Terminal	501
+a	Word	--	Terminal	502
+receipt	Word	--	Terminal	503
+.	Punctuation	--	Terminal	504
+#500	FN	--	D	507
+#501	FN	--	P	507
+#502	FN	--	E	505
+#503	FN	--	C	505
+#504	PNCT	--	U	505
+#505	FN	--	A	507
+#506	FN	--	A	507
+#507	FN	--	H	508
+#508	FN	--	--	0
 #EOS 079007-0004

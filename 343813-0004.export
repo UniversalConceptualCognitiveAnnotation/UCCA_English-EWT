@@ -1,21 +1,20 @@
 #BOS 343813-0004
-Get	Word	--	Terminal	500
-there	Word	--	Terminal	501
-and	Word	--	Terminal	502
-there	Word	--	Terminal	503
-was	Word	--	Terminal	504
-nothing	Word	--	Terminal	505
-.	Punctuation	--	Terminal	506
-#500	FN	--	P	508
-#501	FN	--	A	508
-#502	FN	--	L	511
-#503	FN	--	F	510
-#504	FN	--	F	510
-#505	FN	--	A	510
-#506	PNCT	--	U	510
-#507	FN	--	A	508
-#508	FN	--	H	511
-#509	FN	--	S	510
+Told	Word	--	Terminal	500
+that	Word	--	Terminal	501
+they	Word	--	Terminal	502
+had	Word	--	Terminal	503
+plenty	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+#500	FN	--	P	510
+#501	FN	--	R	509
+#502	FN	--	A	509
+#503	FN	--	S	509
+#504	FN	--	E	506
+#505	PNCT	--	U	506
+#506	FN	--	A	509
+#507	FN	--	A	510
+#508	FN	--	A	510
+#509	FN	--	A	510
 #510	FN	--	H	511
 #511	FN	--	--	0
 #EOS 343813-0004

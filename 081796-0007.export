@@ -1,16 +1,29 @@
 #BOS 081796-0007
-Shop	Word	--	Terminal	500
-local	Word	--	Terminal	501
-at	Word	--	Terminal	502
-Exile	Word	--	Terminal	503
-!!	Punctuation	--	Terminal	504
-#500	FN	--	P	507
-#501	FN	--	A	507
-#502	FN	--	R	505
-#503	FN	--	C	505
-#504	PNCT	--	U	505
-#505	FN	--	A	507
-#506	FN	--	A	507
-#507	FN	--	H	508
-#508	FN	--	--	0
+Exile	Word	--	Terminal	500
+is	Word	--	Terminal	501
+environmentally	Word	--	Terminal	502
+conscious	Word	--	Terminal	503
+and	Word	--	Terminal	504
+involved	Word	--	Terminal	505
+heavily	Word	--	Terminal	506
+in	Word	--	Terminal	507
+our	Word	--	Terminal	508
+community	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	A	511	A*	514
+#501	FN	--	F	511
+#502	FN	--	D	511
+#503	FN	--	S	511
+#504	FN	--	L	515
+#505	FN	--	P	514
+#506	FN	--	D	514
+#507	FN	--	R	513
+#508	FN	--	S	512
+#509	FN	--	C	513	A*	512
+#510	PNCT	--	U	513
+#511	FN	--	H	515
+#512	FN	--	E	513
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
 #EOS 081796-0007
