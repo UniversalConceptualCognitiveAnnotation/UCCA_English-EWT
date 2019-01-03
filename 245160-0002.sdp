@@ -1,43 +1,13 @@
 # format = ucca
-1	i	_	Word	-	-	_	A	_	A*	_	_	_	_	_	_	_	_	_	_
-2	was	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_
-3	looking	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	for	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_
-5	a	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_
-6	car	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-7	but	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
-8	did	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_
-9	not	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_	_	_
-10	really	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_	_	_
-11	know	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-12	what	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-13	i	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-14	wanted	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-15	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
-16	they	_	Word	-	-	_	_	_	_	_	A	_	_	A*	_	A*	_	_	_
-17	were	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_
-18	very	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_	_	_
-19	helpful	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-20	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
-21	took	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-22	the	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_	_
-23	time	_	Word	-	+	_	_	_	_	_	_	_	_	T	_	_	_	_	_
-24	to	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_
-25	first	_	Word	-	-	_	_	_	_	_	_	_	_	T	_	_	_	_	_
-26	figure	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-27	out	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
-28	what	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-29	my	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-30	needs	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-31	were	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_
-32	and	_	Word	-	-	_	_	_	_	_	_	_	_	L	_	_	_	_	_
-33	showing	_	Word	-	+	_	_	_	_	_	_	_	_	H	_	_	_	_	_
-34	me	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-35	various	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-36	options	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-37	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_
-38	meet	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-39	those	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-40	needs	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-41	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	the	_	Word	-	-	_	E	_	_	_
+2	people	_	Word	-	+	_	_	_	_	A*
+3	at	_	Word	-	-	_	_	R	_	_
+4	Fidelity	_	Word	-	+	_	E	_	_	_
+5	Leasing	_	Word	-	-	_	_	Terminal	_	_
+6	were	_	Word	-	-	_	_	_	F	_
+7	very	_	Word	-	-	_	_	_	D	_
+8	friendly	_	Word	-	+	_	_	_	_	_
+9	and	_	Word	-	-	_	_	_	L	_
+10	helpful	_	Word	-	+	_	_	_	H	_
+11	.	_	Punctuation	-	-	_	_	_	_	U
 

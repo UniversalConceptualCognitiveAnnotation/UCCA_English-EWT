@@ -1,8 +1,18 @@
 # format = ucca
-1	IT	_	Word	-	-	_	_	A
-2	HAS	_	Word	-	-	_	_	F
-3	VERY	_	Word	-	-	_	E	_
-4	GOOD	_	Word	-	+	_	_	D
-5	PRICES	_	Word	-	+	_	_	_
-6	.	_	Punctuation	-	-	_	_	U
+1	TEXAS	_	Word	-	+	_	_	A	_	_	_	_	_
+2	ROADHOUSE	_	Word	-	-	_	Terminal	_	_	_	_	_	_
+3	HAS	_	Word	-	+	_	_	_	_	_	_	_	_
+4	VERY	_	Word	-	-	_	_	_	E	_	_	_	_
+5	GOOD	_	Word	-	+	_	_	_	_	D	_	_	_
+6	MEALS	_	Word	-	+	_	_	A	_	_	_	_	_
+7	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+8	THAT	_	Word	-	-	_	_	L	_	_	_	_	_
+9	THE	_	Word	-	-	_	_	_	_	_	E	_	_
+10	MEAT	_	Word	-	+	_	_	_	_	_	_	A	_
+11	COMES	_	Word	-	+	_	_	H	_	_	_	_	_
+12	RIGHT	_	Word	-	-	_	_	_	_	_	_	D	_
+13	OFF	_	Word	-	-	_	_	_	_	_	_	F	_
+14	THE	_	Word	-	-	_	_	_	_	_	_	_	E
+15	BONES	_	Word	-	+	_	_	_	_	_	_	A	_
+16	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

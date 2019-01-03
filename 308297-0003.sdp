@@ -1,9 +1,33 @@
 # format = ucca
-1	Plus	_	Word	-	-	_	L
-2	,	_	Punctuation	-	-	_	U
-3	it	_	Word	-	-	_	A
-4	's	_	Word	-	-	_	F
-5	super	_	Word	-	-	_	D
-6	healthy	_	Word	-	+	_	_
-7	!	_	Punctuation	-	-	_	U
+1	They	_	Word	-	-	_	A	_	_	_	_	_	_	_
+2	offer	_	Word	-	+	_	_	_	_	_	_	_	_	_
+3	a	_	Word	-	-	_	_	E	_	_	_	_	_	_
+4	good	_	Word	-	-	_	_	E	_	_	_	_	_	_
+5	portions	_	Word	-	+	_	A	_	_	_	_	_	_	_
+6	at	_	Word	-	-	_	_	_	R	_	_	_	_	_
+7	a	_	Word	-	-	_	_	_	E	_	_	_	_	_
+8	great	_	Word	-	-	_	_	_	E	_	_	_	_	_
+9	price	_	Word	-	+	_	A	_	_	_	_	_	_	_
+10	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+11	it	_	Word	-	-	_	_	_	_	_	F	_	_	_
+12	's	_	Word	-	-	_	_	_	_	_	F	_	_	_
+13	enough	_	Word	-	-	_	_	_	_	Q	_	_	_	_
+14	food	_	Word	-	+	_	_	_	_	_	A	_	_	_
+15	to	_	Word	-	-	_	_	_	_	_	F	_	_	_
+16	fill	_	Word	-	+	_	H	_	_	_	_	_	_	_
+17	you	_	Word	-	-	_	_	_	_	_	A	_	_	_
+18	up	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_
+19	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+20	but	_	Word	-	-	_	L	_	_	_	_	_	_	_
+21	you	_	Word	-	-	_	_	_	_	_	_	A	_	_
+22	do	_	Word	-	-	_	_	_	_	_	_	F	_	_
+23	n't	_	Word	-	-	_	_	_	_	_	_	D	_	_
+24	ever	_	Word	-	-	_	_	_	_	_	_	T	_	_
+25	feel	_	Word	-	+	_	H	_	_	_	_	_	_	_
+26	like	_	Word	-	-	_	_	_	_	_	_	_	R	_
+27	you	_	Word	-	-	_	_	_	_	_	_	_	A	_
+28	ate	_	Word	-	+	_	_	_	_	_	_	A	_	_
+29	too	_	Word	-	-	_	_	_	_	_	_	_	_	E
+30	much	_	Word	-	+	_	_	_	_	_	_	_	A	_
+31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
 

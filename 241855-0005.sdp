@@ -1,12 +1,14 @@
 # format = ucca
-1	But	_	Word	-	-	_	_	_	L
-2	furniture	_	Word	-	+	_	_	_	A
-3	like	_	Word	-	-	_	_	R	_
-4	this	_	Word	-	+	_	E	_	_
-5	will	_	Word	-	-	_	_	_	F
-6	truly	_	Word	-	-	_	_	_	D
-7	be	_	Word	-	-	_	_	_	F
-8	around	_	Word	-	+	_	_	_	_
-9	forever	_	Word	-	-	_	_	_	T
-10	.	_	Punctuation	-	-	_	_	_	U
+1	The	_	Word	-	+	_	_	_	A
+2	Brick	_	Word	-	-	_	Terminal	_	_
+3	,	_	Punctuation	-	-	_	U	_	_
+4	Ikea	_	Word	-	-	_	C	_	_
+5	,	_	Punctuation	-	-	_	U	_	_
+6	and	_	Word	-	-	_	N	_	_
+7	Leon	_	Word	-	+	_	C	_	_
+8	's	_	Word	-	-	_	_	Terminal	_
+9	have	_	Word	-	+	_	_	_	_
+10	their	_	Word	-	-	_	_	_	A
+11	place	_	Word	-	-	_	_	_	Terminal
+12	.	_	Punctuation	-	-	_	_	_	U
 

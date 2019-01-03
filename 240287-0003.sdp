@@ -1,17 +1,38 @@
 # format = ucca
-1	The	_	Word	-	-	_	F	_
-2	service	_	Word	-	+	_	_	_
-3	was	_	Word	-	-	_	F	_
-4	also	_	Word	-	-	_	L	_
-5	excellent	_	Word	-	-	_	D	_
-6	-	_	Punctuation	-	-	_	U	_
-7	friendly	_	Word	-	-	_	H	_
-8	,	_	Punctuation	-	-	_	U	_
-9	helpful	_	Word	-	-	_	H	_
-10	and	_	Word	-	-	_	L	_
-11	informative	_	Word	-	-	_	H	_
-12	without	_	Word	-	-	_	_	D
-13	being	_	Word	-	-	_	_	F
-14	overbearing	_	Word	-	+	_	H	_
-15	.	_	Punctuation	-	-	_	_	U
+1	but	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+2	I	_	Word	-	-	_	A	A*	_	_	_	_	_	_	_	_	_	_	_
+3	was	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_
+4	pleasantly	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_	_
+5	surprised	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	to	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+7	find	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+8	that	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+9	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+10	Purple	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+11	Goose	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+12	's	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+13	prices	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+14	are	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_
+15	reasonable	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+16	(	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+17	for	_	Word	-	-	_	_	_	_	_	_	_	L	_	_	_	_	_	_
+18	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+19	SAME	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+20	products	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+21	found	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+22	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+23	other	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+24	area	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+25	boutiques	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+26	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+27	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+28	prices	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+29	were	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+30	20	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	Q	_
+31	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_
+32	25	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	C	_	_
+33	%	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+34	cheaper	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+35	)	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+36	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 
