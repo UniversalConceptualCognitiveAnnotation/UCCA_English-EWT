@@ -1,17 +1,18 @@
 #BOS 346563-0005
 My	Word	--	Terminal	500
-post-op	Word	--	Terminal	501
-treatment	Word	--	Terminal	502
-was	Word	--	Terminal	503
-TERRIBLE	Word	--	Terminal	504
+results	Word	--	Terminal	501
+were	Word	--	Terminal	502
+just	Word	--	Terminal	503
+AWFUL	Word	--	Terminal	504
 .	Punctuation	--	Terminal	505
-#500	FN	--	A	506
-#501	FN	--	D	506
-#502	FN	--	P	506
-#503	FN	--	F	507
-#504	FN	--	S	507
-#505	PNCT	--	U	507
-#506	FN	--	A	507
-#507	FN	--	H	508
-#508	FN	--	--	0
+#500	FN	--	S	506
+#501	FN	--	C	507	A*	506
+#502	FN	--	F	508
+#503	FN	--	D	508
+#504	FN	--	S	508
+#505	PNCT	--	U	508
+#506	FN	--	E	507
+#507	FN	--	A	508
+#508	FN	--	H	509
+#509	FN	--	--	0
 #EOS 346563-0005

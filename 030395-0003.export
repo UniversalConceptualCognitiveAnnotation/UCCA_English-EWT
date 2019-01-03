@@ -1,13 +1,17 @@
 #BOS 030395-0003
-And	Word	--	Terminal	500
-they	Word	--	Terminal	501
-deliver	Word	--	Terminal	502
-!	Punctuation	--	Terminal	503
-#500	FN	--	L	506
-#501	FN	--	A	505
-#502	FN	--	P	505
-#503	PNCT	--	U	505
-#504	FN	--	A	505
-#505	FN	--	H	506
-#506	FN	--	--	0
+The	Word	--	Terminal	500
+employees	Word	--	Terminal	501
+are	Word	--	Terminal	502
+really	Word	--	Terminal	503
+friendly	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+#500	FN	--	E	506
+#501	FN	--	C	506
+#502	FN	--	F	507
+#503	FN	--	D	507
+#504	FN	--	S	507
+#505	PNCT	--	U	507
+#506	FN	--	A	507
+#507	FN	--	H	508
+#508	FN	--	--	0
 #EOS 030395-0003

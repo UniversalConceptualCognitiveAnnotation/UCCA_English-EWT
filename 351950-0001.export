@@ -1,20 +1,10 @@
 #BOS 351950-0001
-home	Word	--	Terminal	500
-team	Word	--	Terminal	501
--	Punctuation	--	Terminal	502
-thanks	Word	--	Terminal	503
-4	Word	--	Terminal	504
-playin	Word	--	Terminal	505
-!!!	Punctuation	--	Terminal	506
-#500	FN	--	E	507
-#501	FN	--	C	507	A*	508
-#502	PNCT	--	U	509
-#503	FN	--	P	509
-#504	FN	--	R	508
-#505	FN	--	P	508
-#506	PNCT	--	U	508
-#507	FN	--	A	509
-#508	FN	--	A	509
-#509	FN	--	H	510
-#510	FN	--	--	0
+local	Word	--	Terminal	500
+crew	Word	--	Terminal	501
+!!!	Punctuation	--	Terminal	502
+#500	FN	--	E	503
+#501	FN	--	C	503
+#502	PNCT	--	U	503
+#503	FN	--	H	504
+#504	FN	--	--	0
 #EOS 351950-0001

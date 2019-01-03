@@ -1,27 +1,29 @@
 #BOS 084373-0004
-We	Word	--	Terminal	500
-were	Word	--	Terminal	501
-very	Word	--	Terminal	502
-happy	Word	--	Terminal	503
-how	Word	--	Terminal	504
-clean	Word	--	Terminal	505
-looked	Word	--	Terminal	506
-our	Word	--	Terminal	507
-windows	Word	--	Terminal	508
+They	Word	--	Terminal	500
+came	Word	--	Terminal	501
+on	Word	--	Terminal	502
+time	Word	--	Terminal	503
+and	Word	--	Terminal	504
+completed	Word	--	Terminal	505
+their	Word	--	Terminal	506
+work	Word	--	Terminal	507
+quickly	Word	--	Terminal	508
 .	Punctuation	--	Terminal	509
-#500	FN	--	A	510
-#501	FN	--	F	510
-#502	FN	--	D	510
-#503	FN	--	S	510
-#504	FN	--	D	513
-#505	FN	--	S	513
-#506	FN	--	D	513
-#507	FN	--	S	511
-#508	FN	--	C	512	A*	511
-#509	PNCT	--	U	512
-#510	FN	--	H	514
-#511	FN	--	E	512
-#512	FN	--	A	513
-#513	FN	--	H	514
-#514	FN	--	--	0
+#500	FN	--	A	514	A*	515
+#501	FN	--	P	514
+#502	FN	--	R	510
+#503	FN	--	C	510
+#504	FN	--	L	516
+#505	FN	--	P	515
+#506	FN	--	S	511
+#507	FN	--	P	512	A*	511
+#508	FN	--	D	515
+#509	PNCT	--	U	515
+#510	FN	--	T	514
+#511	FN	--	E	513
+#512	FN	--	C	513
+#513	FN	--	A	515
+#514	FN	--	H	516
+#515	FN	--	H	516
+#516	FN	--	--	0
 #EOS 084373-0004

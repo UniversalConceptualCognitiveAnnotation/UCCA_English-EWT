@@ -1,20 +1,28 @@
 #BOS 349020-0011
-STAY	Word	--	Terminal	500
-AWAY	Word	--	Terminal	501
-AS	Word	--	Terminal	502
-FAR	Word	--	Terminal	503
-AS	Word	--	Terminal	504
-POSSIBLE	Word	--	Terminal	505
-.	Punctuation	--	Terminal	506
-#500	FN	--	P	509
-#501	FN	--	D	509
-#502	FN	--	N	507
-#503	FN	--	C	507
-#504	FN	--	N	507
-#505	FN	--	C	507
-#506	PNCT	--	U	507
-#507	FN	--	A	509
-#508	FN	--	A	509
-#509	FN	--	H	510
-#510	FN	--	--	0
+So	Word	--	Terminal	500
+my	Word	--	Terminal	501
+advice	Word	--	Terminal	502
+is	Word	--	Terminal	503
+that	Word	--	Terminal	504
+NEVER	Word	--	Terminal	505
+TRUST	Word	--	Terminal	506
+THIS	Word	--	Terminal	507
+DEALER	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	L	515
+#501	FN	--	S	510
+#502	FN	--	C	511	A*	510
+#503	FN	--	F	514
+#504	FN	--	F	514
+#505	FN	--	T	514
+#506	FN	--	P	514
+#507	FN	--	E	512
+#508	FN	--	C	512
+#509	PNCT	--	U	512
+#510	FN	--	E	511
+#511	FN	--	A	514
+#512	FN	--	A	514
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
 #EOS 349020-0011

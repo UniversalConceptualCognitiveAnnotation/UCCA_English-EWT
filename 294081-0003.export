@@ -1,32 +1,17 @@
 #BOS 294081-0003
-ON	Word	--	Terminal	500
-A	Word	--	Terminal	500
-BAD	Word	--	Terminal	500
-NOTE	Word	--	Terminal	500
-THE	Word	--	Terminal	501
-WAITING	Word	--	Terminal	502
-AREA	Word	--	Terminal	503
-IS	Word	--	Terminal	504
-NOT	Word	--	Terminal	505
-ENJOYABLE	Word	--	Terminal	506
-OR	Word	--	Terminal	507
-ENOUGH	Word	--	Terminal	508
-SEATS	Word	--	Terminal	509
-.	Punctuation	--	Terminal	510
-#500	FN	--	L	515
-#501	FN	--	E	513
-#502	FN	--	P	511
-#503	FN	--	C	513	A*	512
-#504	FN	--	F	514
-#505	FN	--	D	514	D*	512
-#506	FN	--	P	514
-#507	FN	--	L	515
-#508	FN	--	S	512
-#509	FN	--	A	512
-#510	PNCT	--	U	512
-#511	FN	--	E	513
-#512	FN	--	H	515
-#513	FN	--	A	514
-#514	FN	--	H	515
-#515	FN	--	--	0
+IT	Word	--	Terminal	500
+HAS	Word	--	Terminal	501
+VERY	Word	--	Terminal	502
+GOOD	Word	--	Terminal	503
+PRICES	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+#500	FN	--	A	507
+#501	FN	--	F	507
+#502	FN	--	E	506
+#503	FN	--	C	506
+#504	FN	--	S	507
+#505	PNCT	--	U	507
+#506	FN	--	D	507
+#507	FN	--	H	508
+#508	FN	--	--	0
 #EOS 294081-0003
