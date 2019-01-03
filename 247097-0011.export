@@ -1,0 +1,30 @@
+#BOS 247097-0011
+I	Word	--	Terminal	500
+can	Word	--	Terminal	501
+tell	Word	--	Terminal	502
+she	Word	--	Terminal	503
+really	Word	--	Terminal	504
+cares	Word	--	Terminal	505
+and	Word	--	Terminal	506
+wants	Word	--	Terminal	507
+to	Word	--	Terminal	508
+help	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	A	515
+#501	FN	--	F	515
+#502	FN	--	P	515
+#503	FN	--	A	512	A*	513	A*	511
+#504	FN	--	D	512
+#505	FN	--	P	512
+#506	FN	--	L	514
+#507	FN	--	P	513
+#508	FN	--	R	511
+#509	FN	--	P	511
+#510	PNCT	--	U	511
+#511	FN	--	A	513
+#512	FN	--	H	514
+#513	FN	--	H	514
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 247097-0011

@@ -1,0 +1,59 @@
+#BOS 345182-0012
+She	Word	--	Terminal	500
+told	Word	--	Terminal	501
+me	Word	--	Terminal	502
+that	Word	--	Terminal	503
+was	Word	--	Terminal	504
+to	Word	--	Terminal	505
+bad	Word	--	Terminal	506
+she	Word	--	Terminal	507
+would	Word	--	Terminal	508
+do	Word	--	Terminal	509
+nothing	Word	--	Terminal	510
+to	Word	--	Terminal	511
+help	Word	--	Terminal	512
+me	Word	--	Terminal	513
+since	Word	--	Terminal	514
+she	Word	--	Terminal	515
+could	Word	--	Terminal	516
+not	Word	--	Terminal	517
+use	Word	--	Terminal	518
+or	Word	--	Terminal	519
+resell	Word	--	Terminal	520
+the	Word	--	Terminal	521
+piece	Word	--	Terminal	522
+.	Punctuation	--	Terminal	523
+#500	FN	--	A	531
+#501	FN	--	P	531
+#502	FN	--	A	531
+#503	FN	--	A	524
+#504	FN	--	F	524
+#505	FN	--	D	524
+#506	FN	--	S	524
+#507	FN	--	A	526	A*	525
+#508	FN	--	D	526
+#509	FN	--	P	526
+#510	FN	--	A	526
+#511	FN	--	L	530
+#512	FN	--	P	525
+#513	FN	--	A	525
+#514	FN	--	L	530
+#515	FN	--	A	529	A*	527
+#516	FN	--	D	529	D*	527
+#517	FN	--	D	529	D*	527
+#518	FN	--	P	529
+#519	FN	--	L	530
+#520	FN	--	P	527
+#521	FN	--	E	528
+#522	FN	--	C	528	A*	527
+#523	PNCT	--	U	527
+#524	FN	--	H	530
+#525	FN	--	H	530
+#526	FN	--	H	530
+#527	FN	--	H	530
+#528	FN	--	A	529
+#529	FN	--	H	530
+#530	FN	--	A	531
+#531	FN	--	H	532
+#532	FN	--	--	0
+#EOS 345182-0012

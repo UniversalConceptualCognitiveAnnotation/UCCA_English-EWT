@@ -1,0 +1,24 @@
+#BOS 025516-0002
+Recommend	Word	--	Terminal	500
+you	Word	--	Terminal	501
+call	Word	--	Terminal	502
+in	Word	--	Terminal	503
+for	Word	--	Terminal	504
+a	Word	--	Terminal	505
+look	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	P	512
+#501	FN	--	A	512	A*	511
+#502	FN	--	P	511
+#503	FN	--	R	511
+#504	FN	--	R	510
+#505	FN	--	E	508
+#506	FN	--	C	508
+#507	PNCT	--	U	508
+#508	FN	--	P	510
+#509	FN	--	A	512
+#510	FN	--	A	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 025516-0002
