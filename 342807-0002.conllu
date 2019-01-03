@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 342807-0002
+# text = So huge in fact , that Toronto slang is influenced by and has Jamaican references , and Jamaican beef patties are staples in my high school cafeteria .
+1	So	_	Word	Word	_	2	D	2:D	_
+2	huge	_	Word	Word	_	0	H	0:H	_
+3	in	_	Word	Word	_	2	G	2:G	_
+4	fact	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	that	_	Word	Word	_	10	L	10:L	_
+7	Toronto	_	Word	Word	_	8	E	8:E	_
+8	slang	_	Word	Word	_	0	C	0:C|13:A	_
+9	is	_	Word	Word	_	10	F	10:F	_
+10	influenced	_	Word	Word	_	2	H	2:H	_
+11	by	_	Word	Word	_	10	R	10:R	_
+12	and	_	Word	Word	_	13	L	13:L	_
+13	has	_	Word	Word	_	2	H	2:H	_
+14	Jamaican	_	Word	Word	_	15	E	15:E|10:A	_
+15	references	_	Word	Word	_	13	A	13:A	_
+16	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+17	and	_	Word	Word	_	22	L	22:L	_
+18	Jamaican	_	Word	Word	_	20	E	20:E	_
+19	beef	_	Word	Word	_	20	E	20:E	_
+20	patties	_	Word	Word	_	22	A	22:A	_
+21	are	_	Word	Word	_	22	F	22:F	_
+22	staples	_	Word	Word	_	2	H	2:H	_
+23	in	_	Word	Word	_	27	R	27:R	_
+24	my	_	Word	Word	_	27	E	27:E	_
+25	high	_	Word	Word	_	27	E	27:E	_
+26	school	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	cafeteria	_	Word	Word	_	22	A	22:A	_
+28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

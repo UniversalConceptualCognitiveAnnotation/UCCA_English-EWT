@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 305187-0007
+# text = Lots of " pretty people " dining inside .
+1	Lots	_	Word	Word	_	5	E	5:E	_
+2	of	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	pretty	_	Word	Word	_	5	E	5:E	_
+5	people	_	Word	Word	_	7	A	7:A	_
+6	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	dining	_	Word	Word	_	0	H	0:H	_
+8	inside	_	Word	Word	_	7	A	7:A	_
+9	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

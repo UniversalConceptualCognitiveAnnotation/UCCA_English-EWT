@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 294081-0003
+# text = ON A BAD NOTE THE WAITING AREA IS NOT ENJOYABLE OR ENOUGH SEATS .
+1	ON	_	Word	Word	_	12	L	12:L	_
+2	A	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	BAD	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	NOTE	_	Word	Word	_	1	Terminal	1:Terminal	_
+5	THE	_	Word	Word	_	7	E	7:E	_
+6	WAITING	_	Word	Word	_	7	E	7:E	_
+7	AREA	_	Word	Word	_	0	C	0:C|12:A	_
+8	IS	_	Word	Word	_	10	F	10:F	_
+9	NOT	_	Word	Word	_	10	D	10:D|12:D	_
+10	ENJOYABLE	_	Word	Word	_	0	H	0:H	_
+11	OR	_	Word	Word	_	12	L	12:L	_
+12	ENOUGH	_	Word	Word	_	10	H	10:H	_
+13	SEATS	_	Word	Word	_	12	A	12:A	_
+14	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

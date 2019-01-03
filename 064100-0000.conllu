@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 064100-0000
+# text = Great spot to kick back for a cup of joe and a snack .
+1	Great	_	Word	Word	_	0	H	0:H	_
+2	spot	_	Word	Word	_	1	A	1:A	_
+3	to	_	Word	Word	_	4	F	4:F	_
+4	kick	_	Word	Word	_	2	E	2:E	_
+5	back	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	for	_	Word	Word	_	8	L	8:L	_
+7	a	_	Word	Word	_	8	E	8:E	_
+8	cup	_	Word	Word	_	4	H	4:H	_
+9	of	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	joe	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	and	_	Word	Word	_	13	L	13:L	_
+12	a	_	Word	Word	_	13	E	13:E	_
+13	snack	_	Word	Word	_	4	H	4:H	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+
