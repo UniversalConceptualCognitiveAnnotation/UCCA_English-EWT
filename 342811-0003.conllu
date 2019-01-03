@@ -1,0 +1,21 @@
+# sent_id = 342811-0003
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj:pass	3:nsubj:pass	_
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	aux:pass	3:aux:pass	_
+3	booked	book	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+4	at	at	ADP	IN	_	6	case	6:case	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+6	Sheraton	Sheraton	PROPN	NNP	Number=Sing	3	obl	3:obl:at	_
+7	with	with	ADP	IN	_	9	case	9:case	_
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
+9	number	number	NOUN	NN	Number=Sing	3	obl	3:obl:with	_
+10	of	of	ADP	IN	_	18	case	18:case	_
+11	other	other	ADJ	JJ	Degree=Pos	18	amod	18:amod	_
+12	out	out	ADP	IN	_	18	compound	18:compound	SpaceAfter=No
+13	-	-	PUNCT	HYPH	_	12	punct	12:punct	SpaceAfter=No
+14	of	of	ADP	IN	_	16	case	16:case	SpaceAfter=No
+15	-	-	PUNCT	HYPH	_	16	punct	16:punct	SpaceAfter=No
+16	town	town	NOUN	NN	Number=Sing	12	nmod	12:nmod:of	_
+17	wedding	wedding	NOUN	NN	Number=Sing	18	compound	18:compound	_
+18	guests	guest	NOUN	NNS	Number=Plur	9	nmod	9:nmod:of	SpaceAfter=No
+19	.	.	PUNCT	.	_	3	punct	3:punct	_
+

@@ -1,0 +1,19 @@
+# sent_id = 030430-0004
+1	Edit	Edit	PROPN	NNP	Number=Sing	6	nsubj	6:nsubj	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	6:cop	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+4	best	best	ADJ	JJS	Degree=Sup	6	amod	6:amod	_
+5	massage	massage	NOUN	NN	Number=Sing	6	compound	6:compound	_
+6	therapist	therapist	NOUN	NN	Number=Sing	0	root	0:root	_
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	SpaceAfter=No
+8	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	10:aux	_
+9	ever	ever	ADV	RB	_	10	advmod	10:advmod	_
+10	had	have	VERB	VBN	Tense=Past|VerbForm=Part	6	acl:relcl	6:acl:relcl	_
+11	and	and	CCONJ	CC	_	15	cc	15:cc	_
+12	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	15:nsubj	_
+13	would	would	AUX	MD	VerbForm=Fin	15	aux	15:aux	_
+14	HIGHLY	highly	ADV	RB	_	15	advmod	15:advmod	_
+15	recommend	recommend	VERB	VB	VerbForm=Inf	6	conj	6:conj:and	_
+16	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	obj	15:obj	SpaceAfter=No
+17	!	!	PUNCT	.	_	6	punct	6:punct	_
+

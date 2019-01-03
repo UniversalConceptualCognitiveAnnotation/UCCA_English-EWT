@@ -1,0 +1,13 @@
+# sent_id = 084373-0003
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	called	call	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	few	few	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
+4	companies	company	NOUN	NNS	Number=Plur	2	obj	2:obj	_
+5	before	before	SCONJ	IN	_	7	mark	7:mark	_
+6	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	7:nsubj|9:nsubj:xsubj	_
+7	decide	decide	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	advcl	2:advcl:before	_
+8	to	to	PART	TO	_	9	mark	9:mark	_
+9	hire	hire	VERB	VB	VerbForm=Inf	7	xcomp	7:xcomp	_
+10	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	9	obj	9:obj	SpaceAfter=No
+11	.	.	PUNCT	.	_	2	punct	2:punct	_
+

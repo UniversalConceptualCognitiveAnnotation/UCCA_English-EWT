@@ -1,0 +1,17 @@
+# sent_id = 034501-0008
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|4:nsubj:xsubj|11:nsubj	_
+2	ended	end	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	up	up	ADP	RP	_	2	compound:prt	2:compound:prt	_
+4	buying	buy	VERB	VBG	VerbForm=Ger	2	xcomp	2:xcomp	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
+6	birthday	birthday	NOUN	NN	Number=Sing	7	compound	7:compound	_
+7	card	card	NOUN	NN	Number=Sing	4	obj	4:obj	_
+8	and	and	CCONJ	CC	_	11	cc	11:cc	_
+9	would	would	AUX	MD	VerbForm=Fin	11	aux	11:aux	_
+10	probably	probably	ADV	RB	_	11	advmod	11:advmod	_
+11	come	come	VERB	VB	VerbForm=Inf	2	conj	2:conj:and	_
+12	back	back	ADV	RB	_	11	advmod	11:advmod	_
+13	for	for	ADP	IN	_	14	case	14:case	_
+14	more	more	ADJ	JJR	Degree=Cmp	11	obl	11:obl:for	SpaceAfter=No
+15	.	.	PUNCT	.	_	2	punct	2:punct	_
+

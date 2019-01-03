@@ -1,0 +1,15 @@
+# sent_id = 083563-0002
+1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	3:det	_
+2	fast	fast	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	service	service	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	SpaceAfter=No
+4	,	,	PUNCT	,	_	5	punct	5:punct	_
+5	saved	save	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	8:det	_
+7	bad	bad	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
+8	situation	situation	NOUN	NN	Number=Sing	5	obj	5:obj	_
+9	getting	get	VERB	VBG	VerbForm=Ger	12	aux	12:aux	_
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	SpaceAfter=No
+11	lot	lot	NOUN	NN	Number=Sing	12	obl:npmod	12:obl:npmod	_
+12	worse	worse	ADJ	JJR	Degree=Cmp	8	acl	8:acl	SpaceAfter=No
+13	.	.	PUNCT	.	_	5	punct	5:punct	_
+

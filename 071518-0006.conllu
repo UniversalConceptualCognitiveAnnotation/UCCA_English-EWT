@@ -1,0 +1,17 @@
+# sent_id = 071518-0006
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	dropped	drop	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
+4	truck	truck	NOUN	NN	Number=Sing	2	obj	2:obj	_
+5	off	off	ADP	RP	_	2	compound:prt	2:compound:prt	_
+6	in	in	ADP	IN	_	8	case	8:case	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+8	morning	morning	NOUN	NN	Number=Sing	2	obl	2:obl:in	_
+9	and	and	CCONJ	CC	_	12	cc	12:cc	_
+10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	12:nsubj	_
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	12:cop	_
+12	ready	ready	ADJ	JJ	Degree=Pos	2	conj	2:conj:and	_
+13	that	that	DET	DT	Number=Sing|PronType=Dem	14	det	14:det	_
+14	afternoon	afternoon	NOUN	NN	Number=Sing	12	obl:tmod	12:obl:tmod	SpaceAfter=No
+15	.	.	PUNCT	.	_	2	punct	2:punct	_
+
