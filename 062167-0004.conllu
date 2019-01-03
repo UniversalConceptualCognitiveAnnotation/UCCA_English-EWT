@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 062167-0004
+# text = I found her through a colleague one day when one of my clients was in the midst of a panic attack and needed professional help that I am not qualified to provide .
+1	I	_	Word	Word	_	2	A	2:A	_
+2	found	_	Word	Word	_	0	H	0:H	_
+3	her	_	Word	Word	_	2	A	2:A	_
+4	through	_	Word	Word	_	6	R	6:R	_
+5	a	_	Word	Word	_	6	E	6:E	_
+6	colleague	_	Word	Word	_	2	A	2:A	_
+7	one	_	Word	Word	_	8	E	8:E	_
+8	day	_	Word	Word	_	2	D	2:D	_
+9	when	_	Word	Word	_	21	L	21:L	_
+10	one	_	Word	Word	_	13	E	13:E	_
+11	of	_	Word	Word	_	10	R	10:R	_
+12	my	_	Word	Word	_	13	E	13:E	_
+13	clients	_	Word	Word	_	0	C	0:C|25:A	_
+14	was	_	Word	Word	_	21	F	21:F	_
+15	in	_	Word	Word	_	21	F	21:F	_
+16	the	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	midst	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	of	_	Word	Word	_	15	Terminal	15:Terminal	_
+19	a	_	Word	Word	_	21	E	21:E	_
+20	panic	_	Word	Word	_	21	E	21:E	_
+21	attack	_	Word	Word	_	2	H	2:H	_
+22	and	_	Word	Word	_	25	L	25:L	_
+23	needed	_	Word	Word	_	25	D	25:D	_
+24	professional	_	Word	Word	_	25	D	25:D	_
+25	help	_	Word	Word	_	2	H	2:H	_
+26	that	_	Word	Word	_	30	L	30:L	_
+27	I	_	Word	Word	_	30	A	30:A|32:A	_
+28	am	_	Word	Word	_	30	F	30:F	_
+29	not	_	Word	Word	_	30	D	30:D	_
+30	qualified	_	Word	Word	_	2	H	2:H	_
+31	to	_	Word	Word	_	32	F	32:F	_
+32	provide	_	Word	Word	_	30	A	30:A	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

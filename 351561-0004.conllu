@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 351561-0004
+# text = They say no , Warwick in New Jersey , Call New Jersey .
+1	They	_	Word	Word	_	2	A	2:A	_
+2	say	_	Word	Word	_	0	H	0:H	_
+3	no	_	Word	Word	_	2	A	2:A	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	Warwick	_	Word	Word	_	6	A	6:A	_
+6	in	_	Word	Word	_	3	H	3:H	_
+7	New	_	Word	Word	_	6	A	6:A	_
+8	Jersey	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+10	Call	_	Word	Word	_	3	H	3:H	_
+11	New	_	Word	Word	_	10	A	10:A	_
+12	Jersey	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+
