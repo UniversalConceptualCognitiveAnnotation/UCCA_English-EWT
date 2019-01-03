@@ -1,0 +1,24 @@
+#BOS 063963-0001
+Do	Word	--	Terminal	500
+n't	Word	--	Terminal	501
+waste	Word	--	Terminal	502
+your	Word	--	Terminal	503
+time	Word	--	Terminal	504
+or	Word	--	Terminal	505
+money	Word	--	Terminal	506
+!	Punctuation	--	Terminal	507
+#500	FN	--	D	512
+#501	FN	--	D	512
+#502	FN	--	P	512
+#503	FN	--	S	510
+#504	FN	--	C	508
+#505	FN	--	N	508
+#506	FN	--	C	508
+#507	PNCT	--	U	508
+#508	FN	--	C	511	A*	510
+#509	FN	--	A	512
+#510	FN	--	E	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 063963-0001

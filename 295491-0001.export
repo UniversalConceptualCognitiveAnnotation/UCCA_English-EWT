@@ -1,0 +1,24 @@
+#BOS 295491-0001
+Skip	Word	--	Terminal	500
+te	Word	--	Terminal	501
+rest	Word	--	Terminal	502
+-	Punctuation	--	Terminal	503
+this	Word	--	Terminal	504
+is	Word	--	Terminal	505
+the	Word	--	Terminal	506
+best	Word	--	Terminal	507
+#500	FN	--	P	511
+#501	FN	--	E	508
+#502	FN	--	C	508
+#503	PNCT	--	U	513
+#504	FN	--	A	512
+#505	FN	--	F	512
+#506	FN	--	E	509
+#507	FN	--	C	509
+#508	FN	--	A	511
+#509	FN	--	S	512
+#510	FN	--	A	511
+#511	FN	--	H	513
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 295491-0001
