@@ -1,0 +1,34 @@
+#BOS 149922-0001
+Clean	Word	--	Terminal	500
+rooms	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+great	Word	--	Terminal	503
+for	Word	--	Terminal	504
+the	Word	--	Terminal	505
+price	Word	--	Terminal	506
+and	Word	--	Terminal	507
+cheapest	Word	--	Terminal	508
+on	Word	--	Terminal	509
+the	Word	--	Terminal	510
+exit	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	S	513
+#501	FN	--	A	513
+#502	PNCT	--	U	518
+#503	FN	--	S	516
+#504	FN	--	R	514
+#505	FN	--	E	514
+#506	FN	--	C	514
+#507	FN	--	L	518
+#508	FN	--	S	517
+#509	FN	--	R	515
+#510	FN	--	E	515
+#511	FN	--	C	515
+#512	PNCT	--	U	515
+#513	FN	--	H	518
+#514	FN	--	A	516
+#515	FN	--	A	517
+#516	FN	--	H	518
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 149922-0001

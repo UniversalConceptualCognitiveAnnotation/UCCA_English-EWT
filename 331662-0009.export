@@ -1,0 +1,43 @@
+#BOS 331662-0009
+Meats	Word	--	Terminal	500
+are	Word	--	Terminal	501
+kept	Word	--	Terminal	502
+VERY	Word	--	Terminal	503
+cold	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+seafood	Word	--	Terminal	506
+smells	Word	--	Terminal	507
+fresh	Word	--	Terminal	508
+and	Word	--	Terminal	509
+the	Word	--	Terminal	510
+serving	Word	--	Terminal	511
+bar	Word	--	Terminal	512
+is	Word	--	Terminal	513
+VERY	Word	--	Terminal	514
+clean	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	A	517	A*	518
+#501	FN	--	F	517
+#502	FN	--	P	517
+#503	FN	--	D	518
+#504	FN	--	S	518
+#505	PNCT	--	U	523
+#506	FN	--	A	519
+#507	FN	--	G	519
+#508	FN	--	S	519
+#509	FN	--	L	523
+#510	FN	--	F	521
+#511	FN	--	P	520
+#512	FN	--	C	521
+#513	FN	--	F	522
+#514	FN	--	D	522
+#515	FN	--	S	522
+#516	PNCT	--	U	522
+#517	FN	--	H	523
+#518	FN	--	H	523
+#519	FN	--	H	523
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 331662-0009

@@ -1,0 +1,40 @@
+#BOS 094621-0001
+Disatisfied	Word	--	Terminal	500
+customer	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+I	Word	--	Terminal	503
+went	Word	--	Terminal	504
+through	Word	--	Terminal	505
+Kitchen	Word	--	Terminal	506
+Aid	Word	--	Terminal	506
+and	Word	--	Terminal	507
+used	Word	--	Terminal	508
+one	Word	--	Terminal	509
+of	Word	--	Terminal	510
+their	Word	--	Terminal	511
+recommended	Word	--	Terminal	512
+vendors	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	S	518
+#501	FN	--	P	515
+#502	PNCT	--	U	521
+#503	FN	--	A	516	A*	520
+#504	FN	--	D	516
+#505	FN	--	P	516
+#506	FN	--	A	516
+#507	FN	--	L	521
+#508	FN	--	P	520
+#509	FN	--	C	519
+#510	FN	--	R	517
+#511	FN	--	E	517
+#512	FN	--	E	517
+#513	FN	--	C	517
+#514	PNCT	--	U	517
+#515	FN	--	A	518
+#516	FN	--	H	521
+#517	FN	--	E	519
+#518	FN	--	H	521
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 094621-0001

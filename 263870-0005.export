@@ -1,0 +1,47 @@
+#BOS 263870-0005
+VCU	Word	--	Terminal	500
+has	Word	--	Terminal	501
+the	Word	--	Terminal	502
+#	Punctuation	--	Terminal	503
+1	Word	--	Terminal	504
+art	Word	--	Terminal	505
+school	Word	--	Terminal	506
+in	Word	--	Terminal	507
+America	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+and	Word	--	Terminal	510
+EXCELS	Word	--	Terminal	511
+in	Word	--	Terminal	512
+healthcare	Word	--	Terminal	513
+and	Word	--	Terminal	514
+medical	Word	--	Terminal	515
+schooling	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	A	524	A*	525
+#501	FN	--	F	524
+#502	FN	--	E	518
+#503	PNCT	--	U	518
+#504	FN	--	C	518
+#505	FN	--	E	519
+#506	FN	--	C	519
+#507	FN	--	R	520
+#508	FN	--	C	520
+#509	PNCT	--	U	526
+#510	FN	--	L	526
+#511	FN	--	S	525
+#512	FN	--	R	521
+#513	FN	--	C	521
+#514	FN	--	N	523
+#515	FN	--	E	522
+#516	FN	--	C	522
+#517	PNCT	--	U	522
+#518	FN	--	S	524
+#519	FN	--	A	524
+#520	FN	--	A	524
+#521	FN	--	C	523
+#522	FN	--	C	523
+#523	FN	--	A	525
+#524	FN	--	H	526
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 263870-0005

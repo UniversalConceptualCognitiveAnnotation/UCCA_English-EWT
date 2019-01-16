@@ -1,0 +1,40 @@
+#BOS 381455-0003
+Spongy	Word	--	Terminal	500
+and	Word	--	Terminal	501
+sweet	Word	--	Terminal	502
+bread	Word	--	Terminal	503
+(	Punctuation	--	Terminal	504
+microwaved	Word	--	Terminal	505
+?	Punctuation	--	Terminal	506
+)	Punctuation	--	Terminal	507
+,	Punctuation	--	Terminal	508
+heartless	Word	--	Terminal	509
+salsa	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+tiny	Word	--	Terminal	512
+dogs	Word	--	Terminal	513
+...	Punctuation	--	Terminal	514
+#500	FN	--	S	515
+#501	FN	--	L	522
+#502	FN	--	S	516
+#503	FN	--	A	516	A*	515	A*	519
+#504	PNCT	--	U	519
+#505	FN	--	P	519
+#506	PNCT	--	U	522
+#507	PNCT	--	U	522
+#508	PNCT	--	U	522
+#509	FN	--	S	517
+#510	FN	--	A	517
+#511	PNCT	--	U	522
+#512	FN	--	S	521
+#513	FN	--	A	521
+#514	PNCT	--	U	521
+#515	FN	--	H	522
+#516	FN	--	H	522
+#517	FN	--	H	522
+#518	FN	--	A	519
+#519	FN	--	H	522
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 381455-0003

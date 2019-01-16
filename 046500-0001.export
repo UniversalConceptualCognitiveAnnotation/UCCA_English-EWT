@@ -1,0 +1,33 @@
+#BOS 046500-0001
+Men	Word	--	Terminal	500
+s	Word	--	Terminal	500
+and	Word	--	Terminal	501
+Boys	Word	--	Terminal	502
+Barbers	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+on	Word	--	Terminal	505
+the	Word	--	Terminal	506
+number	Word	--	Terminal	507
+9	Word	--	Terminal	508
+Bus	Word	--	Terminal	509
+route	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	C	512
+#501	FN	--	N	512
+#502	FN	--	C	512
+#503	FN	--	C	513
+#504	PNCT	--	U	516
+#505	FN	--	S	516
+#506	FN	--	E	514
+#507	FN	--	E	514
+#508	FN	--	C	514
+#509	FN	--	E	515
+#510	FN	--	C	515
+#511	PNCT	--	U	515
+#512	FN	--	E	513
+#513	FN	--	A	516
+#514	FN	--	E	515
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 046500-0001

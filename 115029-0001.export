@@ -1,0 +1,31 @@
+#BOS 115029-0001
+Not	Word	--	Terminal	500
+friendly	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+not	Word	--	Terminal	503
+helpful	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+overall	Word	--	Terminal	506
+poor	Word	--	Terminal	507
+customer	Word	--	Terminal	508
+service	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	D	513
+#501	FN	--	S	513
+#502	PNCT	--	U	517
+#503	FN	--	D	516
+#504	FN	--	S	516
+#505	PNCT	--	U	517
+#506	FN	--	R	514
+#507	FN	--	D	514
+#508	FN	--	E	511
+#509	FN	--	C	511
+#510	PNCT	--	U	511
+#511	FN	--	P	514
+#512	FN	--	A	513
+#513	FN	--	H	517
+#514	FN	--	H	517
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 115029-0001

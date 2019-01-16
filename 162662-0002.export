@@ -1,0 +1,21 @@
+#BOS 162662-0002
+Service	Word	--	Terminal	500
+was	Word	--	Terminal	501
+friendly	Word	--	Terminal	502
+and	Word	--	Terminal	503
+VERY	Word	--	Terminal	504
+fast	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	P	509	P*	510
+#501	FN	--	F	509
+#502	FN	--	D	509
+#503	FN	--	L	511
+#504	FN	--	E	507
+#505	FN	--	C	507
+#506	PNCT	--	U	507
+#507	FN	--	D	510
+#508	FN	--	A	509
+#509	FN	--	H	511
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 162662-0002

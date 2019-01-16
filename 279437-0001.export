@@ -1,0 +1,28 @@
+#BOS 279437-0001
+Excellent	Word	--	Terminal	500
+service	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+close	Word	--	Terminal	503
+to	Word	--	Terminal	504
+the	Word	--	Terminal	505
+morse	Word	--	Terminal	506
+red	Word	--	Terminal	506
+line	Word	--	Terminal	506
+stop	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	D	511
+#501	FN	--	S	511
+#502	PNCT	--	U	514
+#503	FN	--	S	513
+#504	FN	--	R	509
+#505	FN	--	E	509
+#506	FN	--	E	509
+#507	FN	--	C	509
+#508	PNCT	--	U	509
+#509	FN	--	A	513
+#510	FN	--	A	511
+#511	FN	--	H	514
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 279437-0001

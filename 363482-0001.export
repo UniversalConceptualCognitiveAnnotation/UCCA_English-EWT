@@ -1,0 +1,24 @@
+#BOS 363482-0001
+The	Word	--	Terminal	500
+food	Word	--	Terminal	501
+is	Word	--	Terminal	502
+excellent	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+but	Word	--	Terminal	505
+very	Word	--	Terminal	506
+overpriced	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	F	509
+#501	FN	--	C	509	A*	510
+#502	FN	--	F	511
+#503	FN	--	S	511
+#504	PNCT	--	U	512
+#505	FN	--	L	512
+#506	FN	--	D	510
+#507	FN	--	S	510
+#508	PNCT	--	U	510
+#509	FN	--	A	511
+#510	FN	--	H	512
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 363482-0001

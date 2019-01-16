@@ -1,0 +1,25 @@
+#BOS 359287-0001
+High	Word	--	Terminal	500
+guality	Word	--	Terminal	501
+pup	Word	--	Terminal	502
+food	Word	--	Terminal	503
+at	Word	--	Terminal	504
+a	Word	--	Terminal	505
+good	Word	--	Terminal	506
+price	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	D	512
+#501	FN	--	S	512
+#502	FN	--	E	509
+#503	FN	--	C	509
+#504	FN	--	L	513
+#505	FN	--	E	510
+#506	FN	--	D	511
+#507	FN	--	C	510
+#508	PNCT	--	U	510
+#509	FN	--	A	512
+#510	FN	--	S	511
+#511	FN	--	H	513
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 359287-0001

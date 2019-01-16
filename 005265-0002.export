@@ -1,0 +1,23 @@
+#BOS 005265-0002
+it	Word	--	Terminal	500
+is	Word	--	Terminal	501
+a	Word	--	Terminal	502
+cute	Word	--	Terminal	503
+little	Word	--	Terminal	504
+nice	Word	--	Terminal	505
+and	Word	--	Terminal	505
+quiet	Word	--	Terminal	505
+library	Word	--	Terminal	506
+#500	FN	--	A	508
+#501	FN	--	F	508
+#502	FN	--	F	507
+#503	FN	--	S	508
+#504	FN	--	S	509
+#505	FN	--	S	510
+#506	FN	--	C	507	A*	509	A*	510
+#507	FN	--	A	508
+#508	FN	--	H	511
+#509	FN	--	H	511
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 005265-0002

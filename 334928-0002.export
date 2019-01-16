@@ -1,0 +1,33 @@
+#BOS 334928-0002
+And	Word	--	Terminal	500
+from	Word	--	Terminal	501
+a	Word	--	Terminal	502
+place	Word	--	Terminal	503
+that	Word	--	Terminal	504
+specializes	Word	--	Terminal	505
+in	Word	--	Terminal	506
+high	Word	--	Terminal	507
+quality	Word	--	Terminal	508
+meat	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+too	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	L	517
+#501	FN	--	L	517
+#502	FN	--	F	513
+#503	FN	--	C	513
+#504	FN	--	F	516
+#505	FN	--	P	516
+#506	FN	--	R	515
+#507	FN	--	D	514
+#508	FN	--	S	514
+#509	FN	--	C	515	A*	514
+#510	PNCT	--	U	516
+#511	FN	--	G	516
+#512	PNCT	--	U	516
+#513	FN	--	A	516
+#514	FN	--	E	515
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 334928-0002

@@ -1,0 +1,20 @@
+#BOS 189171-0001
+A	Word	--	Terminal	500
+most	Word	--	Terminal	501
+outstanding	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+professional	Word	--	Terminal	504
+firm	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	E	507
+#501	FN	--	D	508
+#502	FN	--	S	508
+#503	PNCT	--	U	510
+#504	FN	--	S	509
+#505	FN	--	C	507	A*	509
+#506	PNCT	--	U	509
+#507	FN	--	A	508
+#508	FN	--	H	510
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 189171-0001

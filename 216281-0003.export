@@ -1,0 +1,21 @@
+#BOS 216281-0003
+Scheduled	Word	--	Terminal	500
+appointment	Word	--	Terminal	501
+for	Word	--	Terminal	502
+8:30	Word	--	Terminal	503
+Monday	Word	--	Terminal	504
+morning	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	P	510
+#501	FN	--	P	509
+#502	FN	--	R	507
+#503	FN	--	Q	507
+#504	FN	--	C	507
+#505	FN	--	E	507
+#506	PNCT	--	U	507
+#507	FN	--	T	509
+#508	FN	--	A	510
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 216281-0003

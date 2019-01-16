@@ -1,0 +1,46 @@
+#BOS 317846-0007
+Tourists	Word	--	Terminal	500
+like	Word	--	Terminal	501
+the	Word	--	Terminal	502
+other	Word	--	Terminal	503
+reviewer	Word	--	Terminal	504
+might	Word	--	Terminal	505
+not	Word	--	Terminal	506
+appreciate	Word	--	Terminal	507
+their	Word	--	Terminal	508
+efficiency	Word	--	Terminal	509
+or	Word	--	Terminal	510
+quality	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+but	Word	--	Terminal	513
+I	Word	--	Terminal	514
+certainly	Word	--	Terminal	515
+do	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	S	523
+#501	FN	--	R	518
+#502	FN	--	F	518
+#503	FN	--	E	518
+#504	FN	--	C	518
+#505	FN	--	D	524
+#506	FN	--	D	524
+#507	FN	--	P	524	P*	519
+#508	FN	--	A	520	A*	521
+#509	FN	--	S	520
+#510	FN	--	L	522
+#511	FN	--	S	521
+#512	PNCT	--	U	525
+#513	FN	--	L	525
+#514	FN	--	A	519
+#515	FN	--	D	519
+#516	FN	--	F	519
+#517	PNCT	--	U	519
+#518	FN	--	A	523
+#519	FN	--	H	525
+#520	FN	--	H	522
+#521	FN	--	H	522
+#522	FN	--	A	524
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 317846-0007

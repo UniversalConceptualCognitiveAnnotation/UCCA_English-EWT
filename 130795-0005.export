@@ -1,0 +1,27 @@
+#BOS 130795-0005
+Parts	Word	--	Terminal	500
+department	Word	--	Terminal	501
+blows	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+Service	Word	--	Terminal	504
+department	Word	--	Terminal	505
+is	Word	--	Terminal	506
+even	Word	--	Terminal	507
+worse	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	E	510
+#501	FN	--	C	510
+#502	FN	--	S	511
+#503	PNCT	--	U	514
+#504	FN	--	E	512
+#505	FN	--	C	512
+#506	FN	--	F	513
+#507	FN	--	G	513
+#508	FN	--	S	513
+#509	PNCT	--	U	513
+#510	FN	--	A	511
+#511	FN	--	H	514
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 130795-0005

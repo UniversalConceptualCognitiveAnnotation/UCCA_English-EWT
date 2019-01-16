@@ -13,7 +13,7 @@ want	Word	--	Terminal	510
 to	Word	--	Terminal	511
 charge	Word	--	Terminal	512
 me	Word	--	Terminal	513
-$	Punctuation	--	Terminal	514
+$	Word	--	Terminal	514
 175	Word	--	Terminal	515
 just	Word	--	Terminal	516
 to	Word	--	Terminal	517
@@ -35,7 +35,7 @@ problem	Word	--	Terminal	520
 #511	FN	--	F	528
 #512	FN	--	P	528
 #513	FN	--	A	528
-#514	PNCT	--	U	528
+#514	FN	--	C	523
 #515	FN	--	Q	523
 #516	FN	--	E	524
 #517	FN	--	C	524

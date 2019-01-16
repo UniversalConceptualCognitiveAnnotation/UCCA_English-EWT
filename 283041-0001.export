@@ -1,0 +1,22 @@
+#BOS 283041-0001
+Great	Word	--	Terminal	500
+Cookies	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+Cakes	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+and	Word	--	Terminal	505
+Customer	Word	--	Terminal	506
+Service	Word	--	Terminal	507
+#500	FN	--	S	510
+#501	FN	--	C	509
+#502	PNCT	--	U	509
+#503	FN	--	C	509
+#504	PNCT	--	U	509
+#505	FN	--	N	509
+#506	FN	--	A	508
+#507	FN	--	P	508
+#508	FN	--	C	509
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 283041-0001

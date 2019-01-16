@@ -1,0 +1,16 @@
+#BOS 210066-0001
+Bait	Word	--	Terminal	500
+and	Word	--	Terminal	500
+switch	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+untrained	Word	--	Terminal	502
+workers	Word	--	Terminal	503
+#500	FN	--	P	504
+#501	PNCT	--	U	507
+#502	FN	--	S	506
+#503	FN	--	S	505
+#504	FN	--	H	507
+#505	FN	--	A	506
+#506	FN	--	H	507
+#507	FN	--	--	0
+#EOS 210066-0001

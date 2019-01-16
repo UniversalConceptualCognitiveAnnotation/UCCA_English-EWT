@@ -1,0 +1,29 @@
+#BOS 100592-0001
+Top	Word	--	Terminal	500
+range	Word	--	Terminal	501
+of	Word	--	Terminal	502
+bike	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+cheap	Word	--	Terminal	505
+prices	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+excellent	Word	--	Terminal	508
+a	Word	--	Terminal	509
++++	Word	--	Terminal	509
+#500	FN	--	D	512
+#501	FN	--	S	512
+#502	FN	--	R	510
+#503	FN	--	C	510
+#504	PNCT	--	U	515
+#505	FN	--	S	511
+#506	FN	--	A	511
+#507	PNCT	--	U	515
+#508	FN	--	S	514
+#509	FN	--	D	514
+#510	FN	--	A	512
+#511	FN	--	H	515
+#512	FN	--	H	515
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 100592-0001

@@ -1,0 +1,32 @@
+#BOS 004940-0010
+I	Word	--	Terminal	500
+ordered	Word	--	Terminal	501
+1000	Word	--	Terminal	502
+postcards	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+we	Word	--	Terminal	505
+normally	Word	--	Terminal	506
+order	Word	--	Terminal	507
+5000	Word	--	Terminal	508
+or	Word	--	Terminal	509
+more	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	A	514
+#501	FN	--	P	514
+#502	FN	--	Q	512
+#503	FN	--	C	512	C*	515
+#504	PNCT	--	U	516
+#505	FN	--	A	516
+#506	FN	--	D	516
+#507	FN	--	P	516
+#508	FN	--	C	513
+#509	FN	--	N	513
+#510	FN	--	C	513
+#511	PNCT	--	U	513
+#512	FN	--	A	514
+#513	FN	--	Q	515
+#514	FN	--	H	517
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 004940-0010

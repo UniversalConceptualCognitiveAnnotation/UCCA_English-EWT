@@ -1,0 +1,32 @@
+#BOS 329991-0004
+I	Word	--	Terminal	500
+'m	Word	--	Terminal	501
+very	Word	--	Terminal	502
+happy	Word	--	Terminal	503
+and	Word	--	Terminal	504
+will	Word	--	Terminal	505
+definitely	Word	--	Terminal	506
+dine	Word	--	Terminal	507
+in	Word	--	Terminal	507
+and	Word	--	Terminal	508
+carry	Word	--	Terminal	509
+out	Word	--	Terminal	509
+again	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	A	512	A*	513	A*	514
+#501	FN	--	F	512
+#502	FN	--	D	512
+#503	FN	--	S	512
+#504	FN	--	L	515
+#505	FN	--	F	513
+#506	FN	--	D	513
+#507	FN	--	P	513
+#508	FN	--	L	515
+#509	FN	--	P	514
+#510	FN	--	D	513	D*	514
+#511	PNCT	--	U	513
+#512	FN	--	H	515
+#513	FN	--	H	515
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 329991-0004

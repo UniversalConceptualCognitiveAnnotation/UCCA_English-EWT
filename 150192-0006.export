@@ -1,0 +1,34 @@
+#BOS 150192-0006
+Service	Word	--	Terminal	500
+was	Word	--	Terminal	501
+okay	Word	--	Terminal	502
+not	Word	--	Terminal	503
+great	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+we	Word	--	Terminal	506
+came	Word	--	Terminal	507
+for	Word	--	Terminal	508
+a	Word	--	Terminal	509
+late	Word	--	Terminal	510
+lunch	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	P	513	P*	514
+#501	FN	--	F	513
+#502	FN	--	D	513
+#503	FN	--	D	514
+#504	FN	--	D	514
+#505	PNCT	--	U	518
+#506	FN	--	A	517
+#507	FN	--	P	517
+#508	FN	--	R	516
+#509	FN	--	E	515
+#510	FN	--	D	516
+#511	FN	--	C	515
+#512	PNCT	--	U	515
+#513	FN	--	H	518
+#514	FN	--	H	518
+#515	FN	--	P	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 150192-0006

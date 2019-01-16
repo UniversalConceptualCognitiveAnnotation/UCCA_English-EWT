@@ -1,0 +1,36 @@
+#BOS 091704-0005
+There	Word	--	Terminal	500
+could	Word	--	Terminal	501
+have	Word	--	Terminal	502
+(	Punctuation	--	Terminal	503
+hopefully	Word	--	Terminal	504
+does	Word	--	Terminal	505
+n't	Word	--	Terminal	506
+have	Word	--	Terminal	507
+)	Punctuation	--	Terminal	508
+major	Word	--	Terminal	509
+damage	Word	--	Terminal	510
+to	Word	--	Terminal	511
+the	Word	--	Terminal	512
+engine	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	F	517
+#501	FN	--	D	517
+#502	FN	--	F	517
+#503	PNCT	--	U	518
+#504	FN	--	G	515
+#505	FN	--	F	515
+#506	FN	--	D	515
+#507	FN	--	S	515
+#508	PNCT	--	U	518
+#509	FN	--	D	517
+#510	FN	--	S	517	A*	515
+#511	FN	--	R	516
+#512	FN	--	E	516
+#513	FN	--	C	516	A*	515
+#514	PNCT	--	U	515
+#515	FN	--	H	518
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 091704-0005

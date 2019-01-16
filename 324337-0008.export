@@ -1,0 +1,20 @@
+#BOS 324337-0008
+DO	Word	--	Terminal	500
+NOT	Word	--	Terminal	501
+go	Word	--	Terminal	502
+here	Word	--	Terminal	503
+..	Punctuation	--	Terminal	504
+thank	Word	--	Terminal	505
+you	Word	--	Terminal	505
+#500	FN	--	F	507
+#501	FN	--	D	507
+#502	FN	--	P	507
+#503	FN	--	A	507
+#504	PNCT	--	U	510
+#505	FN	--	P	509
+#506	FN	--	A	507
+#507	FN	--	H	510
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 324337-0008

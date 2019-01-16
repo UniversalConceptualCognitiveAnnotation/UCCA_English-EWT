@@ -1,0 +1,37 @@
+#BOS 086839-0015
+Well	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+unless	Word	--	Terminal	502
+of	Word	--	Terminal	503
+course	Word	--	Terminal	503
+the	Word	--	Terminal	504
+third	Word	--	Terminal	505
+compressor	Word	--	Terminal	506
+he	Word	--	Terminal	507
+put	Word	--	Terminal	508
+in	Word	--	Terminal	509
+the	Word	--	Terminal	510
+car	Word	--	Terminal	511
+goes	Word	--	Terminal	512
+out	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	F	517
+#501	PNCT	--	U	517
+#502	FN	--	D	517
+#503	FN	--	G	517
+#504	FN	--	E	516
+#505	FN	--	Q	516
+#506	FN	--	C	516	A*	515
+#507	FN	--	A	515
+#508	FN	--	P	515
+#509	FN	--	R	514
+#510	FN	--	E	514
+#511	FN	--	C	514
+#512	FN	--	P	517
+#513	PNCT	--	U	517
+#514	FN	--	A	515
+#515	FN	--	E	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 086839-0015

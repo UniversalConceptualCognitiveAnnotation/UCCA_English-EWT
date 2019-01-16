@@ -1,0 +1,29 @@
+#BOS 262722-0007
+Lifts	Word	--	Terminal	500
+quick	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+clean	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+accurate	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+and	Word	--	Terminal	507
+correctly	Word	--	Terminal	508
+sized	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	A	511	A*	512	A*	513	A*	514
+#501	FN	--	S	511
+#502	PNCT	--	U	515
+#503	FN	--	S	512
+#504	PNCT	--	U	515
+#505	FN	--	S	513
+#506	PNCT	--	U	515
+#507	FN	--	L	515
+#508	FN	--	D	514
+#509	FN	--	S	514
+#510	PNCT	--	U	514
+#511	FN	--	H	515
+#512	FN	--	H	515
+#513	FN	--	H	515
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 262722-0007
