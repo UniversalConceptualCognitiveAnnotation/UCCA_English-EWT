@@ -1,0 +1,25 @@
+# newdoc id = 280340
+# sent_id = 280340-0001
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+2	girlfriend	girlfriend	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
+3	and	and	CCONJ	CC	_	4	cc	4:cc	_
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	conj	2:conj:and|5:nsubj	_
+5	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
+7	chance	chance	NOUN	NN	Number=Sing	5	obj	5:obj	_
+8	on	on	ADP	IN	_	10	case	10:case	_
+9	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	10:det	_
+10	place	place	NOUN	NN	Number=Sing	5	obl	5:obl:on	_
+11	because	because	SCONJ	IN	_	15	mark	15:mark	_
+12	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	nsubj	15:nsubj|17:nsubj:xsubj	_
+13	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	15	aux	15:aux	SpaceAfter=No
+14	n't	not	PART	RB	_	15	advmod	15:advmod	_
+15	want	want	VERB	VB	VerbForm=Inf	5	advcl	5:advcl:because	_
+16	to	to	PART	TO	_	17	mark	17:mark	_
+17	wait	wait	VERB	VB	VerbForm=Inf	15	xcomp	15:xcomp	_
+18	in	in	ADP	IN	_	19	case	19:case	_
+19	line	line	NOUN	NN	Number=Sing	17	obl	17:obl:in	_
+20	at	at	ADP	IN	_	21	case	21:case	_
+21	Outback	Outback	PROPN	NNP	Number=Sing	17	obl	17:obl:at	SpaceAfter=No
+22	.	.	PUNCT	.	_	5	punct	5:punct	_
+

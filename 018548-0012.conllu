@@ -1,0 +1,19 @@
+# sent_id = 018548-0012
+1	**	**	PUNCT	NFP	_	2	punct	2:punct	SpaceAfter=No
+2	Edit	edit	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
+3	:	:	PUNCT	:	_	2	punct	2:punct	_
+4	Living	live	VERB	VBG	VerbForm=Ger	13	advcl	13:advcl	_
+5	on	on	ADP	IN	_	6	case	6:case	_
+6	campus	campus	NOUN	NN	Number=Sing	4	obl	4:obl:on	_
+7	at	at	ADP	IN	_	9	case	9:case	_
+8	Clarkson	Clarkson	PROPN	NNP	Number=Sing	9	compound	9:compound	_
+9	University	University	PROPN	NNP	Number=Sing	4	obl	4:obl:at	SpaceAfter=No
+10	,	,	PUNCT	,	_	13	punct	13:punct	_
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	13:nsubj	_
+12	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	13:aux	_
+13	had	have	VERB	VBN	Tense=Past|VerbForm=Part	2	parataxis	2:parataxis	_
+14	food	food	NOUN	NN	Number=Sing	15	nsubj	15:nsubj	_
+15	delivered	deliver	VERB	VBN	Tense=Past|VerbForm=Part	13	ccomp	13:ccomp	_
+16	before	before	ADV	RB	_	13	advmod	13:advmod	SpaceAfter=No
+17	.	.	PUNCT	.	_	2	punct	2:punct	_
+

@@ -1,0 +1,34 @@
+# sent_id = 036133-0013
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	back	back	ADV	RB	_	2	advmod	2:advmod	_
+4	with	with	ADP	IN	_	6	case	6:case	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+6	receipt	receipt	NOUN	NN	Number=Sing	2	obl	2:obl:with	_
+7	Ahmed	Ahmed	PROPN	NNP	Number=Sing	9	nsubj	9:nsubj	_
+8	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	aux	9:aux	_
+9	provided	provide	VERB	VBN	Tense=Past|VerbForm=Part	6	acl:relcl	6:acl:relcl	_
+10	upon	upon	ADP	IN	_	12	case	12:case	_
+11	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	_
+12	purchase	purchase	NOUN	NN	Number=Sing	9	obl	9:obl:upon	SpaceAfter=No
+13	,	,	PUNCT	,	_	17	punct	17:punct	_
+14	and	and	CCONJ	CC	_	17	cc	17:cc	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
+16	guy	guy	NOUN	NN	Number=Sing	17	nsubj	17:nsubj|23:nsubj	_
+17	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
+18	forever	forever	ADV	RB	_	17	advmod	17:advmod	_
+19	to	to	PART	TO	_	20	mark	20:mark	_
+20	copy	copy	VERB	VB	VerbForm=Inf	17	advcl	17:advcl:to	_
+21	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	obj	20:obj	_
+22	but	but	CCONJ	CC	_	23	cc	23:cc	_
+23	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	17	conj	17:conj:but	_
+24	that	that	SCONJ	IN	_	27	mark	27:mark	_
+25	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	nsubj	27:nsubj	_
+26	would	would	AUX	MD	VerbForm=Fin	27	aux	27:aux	_
+27	take	take	VERB	VB	VerbForm=Inf	23	ccomp	23:ccomp	_
+28	care	care	NOUN	NN	Number=Sing	27	obj	27:obj	_
+29	of	of	ADP	IN	_	31	case	31:case	_
+30	the	the	DET	DT	Definite=Def|PronType=Art	31	det	31:det	_
+31	situation	situation	NOUN	NN	Number=Sing	27	obl	27:obl:of	SpaceAfter=No
+32	.	.	PUNCT	.	_	2	punct	2:punct	_
+

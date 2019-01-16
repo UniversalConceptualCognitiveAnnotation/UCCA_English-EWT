@@ -1,0 +1,36 @@
+# sent_id = 314974-0003
+1	Sometimes	sometimes	ADV	RB	_	4	advmod	4:advmod	_
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	4:expl	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
+4	hard	hard	ADJ	JJ	Degree=Pos	0	root	0:root	_
+5	to	to	PART	TO	_	6	mark	6:mark	_
+6	get	get	VERB	VB	VerbForm=Inf	4	csubj	4:csubj	_
+7	parking	parking	NOUN	NN	Number=Sing	6	obj	6:obj	_
+8	in	in	ADP	IN	_	10	case	10:case	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+10	lot	lot	NOUN	NN	Number=Sing	6	obl	6:obl:in	_
+11	in	in	ADP	IN	_	12	case	12:case	_
+12	front	front	NOUN	NN	Number=Sing	10	nmod	10:nmod:in	_
+13	of	of	ADP	IN	_	15	case	15:case	_
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	15:det	_
+15	storefront	storefront	NOUN	NN	Number=Sing	12	nmod	12:nmod:of	SpaceAfter=No
+16	,	,	PUNCT	,	_	25	punct	25:punct	_
+17	and	and	CCONJ	CC	_	25	cc	25:cc	_
+18	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	25	nsubj	25:nsubj	_
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	25:cop	_
+20	on	on	ADP	IN	_	25	case	25:case	_
+21	a	a	DET	DT	Definite=Ind|PronType=Art	25	det	25:det	_
+22	one	one	NUM	CD	NumType=Card	24	nummod	24:nummod	SpaceAfter=No
+23	-	-	PUNCT	HYPH	_	24	punct	24:punct	SpaceAfter=No
+24	way	way	NOUN	NN	Number=Sing	25	compound	25:compound	_
+25	street	street	NOUN	NN	Number=Sing	4	conj	4:conj:and	SpaceAfter=No
+26	,	,	PUNCT	,	_	33	punct	33:punct	_
+27	but	but	CCONJ	CC	_	33	cc	33:cc	_
+28	the	the	DET	DT	Definite=Def|PronType=Art	29	det	29:det	_
+29	restaurant	restaurant	NOUN	NN	Number=Sing	33	nsubj	33:nsubj	_
+30	itself	itself	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	29	nmod:npmod	29:nmod:npmod	_
+31	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	cop	33:cop	_
+32	NEVER	never	ADV	RB	_	33	advmod	33:advmod	_
+33	overcrowded	overcrowded	ADJ	JJ	Degree=Pos	4	conj	4:conj:and	SpaceAfter=No
+34	.	.	PUNCT	.	_	4	punct	4:punct	_
+

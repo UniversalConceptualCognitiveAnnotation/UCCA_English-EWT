@@ -1,0 +1,27 @@
+# sent_id = 290594-0003
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj|8:nsubj:xsubj	SpaceAfter=No
+2	'd	would	AUX	MD	VerbForm=Fin	6	aux	6:aux	_
+3	probably	probably	ADV	RB	_	6	advmod	6:advmod	_
+4	be	be	AUX	VB	VerbForm=Inf	6	cop	6:cop	_
+5	more	more	ADV	RBR	_	6	advmod	6:advmod	_
+6	inclined	inclined	ADJ	JJ	Degree=Pos	0	root	0:root	_
+7	to	to	PART	TO	_	8	mark	8:mark	_
+8	board	board	VERB	VB	VerbForm=Inf	6	xcomp	6:xcomp	_
+9	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
+10	two	two	NUM	CD	NumType=Card	11	nummod	11:nummod	_
+11	dogs	dog	NOUN	NNS	Number=Plur	8	obj	8:obj	_
+12	here	here	ADV	RB	PronType=Dem	8	advmod	8:advmod	SpaceAfter=No
+13	,	,	PUNCT	,	_	6	punct	6:punct	_
+14	seeing	see	VERB	VBG	VerbForm=Ger	6	advcl	6:advcl	_
+15	that	that	SCONJ	IN	_	20	mark	20:mark	_
+16	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	nsubj	20:nsubj	_
+17	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	aux	20:aux	SpaceAfter=No
+18	n't	not	PART	RB	_	20	advmod	20:advmod	_
+19	just	just	ADV	RB	_	20	advmod	20:advmod	_
+20	take	take	VERB	VB	VerbForm=Inf	14	ccomp	14:ccomp	_
+21	every	every	DET	DT	_	22	det	22:det	_
+22	dog	dog	NOUN	NN	Number=Sing	20	obj	20:obj	_
+23	coming	come	VERB	VBG	VerbForm=Ger	22	acl	22:acl	_
+24	in	in	ADV	RB	_	23	advmod	23:advmod	SpaceAfter=No
+25	.	.	PUNCT	.	_	6	punct	6:punct	_
+

@@ -1,0 +1,19 @@
+# sent_id = 369210-0004
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	told	tell	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	2:obj	_
+4	"	"	PUNCT	``	_	2	punct	2:punct	SpaceAfter=No
+5	no	no	DET	DT	_	6	det	6:det	_
+6	problem	problem	NOUN	NN	Number=Sing	2	ccomp	2:ccomp	SpaceAfter=No
+7	,	,	PUNCT	,	_	6	punct	6:punct	_
+8	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	10:nsubj|14:nsubj	_
+9	will	will	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
+10	match	match	VERB	VB	VerbForm=Inf	6	parataxis	6:parataxis	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
+12	offer	offer	NOUN	NN	Number=Sing	10	obj	10:obj	_
+13	or	or	CCONJ	CC	_	14	cc	14:cc	_
+14	do	do	VERB	VB	VerbForm=Inf	10	conj	10:conj:or	_
+15	better	better	ADV	RBR	Degree=Cmp	14	advmod	14:advmod	SpaceAfter=No
+16	.	.	PUNCT	.	_	2	punct	2:punct	SpaceAfter=No
+17	"	"	PUNCT	''	_	2	punct	2:punct	_
+

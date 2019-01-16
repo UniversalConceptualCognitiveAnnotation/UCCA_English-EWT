@@ -1,0 +1,23 @@
+# newdoc id = 150192
+# sent_id = 150192-0001
+1	There	there	PRON	EX	_	2	expl	2:expl	_
+2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	so	so	ADV	RB	_	4	advmod	4:advmod	_
+4	many	many	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
+5	wonderful	wonderful	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
+6	great	great	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
+7	places	place	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
+8	to	to	PART	TO	_	9	mark	9:mark	_
+9	dine	dine	VERB	VB	VerbForm=Inf	7	acl	7:acl:to	_
+10	in	in	ADP	IN	_	11	case	11:case	_
+11	houston	houston	PROPN	NNP	Number=Sing	2	obl	2:obl:in	SpaceAfter=No
+12	....	....	PUNCT	,	_	2	punct	2:punct	SpaceAfter=No
+13	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux	16:aux	SpaceAfter=No
+14	n't	not	PART	RB	_	16	advmod	16:advmod	SpaceAfter=No
+15	.	.	PUNCT	.	_	16	punct	16:punct	SpaceAfter=No
+16	waste	waste	VERB	VB	Mood=Imp|VerbForm=Fin	2	parataxis	2:parataxis	_
+17	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	18	nmod:poss	18:nmod:poss	_
+18	time	time	NOUN	NN	Number=Sing	16	obj	16:obj	_
+19	here	here	ADV	RB	PronType=Dem	16	advmod	16:advmod	SpaceAfter=No
+20	.	.	PUNCT	.	_	2	punct	2:punct	_
+

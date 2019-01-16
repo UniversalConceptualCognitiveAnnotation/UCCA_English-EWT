@@ -1,0 +1,20 @@
+# sent_id = 326439-0010
+1	THEY	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	HAVE	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	EXCELLENT	excellent	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
+4	SUSHI	sushi	NOUN	NN	Number=Sing	5	compound	5:compound	_
+5	CHEF	chef	NOUN	NN	Number=Sing	7	compound	7:compound	_
+6	SPECIAL	special	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
+7	ROLLS	roll	NOUN	NNS	Number=Plur	2	obj	2:obj	_
+8	FOR	for	ADP	IN	_	11	case	11:case	_
+9	A	a	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	_
+10	FAIR	fair	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	PRICE	price	NOUN	NN	Number=Sing	2	obl	2:obl:for	_
+12	AND	and	CCONJ	CC	_	13	cc	13:cc	_
+13	SO	so	ADV	RB	_	2	conj	2:conj:and	_
+14	IS	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	13:cop	_
+15	THE	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
+16	GRILL	grill	NOUN	NN	Number=Sing	17	compound	17:compound	_
+17	ORDERS	order	NOUN	NNS	Number=Plur	13	nsubj	13:nsubj	SpaceAfter=No
+18	.	.	PUNCT	.	_	2	punct	2:punct	_
+

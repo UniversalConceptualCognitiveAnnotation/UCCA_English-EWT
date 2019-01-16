@@ -1,0 +1,24 @@
+# sent_id = 035726-0005
+1	Even	even	ADV	RB	_	4	advmod	4:advmod	_
+2	though	though	SCONJ	IN	_	4	mark	4:mark	_
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+4	live	live	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	advcl	12:advcl:though	_
+5	pretty	pretty	ADV	RB	_	6	advmod	6:advmod	_
+6	far	far	ADV	RB	Degree=Pos	4	advmod	4:advmod	_
+7	from	from	ADP	IN	_	9	case	9:case	_
+8	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
+9	office	office	NOUN	NN	Number=Sing	6	obl	6:obl:from	_
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	12:nsubj	_
+11	still	still	ADV	RB	_	12	advmod	12:advmod	_
+12	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
+14	trip	trip	NOUN	NN	Number=Sing	12	obj	12:obj	_
+15	so	so	SCONJ	IN	_	19	mark	19:mark	_
+16	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	17	nmod:poss	17:nmod:poss	_
+17	daughters	daughter	NOUN	NNS	Number=Plur	19	nsubj	19:nsubj	_
+18	will	will	AUX	MD	VerbForm=Fin	19	aux	19:aux	_
+19	have	have	VERB	VB	VerbForm=Inf	12	advcl	12:advcl:so	_
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	_
+21	BEST	best	ADJ	JJS	Degree=Sup	19	obj	19:obj	SpaceAfter=No
+22	!	!	PUNCT	.	_	12	punct	12:punct	_
+

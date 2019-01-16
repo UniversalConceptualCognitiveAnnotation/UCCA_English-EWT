@@ -1,0 +1,16 @@
+# sent_id = 165018-0006
+1	To	to	PART	TO	_	2	mark	2:mark	_
+2	warn	warn	VERB	VB	VerbForm=Inf	13	csubj	13:csubj	_
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obj	2:obj|5:nsubj:xsubj	_
+4	to	to	PART	TO	_	5	mark	5:mark	_
+5	stay	stay	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	_
+6	away	away	ADV	RB	_	5	advmod	5:advmod	_
+7	from	from	ADP	IN	_	9	case	9:case	_
+8	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	9:det	_
+9	place	place	NOUN	NN	Number=Sing	6	obl	6:obl:from	_
+10	just	just	ADV	RB	_	13	advmod	13:advmod	_
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	13:cop	SpaceAfter=No
+12	n't	not	PART	RB	_	13	advmod	13:advmod	_
+13	enough	enough	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
+14	.	.	PUNCT	.	_	13	punct	13:punct	_
+

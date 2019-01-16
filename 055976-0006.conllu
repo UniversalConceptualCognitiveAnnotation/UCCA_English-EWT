@@ -1,0 +1,20 @@
+# sent_id = 055976-0006
+1	If	if	SCONJ	IN	_	4	mark	4:mark	_
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj|6:nsubj	_
+3	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
+4	know	know	VERB	VB	VerbForm=Inf	15	advcl	15:advcl:if	_
+5	and	and	CCONJ	CC	_	6	cc	6:cc	_
+6	approves	approve	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	4:conj:and|15:advcl:if	_
+7	of	of	ADP	IN	_	9	case	9:case	_
+8	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	9:det	_
+9	behavior	behavior	NOUN	NN	Number=Sing	6	obl	6:obl:of	_
+10	then	then	ADV	RB	PronType=Dem	15	advmod	15:advmod	_
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	15:nsubj	_
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	15:cop	_
+13	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	15:det	_
+14	poor	poor	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
+15	reflection	reflection	NOUN	NN	Number=Sing	0	root	0:root	_
+16	on	on	ADP	IN	_	17	case	17:case	_
+17	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nmod	15:nmod:on	SpaceAfter=No
+18	.	.	PUNCT	.	_	15	punct	15:punct	_
+

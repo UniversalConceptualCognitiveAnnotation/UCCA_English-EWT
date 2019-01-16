@@ -1,0 +1,23 @@
+# sent_id = 356920-0003
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj|14:nsubj	_
+2	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	5:aux	_
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	cop	5:cop	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
+5	patient	patient	NOUN	NN	Number=Sing	0	root	0:root	_
+6	of	of	ADP	IN	_	7	case	7:case	_
+7	Dr.	Dr.	PROPN	NNP	Number=Sing	5	nmod	5:nmod:of	_
+8	Olbina	Olbina	PROPN	NNP	Number=Sing	7	flat	7:flat	_
+9	for	for	ADP	IN	_	11	case	11:case	_
+10	9	9	NUM	CD	NumType=Card	11	nummod	11:nummod	_
+11	years	year	NOUN	NNS	Number=Plur	5	obl	5:obl:for	_
+12	and	and	CCONJ	CC	_	14	cc	14:cc	_
+13	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	14	aux	14:aux	_
+14	spent	spend	VERB	VBN	Tense=Past|VerbForm=Part	5	conj	5:conj:and	_
+15	thousands	thousand	NOUN	NNS	Number=Plur	14	obj	14:obj	_
+16	of	of	ADP	IN	_	17	case	17:case	_
+17	dollars	dollar	NOUN	NNS	Number=Plur	15	nmod	15:nmod:of	_
+18	on	on	ADP	IN	_	19	case	19:case	_
+19	crowns	crown	NOUN	NNS	Number=Plur	17	nmod	17:nmod:on	_
+20	etc	etc	X	FW	_	19	conj	17:nmod:on|19:conj	SpaceAfter=No
+21	.	.	PUNCT	.	_	5	punct	5:punct	_
+

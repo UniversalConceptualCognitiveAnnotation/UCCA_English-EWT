@@ -1,0 +1,27 @@
+# sent_id = 238839-0003
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	salads	salad	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
+4	limp	limp	ADJ	JJ	Degree=Pos	0	root	0:root	_
+5	and	and	CCONJ	CC	_	14	cc	14:cc	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	rest	rest	NOUN	NN	Number=Sing	14	nsubj	14:nsubj	_
+8	of	of	ADP	IN	_	10	case	10:case	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+10	food	food	NOUN	NN	Number=Sing	7	nmod	7:nmod:of	_
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	14:cop	SpaceAfter=No
+12	n't	not	PART	RB	_	14	advmod	14:advmod	_
+13	any	any	ADV	RB	_	14	advmod	14:advmod	_
+14	better	better	ADJ	JJR	Degree=Cmp	4	conj	4:conj:and	_
+15	(	(	PUNCT	-LRB-	_	4	punct	4:punct	SpaceAfter=No
+16	ok	ok	INTJ	UH	_	23	discourse	23:discourse	SpaceAfter=No
+17	,	,	PUNCT	,	_	23	punct	23:punct	_
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
+19	nachos	nacho	NOUN	NNS	Number=Plur	23	nsubj	23:nsubj	_
+20	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	23	cop	23:cop	_
+21	not	not	PART	RB	_	23	advmod	23:advmod	_
+22	too	too	ADV	RB	_	23	advmod	23:advmod	_
+23	bad	bad	ADJ	JJ	Degree=Pos	4	conj	4:conj:and	SpaceAfter=No
+24	!	!	PUNCT	.	_	4	punct	4:punct	SpaceAfter=No
+25	)	)	PUNCT	-RRB-	_	4	punct	4:punct	_
+

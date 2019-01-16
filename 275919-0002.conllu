@@ -1,0 +1,17 @@
+# sent_id = 275919-0002
+1	Before	before	SCONJ	IN	_	2	mark	2:mark	_
+2	using	use	VERB	VBG	VerbForm=Ger	9	advcl	9:advcl:before	_
+3	FusionRetail	FusionRetail	PROPN	NNP	Number=Sing	2	obj	2:obj	_
+4	Before	before	SCONJ	IN	_	5	mark	5:mark	_
+5	installing	install	VERB	VBG	VerbForm=Ger	9	advcl	9:advcl:before	_
+6	FusionRetail	FusionRetail	PROPN	NNP	Number=Sing	5	obj	5:obj	_
+7	store	store	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	_
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux	9:aux	_
+9	running	run	VERB	VBG	VerbForm=Ger	0	root	0:root	_
+10	on	on	ADP	IN	_	14	case	14:case	_
+11	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	_
+12	dos	dos	PROPN	NNP	Number=Sing	13	compound	13:compound	_
+13	based	base	VERB	VBN	Tense=Past|VerbForm=Part	14	amod	14:amod	_
+14	software	software	NOUN	NN	Number=Sing	9	obl	9:obl:on	SpaceAfter=No
+15	.	.	PUNCT	.	_	9	punct	9:punct	_
+

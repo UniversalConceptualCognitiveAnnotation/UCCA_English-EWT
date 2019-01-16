@@ -1,0 +1,25 @@
+# sent_id = 311138-0002
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	2:det	_
+2	lack	lack	NOUN	NN	Number=Sing	14	nsubj	14:nsubj	_
+3	of	of	ADP	IN	_	4	case	4:case	_
+4	organisation	organisation	NOUN	NN	Number=Sing	2	nmod	2:nmod:of	SpaceAfter=No
+5	,	,	PUNCT	,	_	2	punct	2:punct	_
+6	coupled	couple	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	2:acl	_
+7	with	with	ADP	IN	_	9	case	9:case	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+9	distain	distain	NOUN	NN	Number=Sing	6	obl	6:obl:with	_
+10	for	for	ADP	IN	_	12	case	12:case	_
+11	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	_
+12	customers	customer	NOUN	NNS	Number=Plur	9	nmod	9:nmod:for	SpaceAfter=No
+13	,	,	PUNCT	,	_	14	punct	14:punct	_
+14	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+15	this	this	PRON	DT	Number=Sing|PronType=Dem	14	obj	14:obj|19:nsubj:xsubj	_
+16	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
+17	worst	worst	ADJ	JJS	Degree=Sup	19	amod	19:amod	_
+18	rental	rental	ADJ	JJ	Degree=Pos	19	amod	19:amod	_
+19	agency	agency	NOUN	NN	Number=Sing	14	xcomp	14:xcomp	_
+20	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	22	nsubj	22:nsubj	_
+21	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	22	aux	22:aux	_
+22	used	use	VERB	VBN	Tense=Past|VerbForm=Part	19	acl:relcl	19:acl:relcl	SpaceAfter=No
+23	.	.	PUNCT	.	_	14	punct	14:punct	_
+

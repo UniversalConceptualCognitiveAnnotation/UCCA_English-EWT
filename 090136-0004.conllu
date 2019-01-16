@@ -1,0 +1,23 @@
+# sent_id = 090136-0004
+1	Hands	hand	NOUN	NNS	Number=Plur	5	obl:npmod	5:obl:npmod	SpaceAfter=No
+2	-	-	PUNCT	HYPH	_	1	punct	1:punct	SpaceAfter=No
+3	down	down	ADV	RB	_	1	advmod	1:advmod	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+5	best	best	ADJ	JJS	Degree=Sup	6	amod	6:amod	_
+6	pasta	pasta	NOUN	NN	Number=Sing	0	root	0:root	_
+7	and	and	CCONJ	CC	_	8	cc	8:cc	_
+8	gnocchi	gnocchi	NOUN	NN	Number=Sing	6	conj	6:conj:and	_
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	12:nsubj	SpaceAfter=No
+10	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	aux	12:aux	_
+11	ever	ever	ADV	RB	_	12	advmod	12:advmod	_
+12	eaten	eat	VERB	VBN	Tense=Past|VerbForm=Part	6	acl:relcl	6:acl:relcl	_
+13	(	(	PUNCT	-LRB-	_	6	punct	6:punct	SpaceAfter=No
+14	and	and	CCONJ	CC	_	17	cc	17:cc	_
+15	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	17:nsubj	SpaceAfter=No
+16	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	aux	17:aux	_
+17	eaten	eat	VERB	VBN	Tense=Past|VerbForm=Part	6	conj	6:conj:and	_
+18	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	19:det	_
+19	lot	lot	NOUN	NN	Number=Sing	17	obj	17:obj	SpaceAfter=No
+20	)	)	PUNCT	-RRB-	_	6	punct	6:punct	SpaceAfter=No
+21	.	.	PUNCT	.	_	6	punct	6:punct	_
+

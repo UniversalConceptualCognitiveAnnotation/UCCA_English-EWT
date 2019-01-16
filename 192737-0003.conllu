@@ -1,0 +1,22 @@
+# sent_id = 192737-0003
+1	His	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+2	knowledge	knowledge	NOUN	NN	Number=Sing	5	nsubj	5:nsubj|6:nsubj:xsubj	_
+3	and	and	CCONJ	CC	_	4	cc	4:cc	_
+4	expertise	expertise	NOUN	NN	Number=Sing	2	conj	2:conj:and|5:nsubj|6:nsubj:xsubj	_
+5	help	help	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+6	smooth	smooth	VERB	VB	VerbForm=Inf	5	xcomp	5:xcomp	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+8	way	way	NOUN	NN	Number=Sing	6	obj	6:obj	_
+9	with	with	ADP	IN	_	12	case	12:case	_
+10	any	any	DET	DT	_	12	det	12:det	_
+11	planning	planning	NOUN	NN	Number=Sing	12	compound	12:compound	_
+12	application	application	NOUN	NN	Number=Sing	6	obl	6:obl:with	SpaceAfter=No
+13	,	,	PUNCT	,	_	6	punct	6:punct	_
+14	ensuring	ensure	VERB	VBG	VerbForm=Ger	6	advcl	6:advcl	_
+15	compliance	compliance	NOUN	NN	Number=Sing	14	obj	14:obj	_
+16	with	with	ADP	IN	_	19	case	19:case	_
+17	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
+18	building	building	NOUN	NN	Number=Sing	19	compound	19:compound	_
+19	regulations	regulation	NOUN	NNS	Number=Plur	15	nmod	15:nmod:with	SpaceAfter=No
+20	.	.	PUNCT	.	_	5	punct	5:punct	_
+

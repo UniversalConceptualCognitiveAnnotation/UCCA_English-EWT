@@ -1,0 +1,14 @@
+# sent_id = 111583-0002
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	nurses	nurse	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
+4	sweet	sweet	ADJ	JJ	Degree=Pos	0	root	0:root	_
+5	as	as	ADP	IN	_	6	case	6:case	_
+6	pie	pie	NOUN	NN	Number=Sing	4	obl	4:obl:as	_
+7	and	and	CCONJ	CC	_	11	cc	11:cc	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+9	doctor	doctor	NOUN	NN	Number=Sing	11	nsubj	11:nsubj	_
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	11:cop	_
+11	wonderful	wonderful	ADJ	JJ	Degree=Pos	4	conj	4:conj:and	SpaceAfter=No
+12	.	.	PUNCT	.	_	4	punct	4:punct	_
+

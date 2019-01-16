@@ -1,0 +1,17 @@
+# sent_id = 036133-0018
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj|3:nsubj:xsubj|12:nsubj|14:nsubj:xsubj	_
+2	kept	keep	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	saying	say	VERB	VBG	VerbForm=Ger	2	xcomp	2:xcomp	_
+4	different	different	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
+5	arrival	arrival	NOUN	NN	Number=Sing	7	compound	7:compound	SpaceAfter=No
+6	/	/	PUNCT	HYPH	_	7	punct	7:punct	SpaceAfter=No
+7	delivery	delivery	NOUN	NN	Number=Sing	8	compound	8:compound	_
+8	dates	date	NOUN	NNS	Number=Plur	3	obj	3:obj	_
+9	and	and	CCONJ	CC	_	12	cc	12:cc	_
+10	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12	aux	12:aux	SpaceAfter=No
+11	n't	not	PART	RB	_	12	advmod	12:advmod	_
+12	seem	seem	VERB	VB	VerbForm=Inf	2	conj	2:conj:and	_
+13	terribly	terribly	ADV	RB	_	14	advmod	14:advmod	_
+14	apologetic	apologetic	ADJ	JJ	Degree=Pos	12	xcomp	12:xcomp	SpaceAfter=No
+15	.	.	PUNCT	.	_	2	punct	2:punct	_
+

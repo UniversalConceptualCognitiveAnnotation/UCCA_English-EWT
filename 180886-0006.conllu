@@ -1,0 +1,15 @@
+# sent_id = 180886-0006
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
+2	really	really	ADV	RB	_	3	advmod	3:advmod	_
+3	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	visit	visit	NOUN	NN	Number=Sing	3	obj	3:obj|9:nsubj:xsubj	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
+7	pain	pain	NOUN	NN	Number=Sing	8	obl:npmod	8:obl:npmod	_
+8	free	free	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
+9	one	one	NOUN	NN	Number=Sing	3	xcomp	3:xcomp	_
+10	with	with	ADP	IN	_	12	case	12:case	_
+11	excellent	excellent	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
+12	service	service	NOUN	NN	Number=Sing	3	obl	3:obl:with	SpaceAfter=No
+13	!	!	PUNCT	.	_	3	punct	3:punct	_
+

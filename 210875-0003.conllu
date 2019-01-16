@@ -1,0 +1,26 @@
+# sent_id = 210875-0003
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj|4:nsubj:xsubj	_
+2	seemed	seem	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	to	to	PART	TO	_	4	mark	4:mark	_
+4	understand	understand	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	_
+5	how	how	ADV	WRB	PronType=Int	6	advmod	6:advmod	_
+6	important	important	ADJ	JJ	Degree=Pos	4	ccomp	4:ccomp	_
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	expl	6:expl	_
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	6:cop	_
+9	for	for	SCONJ	IN	_	12	mark	12:mark	_
+10	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	12	nsubj	12:nsubj|13:nsubj:xsubj	_
+11	to	to	PART	TO	_	12	mark	12:mark	_
+12	make	make	VERB	VB	VerbForm=Inf	6	csubj	6:csubj	_
+13	sure	sure	ADJ	JJ	Degree=Pos	12	xcomp	12:xcomp	_
+14	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
+15	whole	whole	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
+16	house	house	NOUN	NN	Number=Sing	18	nsubj:pass	18:nsubj:pass	_
+17	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	aux:pass	18:aux:pass	_
+18	sprayed	spray	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	ccomp	13:ccomp	_
+19	so	so	ADV	RB	_	21	mark	21:mark	_
+20	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	21:nsubj	_
+21	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	advcl	2:advcl:so	_
+22	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	23	nmod:poss	23:nmod:poss	_
+23	time	time	NOUN	NN	Number=Sing	21	obj	21:obj	SpaceAfter=No
+24	.	.	PUNCT	.	_	2	punct	2:punct	_
+

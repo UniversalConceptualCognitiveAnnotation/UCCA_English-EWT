@@ -1,0 +1,16 @@
+# sent_id = 018548-0004
+1	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	2:expl	_
+2	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	like	like	SCONJ	IN	_	6	mark	6:mark	_
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	SpaceAfter=No
+5	s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+6	healthier	healthier	ADJ	JJR	Degree=Cmp	2	advcl	2:advcl:like	_
+7	too	too	ADV	RB	_	2	advmod	2:advmod	SpaceAfter=No
+8	,	,	PUNCT	,	_	12	punct	12:punct	_
+9	but	but	CCONJ	CC	_	12	cc	12:cc	_
+10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	12:nsubj	SpaceAfter=No
+11	s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
+12	prolly	prolly	ADV	RB	_	2	conj	2:conj:but	_
+13	not	not	PART	RB	_	12	advmod	12:advmod	SpaceAfter=No
+14	.	.	PUNCT	.	_	2	punct	2:punct	_
+

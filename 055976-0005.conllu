@@ -1,0 +1,20 @@
+# sent_id = 055976-0005
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	sincerely	sincerely	ADV	RB	_	3	advmod	3:advmod	_
+3	wonder	wonder	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	if	if	SCONJ	IN	_	7	mark	7:mark	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+6	doctor	doctor	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
+7	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	3:advcl:if	_
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
+9	clue	clue	NOUN	NN	Number=Sing	7	obj	7:obj	_
+10	about	about	SCONJ	IN	_	11	case	11:case	_
+11	what	what	PRON	WP	PronType=Int	9	nmod	9:nmod:about	_
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	13:aux	_
+13	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	11	acl:relcl	11:acl:relcl	_
+14	on	on	ADP	RP	_	13	compound:prt	13:compound:prt	_
+15	within	within	ADP	IN	_	17	case	17:case	_
+16	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	nmod:poss	17:nmod:poss	_
+17	practice	practice	NOUN	NN	Number=Sing	13	obl	13:obl:within	SpaceAfter=No
+18	.	.	PUNCT	.	_	3	punct	3:punct	_
+

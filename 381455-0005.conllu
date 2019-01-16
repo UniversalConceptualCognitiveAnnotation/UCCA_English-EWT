@@ -1,0 +1,12 @@
+# sent_id = 381455-0005
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	dude	dude	NOUN	NN	Number=Sing	9	nsubj	4:nsubj|9:nsubj	_
+3	who	who	PRON	WP	PronType=Rel	4	nsubj	2:ref	_
+4	grills	grill	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+6	retarded	retarded	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
+7	dogs	dogs	NOUN	NN	Number=Sing	4	obj	4:obj	_
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
+9	rude	rude	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
+10	.	.	PUNCT	.	_	9	punct	9:punct	_
+

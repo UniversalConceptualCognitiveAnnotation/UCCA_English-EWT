@@ -1,0 +1,22 @@
+# sent_id = 043020-0011
+1	Well	well	INTJ	UH	_	12	discourse	12:discourse	SpaceAfter=No
+2	-	-	PUNCT	,	_	12	punct	12:punct	_
+3	when	when	ADV	WRB	PronType=Int	5	mark	5:mark	_
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	5:nsubj	_
+5	pay	pay	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	advcl	12:advcl:when	_
+6	over	over	ADP	IN	_	7	case	7:case	_
+7	$	$	SYM	$	_	5	obl	5:obl:over	SpaceAfter=No
+8	1000	1000	NUM	CD	NumType=Card	7	nummod	7:nummod	_
+9	for	for	ADP	IN	_	10	case	10:case	_
+10	something	something	PRON	NN	Number=Sing	5	obl	5:obl:for	_
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	12:nsubj	_
+12	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+13	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	obj	12:obj|15:nsubj:xsubj|18:nsubj:xsubj|19:nsubj:xsubj	_
+14	to	to	PART	TO	_	15	mark	15:mark	_
+15	hold	hold	VERB	VB	VerbForm=Inf	12	xcomp	12:xcomp	_
+16	up	up	ADP	RP	_	15	compound:prt	15:compound:prt	_
+17	and	and	CCONJ	CC	_	18	cc	18:cc	_
+18	look	look	VERB	VB	VerbForm=Inf	15	conj	12:xcomp|15:conj:and	_
+19	good	good	ADJ	JJ	Degree=Pos	18	xcomp	18:xcomp	SpaceAfter=No
+20	!!!	!!!	PUNCT	.	_	12	punct	12:punct	_
+

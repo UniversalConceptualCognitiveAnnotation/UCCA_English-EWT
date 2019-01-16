@@ -1,0 +1,36 @@
+# newdoc id = 037794
+# sent_id = 037794-0001
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj|12:nsubj|14:nsubj:xsubj	_
+2	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	at	at	ADP	IN	_	5	case	5:case	_
+4	around	around	ADV	RB	_	5	advmod	5:advmod	_
+5	730	730	NUM	CD	NumType=Card	2	obl	2:obl:at	_
+6	and	and	CCONJ	CC	_	8	cc	8:cc	_
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
+8	close	close	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	2:conj:and	_
+9	at	at	ADP	IN	_	10	case	10:case	_
+10	8	8	NUM	CD	NumType=Card	8	obl	8:obl:at	_
+11	and	and	CCONJ	CC	_	12	cc	12:cc	_
+12	wanted	want	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
+13	to	to	PART	TO	_	14	mark	14:mark	_
+14	try	try	VERB	VB	VerbForm=Inf	12	xcomp	12:xcomp	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
+16	specials	special	NOUN	NNS	Number=Plur	14	obj	14:obj	_
+17	but	but	CCONJ	CC	_	20	cc	20:cc	_
+18	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	nsubj	20:nsubj	_
+19	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	20	cop	20:cop	_
+20	out	out	ADV	RB	_	12	conj	12:conj:but	_
+21	for	for	ADP	IN	_	23	case	23:case	_
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	23:det	_
+23	day	day	NOUN	NN	Number=Sing	20	obl	20:obl:for	_
+24	so	so	ADV	RB	_	27	advmod	27:advmod	_
+25	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	27	nsubj	27:nsubj	_
+26	would	would	AUX	MD	VerbForm=Fin	27	aux	27:aux	_
+27	say	say	VERB	VB	VerbForm=Inf	12	advcl	12:advcl	_
+28	go	go	VERB	VB	Mood=Imp|VerbForm=Fin	27	ccomp	27:ccomp	_
+29	way	way	ADV	RB	_	32	advmod	32:advmod	_
+30	before	before	SCONJ	IN	_	32	mark	32:mark	_
+31	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	32	nsubj	32:nsubj	_
+32	close	close	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	28	advcl	28:advcl:before	SpaceAfter=No
+33	.	.	PUNCT	.	_	2	punct	2:punct	_
+

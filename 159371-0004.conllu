@@ -1,0 +1,28 @@
+# sent_id = 159371-0004
+1	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	knights	knights	PROPN	NNPS	Number=Plur	3	compound	3:compound	_
+3	inn	inn	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj	_
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
+5	small	small	ADJ	JJ	Degree=Pos	0	root	0:root	_
+6	very	very	ADV	RB	_	7	advmod	7:advmod	_
+7	small	small	ADJ	JJ	Degree=Pos	5	appos	5:appos	SpaceAfter=No
+8	.	.	PUNCT	.	_	5	punct	5:punct	SpaceAfter=No
+9	i	i	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	_
+10	mean	mean	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	discourse	12:discourse	_
+11	1	1	NUM	CD	NumType=Card	12	nummod	12:nummod	_
+12	room	room	NOUN	NN	Number=Sing	5	parataxis	5:parataxis	_
+13	in	in	ADP	IN	_	15	case	15:case	_
+14	every	every	DET	DT	_	15	det	15:det	_
+15	room	room	NOUN	NN	Number=Sing	12	nmod	12:nmod:in	SpaceAfter=No
+16	!	!	PUNCT	.	_	12	punct	12:punct	SpaceAfter=No
+17	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	nsubj	19:nsubj|25:nsubj	_
+18	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	cop	19:cop	_
+19	cozy	cozy	ADJ	JJ	Degree=Pos	5	parataxis	5:parataxis	_
+20	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	21:det	_
+21	little	little	ADJ	JJ	Degree=Pos	19	obl:npmod	19:obl:npmod	_
+22	and	and	CCONJ	CC	_	25	cc	25:cc	_
+23	a	a	DET	DT	Definite=Ind|PronType=Art	25	det	25:det	_
+24	small	small	ADJ	JJ	Degree=Pos	25	amod	25:amod	_
+25	tv	tv	NOUN	NN	Number=Sing	19	conj	19:conj:and	SpaceAfter=No
+26	.	.	PUNCT	.	_	19	punct	19:punct	SpaceAfter=No
+

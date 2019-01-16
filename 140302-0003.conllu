@@ -1,0 +1,15 @@
+# sent_id = 140302-0003
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	paint	paint	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
+3	and	and	CCONJ	CC	_	4	cc	4:cc	_
+4	wheels	wheel	NOUN	NNS	Number=Plur	2	conj	2:conj:and|5:nsubj	_
+5	looked	look	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+6	like	like	ADP	IN	_	7	case	7:case	_
+7	glass	glass	NOUN	NN	Number=Sing	5	obl	5:obl:like	_
+8	and	and	CCONJ	CC	_	11	cc	11:cc	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+10	interior	interior	ADJ	JJ	Degree=Pos	11	nsubj	11:nsubj|12:nsubj:xsubj	_
+11	looked	look	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	conj	5:conj:and	_
+12	new	new	ADJ	JJ	Degree=Pos	11	xcomp	11:xcomp	SpaceAfter=No
+13	!	!	PUNCT	.	_	5	punct	5:punct	_
+

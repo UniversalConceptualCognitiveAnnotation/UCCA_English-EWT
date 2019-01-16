@@ -1,0 +1,21 @@
+# sent_id = 377347-0008
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	12:nsubj	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	_
+4	super	super	ADV	RB	_	5	advmod	5:advmod	_
+5	sweet	sweet	ADJ	JJ	Degree=Pos	12	amod	12:amod	SpaceAfter=No
+6	,	,	PUNCT	,	_	7	punct	7:punct	_
+7	lovable	lovable	ADJ	JJ	Degree=Pos	5	conj	5:conj:and|12:amod	_
+8	and	and	CCONJ	CC	_	11	cc	11:cc	_
+9	well	well	ADV	RB	Degree=Pos	11	advmod	11:advmod	SpaceAfter=No
+10	-	-	PUNCT	HYPH	_	11	punct	11:punct	SpaceAfter=No
+11	informed	inform	VERB	VBN	Tense=Past|VerbForm=Part	5	conj	5:conj:and|12:amod	_
+12	woman	woman	NOUN	NN	Number=Sing	0	root	0:root	_
+13	with	with	ADP	IN	_	16	case	16:case	_
+14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	_
+15	great	great	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
+16	sense	sense	NOUN	NN	Number=Sing	12	nmod	12:nmod:with	_
+17	of	of	ADP	IN	_	18	case	18:case	_
+18	humor	humor	NOUN	NN	Number=Sing	16	nmod	16:nmod:of	SpaceAfter=No
+19	.	.	PUNCT	.	_	12	punct	12:punct	_
+

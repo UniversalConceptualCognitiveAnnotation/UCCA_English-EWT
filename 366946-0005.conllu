@@ -1,0 +1,17 @@
+# sent_id = 366946-0005
+1	But	but	CCONJ	CC	_	4	cc	4:cc	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+3	menu	menu	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
+4	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+5	standard	standard	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	stuff	stuff	NOUN	NN	Number=Sing	4	obj	4:obj|10:obj	_
+7	that	that	PRON	WDT	PronType=Rel	10	obj	6:ref	_
+8	one	one	PRON	PRP	_	10	nsubj	10:nsubj	_
+9	would	would	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
+10	get	get	VERB	VB	VerbForm=Inf	6	acl:relcl	6:acl:relcl	_
+11	at	at	ADP	IN	_	14	case	14:case	_
+12	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	_
+13	Belgian	belgian	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
+14	Tavern	tavern	NOUN	NN	Number=Sing	10	obl	10:obl:at	SpaceAfter=No
+15	.	.	PUNCT	.	_	4	punct	4:punct	_
+

@@ -1,0 +1,16 @@
+# sent_id = 371492-0003
+1	No	no	ADV	RB	_	2	advmod	2:advmod	_
+2	more	more	ADV	RBR	_	3	advmod	3:advmod	_
+3	having	have	VERB	VBG	VerbForm=Ger	0	root	0:root	_
+4	to	to	PART	TO	_	5	mark	5:mark	_
+5	drive	drive	VERB	VB	VerbForm=Inf	3	xcomp	3:xcomp	_
+6	to	to	ADP	IN	_	7	case	7:case	_
+7	San	San	PROPN	NNP	Number=Sing	5	obl	5:obl:to	_
+8	Francisco	Francisco	PROPN	NNP	Number=Sing	7	flat	7:flat	_
+9	for	for	ADP	IN	_	13	case	13:case	_
+10	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	13:det	_
+11	great	great	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
+12	mani	mani	NOUN	NN	Number=Sing	13	compound	13:compound	_
+13	pedi	pedi	NOUN	NN	Number=Sing	5	obl	5:obl:for	SpaceAfter=No
+14	.	.	PUNCT	.	_	3	punct	3:punct	_
+

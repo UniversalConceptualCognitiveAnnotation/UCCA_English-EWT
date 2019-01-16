@@ -1,0 +1,21 @@
+# sent_id = 263870-0006
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	Rams	Rams	PROPN	NNPS	Number=Plur	10	nsubj	10:nsubj	SpaceAfter=No
+3	,	,	PUNCT	,	_	2	punct	2:punct	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+5	VCU	VCU	PROPN	NNP	Number=Sing	7	compound	7:compound	_
+6	sports	sport	NOUN	NNS	Number=Plur	7	compound	7:compound	_
+7	team	team	NOUN	NN	Number=Sing	2	appos	2:appos	SpaceAfter=No
+8	,	,	PUNCT	,	_	10	punct	10:punct	_
+9	also	also	ADV	RB	_	10	advmod	10:advmod	_
+10	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
+12	NCAA	NCAA	PROPN	NNP	Number=Sing	10	obj	10:obj	_
+13	Final	final	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
+14	4	4	NUM	CD	NumType=Card	12	nummod	12:nummod	_
+15	this	this	DET	DT	Number=Sing|PronType=Dem	16	det	16:det	_
+16	year	year	NOUN	NN	Number=Sing	10	obl:tmod	10:obl:tmod	SpaceAfter=No
+17	,	,	PUNCT	,	_	10	punct	10:punct	_
+18	too	too	ADV	RB	_	10	advmod	10:advmod	SpaceAfter=No
+19	!	!	PUNCT	.	_	10	punct	10:punct	_
+

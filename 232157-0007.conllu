@@ -1,0 +1,21 @@
+# sent_id = 232157-0007
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	really	really	ADV	RB	_	3	advmod	3:advmod	_
+3	appreciate	appreciate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	BJ	BJ	PROPN	NNP	Number=Sing	3	obj	3:obj	SpaceAfter=No
+5	s	's	PART	POS	_	4	case	4:case	_
+6	for	for	SCONJ	IN	_	7	mark	7:mark	_
+7	making	make	VERB	VBG	VerbForm=Ger	3	advcl	3:advcl:for	_
+8	that	that	DET	DT	Number=Sing|PronType=Dem	10	det	10:det	_
+9	special	special	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
+10	day	day	NOUN	NN	Number=Sing	7	obj	7:obj|12:nsubj:xsubj	_
+11	even	even	ADV	RB	_	12	advmod	12:advmod	_
+12	better	better	ADJ	JJR	Degree=Cmp	7	xcomp	7:xcomp	_
+13	with	with	ADP	IN	_	16	case	16:case	_
+14	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	16:nmod:poss	_
+15	wonderful	wonderful	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
+16	food	food	NOUN	NN	Number=Sing	7	obl	7:obl:with	_
+17	and	and	CCONJ	CC	_	18	cc	18:cc	_
+18	service	service	NOUN	NN	Number=Sing	16	conj	7:obl:with|16:conj:and	SpaceAfter=No
+19	.	.	PUNCT	.	_	3	punct	3:punct	_
+

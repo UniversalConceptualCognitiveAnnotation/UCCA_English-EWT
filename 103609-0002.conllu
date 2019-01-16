@@ -1,0 +1,17 @@
+# sent_id = 103609-0002
+1	What	what	PRON	WP	PronType=Int	5	nsubj:pass	5:nsubj:pass	_
+2	more	more	ADJ	JJR	Degree=Cmp	1	amod	1:amod	_
+3	can	can	AUX	MD	VerbForm=Fin	5	aux	5:aux	_
+4	be	be	AUX	VB	VerbForm=Inf	5	aux:pass	5:aux:pass	_
+5	said	say	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	SpaceAfter=No
+6	:	:	PUNCT	:	_	13	punct	13:punct	_
+7	"	"	PUNCT	``	_	13	punct	13:punct	SpaceAfter=No
+8	Burch	Burch	PROPN	NNP	Number=Sing	10	nmod:poss	10:nmod:poss	SpaceAfter=No
+9	's	's	PART	POS	_	8	case	8:case	_
+10	Karate	Karate	PROPN	NNP	Number=Sing	13	nsubj	13:nsubj	_
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	13:cop	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
+13	GREATEST	greatest	ADJ	JJS	Degree=Sup	5	parataxis	5:parataxis	SpaceAfter=No
+14	!	!	PUNCT	.	_	13	punct	13:punct	SpaceAfter=No
+15	"	"	PUNCT	''	_	13	punct	13:punct	_
+

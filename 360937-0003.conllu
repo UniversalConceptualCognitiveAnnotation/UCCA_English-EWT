@@ -1,0 +1,16 @@
+# sent_id = 360937-0003
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
+4	sampler	sampler	NOUN	NN	Number=Sing	2	obj	2:obj	_
+5	of	of	ADP	IN	_	6	case	6:case	_
+6	IPA	ipa	NOUN	NN	Number=Sing	4	nmod	4:nmod:of	SpaceAfter=No
+7	,	,	PUNCT	,	_	8	punct	8:punct	_
+8	Brawler	Brawler	PROPN	NNP	Number=Sing	6	conj	4:nmod:of|6:conj	SpaceAfter=No
+9	,	,	PUNCT	,	_	11	punct	11:punct	_
+10	Love	Love	PROPN	NNP	Number=Sing	11	compound	11:compound	_
+11	Stout	Stout	PROPN	NNP	Number=Sing	6	conj	4:nmod:of|6:conj	_
+12	&	&	CCONJ	CC	_	13	cc	13:cc	_
+13	ESA	esa	NOUN	NN	Number=Sing	6	conj	4:nmod:of|6:conj	SpaceAfter=No
+14	.	.	PUNCT	.	_	2	punct	2:punct	_
+

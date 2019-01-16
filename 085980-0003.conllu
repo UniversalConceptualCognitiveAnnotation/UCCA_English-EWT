@@ -1,0 +1,19 @@
+# sent_id = 085980-0003
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	meal	meal	NOUN	NN	Number=Sing	5	nsubj	5:nsubj|7:nsubj	_
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
+4	extremely	extremely	ADV	RB	_	5	advmod	5:advmod	_
+5	overpriced	overpriced	ADJ	JJ	Degree=Pos	0	root	0:root	_
+6	and	and	CCONJ	CC	_	7	cc	7:cc	_
+7	lacked	lack	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	conj	5:conj:and	_
+8	flavor	flavor	NOUN	NN	Number=Sing	7	obj	7:obj	SpaceAfter=No
+9	,	,	PUNCT	,	_	7	punct	7:punct	_
+10	especially	especially	ADV	RB	_	16	advmod	16:advmod	_
+11	for	for	SCONJ	IN	_	16	mark	16:mark	_
+12	being	be	AUX	VBG	VerbForm=Ger	16	cop	16:cop	_
+13	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	_
+14	special	special	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
+15	NYE	NYE	PROPN	NNP	Number=Sing	16	compound	16:compound	_
+16	menu	menu	NOUN	NN	Number=Sing	7	advcl	7:advcl:for	SpaceAfter=No
+17	.	.	PUNCT	.	_	5	punct	5:punct	_
+

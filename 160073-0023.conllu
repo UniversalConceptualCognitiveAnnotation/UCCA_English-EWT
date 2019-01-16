@@ -1,0 +1,13 @@
+# sent_id = 160073-0023
+1	and	and	CCONJ	CC	_	5	cc	5:cc	_
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	5:aux	SpaceAfter=No
+4	n't	not	PART	RB	_	5	advmod	5:advmod	_
+5	know	know	VERB	VB	VerbForm=Inf	0	root	0:root	_
+6	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	obj	5:obj	_
+7	except	except	ADP	IN	_	9	mark	9:mark	_
+8	for	for	SCONJ	IN	_	9	mark	9:mark	_
+9	eating	eat	VERB	VBG	VerbForm=Ger	5	obl	5:obl	_
+10	there	there	ADV	RB	PronType=Dem	9	advmod	9:advmod	SpaceAfter=No
+11	.	.	PUNCT	.	_	5	punct	5:punct	_
+

@@ -1,0 +1,22 @@
+# sent_id = 043020-0005
+1	Within	within	ADP	IN	_	3	case	3:case	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	3:det	_
+3	week	week	NOUN	NN	Number=Sing	5	obl	5:obl:within	_
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
+5	noticed	notice	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+6	one	one	NUM	CD	NumType=Card	5	obj	5:obj|13:nsubj:xsubj	_
+7	of	of	ADP	IN	_	9	case	9:case	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+9	boards	board	NOUN	NNS	Number=Plur	6	nmod	6:nmod:of	_
+10	on	on	ADP	IN	_	12	case	12:case	_
+11	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	_
+12	gate	gate	NOUN	NN	Number=Sing	9	nmod	9:nmod:on	_
+13	splitting	split	VERB	VBG	VerbForm=Ger	5	xcomp	5:xcomp	_
+14	where	where	ADV	WRB	PronType=Int	18	mark	18:mark	_
+15	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	_
+16	nail	nail	NOUN	NN	Number=Sing	18	nsubj	18:nsubj	_
+17	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	18	aux	18:aux	_
+18	gone	go	VERB	VBN	Tense=Past|VerbForm=Part	13	advcl	13:advcl:where	_
+19	in	in	ADV	RB	_	18	advmod	18:advmod	SpaceAfter=No
+20	.	.	PUNCT	.	_	5	punct	5:punct	_
+

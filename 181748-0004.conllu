@@ -1,0 +1,28 @@
+# sent_id = 181748-0004
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj|5:nsubj:xsubj	_
+2	ALL	all	DET	DT	_	3	advmod	3:advmod	_
+3	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	to	to	PART	TO	_	5	mark	5:mark	_
+5	do	do	VERB	VB	VerbForm=Inf	3	xcomp	3:xcomp	_
+6	with	with	ADP	IN	_	9	case	9:case	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+8	sales	sales	NOUN	NN	Number=Sing	9	compound	9:compound	_
+9	guy	guy	NOUN	NN	Number=Sing	5	obl	5:obl:with|15:nsubj	_
+10	which	which	PRON	WDT	PronType=Rel	15	nsubj	9:ref	_
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	cop	15:cop	_
+12	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	15:det	_
+13	young	young	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
+14	22	22	NUM	CD	NumType=Card	15	nummod	15:nummod	_
+15	year	year	NOUN	NN	Number=Sing	9	acl:relcl	9:acl:relcl|22:nsubj	_
+16	old	old	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
+17	who	who	PRON	WP	PronType=Rel	22	nsubj	15:ref	_
+18	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	22	aux	22:aux	_
+19	admittedly	admittedly	ADV	RB	_	22	advmod	22:advmod	_
+20	only	only	ADV	RB	_	22	advmod	22:advmod	_
+21	been	be	AUX	VBN	Tense=Past|VerbForm=Part	22	aux	22:aux	_
+22	working	work	VERB	VBG	Tense=Pres|VerbForm=Part	15	acl:relcl	15:acl:relcl	_
+23	for	for	ADP	IN	_	25	case	25:case	_
+24	2	2	NUM	CD	NumType=Card	25	nummod	25:nummod	_
+25	weeks	week	NOUN	NNS	Number=Plur	22	obl	22:obl:for	SpaceAfter=No
+26	.	.	PUNCT	.	_	3	punct	3:punct	_
+

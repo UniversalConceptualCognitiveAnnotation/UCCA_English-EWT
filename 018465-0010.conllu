@@ -1,0 +1,24 @@
+# sent_id = 018465-0010
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	other	other	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	stylists	stylist	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj|7:nsubj:xsubj	_
+4	around	around	ADP	IN	_	5	case	5:case	_
+5	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	nmod	3:nmod:around	_
+6	kept	keep	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+7	pressuring	pressure	VERB	VBG	VerbForm=Ger	6	xcomp	6:xcomp	_
+8	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obj	7:obj	_
+9	saying	say	VERB	VBG	VerbForm=Ger	7	advcl	7:advcl	_
+10	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	13:nsubj	SpaceAfter=No
+11	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	13:cop	_
+12	so	so	ADV	RB	_	13	advmod	13:advmod	_
+13	wonderful	wonderful	ADJ	JJ	Degree=Pos	9	ccomp	9:ccomp	SpaceAfter=No
+14	,	,	PUNCT	,	_	13	punct	13:punct	_
+15	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17	nsubj	17:nsubj|19:nsubj:xsubj	SpaceAfter=No
+16	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	aux	17:aux	_
+17	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	13	parataxis	13:parataxis	_
+18	to	to	PART	TO	_	19	mark	19:mark	_
+19	love	love	VERB	VB	VerbForm=Inf	17	xcomp	17:xcomp	_
+20	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	21	nmod:poss	21:nmod:poss	_
+21	hair	hair	NOUN	NN	Number=Sing	19	obj	19:obj	SpaceAfter=No
+22	.	.	PUNCT	.	_	6	punct	6:punct	_
+

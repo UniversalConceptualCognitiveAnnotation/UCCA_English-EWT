@@ -1,0 +1,15 @@
+# sent_id = 200957-0007
+1	Do	do	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
+2	your	your	X	GW	_	3	goeswith	3:goeswith	_
+3	self	self	PRON	PRP	_	1	iobj	1:iobj	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
+5	favor	favor	NOUN	NN	Number=Sing	1	obj	1:obj	_
+6	and	and	CCONJ	CC	_	9	cc	9:cc	_
+7	do	do	AUX	VB	Mood=Imp|VerbForm=Fin	9	aux	9:aux	_
+8	not	not	PART	RB	_	9	advmod	9:advmod	_
+9	go	go	VERB	VB	Mood=Imp|VerbForm=Fin	1	conj	1:conj:and	_
+10	to	to	ADP	IN	_	12	case	12:case	_
+11	this	this	DET	DT	Number=Sing|PronType=Dem	12	det	12:det	_
+12	establishment	establishment	NOUN	NN	Number=Sing	9	obl	9:obl:to	SpaceAfter=No
+13	.	.	PUNCT	.	_	1	punct	1:punct	_
+

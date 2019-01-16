@@ -1,0 +1,29 @@
+# sent_id = 112579-0006
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	bake	bake	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	bread	bread	NOUN	NN	Number=Sing	2	obj	2:obj	_
+4	fresh	fresh	ADV	RB	_	2	advmod	2:advmod	_
+5	daily	daily	ADV	RB	_	2	advmod	2:advmod	SpaceAfter=No
+6	,	,	PUNCT	,	_	10	punct	10:punct	_
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	10:nsubj	_
+8	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	10:aux	SpaceAfter=No
+9	n't	not	PART	RB	_	10	advmod	10:advmod	_
+10	press	press	VERB	VB	VerbForm=Inf	2	ccomp	2:ccomp	_
+11	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	_
+12	sandwiches	sandwich	NOUN	NNS	Number=Plur	10	obj	10:obj	_
+13	which	which	PRON	WDT	PronType=Int	16	nsubj	16:nsubj	_
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	16:cop	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
+16	way	way	NOUN	NN	Number=Sing	10	parataxis	10:parataxis	_
+17	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	18:nsubj	_
+18	like	like	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	acl:relcl	16:acl:relcl	_
+19	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	obj	18:obj	SpaceAfter=No
+20	,	,	PUNCT	,	_	26	punct	26:punct	_
+21	and	and	CCONJ	CC	_	26	cc	26:cc	_
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	23:det	_
+23	meat	meat	NOUN	NN	Number=Sing	26	nsubj	26:nsubj	_
+24	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	cop	26:cop	_
+25	always	always	ADV	RB	_	26	advmod	26:advmod	_
+26	fresh	fresh	ADJ	JJ	Degree=Pos	2	conj	2:conj:and	SpaceAfter=No
+27	.	.	PUNCT	.	_	2	punct	2:punct	_
+

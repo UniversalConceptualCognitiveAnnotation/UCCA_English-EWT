@@ -1,0 +1,21 @@
+# sent_id = 182354-0003
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	4:nsubj|6:nsubj|8:nsubj	_
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	cop	4:cop	_
+3	very	very	ADV	RB	_	4	advmod	4:advmod	_
+4	professional	professional	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
+5	,	,	PUNCT	,	_	6	punct	6:punct	_
+6	respectful	respectful	ADJ	JJ	Degree=Pos	4	conj	4:conj	SpaceAfter=No
+7	,	,	PUNCT	,	_	8	punct	8:punct	_
+8	completed	complete	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	4:conj	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+10	Job	job	NOUN	NN	Number=Sing	8	obj	8:obj	_
+11	on	on	ADP	IN	_	12	case	12:case	_
+12	time	time	NOUN	NN	Number=Sing	8	obl	8:obl:on	SpaceAfter=No
+13	,	,	PUNCT	,	_	18	punct	18:punct	_
+14	and	and	CCONJ	CC	_	18	cc	18:cc	_
+15	well	well	ADV	RB	Degree=Pos	18	advmod	18:advmod	_
+16	below	below	ADP	IN	_	18	case	18:case	_
+17	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	18	nmod:poss	18:nmod:poss	_
+18	budget	budget	NOUN	NN	Number=Sing	12	conj	8:obl:below|12:conj:and	SpaceAfter=No
+19	.	.	PUNCT	.	_	4	punct	4:punct	_
+

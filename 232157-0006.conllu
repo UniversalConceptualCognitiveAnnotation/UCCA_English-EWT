@@ -1,0 +1,34 @@
+# sent_id = 232157-0006
+1	Even	even	ADV	RB	_	6	advmod	6:advmod	_
+2	though	though	SCONJ	IN	_	6	mark	6:mark	_
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	6:nsubj|8:nsubj:xsubj	_
+4	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	aux	6:aux	_
+5	only	only	ADV	RB	_	6	advmod	6:advmod	_
+6	supposed	suppose	VERB	VBN	Tense=Past|VerbForm=Part	25	advcl	25:advcl:though	_
+7	to	to	PART	TO	_	8	mark	8:mark	_
+8	have	have	VERB	VB	VerbForm=Inf	6	xcomp	6:xcomp	_
+9	those	those	DET	DT	Number=Plur|PronType=Dem	11	det	11:det	_
+10	specific	specific	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	types	type	NOUN	NNS	Number=Plur	8	obj	8:obj	_
+12	of	of	ADP	IN	_	13	case	13:case	_
+13	pizza	pizza	NOUN	NN	Number=Sing	11	nmod	11:nmod:of	SpaceAfter=No
+14	,	,	PUNCT	,	_	25	punct	25:punct	_
+15	when	when	ADV	WRB	PronType=Int	17	mark	17:mark	_
+16	guests	guest	NOUN	NNS	Number=Plur	17	nsubj	17:nsubj	_
+17	asked	ask	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	25	advcl	25:advcl:when	_
+18	for	for	ADP	IN	_	21	case	21:case	_
+19	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	21:det	_
+20	different	different	ADJ	JJ	Degree=Pos	21	amod	21:amod	_
+21	type	type	NOUN	NN	Number=Sing	17	obl	17:obl:for	SpaceAfter=No
+22	,	,	PUNCT	,	_	25	punct	25:punct	_
+23	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	25	nsubj:pass	25:nsubj:pass	_
+24	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	aux:pass	25:aux:pass	_
+25	brought	bring	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+26	out	out	ADV	RB	_	25	advmod	25:advmod	_
+27	with	with	ADP	IN	_	29	case	29:case	_
+28	no	no	DET	DT	_	29	det	29:det	_
+29	charge	charge	NOUN	NN	Number=Sing	25	obl	25:obl:with	_
+30	to	to	ADP	IN	_	31	case	31:case	_
+31	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	29	nmod	29:nmod:to	SpaceAfter=No
+32	!	!	PUNCT	.	_	25	punct	25:punct	_
+

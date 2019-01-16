@@ -1,0 +1,25 @@
+# sent_id = 232157-0002
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+4	wedding	wedding	NOUN	NN	Number=Sing	5	compound	5:compound	_
+5	luncheon	luncheon	NOUN	NN	Number=Sing	2	obj	2:obj	_
+6	at	at	ADP	IN	_	10	case	10:case	_
+7	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	10:det	_
+8	BJ	BJ	PROPN	NNP	Number=Sing	10	nmod:poss	10:nmod:poss	SpaceAfter=No
+9	s	's	PART	POS	_	8	case	8:case	_
+10	restaurant	restaurant	PROPN	NNP	Number=Sing	2	obl	2:obl:at	SpaceAfter=No
+11	,	,	PUNCT	,	_	15	punct	15:punct	_
+12	and	and	CCONJ	CC	_	15	cc	15:cc	_
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	15:nsubj	_
+14	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	cop	15:cop	_
+15	one	one	NUM	CD	NumType=Card	2	conj	2:conj:and	_
+16	of	of	ADP	IN	_	19	case	19:case	_
+17	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
+18	best	best	ADJ	JJS	Degree=Sup	19	amod	19:amod	_
+19	choices	choice	NOUN	NNS	Number=Plur	15	nmod	15:nmod:of|22:obj	_
+20	that	that	PRON	WDT	PronType=Rel	22	obj	19:ref	_
+21	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	22	nsubj	22:nsubj	_
+22	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	19	acl:relcl	19:acl:relcl	SpaceAfter=No
+23	.	.	PUNCT	.	_	2	punct	2:punct	_
+

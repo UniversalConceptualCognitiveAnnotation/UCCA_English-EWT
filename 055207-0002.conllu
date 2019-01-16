@@ -1,0 +1,12 @@
+# sent_id = 055207-0002
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	no	no	DET	DT	_	4	det	4:det	_
+4	doubt	doubt	NOUN	NN	Number=Sing	2	obj	2:obj	_
+5	that	that	SCONJ	IN	_	9	mark	9:mark	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	rescue	rescue	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	_
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
+9	wonderful	wonderful	ADJ	JJ	Degree=Pos	4	acl	4:acl:that	SpaceAfter=No
+10	.	.	PUNCT	.	_	2	punct	2:punct	_
+

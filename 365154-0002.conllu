@@ -1,0 +1,10 @@
+# sent_id = 365154-0002
+1	Kelly	Kelly	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
+2	hit	hit	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
+4	nail	nail	NOUN	NN	Number=Sing	2	obj	2:obj	_
+5	on	on	ADP	IN	_	7	case	7:case	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	head	head	NOUN	NN	Number=Sing	2	obl	2:obl:on	SpaceAfter=No
+8	.	.	PUNCT	.	_	2	punct	2:punct	_
+

@@ -1,0 +1,24 @@
+# sent_id = 020851-0003
+1	Their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+2	selection	selection	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
+4	random	random	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
+5	,	,	PUNCT	,	_	4	punct	4:punct	_
+6	so	so	ADV	RB	_	17	advmod	17:advmod	_
+7	what	what	PRON	WP	PronType=Int	17	nsubj	17:nsubj	_
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	9:nsubj	_
+9	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	acl:relcl	7:acl:relcl	_
+10	on	on	ADP	IN	_	13	case	13:case	_
+11	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	13:det	_
+12	given	give	VERB	VBN	Tense=Past|VerbForm=Part	13	amod	13:amod	_
+13	week	week	NOUN	NN	Number=Sing	9	obl	9:obl:on	_
+14	might	might	AUX	MD	VerbForm=Fin	17	aux	17:aux	_
+15	never	never	ADV	RB	_	17	advmod	17:advmod	_
+16	be	be	AUX	VB	VerbForm=Inf	17	cop	17:cop	_
+17	available	available	ADJ	JJ	Degree=Pos	4	parataxis	4:parataxis	_
+18	again	again	ADV	RB	_	17	advmod	17:advmod	_
+19	at	at	ADP	IN	_	21	case	21:case	_
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	_
+21	store	store	NOUN	NN	Number=Sing	17	obl	17:obl:at	SpaceAfter=No
+22	.	.	PUNCT	.	_	4	punct	4:punct	_
+

@@ -1,0 +1,9 @@
+# sent_id = 288163-0005
+1	Jana	Jana	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
+2	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	2:obj|4:nsubj:xsubj|6:nsubj:xsubj	_
+4	feel	feel	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	_
+5	very	very	ADV	RB	_	6	advmod	6:advmod	_
+6	comfortable	comfortable	ADJ	JJ	Degree=Pos	4	xcomp	4:xcomp	SpaceAfter=No
+7	.	.	PUNCT	.	_	2	punct	2:punct	_
+

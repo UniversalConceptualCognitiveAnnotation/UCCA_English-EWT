@@ -1,0 +1,13 @@
+# sent_id = 280844-0002
+1	Andrew	Andrew	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj|5:nsubj	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	3:cop	_
+3	helpful	helpful	ADJ	JJ	Degree=Pos	0	root	0:root	_
+4	and	and	CCONJ	CC	_	5	cc	5:cc	_
+5	knowledgeable	knowledgeable	ADJ	JJ	Degree=Pos	3	conj	3:conj:and	_
+6	about	about	ADP	IN	_	7	case	7:case	_
+7	acupuncture	acupuncture	NOUN	NN	Number=Sing	3	obl	3:obl:about	_
+8	re	re	ADP	IN	_	10	case	10:case	SpaceAfter=No
+9	:	:	PUNCT	:	_	10	punct	10:punct	_
+10	infertility	infertility	NOUN	NN	Number=Sing	7	nmod	7:nmod:re	SpaceAfter=No
+11	.	.	PUNCT	.	_	3	punct	3:punct	_
+

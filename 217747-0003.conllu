@@ -1,0 +1,9 @@
+# sent_id = 217747-0003
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	everything	everything	PRON	NN	Number=Sing	2	obj	2:obj	_
+4	about	about	ADP	IN	_	6	case	6:case	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+6	fence	fence	NOUN	NN	Number=Sing	3	nmod	3:nmod:about	SpaceAfter=No
+7	.	.	PUNCT	.	_	2	punct	2:punct	_
+

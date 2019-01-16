@@ -1,0 +1,17 @@
+# sent_id = 381455-0003
+1	Spongy	spongy	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
+2	and	and	CCONJ	CC	_	3	cc	3:cc	_
+3	sweet	sweet	ADJ	JJ	Degree=Pos	1	conj	1:conj:and|4:amod	_
+4	bread	bread	NOUN	NN	Number=Sing	0	root	0:root	_
+5	(	(	PUNCT	-LRB-	_	6	punct	6:punct	SpaceAfter=No
+6	microwaved	microwave	VERB	VBN	Tense=Past|VerbForm=Part	4	amod	4:amod	SpaceAfter=No
+7	?	?	PUNCT	.	_	6	punct	6:punct	SpaceAfter=No
+8	)	)	PUNCT	-RRB-	_	6	punct	6:punct	SpaceAfter=No
+9	,	,	PUNCT	,	_	11	punct	11:punct	_
+10	heartless	heartless	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	salsa	salsa	NOUN	NN	Number=Sing	4	conj	4:conj	SpaceAfter=No
+12	,	,	PUNCT	,	_	14	punct	14:punct	_
+13	tiny	tiny	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
+14	dogs	dog	NOUN	NNS	Number=Plur	4	conj	4:conj	SpaceAfter=No
+15	...	...	PUNCT	.	_	4	punct	4:punct	SpaceAfter=No
+
