@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="295288-0006">
-  <attributes />
+  <attributes annotationID="1062" passageID="512" remarks="26403" userID="1" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -108,12 +108,14 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
+      <extra all_tags="L" tree_id="24" />
       <edge toID="0.1" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.3" type="FN">
       <attributes />
+      <extra all_tags="H" tree_id="25" />
       <edge toID="1.14" type="A">
         <attributes />
       </edge>
@@ -138,7 +140,7 @@
     </node>
     <node ID="1.4" type="FN">
       <attributes />
-      <extra remarks="the &quot;like&quot; here is still uncertain" />
+      <extra all_tags="UNC;H" remarks="the &quot;like&quot; here is still uncertain" tree_id="26" />
       <edge toID="1.6" type="F">
         <attributes />
       </edge>
@@ -157,30 +159,35 @@
     </node>
     <node ID="1.6" type="FN">
       <attributes />
+      <extra all_tags="F" tree_id="26-1" />
       <edge toID="0.15" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.7" type="FN">
       <attributes />
+      <extra all_tags="F" tree_id="26-2" />
       <edge toID="0.16" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.8" type="FN">
       <attributes />
+      <extra all_tags="D" tree_id="26-3" />
       <edge toID="0.17" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.9" type="FN">
       <attributes />
+      <extra all_tags="P" tree_id="26-4" />
       <edge toID="0.18" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.10" type="FN">
       <attributes />
+      <extra all_tags="A" tree_id="26-5" />
       <edge toID="1.11" type="E">
         <attributes />
       </edge>
@@ -196,24 +203,28 @@
     </node>
     <node ID="1.11" type="FN">
       <attributes />
+      <extra all_tags="E" tree_id="26-5-1" />
       <edge toID="0.19" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.12" type="FN">
       <attributes />
+      <extra all_tags="E" tree_id="26-5-2" />
       <edge toID="0.20" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.13" type="FN">
       <attributes />
+      <extra all_tags="C" tree_id="26-5-3" />
       <edge toID="0.21" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.14" type="FN">
       <attributes />
+      <extra all_tags="A" tree_id="25-1" />
       <edge toID="1.23" type="E">
         <attributes />
       </edge>
@@ -223,24 +234,28 @@
     </node>
     <node ID="1.15" type="FN">
       <attributes />
+      <extra all_tags="F" tree_id="25-2" />
       <edge toID="0.8" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.16" type="FN">
       <attributes />
+      <extra all_tags="T" tree_id="25-3" />
       <edge toID="0.9" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.17" type="FN">
       <attributes />
+      <extra all_tags="P" tree_id="25-4" />
       <edge toID="0.10" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.18" type="FN">
       <attributes />
+      <extra all_tags="D" tree_id="25-5" />
       <edge toID="1.21" type="E">
         <attributes />
       </edge>
@@ -250,24 +265,28 @@
     </node>
     <node ID="1.19" type="FN">
       <attributes />
+      <extra all_tags="G" tree_id="25-6" />
       <edge toID="0.14" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.21" type="FN">
       <attributes />
+      <extra all_tags="E" tree_id="25-5-1" />
       <edge toID="0.11" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.22" type="FN">
       <attributes />
+      <extra all_tags="C" tree_id="25-5-2" />
       <edge toID="0.12" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.23" type="FN">
       <attributes />
+      <extra all_tags="E" tree_id="25-1-1" />
       <edge toID="1.28" type="E">
         <attributes />
       </edge>
@@ -280,6 +299,7 @@
     </node>
     <node ID="1.24" type="FN">
       <attributes />
+      <extra all_tags="C" tree_id="25-1-2" />
       <edge toID="1.25" type="C">
         <attributes />
       </edge>
@@ -292,37 +312,42 @@
     </node>
     <node ID="1.25" type="FN">
       <attributes />
+      <extra all_tags="C" tree_id="25-1-2-1" />
       <edge toID="0.5" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.26" type="FN">
       <attributes />
+      <extra all_tags="N" tree_id="25-1-2-2" />
       <edge toID="0.6" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.27" type="FN">
       <attributes />
+      <extra all_tags="C" tree_id="25-1-2-3" />
       <edge toID="0.7" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.28" type="FN">
       <attributes />
+      <extra all_tags="E" tree_id="25-1-1-1-1" />
       <edge toID="1.32" type="S">
         <attributes />
       </edge>
     </node>
     <node ID="1.29" type="FN">
       <attributes />
+      <extra all_tags="C" tree_id="25-1-1-1-2" />
       <edge toID="0.3" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.30" type="FN">
       <attributes />
-      <extra remarks="added remotes" />
+      <extra all_tags="E" remarks="added remotes" tree_id="25-1-1-2" />
       <edge toID="1.25" type="A">
         <attributes remote="True" />
       </edge>
@@ -338,12 +363,14 @@
     </node>
     <node ID="1.31" type="FN">
       <attributes />
+      <extra all_tags="S" tree_id="25-1-1-2-2" />
       <edge toID="0.4" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.32" type="FN">
       <attributes />
+      <extra all_tags="S" tree_id="25-1-1-1-1-1" />
       <edge toID="0.2" type="Terminal">
         <attributes />
       </edge>

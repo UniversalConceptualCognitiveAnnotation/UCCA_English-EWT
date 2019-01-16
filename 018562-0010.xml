@@ -1,0 +1,62 @@
+<root annotationID="0" passageID="018562-0010">
+  <attributes annotationID="645" passageID="303" remarks="26194" userID="1" />
+  <layer layerID="0">
+    <attributes />
+    <extra doc="[[]]" />
+    <node ID="0.1" type="Word">
+      <attributes paragraph="1" paragraph_position="1" text="The" />
+      <extra orig_paragraph="1" />
+    </node>
+    <node ID="0.2" type="Word">
+      <attributes paragraph="1" paragraph_position="2" text="Peterson" />
+      <extra orig_paragraph="1" />
+    </node>
+    <node ID="0.3" type="Word">
+      <attributes paragraph="1" paragraph_position="3" text="Family" />
+      <extra orig_paragraph="1" />
+    </node>
+  </layer>
+  <layer layerID="1">
+    <attributes />
+    <node ID="1.1" type="FN">
+      <attributes />
+      <edge toID="1.2" type="H">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.2" type="FN">
+      <attributes />
+      <extra all_tags="H" tree_id="24" />
+      <edge toID="1.3" type="E">
+        <attributes />
+      </edge>
+      <edge toID="1.4" type="E">
+        <attributes />
+      </edge>
+      <edge toID="1.5" type="C">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.3" type="FN">
+      <attributes />
+      <extra all_tags="E" tree_id="24-1" />
+      <edge toID="0.1" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.4" type="FN">
+      <attributes />
+      <extra all_tags="E" tree_id="24-2" />
+      <edge toID="0.2" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.5" type="FN">
+      <attributes />
+      <extra all_tags="C" tree_id="24-3" />
+      <edge toID="0.3" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+  </layer>
+</root>
