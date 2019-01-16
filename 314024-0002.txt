@@ -1,0 +1,21 @@
+# ::id 314024-0002
+# ::tok Great meats that are already cooked , easy to take home for dinner .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.2 4-1.3.2 5-1.3.3 7-1.4.4 9-1.4.6 10-1.4.1 11-1.4.2.1 12-1.4.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v6 / label~e.0)
+           :A (v7 / label~e.1))
+    :L (v3 / label~e.2)
+    :H (v4 / label
+           :T (v8 / label~e.4)
+           :S (v9 / label~e.5)
+           :A v7)
+    :H (v5 / label
+           :A (v10 / label~e.10)
+           :A (v11 / label
+                   :R (v14 / label~e.11)
+                   :P (v15 / label~e.12))
+           :A v7
+           :D (v12 / label~e.7)
+           :P (v13 / label~e.9)))

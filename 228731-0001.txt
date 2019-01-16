@@ -1,0 +1,74 @@
+# ::id 228731-0001
+# ::tok prepared the road test with a driving ... prepared the road test with a driving school in edmonton , but my instructor only trained me in a narrow street , hence I took one 90 minute lesson from the Noble driving school to learn the skill of changing lane , and found them very friendly and professional .
+# ::alignments 0-1.1.2 2-1.1.3.2 3-1.1.3.3 4-1.2 5-1.3 6-1.3 8-1.4.2 10-1.4.3.2 11-1.4.3.3.1 12-1.4.4.1 14-1.4.4.3 15-1.4.4.4 16-1.4.5.1 17-1.4.5.2 19-1.5 20-1.6.1.1 21-1.6.1.2 22-1.6.2 23-1.6.3 24-1.6.4 25-1.6.5.1 27-1.6.5.3 28-1.6.5.4 30-1.7 31-1.8.1 33-1.8.3 34-1.8.4.1 35-1.8.4.2 36-1.8.2.2 37-1.8.5.1 39-1.8.5.3 40-1.8.5.4 41-1.8.5.5 42-1.9 43-1.10.1 45-1.10.2.2 46-1.10.2.3.1 47-1.10.2.3.2 48-1.10.2.3.3 50-1.11 51-1.12.1 52-1.12.2 53-1.12.3 54-1.12.4 55-1.13 56-1.14.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v16 / label)
+           :P (v17 / label~e.0)
+           :A (v18 / label
+                   :E (v41 / label~e.2)
+                   :C (v42 / label~e.3)))
+    :L (v3 / label~e.4)
+    :H (v4 / label~e.5,6)
+    :H (v5 / label
+           :A (v19 / label)
+           :P (v20 / label~e.8)
+           :A (v21 / label
+                   :E (v43 / label~e.10)
+                   :C (v44 / label
+                           :P (v64 / label~e.11)))
+           :A (v22 / label
+                   :R (v45 / label~e.12)
+                   :E (v46 / label~e.14)
+                   :C (v47 / label~e.15))
+           :A (v23 / label
+                   :R (v48 / label~e.16)
+                   :C (v49 / label~e.17)))
+    :L (v6 / label~e.19)
+    :H (v7 / label
+           :A (v24 / label
+                   :A (v50 / label~e.20)
+                   :P (v51 / label~e.21))
+           :D (v25 / label~e.22)
+           :P (v26 / label~e.23)
+           :A (v27 / label~e.24)
+           :A (v28 / label
+                   :R (v52 / label~e.25)
+                   :E (v53 / label~e.27)
+                   :C (v54 / label~e.28)))
+    :L (v8 / label~e.30)
+    :H (v9 / label
+           :A (v29 / label~e.31)
+           :P (v30 / label
+                   :C (v55 / label~e.36))
+           :D (v31 / label~e.33)
+           :T (v32 / label
+                   :Q (v56 / label~e.34)
+                   :C (v57 / label~e.35))
+           :A (v33 / label
+                   :R (v58 / label~e.37)
+                   :E (v59 / label~e.39)
+                   :E (v60 / label~e.40)
+                   :C (v61 / label~e.41)))
+    :L (v10 / label~e.42)
+    :H (v11 / label
+            :P (v34 / label~e.43)
+            :A (v35 / label
+                    :C (v62 / label~e.45)
+                    :E (v63 / label
+                            :R (v65 / label~e.46)
+                            :P (v66 / label~e.47)
+                            :A (v67 / label~e.48)))
+            :A v29)
+    :L (v12 / label~e.50)
+    :H (v13 / label
+            :G (v36 / label~e.51)
+            :A (v37 / label~e.52)
+            :D (v38 / label~e.53)
+            :S (v39 / label~e.54))
+    :L (v14 / label~e.55)
+    :H (v15 / label
+            :S (v40 / label~e.56)
+            :A v37
+            :D v38))

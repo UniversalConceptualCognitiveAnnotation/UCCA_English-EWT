@@ -1,0 +1,20 @@
+# ::id 128168-0009
+# ::tok If the pedicure lasted 20 mins. , that was a stretch .
+# ::alignments 0-1.1 1-1.2.1.1.1 2-1.2.1.1.2 3-1.2.2 4-1.2.3.1 5-1.2.3.2 7-1.3.1 9-1.3.3.1 10-1.3.3.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v5 / label
+                  :P (v10 / label
+                          :E (v15 / label~e.1)
+                          :C (v16 / label~e.2)))
+           :P (v6 / label~e.3)
+           :A (v7 / label
+                  :Q (v11 / label~e.4)
+                  :C (v12 / label~e.5)))
+    :H (v4 / label
+           :A (v8 / label~e.7)
+           :S (v9 / label
+                  :E (v13 / label~e.9)
+                  :C (v14 / label~e.10))))

@@ -1,0 +1,18 @@
+# ::id 174824-0001
+# ::tok Yeah they ruined some shirts I had too .
+# ::alignments 0-1.1.1 1-1.2.2 2-1.2.3 3-1.2.4.3 4-1.2.4.1 5-1.2.4.2.1 6-1.2.4.2.2.1 7-1.2.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :G (v4 / label~e.0))
+    :H (v3 / label
+           :A (v5 / label~e.1)
+           :P (v6 / label~e.2)
+           :A (v7 / label
+                  :C (v9 / label~e.4)
+                  :E (v10 / label
+                          :C (v12 / label~e.5)
+                          :E (v13 / label
+                                  :S (v14 / label~e.6)))
+                  :Q (v11 / label~e.3))
+           :D (v8 / label~e.7)))

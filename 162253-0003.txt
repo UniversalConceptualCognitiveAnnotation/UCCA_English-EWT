@@ -1,0 +1,23 @@
+# ::id 162253-0003
+# ::tok There is something wrong or maybe the individual made a mistake but to me that is not integrity .
+# ::alignments 2-1.1.3 3-1.1.4 4-1.2 5-1.3.1 6-1.3.2.1 7-1.3.2.2 9-1.3.4.1 10-1.3.4.2 11-1.4 12-1.5.5 13-1.5.6 16-1.5.2 17-1.5.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label~e.2)
+           :S (v8 / label~e.3))
+    :L (v3 / label~e.4)
+    :H (v4 / label
+           :D (v9 / label~e.5)
+           :A (v10 / label
+                   :E (v16 / label~e.6)
+                   :C (v17 / label~e.7))
+           :P (v11 / label
+                   :E (v18 / label~e.9)
+                   :C (v19 / label~e.10)))
+    :L (v5 / label~e.11)
+    :H (v6 / label
+           :D (v12 / label~e.16)
+           :S (v13 / label~e.17)
+           :R (v14 / label~e.12)
+           :A (v15 / label~e.13)))

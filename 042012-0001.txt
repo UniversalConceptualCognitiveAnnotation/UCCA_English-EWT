@@ -1,0 +1,10 @@
+# ::id 042012-0001
+# ::tok When in Scordia , Sicily
+# ::alignments 0-1.1 1-1.2.2 2-1.2.3 4-1.2.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label)
+           :S (v5 / label~e.1)
+           :A (v6 / label~e.2,4)))

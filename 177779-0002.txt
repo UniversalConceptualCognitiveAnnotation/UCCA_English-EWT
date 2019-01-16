@@ -1,0 +1,22 @@
+# ::id 177779-0002
+# ::tok Not only are these people completely inefficient and ineffective , but they just do n't give a darn .
+# ::alignments 0-1.1 1-1.1 3-1.2.2.1 4-1.4.2 5-1.2.3 6-1.2.4 7-1.3 8-1.4.1 10-1.5 11-1.6.1 12-1.6.2 14-1.6.4 15-1.6.5 16-1.6.5 17-1.6.5
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0,1)
+    :H (v3 / label
+           :A (v8 / label
+                  :E (v17 / label~e.3)
+                  :C (v12 / label~e.4))
+           :D (v9 / label~e.5)
+           :S (v10 / label~e.6))
+    :L (v4 / label~e.7)
+    :H (v5 / label
+           :S (v11 / label~e.8)
+           :A v12)
+    :L (v6 / label~e.10)
+    :H (v7 / label
+           :A (v13 / label~e.11)
+           :D (v14 / label~e.12)
+           :D (v15 / label~e.14)
+           :P (v16 / label~e.15,16,17)))

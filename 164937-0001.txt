@@ -1,0 +1,13 @@
+# ::id 164937-0001
+# ::tok Super nice people , really good food
+# ::alignments 0-1.1.2 1-1.1.3 2-1.1.1 4-1.2.1 5-1.2.2 6-1.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.2)
+           :D (v5 / label~e.0)
+           :S (v6 / label~e.1))
+    :H (v3 / label
+           :D (v7 / label~e.4)
+           :S (v8 / label~e.5)
+           :A (v9 / label~e.6)))

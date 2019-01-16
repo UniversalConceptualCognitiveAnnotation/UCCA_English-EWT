@@ -1,0 +1,20 @@
+# ::id 101864-0003
+# ::tok This man was polite , professional , clean and quick .
+# ::alignments 0-1.1.1.1 1-1.2.2 3-1.1.3 5-1.2.1 7-1.3.1 8-1.4 9-1.5.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :E (v13 / label~e.0)
+                  :C (v10 / label~e.1))
+           :S (v8 / label~e.3))
+    :H (v3 / label
+           :S (v9 / label~e.5)
+           :A v10)
+    :H (v4 / label
+           :S (v11 / label~e.7)
+           :A v10)
+    :L (v5 / label~e.8)
+    :H (v6 / label
+           :S (v12 / label~e.9)
+           :A v10))

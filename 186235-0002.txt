@@ -1,0 +1,26 @@
+# ::id 186235-0002
+# ::tok i wish the other utilities i had to set up had people to work with like this ..
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1.1.1 3-1.1.3.1.1.2 4-1.1.3.1.1.3 5-1.1.3.1.2 8-1.1.3.1.5 9-1.1.3.1.5 10-1.1.3.2 11-1.1.3.3.3.1 13-1.1.3.3.2.1 14-1.1.3.3.2.2 15-1.1.3.3.3.2.1 16-1.1.3.3.3.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :S (v4 / label~e.1)
+           :A (v5 / label
+                  :A (v6 / label
+                         :A (v9 / label
+                                :E (v14 / label~e.2)
+                                :E (v15 / label~e.3)
+                                :C (v16 / label~e.4))
+                         :A (v10 / label~e.5)
+                         :P (v11 / label~e.8,9))
+                  :S (v7 / label~e.10)
+                  :A (v8 / label
+                         :P (v12 / label
+                                 :C (v17 / label~e.13)
+                                 :R (v18 / label~e.14))
+                         :A (v13 / label
+                                 :C (v19 / label~e.11)
+                                 :E (v20 / label
+                                         :R (v21 / label~e.15)
+                                         :C (v22 / label~e.16)))))))

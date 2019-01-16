@@ -1,0 +1,30 @@
+# ::id 192737-0003
+# ::tok His knowledge and expertise help smooth the way with any planning application , ensuring compliance with the building regulations .
+# ::alignments 0-1.1.1.1.2 1-1.1.1.2.1 2-1.1.1.2.2 3-1.1.1.2.3 4-1.1.2 5-1.1.3 6-1.1.3 7-1.1.3 8-1.1.4.1 9-1.1.4.2 10-1.1.4.3 11-1.1.4.4 13-1.2.1 14-1.2.2.1 15-1.2.2.2.1 16-1.2.2.2.2 17-1.2.2.2.3 18-1.2.2.2.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v10 / label
+                          :A (v11 / label
+                                  :C (v19 / label~e.1)
+                                  :N (v20 / label~e.2)
+                                  :C (v21 / label~e.3))
+                          :S (v18 / label~e.0))
+                  :C v11)
+           :D (v5 / label~e.4)
+           :P (v6 / label~e.5,6,7)
+           :A (v7 / label
+                  :R (v12 / label~e.8)
+                  :E (v13 / label~e.9)
+                  :E (v14 / label~e.10)
+                  :C (v15 / label~e.11)))
+    :H (v3 / label
+           :P (v8 / label~e.13)
+           :A (v9 / label
+                  :P (v16 / label~e.14)
+                  :A (v17 / label
+                          :R (v22 / label~e.15)
+                          :E (v23 / label~e.16)
+                          :E (v24 / label~e.17)
+                          :C (v25 / label~e.18)))))

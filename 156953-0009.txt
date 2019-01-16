@@ -1,0 +1,43 @@
+# ::id 156953-0009
+# ::tok But she did a fabulous job letting me know what she was doing at all times and styled my hair in a way i could do it at home .
+# ::alignments 0-1.1 1-1.2.1 3-1.2.2.2 4-1.2.3 5-1.2.2.3 7-1.2.4.3 8-1.2.4.2.2 9-1.2.4.4.1 10-1.2.4.4.2 12-1.2.4.4.4 13-1.2.4.4.5.1 14-1.2.4.4.5.2 15-1.2.4.4.5.3 16-1.3 17-1.4.1 18-1.4.2.1 19-1.4.2.2 20-1.5 21-1.6.6.1 22-1.6.6.2 23-1.6.1 24-1.6.2 25-1.6.3 26-1.6.4 27-1.6.5.1 28-1.6.5.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v8 / label~e.1)
+           :P (v9 / label
+                  :E (v20 / label~e.3)
+                  :C (v21 / label~e.5))
+           :D (v10 / label~e.4)
+           :A (v11 / label
+                   :A v8
+                   :P (v22 / label
+                           :C (v31 / label~e.8))
+                   :A (v23 / label~e.7)
+                   :A (v24 / label
+                           :A (v32 / label~e.9)
+                           :A (v33 / label~e.10)
+                           :P (v34 / label~e.12)
+                           :T (v35 / label
+                                   :R (v36 / label~e.13)
+                                   :Q (v37 / label~e.14)
+                                   :C (v38 / label~e.15)))))
+    :L (v4 / label~e.16)
+    :H (v5 / label
+           :P (v12 / label~e.17)
+           :A (v13 / label
+                   :E (v25 / label~e.18)
+                   :C (v26 / label~e.19)))
+    :L (v6 / label~e.20)
+    :H (v7 / label
+           :A (v14 / label~e.23)
+           :D (v15 / label~e.24)
+           :P (v16 / label~e.25)
+           :A (v17 / label~e.26)
+           :A (v18 / label
+                   :R (v27 / label~e.27)
+                   :C (v28 / label~e.28))
+           :D (v19 / label
+                   :E (v29 / label~e.21)
+                   :C (v30 / label~e.22))))

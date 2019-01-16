@@ -1,0 +1,13 @@
+# ::id 147825-0002
+# ::tok 45 p for tap water !
+# ::alignments 0-1.1.1.2 1-1.1.1.1 2-1.1.2.2 3-1.1.2.3 4-1.1.2.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label
+                  :C (v5 / label~e.1)
+                  :Q (v6 / label~e.0))
+           :A (v4 / label
+                  :R (v7 / label~e.2)
+                  :E (v8 / label~e.3)
+                  :C (v9 / label~e.4))))

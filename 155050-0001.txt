@@ -1,0 +1,12 @@
+# ::id 155050-0001
+# ::tok amazing , fun , great beers .
+# ::alignments 0-1.1.1 2-1.2.1 4-1.3.2 5-1.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v5 / label~e.0))
+    :H (v3 / label
+           :S (v6 / label~e.2))
+    :H (v4 / label
+           :E (v7 / label~e.4)
+           :C (v8 / label~e.5)))

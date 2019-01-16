@@ -1,0 +1,33 @@
+# ::id 053248-0023
+# ::tok Did they think we were going to feel lucky to get any reservation at all , and therefore be more pleased with our dining experience ?
+# ::alignments 1-1.1.2 2-1.1.3 3-1.1.4.1.5 7-1.1.4.3.5 8-1.1.4.3.6 9-1.1.4.3.7.2 10-1.1.4.3.7.3 11-1.1.4.3.7.4.1 12-1.1.4.3.7.4.2 13-1.1.4.3.7.5 14-1.1.4.3.7.5 16-1.1.4.4 17-1.1.4.5 19-1.1.4.1.2 20-1.1.4.1.3 21-1.1.4.1.4.1 22-1.1.4.1.4.2 23-1.1.4.1.4.3.1 24-1.1.4.1.4.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.1)
+           :P (v4 / label~e.2)
+           :A (v5 / label
+                  :H (v6 / label
+                         :D (v10 / label~e.19)
+                         :S (v11 / label~e.20)
+                         :A (v12 / label
+                                 :R (v17 / label~e.21)
+                                 :A (v18 / label~e.22)
+                                 :P (v19 / label
+                                         :E (v24 / label~e.23)
+                                         :C (v25 / label~e.24)))
+                         :A (v13 / label~e.3))
+                  :H (v7 / label
+                         :A v13
+                         :G (v14 / label~e.7)
+                         :S (v15 / label~e.8)
+                         :A (v16 / label
+                                 :A v13
+                                 :R (v20 / label~e.9)
+                                 :D (v21 / label~e.10)
+                                 :P (v22 / label
+                                         :E (v26 / label~e.11)
+                                         :C (v27 / label~e.12))
+                                 :A (v23 / label~e.13,14)))
+                  :L (v8 / label~e.16)
+                  :L (v9 / label~e.17))))

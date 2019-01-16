@@ -1,0 +1,16 @@
+# ::id 331662-0007
+# ::tok The selection of meats , veggies and sauces is awesome too !
+# ::alignments 1-1.1.1.2 2-1.1.2.6 3-1.1.2.1 5-1.1.2.2 6-1.1.2.3 7-1.1.2.4 9-1.1.4 10-1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v4 / label
+                  :C (v7 / label~e.1))
+           :A (v5 / label
+                  :C (v8 / label~e.3)
+                  :C (v9 / label~e.5)
+                  :N (v10 / label~e.6)
+                  :C (v11 / label~e.7)
+                  :R (v12 / label~e.2))
+           :D (v6 / label~e.9))
+    :L (v3 / label~e.10))

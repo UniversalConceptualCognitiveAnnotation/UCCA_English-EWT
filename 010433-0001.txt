@@ -1,0 +1,11 @@
+# ::id 010433-0001
+# ::tok Food good , service poor
+# ::alignments 0-1.1.1 1-1.1.2 3-1.2.1 4-1.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.0)
+           :S (v5 / label~e.1))
+    :H (v3 / label
+           :P (v6 / label~e.3)
+           :D (v7 / label~e.4)))

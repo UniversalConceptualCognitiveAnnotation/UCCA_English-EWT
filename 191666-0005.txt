@@ -1,0 +1,29 @@
+# ::id 191666-0005
+# ::tok ( to both myself and customers ) 3 ) I have never experienced so much rudeness coming from a business .
+# ::alignments 1-1.1.2.1 2-1.1.2.2 3-1.1.2.3.1 4-1.1.2.3.2 5-1.1.2.3.3 7-1.2.4 9-1.2.5 11-1.2.7 12-1.2.1 13-1.2.2.1.1 14-1.2.2.1.2 15-1.2.2.2 17-1.2.2.3.1.2 18-1.2.2.3.2 19-1.2.2.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v4 / label)
+           :A (v5 / label
+                  :R (v11 / label~e.1)
+                  :E (v12 / label~e.2)
+                  :C (v13 / label
+                          :C (v17 / label~e.3)
+                          :N (v18 / label~e.4)
+                          :C (v19 / label~e.5))))
+    :H (v3 / label
+           :P (v6 / label~e.12)
+           :A (v7 / label
+                  :D (v14 / label
+                          :E (v20 / label~e.13)
+                          :C (v21 / label~e.14))
+                  :S (v15 / label~e.15)
+                  :A (v16 / label
+                          :R (v22 / label
+                                  :C (v25 / label~e.17))
+                          :E (v23 / label~e.18)
+                          :C (v24 / label~e.19)))
+           :G (v8 / label~e.7)
+           :A (v9 / label~e.9)
+           :T (v10 / label~e.11)))

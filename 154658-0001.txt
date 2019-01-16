@@ -1,0 +1,11 @@
+# ::id 154658-0001
+# ::tok Great out night !
+# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.0)
+           :P (v4 / label
+                  :C (v5 / label~e.1)
+                  :E (v6 / label
+                         :T (v7 / label~e.2)))))

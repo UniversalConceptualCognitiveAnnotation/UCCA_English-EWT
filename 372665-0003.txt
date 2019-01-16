@@ -1,0 +1,21 @@
+# ::id 372665-0003
+# ::tok Glad I called before I arrived with my box to ship .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.2 4-1.3.1 5-1.3.2 6-1.3.3.5 7-1.3.3.1.1.2 8-1.3.3.1.2 10-1.3.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :G (v5 / label~e.0)
+           :A (v6 / label~e.1)
+           :P (v7 / label~e.2))
+    :L (v3 / label~e.3)
+    :H (v4 / label
+           :A (v8 / label~e.4)
+           :P (v9 / label~e.5)
+           :A (v10 / label
+                   :A (v11 / label
+                           :E (v14 / label
+                                   :A (v15 / label~e.8)
+                                   :S (v16 / label~e.7))
+                           :C v15)
+                   :P (v12 / label~e.10)
+                   :R (v13 / label~e.6))))

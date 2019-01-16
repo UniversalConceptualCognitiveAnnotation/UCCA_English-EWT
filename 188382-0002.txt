@@ -1,0 +1,37 @@
+# ::id 188382-0002
+# ::tok I 've been a regular customer at this store since it opened , and love the fact that all of the employees are friendly locals .
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3 6-1.1.5.1 7-1.1.5.2 8-1.1.5.3 9-1.2 10-1.3.1 11-1.3.2 13-1.4 14-1.5.4 15-1.5.1.1 16-1.5.1.2 17-1.5.2.1 18-1.5.2.2.1 20-1.5.2.2.3 21-1.5.2.2.4 22-1.5.2.3 23-1.5.2.4.1 24-1.5.2.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label~e.0)
+           :S (v8 / label~e.2)
+           :A (v9 / label
+                  :E (v16 / label~e.3)
+                  :E (v17 / label~e.4)
+                  :C (v18 / label~e.5))
+           :A (v10 / label
+                   :R (v19 / label~e.6)
+                   :E (v20 / label~e.7)
+                   :C (v21 / label~e.8)))
+    :L (v3 / label~e.9)
+    :H (v4 / label
+           :A (v11 / label~e.10)
+           :P (v12 / label~e.11))
+    :L (v5 / label~e.13)
+    :H (v6 / label
+           :D (v13 / label
+                   :E (v22 / label~e.15)
+                   :C (v23 / label~e.16))
+           :A (v14 / label
+                   :R (v24 / label~e.17)
+                   :A (v25 / label
+                           :Q (v28 / label~e.18)
+                           :E (v29 / label~e.20)
+                           :C (v30 / label~e.21))
+                   :S (v26 / label~e.22)
+                   :A (v27 / label
+                           :S (v31 / label~e.23)
+                           :A (v32 / label~e.24)))
+           :A v7
+           :P (v15 / label~e.14)))

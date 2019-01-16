@@ -1,0 +1,11 @@
+# ::id 135800-0001
+# ::tok Liars , negative stars !
+# ::alignments 0-1.1.2 2-1.2.2 3-1.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :S (v5 / label~e.0))
+    :H (v3 / label
+           :D (v6 / label~e.2)
+           :S (v7 / label~e.3)))

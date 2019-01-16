@@ -1,0 +1,11 @@
+# ::id 324337-0005
+# ::tok DO NOT EVER GO HERE .
+# ::alignments 1-1.1.4 2-1.1.5 3-1.1.6 4-1.1.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :D (v4 / label~e.1)
+           :T (v5 / label~e.2)
+           :P (v6 / label~e.3)
+           :A (v7 / label~e.4)))

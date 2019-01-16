@@ -1,0 +1,17 @@
+# ::id 169083-0006
+# ::tok As a nurse I know about drug seekers .
+# ::alignments 1-1.1.2.1 2-1.1.2.2 3-1.2.1 4-1.2.2 5-1.2.3.2 6-1.2.3.3 7-1.2.3.1.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v4 / label
+                  :E (v8 / label~e.1)
+                  :C (v9 / label~e.2)))
+    :H (v3 / label
+           :A (v5 / label~e.3)
+           :P (v6 / label~e.4)
+           :A (v7 / label
+                  :C (v10 / label
+                          :P (v13 / label~e.7))
+                  :R (v11 / label~e.5)
+                  :E (v12 / label~e.6))))

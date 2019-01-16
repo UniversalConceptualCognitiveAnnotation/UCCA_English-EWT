@@ -1,0 +1,22 @@
+# ::id 164805-0009
+# ::tok 10 minutes of paperwork and I was the owner of a beautiful pre-owned 09 XF .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.3 4-1.2 5-1.3.1 7-1.3.3.1 8-1.3.3.2 9-1.3.4.1 10-1.3.4.2 11-1.3.4.3 12-1.3.4.4 13-1.3.4.5 14-1.3.4.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v5 / label
+                  :Q (v10 / label~e.0)
+                  :C (v11 / label~e.1))
+           :P (v6 / label~e.3))
+    :L (v3 / label~e.4)
+    :H (v4 / label
+           :A (v7 / label~e.5)
+           :S (v8 / label
+                  :E (v12 / label~e.7)
+                  :C (v13 / label~e.8))
+           :A (v9 / label
+                  :R (v14 / label~e.9)
+                  :E (v15 / label~e.10)
+                  :E (v16 / label~e.11)
+                  :E (v17 / label~e.12)
+                  :C (v18 / label~e.13,14))))

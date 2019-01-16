@@ -1,0 +1,28 @@
+# ::id 008585-0007
+# ::tok Thanks Bud for all of your help and taking time away from your family that evening .
+# ::alignments 0-1.1.2 1-1.1.3 2-1.1.4.3 3-1.1.4.4.1 5-1.1.4.4.3 6-1.1.4.4.4 7-1.1.4.1 9-1.1.4.2.1.2 10-1.1.4.2.1.3 11-1.1.4.2.2.1 12-1.1.4.2.2.2 13-1.1.4.2.2.3 14-1.1.4.2.3.1 15-1.1.4.2.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label~e.0)
+           :G (v5 / label~e.1)
+           :A (v6 / label
+                  :L (v7 / label~e.7)
+                  :H (v8 / label
+                         :P (v11 / label
+                                 :E (v17 / label~e.9)
+                                 :C (v18 / label~e.10))
+                         :A (v12 / label
+                                 :R (v19 / label~e.11)
+                                 :E (v20 / label~e.12)
+                                 :C (v21 / label~e.13))
+                         :T (v13 / label
+                                 :E (v22 / label~e.14)
+                                 :C (v23 / label~e.15))
+                         :A v5)
+                  :R (v9 / label~e.2)
+                  :H (v10 / label
+                          :Q (v14 / label~e.3)
+                          :A (v15 / label~e.5)
+                          :P (v16 / label~e.6)))))

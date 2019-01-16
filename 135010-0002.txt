@@ -1,0 +1,12 @@
+# ::id 135010-0002
+# ::tok Another Italian restaurant in Collingswood ?
+# ::alignments 0-1.1.1 1-1.1.2.2 2-1.1.2.3 3-1.1.2.4 4-1.1.2.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label~e.0)
+           :A (v4 / label
+                  :E (v5 / label~e.1)
+                  :C (v6 / label~e.2)
+                  :R (v7 / label~e.3)
+                  :E (v8 / label~e.4))))

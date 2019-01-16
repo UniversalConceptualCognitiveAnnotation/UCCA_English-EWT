@@ -1,0 +1,13 @@
+# ::id 049766-0007
+# ::tok It would have been more than one could bear !
+# ::alignments 1-1.1.5 4-1.1.8.1 5-1.1.8.2 6-1.1.9 7-1.1.1 8-1.1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.7)
+           :P (v4 / label~e.8)
+           :D (v5 / label~e.1)
+           :Q (v6 / label
+                  :C (v8 / label~e.4)
+                  :R (v9 / label~e.5))
+           :A (v7 / label~e.6)))

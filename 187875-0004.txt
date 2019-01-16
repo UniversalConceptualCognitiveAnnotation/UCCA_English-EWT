@@ -1,0 +1,16 @@
+# ::id 187875-0004
+# ::tok The coffee taste BURNT and very bitter .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.3.3.1 6-1.1.3.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label~e.0)
+                  :C (v7 / label~e.1))
+           :S (v4 / label~e.2)
+           :A (v5 / label
+                  :C (v8 / label~e.3)
+                  :N (v9 / label~e.4)
+                  :C (v10 / label
+                          :E (v11 / label~e.5)
+                          :C (v12 / label~e.6)))))

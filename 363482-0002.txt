@@ -1,0 +1,18 @@
+# ::id 363482-0002
+# ::tok How do you run a cafe , with no refills on coffee - ?
+# ::alignments 0-1.1.2 2-1.1.4 3-1.1.5 5-1.1.6.2 7-1.1.7.1 8-1.1.7.2 9-1.1.7.3 10-1.1.7.4.1 11-1.1.7.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.0)
+           :A (v4 / label~e.2)
+           :P (v5 / label~e.3)
+           :A (v6 / label
+                  :C (v8 / label~e.5))
+           :A (v7 / label
+                  :R (v9 / label~e.7)
+                  :D (v10 / label~e.8)
+                  :P (v11 / label~e.9)
+                  :A (v12 / label
+                          :R (v13 / label~e.10)
+                          :C (v14 / label~e.11)))))

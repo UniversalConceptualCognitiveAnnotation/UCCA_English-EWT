@@ -1,0 +1,10 @@
+# ::id 005760-0002
+# ::tok The food was incredibly bland .
+# ::alignments 1-1.1.2.2 3-1.1.4 4-1.1.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v6 / label~e.1))
+           :D (v4 / label~e.3)
+           :S (v5 / label~e.4)))

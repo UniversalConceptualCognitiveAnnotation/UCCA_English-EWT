@@ -1,0 +1,14 @@
+# ::id 192737-0005
+# ::tok He really does turn your dreams into reality for your home !
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.4 4-1.1.5 5-1.1.4 6-1.1.4 7-1.1.4 8-1.1.6.4 9-1.1.6.1 10-1.1.6.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :D (v4 / label~e.1)
+           :P (v5 / label~e.3,5,6,7)
+           :A (v6 / label~e.4)
+           :A (v7 / label
+                  :E (v8 / label~e.9)
+                  :C (v9 / label~e.10)
+                  :R (v10 / label~e.8))))

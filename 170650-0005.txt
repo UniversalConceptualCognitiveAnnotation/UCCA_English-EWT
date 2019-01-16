@@ -1,0 +1,17 @@
+# ::id 170650-0005
+# ::tok It took all the courage I could muster to make an appointment .
+# ::alignments 2-1.1.3.1.1 3-1.1.3.1.2 4-1.1.3.1.3 5-1.1.3.2 7-1.1.3.4 8-1.1.3.5 10-1.1.4.4 11-1.1.4.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :A (v5 / label
+                         :Q (v11 / label~e.2)
+                         :E (v12 / label~e.3)
+                         :C (v13 / label~e.4))
+                  :A (v6 / label~e.5)
+                  :P (v7 / label~e.7)
+                  :R (v8 / label~e.8))
+           :P (v4 / label
+                  :C (v9 / label~e.11)
+                  :E (v10 / label~e.10))))

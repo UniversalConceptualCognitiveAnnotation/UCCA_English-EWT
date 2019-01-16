@@ -1,0 +1,17 @@
+# ::id 010433-0003
+# ::tok Asked for bar - b - que sauce never got it .
+# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2 4-1.1.2.2 6-1.1.2.2 7-1.1.2.3 8-1.2.3 9-1.2.4 10-1.2.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v4 / label~e.0)
+           :A (v5 / label
+                  :R (v11 / label~e.1)
+                  :E (v12 / label~e.2,4,6)
+                  :C (v13 / label~e.7))
+           :A (v6 / label))
+    :H (v3 / label
+           :A (v7 / label)
+           :D (v8 / label~e.8)
+           :P (v9 / label~e.9)
+           :A (v10 / label~e.10)))

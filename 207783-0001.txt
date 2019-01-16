@@ -1,0 +1,13 @@
+# ::id 207783-0001
+# ::tok Not a clothing store
+# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2 3-1.1.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.0)
+           :A (v4 / label
+                  :E (v7 / label~e.1)
+                  :E (v8 / label~e.2)
+                  :C (v9 / label~e.3))
+           :A (v5 / label)
+           :S (v6 / label)))

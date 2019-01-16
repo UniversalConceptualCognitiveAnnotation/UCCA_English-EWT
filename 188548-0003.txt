@@ -1,0 +1,17 @@
+# ::id 188548-0003
+# ::tok The food was good , and so was our waitress .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.3 5-1.2 8-1.3.4.1.1 9-1.3.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v8 / label~e.0)
+                  :C (v9 / label~e.1))
+           :S (v6 / label~e.3))
+    :L (v3 / label~e.5)
+    :H (v4 / label
+           :S v6
+           :A (v7 / label
+                  :E (v10 / label
+                          :S (v12 / label~e.8))
+                  :C (v11 / label~e.9))))

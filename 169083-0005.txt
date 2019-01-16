@@ -1,0 +1,20 @@
+# ::id 169083-0005
+# ::tok As far as being treated like a drug seeker , that has not been my experience .
+# ::alignments 0-1.1.5 1-1.1.5 2-1.1.5 4-1.1.6.1.2 5-1.1.6.2.1 6-1.1.6.2.2 7-1.1.6.2.3 8-1.1.6.2.4.1 10-1.1.7 12-1.1.9 14-1.1.1 15-1.1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.14)
+           :P (v4 / label~e.15)
+           :G (v5 / label~e.0,1,2)
+           :A (v6 / label
+                  :P (v9 / label
+                         :C (v11 / label~e.4))
+                  :A (v10 / label
+                          :R (v12 / label~e.5)
+                          :E (v13 / label~e.6)
+                          :E (v14 / label~e.7)
+                          :C (v15 / label
+                                  :P (v16 / label~e.8))))
+           :A (v7 / label~e.10)
+           :D (v8 / label~e.12)))

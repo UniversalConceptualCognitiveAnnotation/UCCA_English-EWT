@@ -5,8 +5,8 @@
 (v1 / label
     :H (v2 / label
            :P (v5 / label~e.0,1)
-           :Q (v6 / label
-                  :E (v10 / label~e.2,3)
+           :A (v6 / label
+                  :Q (v10 / label~e.2,3)
                   :C (v11 / label~e.4))
            :A (v7 / label~e.6))
     :L (v3 / label~e.5)

@@ -1,0 +1,44 @@
+# ::id 068009-0003
+# ::tok As a qualified criminal defense attorney , he will work every possible legal " angle " ( leaving no stone unturned ) of your case to achieve the most favorable result possible .
+# ::alignments 0-1.1 1-1.2.2.1 2-1.2.3 3-1.2.2.2 4-1.2.2.3 5-1.2.2.4 7-1.3.1 8-1.3.2 9-1.3.3 10-1.3.4.1.1 11-1.3.4.1.2 12-1.3.4.2 14-1.3.4.3 17-1.3.4.4.2 18-1.3.4.4.3 19-1.3.4.4.3 20-1.3.4.4.3 22-1.3.4.5.1 23-1.3.4.5.2.1 24-1.3.4.5.3 25-1.4 26-1.5.2 27-1.5.3.1.1 28-1.5.3.2 29-1.5.3.3 30-1.5.3.1.2 31-1.5.3.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v7 / label)
+           :A (v8 / label
+                  :E (v16 / label~e.1)
+                  :E (v17 / label~e.3)
+                  :E (v18 / label~e.4)
+                  :C (v19 / label~e.5))
+           :S (v9 / label~e.2))
+    :H (v4 / label
+           :A (v10 / label~e.7)
+           :D (v11 / label~e.8)
+           :P (v12 / label~e.9)
+           :A (v13 / label
+                   :E (v20 / label
+                           :C (v29 / label~e.10)
+                           :E (v30 / label~e.11))
+                   :E (v21 / label~e.12)
+                   :C (v22 / label~e.14)
+                   :E (v23 / label
+                           :A v10
+                           :P (v31 / label~e.17)
+                           :A (v32 / label~e.18,19,20))
+                   :E (v24 / label
+                           :R (v33 / label~e.22)
+                           :E (v34 / label
+                                   :S (v38 / label~e.23))
+                           :C (v35 / label~e.24))))
+    :L (v5 / label~e.25)
+    :H (v6 / label
+           :A v10
+           :P (v14 / label~e.26)
+           :A (v15 / label
+                   :A (v25 / label
+                           :E (v36 / label~e.27)
+                           :C (v37 / label~e.30))
+                   :D (v26 / label~e.28)
+                   :S (v27 / label~e.29)
+                   :D (v28 / label~e.31))))

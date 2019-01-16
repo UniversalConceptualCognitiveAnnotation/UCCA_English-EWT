@@ -1,0 +1,18 @@
+# ::id 290238-0003
+# ::tok If you check RecWarehouse.com , they do n't list this as a location .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3 5-1.3.4 7-1.3.6 8-1.3.1 9-1.3.2 10-1.3.3.1 12-1.3.3.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v5 / label~e.1)
+           :P (v6 / label~e.2)
+           :A (v7 / label~e.3))
+    :H (v4 / label
+           :P (v8 / label~e.8)
+           :A (v9 / label~e.9)
+           :A (v10 / label
+                   :R (v13 / label~e.10)
+                   :C (v14 / label~e.12))
+           :A (v11 / label~e.5)
+           :D (v12 / label~e.7)))

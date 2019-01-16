@@ -1,0 +1,16 @@
+# ::id 122564-0002
+# ::tok the apartment only looks good outsize , inside is too bad .
+# ::alignments 1-1.1.1.2 2-1.1.2 4-1.1.3.2 5-1.1.4 7-1.2.2 9-1.2.4 10-1.2.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :C (v11 / label~e.1))
+           :D (v5 / label~e.2)
+           :P (v6 / label
+                  :C (v12 / label~e.4))
+           :A (v7 / label~e.5))
+    :H (v3 / label
+           :A (v8 / label~e.7)
+           :D (v9 / label~e.9)
+           :P (v10 / label~e.10)))

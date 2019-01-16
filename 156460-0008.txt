@@ -1,0 +1,13 @@
+# ::id 156460-0008
+# ::tok I can not recommend this salon enough !!!
+# ::alignments 0-1.1.2 2-1.1.4 3-1.1.5 4-1.1.6.1 5-1.1.6.2 6-1.1.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :D (v4 / label~e.2)
+           :P (v5 / label~e.3)
+           :A (v6 / label
+                  :R (v8 / label~e.4)
+                  :C (v9 / label~e.5))
+           :D (v7 / label~e.6)))

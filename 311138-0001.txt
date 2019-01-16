@@ -1,0 +1,9 @@
+# ::id 311138-0001
+# ::tok Consistantly poor
+# ::alignments 0-1.1.1 1-1.1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.0)
+           :S (v4 / label~e.1)
+           :A (v5 / label)))

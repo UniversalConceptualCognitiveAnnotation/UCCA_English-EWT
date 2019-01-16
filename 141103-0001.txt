@@ -1,0 +1,8 @@
+# ::id 141103-0001
+# ::tok Good location
+# ::alignments 0-1.1.1 1-1.1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.0)
+           :S (v4 / label~e.1)))

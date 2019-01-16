@@ -1,0 +1,22 @@
+# ::id 196219-0002
+# ::tok IT IS NOT A HIGH END STEAK HOUSE , MORE OF THE CUISINE BRETT ENJOYS IN MISSISSIPPI .
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 4-1.1.5 5-1.1.5 6-1.1.4.2 7-1.1.4.2 9-1.2 10-1.2 11-1.3.2.1 12-1.3.2.2 13-1.3.3 14-1.3.4 15-1.3.1.1 16-1.3.1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :D (v6 / label~e.2)
+           :A (v7 / label
+                  :E (v13 / label~e.3)
+                  :C (v14 / label~e.6,7))
+           :S (v8 / label~e.4,5))
+    :L (v3 / label~e.9,10)
+    :H (v4 / label
+           :A (v9 / label
+                  :R (v15 / label~e.15)
+                  :C (v16 / label~e.16))
+           :A (v10 / label
+                   :E (v17 / label~e.11)
+                   :C (v18 / label~e.12))
+           :A (v11 / label~e.13)
+           :P (v12 / label~e.14)))

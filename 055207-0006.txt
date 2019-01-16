@@ -1,0 +1,10 @@
+# ::id 055207-0006
+# ::tok Which is so dumb .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :R (v4 / label~e.1)
+           :D (v5 / label~e.2)
+           :S (v6 / label~e.3)))

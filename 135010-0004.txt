@@ -1,0 +1,11 @@
+# ::id 135010-0004
+# ::tok Only if it is of the quality of That 's Amore .
+# ::alignments 0-1.1 1-1.1 5-1.2.6.1 6-1.2.6.2 8-1.2.1 9-1.2.1 10-1.2.1
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0,1)
+    :H (v3 / label
+           :A (v4 / label~e.8,9,10)
+           :S (v5 / label
+                  :E (v6 / label~e.5)
+                  :C (v7 / label~e.6))))

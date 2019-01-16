@@ -1,0 +1,58 @@
+# ::id 288100-0004
+# ::tok It took them nearly two months to complete a simple task , and countless calls from my part due to their lack of response and passion ( not that it 's a requirement for the job , but it helps to at least pretend to be helpful ) .
+# ::alignments 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3 7-1.1.5.2 8-1.1.6.1 9-1.1.6.2 10-1.1.6.3 12-1.2 13-1.3.1.1 14-1.3.1.2 15-1.3.2.1 16-1.3.2.2.1 17-1.3.2.3 18-1.4 19-1.4 20-1.5.1 21-1.5.2 22-1.5.3.1 23-1.5.3.2 24-1.5.3.3 25-1.5.3.4 27-1.6.1 29-1.6.3 31-1.6.5.1 32-1.6.5.2 33-1.6.6.1 34-1.6.6.2 35-1.6.6.3 37-1.7 38-1.8.1 39-1.8.2 41-1.8.4.1 42-1.8.4.2 43-1.8.5 46-1.8.6.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v10 / label~e.1)
+           :A (v11 / label~e.2)
+           :T (v12 / label
+                   :E (v29 / label~e.3)
+                   :Q (v30 / label~e.4)
+                   :C (v31 / label~e.5))
+           :P (v13 / label
+                   :C (v32 / label~e.7))
+           :A (v14 / label
+                   :E (v33 / label~e.8)
+                   :E (v34 / label~e.9)
+                   :C (v35 / label~e.10)))
+    :L (v3 / label~e.12)
+    :H (v4 / label
+           :P (v15 / label
+                   :Q (v36 / label~e.13)
+                   :C (v37 / label~e.14))
+           :A (v16 / label
+                   :R (v38 / label~e.15)
+                   :E (v39 / label
+                           :S (v53 / label~e.16))
+                   :C (v40 / label~e.17)))
+    :L (v5 / label~e.18,19)
+    :H (v6 / label
+           :A (v17 / label~e.20)
+           :S (v18 / label~e.21)
+           :A (v19 / label
+                   :R (v41 / label~e.22)
+                   :C (v42 / label~e.23)
+                   :N (v43 / label~e.24)
+                   :C (v44 / label~e.25)))
+    :H (v7 / label
+           :D (v20 / label~e.27)
+           :A (v21 / label~e.29)
+           :S (v22 / label
+                   :E (v45 / label~e.31)
+                   :C (v46 / label~e.32))
+           :A (v23 / label
+                   :R (v47 / label~e.33)
+                   :E (v48 / label~e.34)
+                   :C (v49 / label~e.35)))
+    :L (v8 / label~e.37)
+    :H (v9 / label
+           :A (v24 / label~e.38)
+           :D (v25 / label~e.39)
+           :D (v26 / label
+                   :E (v50 / label~e.41)
+                   :C (v51 / label~e.42))
+           :P (v27 / label~e.43)
+           :A (v28 / label
+                   :P (v52 / label~e.46)
+                   :A v17)))

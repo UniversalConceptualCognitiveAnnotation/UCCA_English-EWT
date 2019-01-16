@@ -1,0 +1,14 @@
+# ::id 257296-0003
+# ::tok The comment below definitely needs to be retracted !
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3 3-1.1.3.2 4-1.1.3.1 7-1.1.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label~e.0)
+                  :C (v7 / label~e.1)
+                  :E (v8 / label~e.2))
+           :D (v4 / label
+                  :C (v9 / label~e.4)
+                  :E (v10 / label~e.3))
+           :P (v5 / label~e.7)))

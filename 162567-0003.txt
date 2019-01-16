@@ -1,0 +1,23 @@
+# ::id 162567-0003
+# ::tok No matter what state I am in when I arrive , I always leave feeling better .
+# ::alignments 0-1.1 1-1.1 2-1.2.1 3-1.2.2.1 4-1.2.3.1 7-1.3 8-1.4.1 9-1.4.2 11-1.5.4 12-1.5.1 13-1.5.2 14-1.5.3.1 15-1.5.3.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0,1)
+    :H (v3 / label
+           :A (v7 / label~e.2)
+           :S (v8 / label
+                  :C (v16 / label~e.3))
+           :A (v9 / label
+                  :C (v17 / label~e.4)))
+    :L (v4 / label~e.7)
+    :H (v5 / label
+           :A (v10 / label~e.8)
+           :P (v11 / label~e.9))
+    :H (v6 / label
+           :D (v12 / label~e.12)
+           :P (v13 / label~e.13)
+           :A (v14 / label
+                   :E (v18 / label~e.14)
+                   :C (v19 / label~e.15))
+           :A (v15 / label~e.11)))

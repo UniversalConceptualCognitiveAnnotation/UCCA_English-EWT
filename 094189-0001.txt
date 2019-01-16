@@ -1,0 +1,9 @@
+# ::id 094189-0001
+# ::tok Needs to go out of business
+# ::alignments 0-1.1.2 2-1.1.4 3-1.1.4 4-1.1.4 5-1.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :D (v4 / label~e.0)
+           :P (v5 / label~e.2,3,4,5)))

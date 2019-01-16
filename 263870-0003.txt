@@ -1,0 +1,12 @@
+# ::id 263870-0003
+# ::tok It is also the largest .
+# ::alignments 0-1.1.2 2-1.2 3-1.1.4.3 4-1.1.4.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :A (v5 / label~e.0)
+           :S (v6 / label
+                  :C (v7 / label~e.4)
+                  :E (v8 / label~e.3)))
+    :L (v3 / label~e.2))

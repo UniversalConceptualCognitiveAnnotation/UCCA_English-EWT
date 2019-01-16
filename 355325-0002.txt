@@ -1,0 +1,33 @@
+# ::id 355325-0002
+# ::tok I came to La Crosse to go to college , and my mom would send me birthday flowers though here .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.2 5-1.2 6-1.3.1 7-1.3.2.1 8-1.3.2.2.1 10-1.4 11-1.5.6.1 12-1.5.6.2 13-1.5.1 14-1.5.2 15-1.5.3 16-1.5.4.1 17-1.5.4.2 18-1.5.5.1 19-1.5.5.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label~e.0)
+           :P (v8 / label~e.1)
+           :A (v9 / label
+                  :R (v18 / label~e.2)
+                  :C (v19 / label~e.3,4)))
+    :L (v3 / label~e.5)
+    :H (v4 / label
+           :P (v10 / label~e.6)
+           :A (v11 / label
+                   :R (v20 / label~e.7)
+                   :C (v21 / label
+                           :P (v28 / label~e.8)))
+           :A v7)
+    :L (v5 / label~e.10)
+    :H (v6 / label
+           :D (v12 / label~e.13)
+           :P (v13 / label~e.14)
+           :A (v14 / label~e.15)
+           :A (v15 / label
+                   :E (v22 / label~e.16)
+                   :C (v23 / label~e.17))
+           :A (v16 / label
+                   :R (v24 / label~e.18)
+                   :C (v25 / label~e.19))
+           :A (v17 / label
+                   :E (v26 / label~e.11)
+                   :C (v27 / label~e.12))))

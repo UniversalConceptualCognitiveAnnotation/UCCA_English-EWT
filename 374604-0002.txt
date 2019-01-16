@@ -1,0 +1,23 @@
+# ::id 374604-0002
+# ::tok If the animals are treated in the same way the customers are treated then this leaves a lot to be desired !
+# ::alignments 0-1.1 2-1.2.1.2 4-1.2.3 5-1.3 6-1.3 7-1.3 8-1.3 10-1.4.1.1.2 12-1.4.3 13-1.5 14-1.6.7 15-1.6.1 17-1.6.2.2 20-1.6.5
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v8 / label
+                  :C (v16 / label~e.2))
+           :P (v9 / label~e.4))
+    :L (v4 / label~e.5,6,7,8)
+    :H (v5 / label
+           :A (v10 / label
+                   :S (v17 / label
+                           :C (v19 / label~e.10)))
+           :P (v11 / label~e.12))
+    :L (v6 / label~e.13)
+    :H (v7 / label
+           :D (v12 / label~e.15)
+           :A (v13 / label
+                   :C (v18 / label~e.17))
+           :P (v14 / label~e.20)
+           :A (v15 / label~e.14)))

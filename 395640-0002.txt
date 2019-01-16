@@ -1,0 +1,14 @@
+# ::id 395640-0002
+# ::tok It 's impossible to understand how this place has survived .
+# ::alignments 2-1.1.3 4-1.1.5 5-1.1.6.2 7-1.1.6.1.1.2 9-1.1.6.1.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.2)
+           :S (v4 / label~e.4)
+           :A (v5 / label
+                  :E (v6 / label
+                         :A (v8 / label
+                                :C (v10 / label~e.7))
+                         :P (v9 / label~e.9))
+                  :C (v7 / label~e.5))))

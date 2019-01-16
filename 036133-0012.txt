@@ -1,0 +1,28 @@
+# ::id 036133-0012
+# ::tok I had paid in cash , and he said he had no receipt / record of my purchase .
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 4-1.1.4.2 6-1.2 7-1.3.1 8-1.3.2 9-1.3.3.1 10-1.3.3.2 11-1.3.3.3 12-1.3.3.4.1 14-1.3.3.4.2.1 15-1.3.3.4.2.2.1 16-1.3.3.4.2.2.2.1 17-1.3.3.4.2.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :P (v6 / label~e.2)
+           :A (v7 / label
+                  :R (v11 / label~e.3)
+                  :C (v12 / label~e.4)))
+    :L (v3 / label~e.6)
+    :H (v4 / label
+           :A (v8 / label~e.7)
+           :P (v9 / label~e.8)
+           :A (v10 / label
+                   :A (v13 / label~e.9)
+                   :S (v14 / label~e.10)
+                   :D (v15 / label~e.11)
+                   :A (v16 / label
+                           :C (v17 / label~e.12)
+                           :C (v18 / label
+                                   :C (v19 / label~e.14)
+                                   :E (v20 / label
+                                           :R (v21 / label~e.15)
+                                           :E (v22 / label
+                                                   :S (v24 / label~e.16))
+                                           :C (v23 / label~e.17)))))))

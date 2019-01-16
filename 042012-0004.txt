@@ -1,0 +1,16 @@
+# ::id 042012-0004
+# ::tok You will also have the pleasure of learning the Italiano language .
+# ::alignments 0-1.1.3 2-1.2 4-1.1.6.1 5-1.1.6.2 7-1.1.1 8-1.1.2.1 9-1.1.2.2 10-1.1.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v4 / label~e.7)
+           :A (v5 / label
+                  :E (v8 / label~e.8)
+                  :C (v9 / label~e.9)
+                  :E (v10 / label~e.10))
+           :A (v6 / label~e.0)
+           :D (v7 / label
+                  :E (v11 / label~e.4)
+                  :C (v12 / label~e.5)))
+    :L (v3 / label~e.2))

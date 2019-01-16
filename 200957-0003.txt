@@ -1,0 +1,40 @@
+# ::id 200957-0003
+# ::tok I walked out with 5 inch long hair on the top , 2 inch long hair on the sides , and 1.5 in the back .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.6 4-1.1.4.7.1.1.1 5-1.1.4.7.1.1.2 7-1.1.4.7.1.2 8-1.1.4.7.2 9-1.1.4.7.3.1 10-1.1.4.7.3.2 12-1.1.4.1.1.1.1 13-1.1.4.3.1.2 15-1.1.4.1.1.2 16-1.1.4.1.2 17-1.1.4.1.3.1 18-1.1.4.1.3.2 20-1.1.4.2 21-1.1.4.3.1.1 22-1.1.4.3.2 23-1.1.4.3.3.1 24-1.1.4.3.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.1)
+           :D (v5 / label~e.2)
+           :A (v6 / label
+                  :H (v7 / label
+                         :A (v12 / label
+                                 :E (v21 / label
+                                         :Q (v33 / label~e.12)
+                                         :C (v26 / label~e.13))
+                                 :C (v22 / label~e.15))
+                         :S (v13 / label~e.16)
+                         :A (v14 / label
+                                 :E (v23 / label~e.17)
+                                 :C (v24 / label~e.18)))
+                  :L (v8 / label~e.20)
+                  :H (v9 / label
+                         :A (v15 / label
+                                 :Q (v25 / label~e.21)
+                                 :C v26)
+                         :S (v16 / label~e.22)
+                         :A (v17 / label
+                                 :E (v27 / label~e.23)
+                                 :C (v28 / label~e.24)))
+                  :R (v10 / label~e.3)
+                  :H (v11 / label
+                          :A (v18 / label
+                                  :E (v29 / label
+                                          :Q (v34 / label~e.4)
+                                          :C (v35 / label~e.5))
+                                  :C (v30 / label~e.7))
+                          :S (v19 / label~e.8)
+                          :A (v20 / label
+                                  :E (v31 / label~e.9)
+                                  :C (v32 / label~e.10))))))

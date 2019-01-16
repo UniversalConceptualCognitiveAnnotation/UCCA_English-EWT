@@ -1,0 +1,60 @@
+# ::id 290594-0009
+# ::tok You say you work a lot , and that you have a young dog ; so I have little doubt that your dog is just filled with energy to burn ; and it is good of you to look for a place to take him .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2.1 4-1.1.3.2.2.1 5-1.1.3.2.2.2 7-1.2 8-1.3.1 9-1.3.2 10-1.3.3 11-1.3.4.1 12-1.3.4.2 13-1.3.4.3 15-1.4 16-1.5.1 18-1.5.3 19-1.5.4 20-1.5.5.1 21-1.5.5.2.1.1 22-1.5.5.2.2 24-1.5.5.4 25-1.5.5.5 26-1.5.5.6.1 27-1.5.5.6.2 28-1.5.5.6.3.1 29-1.5.5.6.3.2 31-1.6 34-1.7.3 36-1.7.5 37-1.8 38-1.9.1 39-1.9.2.1 40-1.9.2.2 41-1.9.2.3 42-1.9.2.4.1 43-1.9.2.4.2 44-1.9.2.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v11 / label~e.0)
+           :P (v12 / label~e.1)
+           :A (v13 / label
+                   :A (v26 / label~e.2)
+                   :P (v27 / label
+                           :C (v40 / label~e.3)
+                           :Q (v41 / label
+                                   :E (v50 / label~e.4)
+                                   :C (v51 / label~e.5)))))
+    :L (v3 / label~e.7)
+    :H (v4 / label
+           :R (v14 / label~e.8)
+           :A (v15 / label~e.9)
+           :S (v16 / label~e.10)
+           :A (v17 / label
+                   :E (v28 / label~e.11)
+                   :E (v29 / label~e.12)
+                   :C (v30 / label~e.13)))
+    :L (v5 / label~e.15)
+    :H (v6 / label
+           :A (v18 / label~e.16)
+           :D (v19 / label~e.18)
+           :S (v20 / label~e.19)
+           :A (v21 / label
+                   :R (v31 / label~e.20)
+                   :A (v32 / label
+                           :E (v42 / label
+                                   :S (v52 / label~e.21))
+                           :C (v43 / label~e.22))
+                   :D (v33 / label~e.24)
+                   :S (v34 / label~e.25)
+                   :A (v35 / label
+                           :R (v44 / label~e.26)
+                           :C (v45 / label~e.27)
+                           :E (v46 / label
+                                   :R (v53 / label~e.28)
+                                   :C (v54 / label~e.29)))))
+    :L (v7 / label~e.31)
+    :H (v8 / label
+           :S (v22 / label~e.34)
+           :A (v23 / label~e.36))
+    :L (v9 / label~e.37)
+    :H (v10 / label
+            :P (v24 / label~e.38)
+            :A (v25 / label
+                    :R (v36 / label~e.39)
+                    :E (v37 / label~e.40)
+                    :C (v38 / label~e.41)
+                    :E (v39 / label
+                            :R (v47 / label~e.42)
+                            :P (v48 / label~e.43)
+                            :A (v49 / label~e.44)
+                            :A v23))
+            :A v23))

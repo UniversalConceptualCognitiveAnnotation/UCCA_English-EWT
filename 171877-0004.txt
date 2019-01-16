@@ -1,0 +1,11 @@
+# ::id 171877-0004
+# ::tok now i will have really straight teeth .
+# ::alignments 0-1.1 1-1.2.2 4-1.2.5 5-1.2.6 6-1.2.7
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label~e.1)
+           :D (v5 / label~e.4)
+           :S (v6 / label~e.5)
+           :A (v7 / label~e.6)))

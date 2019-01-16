@@ -1,0 +1,14 @@
+# ::id 283041-0001
+# ::tok Great Cookies , Cakes , and Customer Service
+# ::alignments 0-1.1.1 1-1.1.2.3 3-1.1.2.4 5-1.1.2.5 6-1.1.2.6.1 7-1.1.2.6.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label~e.0)
+           :A (v4 / label
+                  :C (v5 / label~e.1)
+                  :C (v6 / label~e.3)
+                  :N (v7 / label~e.5)
+                  :C (v8 / label
+                         :A (v9 / label~e.6)
+                         :P (v10 / label~e.7)))))

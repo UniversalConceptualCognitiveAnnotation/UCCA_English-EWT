@@ -1,0 +1,11 @@
+# ::id 239035-0006
+# ::tok Try this place out !
+# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2 3-1.1.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label~e.0,3)
+           :A (v4 / label
+                  :E (v6 / label~e.1)
+                  :C (v7 / label~e.2))
+           :A (v5 / label)))

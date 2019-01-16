@@ -1,0 +1,46 @@
+# ::id 198455-0002
+# ::tok I had a dead battery last week and called this company since they were the closest they had very quick service for a Monday morning , thanks again guys .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2.2 4-1.1.3.3 5-1.1.4.1 6-1.1.4.2 7-1.2 8-1.3.1 9-1.3.2.1 10-1.3.2.2 11-1.4 12-1.5.1 14-1.5.3.1 15-1.5.3.2 16-1.6.1 18-1.6.3.1 19-1.6.3.2 20-1.6.4 21-1.6.5.1 22-1.6.5.2 23-1.6.5.3 24-1.6.5.4 26-1.7.1 27-1.7.2 28-1.7.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v9 / label~e.0)
+           :S (v10 / label~e.1)
+           :A (v11 / label
+                   :E (v24 / label~e.2)
+                   :E (v25 / label
+                           :A (v26 / label~e.4)
+                           :S (v39 / label~e.3))
+                   :C v26)
+           :T (v12 / label
+                   :E (v27 / label~e.5)
+                   :C (v28 / label~e.6)))
+    :L (v3 / label~e.7)
+    :H (v4 / label
+           :P (v13 / label~e.8)
+           :A (v14 / label
+                   :E (v29 / label~e.9)
+                   :C (v30 / label~e.10))
+           :A v9)
+    :L (v5 / label~e.11)
+    :H (v6 / label
+           :A (v15 / label~e.12)
+           :S (v16 / label
+                   :E (v31 / label~e.14)
+                   :C (v32 / label~e.15)))
+    :H (v7 / label
+           :A (v17 / label~e.16)
+           :D (v18 / label
+                   :E (v33 / label~e.18)
+                   :C (v34 / label~e.19))
+           :P (v19 / label~e.20)
+           :T (v20 / label
+                   :R (v35 / label~e.21)
+                   :E (v36 / label~e.22)
+                   :E (v37 / label~e.23)
+                   :C (v38 / label~e.24)))
+    :H (v8 / label
+           :P (v21 / label~e.26)
+           :D (v22 / label~e.27)
+           :A (v23 / label~e.28)
+           :A v9))

@@ -1,0 +1,13 @@
+# ::id 020851-0001
+# ::tok The Best Deals in Town
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3.1 4-1.1.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :E (v6 / label~e.0)
+                  :C (v7 / label~e.1))
+           :P (v4 / label~e.2)
+           :A (v5 / label
+                  :R (v8 / label~e.3)
+                  :C (v9 / label~e.4))))
