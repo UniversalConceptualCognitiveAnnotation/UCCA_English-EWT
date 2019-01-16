@@ -1,0 +1,12 @@
+# format = ucca
+1	Expect	_	Word	-	+	_	_	_	_	_
+2	either	_	Word	-	-	_	_	Q	_	_
+3	undercooked	_	Word	-	+	_	A	_	_	_
+4	or	_	Word	-	-	_	_	N	_	_
+5	mushy	_	Word	-	+	_	_	C	_	_
+6	food	_	Word	-	-	_	_	A*	A	_
+7	and	_	Word	-	-	_	_	N	_	_
+8	lackluster	_	Word	-	-	_	_	_	_	D
+9	service	_	Word	-	+	_	_	C	_	_
+10	.	_	Punctuation	-	-	_	_	_	_	U
+
