@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 026883-0006
+# text = After seventeen days the delivery van showed up at my home minus two pieces .
+1	After	_	Word	Word	_	3	R	3:R	_
+2	seventeen	_	Word	Word	_	3	Q	3:Q	_
+3	days	_	Word	Word	_	7	T	7:T	_
+4	the	_	Word	Word	_	6	E	6:E	_
+5	delivery	_	Word	Word	_	6	E	6:E	_
+6	van	_	Word	Word	_	0	C	0:C|12:A	_
+7	showed	_	Word	Word	_	0	H	0:H	_
+8	up	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	at	_	Word	Word	_	11	R	11:R	_
+10	my	_	Word	Word	_	11	E	11:E	_
+11	home	_	Word	Word	_	7	A	7:A	_
+12	minus	_	Word	Word	_	7	H	7:H	_
+13	two	_	Word	Word	_	14	Q	14:Q	_
+14	pieces	_	Word	Word	_	12	A	12:A	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 356920-0001
+# text = I called on a Friday at 12:30 complaining of a severe toothache .
+1	I	_	Word	Word	_	2	A	2:A|8:A	_
+2	called	_	Word	Word	_	0	H	0:H	_
+3	on	_	Word	Word	_	5	R	5:R	_
+4	a	_	Word	Word	_	5	E	5:E	_
+5	Friday	_	Word	Word	_	2	T	2:T	_
+6	at	_	Word	Word	_	7	R	7:R	_
+7	12:30	_	Word	Word	_	5	E	5:E	_
+8	complaining	_	Word	Word	_	2	H	2:H	_
+9	of	_	Word	Word	_	12	R	12:R	_
+10	a	_	Word	Word	_	12	E	12:E	_
+11	severe	_	Word	Word	_	12	E	12:E	_
+12	toothache	_	Word	Word	_	8	A	8:A	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

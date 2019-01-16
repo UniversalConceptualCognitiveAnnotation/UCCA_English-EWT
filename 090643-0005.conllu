@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 090643-0005
+# text = Thanks for doing such great work on my important pieces of clothing that always look great !
+1	Thanks	_	Word	Word	_	0	H	0:H	_
+2	for	_	Word	Word	_	6	R	6:R	_
+3	doing	_	Word	Word	_	6	D	6:D	_
+4	such	_	Word	Word	_	5	E	5:E	_
+5	great	_	Word	Word	_	6	D	6:D	_
+6	work	_	Word	Word	_	1	A	1:A	_
+7	on	_	Word	Word	_	12	R	12:R	_
+8	my	_	Word	Word	_	12	E	12:E	_
+9	important	_	Word	Word	_	12	E	12:E	_
+10	pieces	_	Word	Word	_	12	E	12:E|9:A	_
+11	of	_	Word	Word	_	12	R	12:R	_
+12	clothing	_	Word	Word	_	0	C	0:C|8:A|16:A	_
+13	that	_	Word	Word	_	16	L	16:L	_
+14	always	_	Word	Word	_	16	T	16:T	_
+15	look	_	Word	Word	_	16	G	16:G	_
+16	great	_	Word	Word	_	1	H	1:H	_
+17	!	_	Punctuation	Punctuation	_	16	U	16:U	_
+

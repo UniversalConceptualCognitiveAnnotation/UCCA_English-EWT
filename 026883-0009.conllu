@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 026883-0009
+# text = I spent $ 2300 on the bedroom suite , which was complete and excellent condition on the showroom floor .
+1	I	_	Word	Word	_	2	A	2:A	_
+2	spent	_	Word	Word	_	0	H	0:H	_
+3	$	_	Word	Word	_	2	Q	2:Q	_
+4	2300	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	on	_	Word	Word	_	8	R	8:R	_
+6	the	_	Word	Word	_	8	E	8:E	_
+7	bedroom	_	Word	Word	_	8	E	8:E	_
+8	suite	_	Word	Word	_	0	C	0:C|12:A|15:A	_
+9	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	which	_	Word	Word	_	12	L	12:L	_
+11	was	_	Word	Word	_	12	F	12:F	_
+12	complete	_	Word	Word	_	2	H	2:H	_
+13	and	_	Word	Word	_	15	L	15:L	_
+14	excellent	_	Word	Word	_	15	D	15:D	_
+15	condition	_	Word	Word	_	2	H	2:H	_
+16	on	_	Word	Word	_	19	R	19:R	_
+17	the	_	Word	Word	_	19	E	19:E	_
+18	showroom	_	Word	Word	_	19	E	19:E	_
+19	floor	_	Word	Word	_	15	A	15:A	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

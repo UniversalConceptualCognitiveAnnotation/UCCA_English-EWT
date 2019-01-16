@@ -1,17 +1,17 @@
 # format = ucca
 # sent_id = 248027-0002
 # text = Twice for dinner and once for lunch Absolutely rude service every time !
-1	Twice	_	Word	Word	_	3	Q	3:Q	_
-2	for	_	Word	Word	_	3	R	3:R	_
+1	Twice	_	Word	Word	_	3	D	3:D	_
+2	for	_	Word	Word	_	3	F	3:F	_
 3	dinner	_	Word	Word	_	0	H	0:H	_
 4	and	_	Word	Word	_	7	L	7:L	_
-5	once	_	Word	Word	_	7	Q	7:Q	_
-6	for	_	Word	Word	_	7	R	7:R	_
+5	once	_	Word	Word	_	7	D	7:D	_
+6	for	_	Word	Word	_	7	F	7:F	_
 7	lunch	_	Word	Word	_	3	H	3:H	_
-8	Absolutely	_	Word	Word	_	9	D	9:D	_
-9	rude	_	Word	Word	_	3	H	3:H	_
-10	service	_	Word	Word	_	9	A	9:A	_
+8	Absolutely	_	Word	Word	_	9	E	9:E	_
+9	rude	_	Word	Word	_	10	D	10:D	_
+10	service	_	Word	Word	_	3	H	3:H	_
 11	every	_	Word	Word	_	12	E	12:E	_
-12	time	_	Word	Word	_	9	T	9:T	_
+12	time	_	Word	Word	_	10	T	10:T	_
 13	!	_	Punctuation	Punctuation	_	12	U	12:U	_
 

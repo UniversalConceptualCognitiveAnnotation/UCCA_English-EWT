@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 200429-0002
+# text = I got yelled at , literally yelled at because i asked if i could pick up my car 5 - 10 minutes late .
+1	I	_	Word	Word	_	3	A	3:A	_
+2	got	_	Word	Word	_	3	F	3:F	_
+3	yelled	_	Word	Word	_	0	H	0:H	_
+4	at	_	Word	Word	_	3	R	3:R	_
+5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	literally	_	Word	Word	_	7	D	7:D	_
+7	yelled	_	Word	Word	_	3	H	3:H	_
+8	at	_	Word	Word	_	7	R	7:R	_
+9	because	_	Word	Word	_	11	L	11:L	_
+10	i	_	Word	Word	_	11	A	11:A	_
+11	asked	_	Word	Word	_	3	H	3:H	_
+12	if	_	Word	Word	_	15	R	15:R	_
+13	i	_	Word	Word	_	15	A	15:A	_
+14	could	_	Word	Word	_	15	D	15:D	_
+15	pick	_	Word	Word	_	11	A	11:A	_
+16	up	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	my	_	Word	Word	_	18	E	18:E	_
+18	car	_	Word	Word	_	15	A	15:A	_
+19	5	_	Word	Word	_	22	Q	22:Q	_
+20	-	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	10	_	Word	Word	_	19	C	19:C	_
+22	minutes	_	Word	Word	_	15	T	15:T	_
+23	late	_	Word	Word	_	22	E	22:E	_
+24	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

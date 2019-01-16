@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 314024-0002
+# text = Great meats that are already cooked , easy to take home for dinner .
+1	Great	_	Word	Word	_	0	H	0:H	_
+2	meats	_	Word	Word	_	1	A	1:A|6:A|10:A	_
+3	that	_	Word	Word	_	6	L	6:L	_
+4	are	_	Word	Word	_	6	F	6:F	_
+5	already	_	Word	Word	_	6	T	6:T	_
+6	cooked	_	Word	Word	_	1	H	1:H	_
+7	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+8	easy	_	Word	Word	_	10	D	10:D	_
+9	to	_	Word	Word	_	10	F	10:F	_
+10	take	_	Word	Word	_	1	H	1:H	_
+11	home	_	Word	Word	_	10	A	10:A	_
+12	for	_	Word	Word	_	13	R	13:R	_
+13	dinner	_	Word	Word	_	10	A	10:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

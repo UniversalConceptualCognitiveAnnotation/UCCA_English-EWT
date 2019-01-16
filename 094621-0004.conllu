@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 094621-0004
+# text = The second vendor charged $ 55 ( less than half of what A&E charges ) to come and applied that to the price of the repair service ( which A&E does not ) .
+1	The	_	Word	Word	_	3	E	3:E	_
+2	second	_	Word	Word	_	3	Q	3:Q	_
+3	vendor	_	Word	Word	_	0	C	0:C|17:A|19:A	_
+4	charged	_	Word	Word	_	0	H	0:H	_
+5	$	_	Word	Word	_	4	A	4:A	_
+6	55	_	Word	Word	_	5	Q	5:Q	_
+7	(	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	less	_	Word	Word	_	14	A	14:A	_
+9	than	_	Word	Word	_	10	L	10:L	_
+10	half	_	Word	Word	_	8	H	8:H	_
+11	of	_	Word	Word	_	10	F	10:F	_
+12	what	_	Word	Word	_	10	F	10:F	_
+13	A&E	_	Word	Word	_	14	A	14:A	_
+14	charges	_	Word	Word	_	4	H	4:H	_
+15	)	_	Punctuation	Punctuation	_	4	U	4:U	_
+16	to	_	Word	Word	_	17	L	17:L	_
+17	come	_	Word	Word	_	4	H	4:H	_
+18	and	_	Word	Word	_	19	L	19:L	_
+19	applied	_	Word	Word	_	4	H	4:H	_
+20	that	_	Word	Word	_	19	A	19:A	_
+21	to	_	Word	Word	_	23	R	23:R	_
+22	the	_	Word	Word	_	23	E	23:E	_
+23	price	_	Word	Word	_	0	C	0:C|10:A|30:A	_
+24	of	_	Word	Word	_	27	R	27:R	_
+25	the	_	Word	Word	_	27	E	27:E	_
+26	repair	_	Word	Word	_	27	E	27:E	_
+27	service	_	Word	Word	_	23	E	23:E	_
+28	(	_	Punctuation	Punctuation	_	4	U	4:U	_
+29	which	_	Word	Word	_	30	L	30:L	_
+30	A&E	_	Word	Word	_	4	H	4:H	_
+31	does	_	Word	Word	_	30	F	30:F	_
+32	not	_	Word	Word	_	30	D	30:D	_
+33	)	_	Punctuation	Punctuation	_	30	U	30:U	_
+34	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

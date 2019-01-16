@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 266591-0004
+# text = The lunch specials are more food than most people can eat for about $ 6 .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	lunch	_	Word	Word	_	0	C	0:C|14:A	_
+3	specials	_	Word	Word	_	2	E	2:E	_
+4	are	_	Word	Word	_	11	F	11:F	_
+5	more	_	Word	Word	_	6	E	6:E	_
+6	food	_	Word	Word	_	11	A	11:A	_
+7	than	_	Word	Word	_	6	R	6:R	_
+8	most	_	Word	Word	_	9	E	9:E	_
+9	people	_	Word	Word	_	11	A	11:A	_
+10	can	_	Word	Word	_	11	D	11:D	_
+11	eat	_	Word	Word	_	0	H	0:H	_
+12	for	_	Word	Word	_	14	L	14:L	_
+13	about	_	Word	Word	_	14	D	14:D	_
+14	$	_	Word	Word	_	11	H	11:H	_
+15	6	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

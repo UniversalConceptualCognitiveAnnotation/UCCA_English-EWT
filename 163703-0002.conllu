@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 163703-0002
+# text = Cheap Hotel Rome - thanks for finding us a hotel at the last minute .
+1	Cheap	_	Word	Word	_	5	A	5:A	_
+2	Hotel	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	Rome	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	thanks	_	Word	Word	_	0	H	0:H	_
+6	for	_	Word	Word	_	7	R	7:R	_
+7	finding	_	Word	Word	_	5	A	5:A	_
+8	us	_	Word	Word	_	7	A	7:A	_
+9	a	_	Word	Word	_	10	E	10:E	_
+10	hotel	_	Word	Word	_	7	A	7:A	_
+11	at	_	Word	Word	_	14	R	14:R	_
+12	the	_	Word	Word	_	14	E	14:E	_
+13	last	_	Word	Word	_	14	E	14:E	_
+14	minute	_	Word	Word	_	7	T	7:T	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

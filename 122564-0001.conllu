@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 122564-0001
+# text = good outside , bad inside
+1	good	_	Word	Word	_	2	D	2:D	_
+2	outside	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	bad	_	Word	Word	_	5	D	5:D	_
+5	inside	_	Word	Word	_	2	H	2:H	_
+

@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 225632-0007
+# text = If I remember , students went to Dartmouth , U. Penn , Duke , BU , William and Mary , Vassar , Howard , and Carnegie Mellon , among others .
+1	If	_	Word	Word	_	6	L	6:L	_
+2	I	_	Word	Word	_	6	G	6:G	_
+3	remember	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	students	_	Word	Word	_	6	A	6:A	_
+6	went	_	Word	Word	_	0	H	0:H	_
+7	to	_	Word	Word	_	8	R	8:R	_
+8	Dartmouth	_	Word	Word	_	6	A	6:A	_
+9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	U.	_	Word	Word	_	8	C	8:C	_
+11	Penn	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+13	Duke	_	Word	Word	_	8	C	8:C	_
+14	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+15	BU	_	Word	Word	_	8	C	8:C	_
+16	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+17	William	_	Word	Word	_	8	C	8:C	_
+18	and	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	Mary	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+21	Vassar	_	Word	Word	_	8	C	8:C	_
+22	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+23	Howard	_	Word	Word	_	8	C	8:C	_
+24	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+25	and	_	Word	Word	_	8	N	8:N	_
+26	Carnegie	_	Word	Word	_	8	C	8:C	_
+27	Mellon	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+29	among	_	Word	Word	_	30	R	30:R	_
+30	others	_	Word	Word	_	8	C	8:C	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

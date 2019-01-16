@@ -1,18 +1,18 @@
 # format = ucca
 # sent_id = 302465-0003
 # text = The haircut was inexpensive and so were the salon services ( eyebrows were cheap ! ) .
-1	The	_	Word	Word	_	2	E	2:E	_
-2	haircut	_	Word	Word	_	4	A	4:A	_
-3	was	_	Word	Word	_	4	F	4:F	_
-4	inexpensive	_	Word	Word	_	0	H	0:H	_
+1	The	_	Word	Word	_	2	F	2:F	_
+2	haircut	_	Word	Word	_	0	H	0:H	_
+3	was	_	Word	Word	_	2	F	2:F	_
+4	inexpensive	_	Word	Word	_	2	D	2:D|10:D	_
 5	and	_	Word	Word	_	10	L	10:L	_
-6	so	_	Word	Word	_	10	R	10:R	_
+6	so	_	Word	Word	_	10	D	10:D	_
 7	were	_	Word	Word	_	10	F	10:F	_
-8	the	_	Word	Word	_	10	E	10:E	_
-9	salon	_	Word	Word	_	10	E	10:E	_
-10	services	_	Word	Word	_	4	H	4:H	_
-11	(	_	Punctuation	Punctuation	_	4	U	4:U	_
-12	eyebrows	_	Word	Word	_	4	H	4:H	_
+8	the	_	Word	Word	_	10	F	10:F	_
+9	salon	_	Word	Word	_	10	A	10:A	_
+10	services	_	Word	Word	_	2	H	2:H	_
+11	(	_	Punctuation	Punctuation	_	2	U	2:U	_
+12	eyebrows	_	Word	Word	_	2	H	2:H	_
 13	were	_	Word	Word	_	12	F	12:F	_
 14	cheap	_	Word	Word	_	12	D	12:D	_
 15	!	_	Punctuation	Punctuation	_	12	U	12:U	_

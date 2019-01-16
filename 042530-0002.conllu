@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 042530-0002
+# text = I live in the neighborhood and this place is one of my favorites for a tasty , quick and inexpensive meal .
+1	I	_	Word	Word	_	2	A	2:A	_
+2	live	_	Word	Word	_	0	H	0:H	_
+3	in	_	Word	Word	_	5	R	5:R	_
+4	the	_	Word	Word	_	5	F	5:F	_
+5	neighborhood	_	Word	Word	_	2	A	2:A	_
+6	and	_	Word	Word	_	13	L	13:L	_
+7	this	_	Word	Word	_	8	E	8:E	_
+8	place	_	Word	Word	_	13	A	13:A	_
+9	is	_	Word	Word	_	13	F	13:F	_
+10	one	_	Word	Word	_	13	D	13:D	_
+11	of	_	Word	Word	_	10	R	10:R	_
+12	my	_	Word	Word	_	13	A	13:A	_
+13	favorites	_	Word	Word	_	2	H	2:H	_
+14	for	_	Word	Word	_	15	L	15:L	_
+15	a	_	Word	Word	_	2	H	2:H	_
+16	tasty	_	Word	Word	_	15	D	15:D	_
+17	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+18	quick	_	Word	Word	_	2	H	2:H	_
+19	and	_	Word	Word	_	2	L	2:L	_
+20	inexpensive	_	Word	Word	_	21	D	21:D	_
+21	meal	_	Word	Word	_	0	P	0:P|15:C|18:P	_
+22	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

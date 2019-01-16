@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 357217-0003
+# text = Expect either undercooked or mushy food and lackluster service .
+1	Expect	_	Word	Word	_	0	H	0:H	_
+2	either	_	Word	Word	_	3	Q	3:Q	_
+3	undercooked	_	Word	Word	_	1	A	1:A	_
+4	or	_	Word	Word	_	3	N	3:N	_
+5	mushy	_	Word	Word	_	3	C	3:C	_
+6	food	_	Word	Word	_	5	A	5:A|3:A	_
+7	and	_	Word	Word	_	3	N	3:N	_
+8	lackluster	_	Word	Word	_	9	D	9:D	_
+9	service	_	Word	Word	_	3	C	3:C	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

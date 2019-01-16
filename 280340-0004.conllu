@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 280340-0004
+# text = # 2 the decor is tasteful and artistic , from the comfortable chairs to the elegant light fixtures .... and ( most importantly ) # 3 the food is FANTASTIC .
+1	#	_	Punctuation	Punctuation	_	6	U	6:U	_
+2	2	_	Word	Word	_	6	G	6:G	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	decor	_	Word	Word	_	0	C	0:C|8:A	_
+5	is	_	Word	Word	_	6	F	6:F	_
+6	tasteful	_	Word	Word	_	0	H	0:H	_
+7	and	_	Word	Word	_	8	L	8:L	_
+8	artistic	_	Word	Word	_	6	H	6:H	_
+9	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	from	_	Word	Word	_	12	L	12:L	_
+11	the	_	Word	Word	_	13	E	13:E	_
+12	comfortable	_	Word	Word	_	6	H	6:H	_
+13	chairs	_	Word	Word	_	12	A	12:A	_
+14	to	_	Word	Word	_	16	L	16:L	_
+15	the	_	Word	Word	_	18	E	18:E	_
+16	elegant	_	Word	Word	_	6	H	6:H	_
+17	light	_	Word	Word	_	18	E	18:E	_
+18	fixtures	_	Word	Word	_	16	A	16:A	_
+19	....	_	Punctuation	Punctuation	_	6	U	6:U	_
+20	and	_	Word	Word	_	30	L	30:L	_
+21	(	_	Punctuation	Punctuation	_	6	U	6:U	_
+22	most	_	Word	Word	_	30	G	30:G	_
+23	importantly	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	)	_	Punctuation	Punctuation	_	30	U	30:U	_
+25	#	_	Punctuation	Punctuation	_	30	U	30:U	_
+26	3	_	Word	Word	_	30	G	30:G	_
+27	the	_	Word	Word	_	28	E	28:E	_
+28	food	_	Word	Word	_	30	A	30:A	_
+29	is	_	Word	Word	_	30	F	30:F	_
+30	FANTASTIC	_	Word	Word	_	6	H	6:H	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

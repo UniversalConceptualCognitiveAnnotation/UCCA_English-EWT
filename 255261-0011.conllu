@@ -3,9 +3,9 @@
 # text = Stop by at least once or you 'll go to heck !
 1	Stop	_	Word	Word	_	0	H	0:H	_
 2	by	_	Word	Word	_	1	Terminal	1:Terminal	_
-3	at	_	Word	Word	_	5	E	5:E	_
+3	at	_	Word	Word	_	5	Q	5:Q	_
 4	least	_	Word	Word	_	3	Terminal	3:Terminal	_
-5	once	_	Word	Word	_	1	Q	1:Q	_
+5	once	_	Word	Word	_	1	A	1:A	_
 6	or	_	Word	Word	_	9	L	9:L	_
 7	you	_	Word	Word	_	9	A	9:A|1:A	_
 8	'll	_	Word	Word	_	9	F	9:F	_

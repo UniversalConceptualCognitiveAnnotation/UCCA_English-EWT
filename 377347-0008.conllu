@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 377347-0008
+# text = She is a super sweet , lovable and well - informed woman with a great sense of humor .
+1	She	_	Word	Word	_	2	A	2:A	_
+2	is	_	Word	Word	_	0	H	0:H	_
+3	a	_	Word	Word	_	5	F	5:F	_
+4	super	_	Word	Word	_	5	D	5:D	_
+5	sweet	_	Word	Word	_	2	A	2:A	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	lovable	_	Word	Word	_	2	H	2:H	_
+8	and	_	Word	Word	_	11	L	11:L	_
+9	well	_	Word	Word	_	11	D	11:D	_
+10	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	informed	_	Word	Word	_	2	H	2:H	_
+12	woman	_	Word	Word	_	11	A	11:A|5:A|7:A|16:A	_
+13	with	_	Word	Word	_	16	F	16:F	_
+14	a	_	Word	Word	_	16	F	16:F	_
+15	great	_	Word	Word	_	16	D	16:D	_
+16	sense	_	Word	Word	_	2	H	2:H	_
+17	of	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	humor	_	Word	Word	_	16	Terminal	16:Terminal	_
+19	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

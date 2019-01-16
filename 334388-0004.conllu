@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 334388-0004
+# text = Not good , not great , and again another disappointment in Central Iowa .
+1	Not	_	Word	Word	_	2	D	2:D	_
+2	good	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	not	_	Word	Word	_	5	D	5:D	_
+5	great	_	Word	Word	_	2	H	2:H	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	and	_	Word	Word	_	10	L	10:L	_
+8	again	_	Word	Word	_	10	L	10:L	_
+9	another	_	Word	Word	_	10	D	10:D	_
+10	disappointment	_	Word	Word	_	2	H	2:H	_
+11	in	_	Word	Word	_	12	R	12:R	_
+12	Central	_	Word	Word	_	10	A	10:A	_
+13	Iowa	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

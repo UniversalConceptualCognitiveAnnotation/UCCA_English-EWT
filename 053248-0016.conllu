@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 053248-0016
+# text = The warm chocolate cake was very tasty , but served at room temperature , not warm by any stretch of the imagination .
+1	The	_	Word	Word	_	4	E	4:E	_
+2	warm	_	Word	Word	_	4	E	4:E	_
+3	chocolate	_	Word	Word	_	4	E	4:E	_
+4	cake	_	Word	Word	_	0	C	0:C|2:A|10:A|16:A	_
+5	was	_	Word	Word	_	7	F	7:F	_
+6	very	_	Word	Word	_	7	D	7:D	_
+7	tasty	_	Word	Word	_	0	H	0:H	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	but	_	Word	Word	_	10	L	10:L	_
+10	served	_	Word	Word	_	7	H	7:H	_
+11	at	_	Word	Word	_	13	R	13:R	_
+12	room	_	Word	Word	_	13	E	13:E	_
+13	temperature	_	Word	Word	_	10	A	10:A	_
+14	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+15	not	_	Word	Word	_	16	D	16:D	_
+16	warm	_	Word	Word	_	7	H	7:H	_
+17	by	_	Word	Word	_	22	R	22:R	_
+18	any	_	Word	Word	_	22	E	22:E	_
+19	stretch	_	Word	Word	_	22	E	22:E	_
+20	of	_	Word	Word	_	19	R	19:R	_
+21	the	_	Word	Word	_	22	E	22:E	_
+22	imagination	_	Word	Word	_	16	D	16:D	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+
