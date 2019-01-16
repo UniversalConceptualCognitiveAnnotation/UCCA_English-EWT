@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="245160">
-  <attributes annotationID="1905" passageID="425" userID="4" />
+  <attributes annotationID="2454" passageID="425" userID="26" />
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
@@ -575,7 +575,7 @@
     <node ID="1.8" type="FN">
       <attributes />
       <extra all_tags="H" tree_id="3" />
-      <edge toID="1.9" type="A">
+      <edge toID="1.9" type="E">
         <attributes />
       </edge>
       <edge toID="1.15" type="F">
@@ -590,7 +590,7 @@
     </node>
     <node ID="1.9" type="FN">
       <attributes />
-      <extra all_tags="A;E" tree_id="3-1" />
+      <extra all_tags="E;A" tree_id="3-1" />
       <edge toID="1.10" type="F">
         <attributes />
       </edge>
@@ -634,7 +634,7 @@
     </node>
     <node ID="1.14" type="FN">
       <attributes />
-      <extra all_tags="C;UNA" tree_id="3-1-3-2" />
+      <extra all_tags="UNA;C" tree_id="3-1-3-2" />
       <edge toID="0.9" type="Terminal">
         <attributes />
       </edge>
@@ -909,7 +909,7 @@
     </node>
     <node ID="1.46" type="FN">
       <attributes />
-      <extra all_tags="UNC;H" remarks="Adi:&#10;I don't like it.&#10;&quot;took the time&quot; should stay conglomerated.&#10;I thing the main actions in the sentence are &quot;figure out&quot; and &quot;showing&quot; (2 scenes). &#10;Whereas &quot;took the time&quot; modifies the quality of how they performed those actions." tree_id="12" />
+      <extra all_tags="H;UNC" remarks="Adi:&#10;I don't like it.&#10;&quot;took the time&quot; should stay conglomerated.&#10;I thing the main actions in the sentence are &quot;figure out&quot; and &quot;showing&quot; (2 scenes). &#10;Whereas &quot;took the time&quot; modifies the quality of how they performed those actions." tree_id="12" />
       <edge toID="1.14" type="A">
         <attributes remote="True" />
       </edge>
@@ -1002,7 +1002,7 @@
     </node>
     <node ID="1.55" type="FN">
       <attributes />
-      <extra all_tags="P;UNA" tree_id="12-3-1-5" />
+      <extra all_tags="UNA;P" tree_id="12-3-1-5" />
       <edge toID="0.42" type="Terminal">
         <attributes />
       </edge>
@@ -1338,7 +1338,7 @@
     </node>
     <node ID="1.91" type="FN">
       <attributes />
-      <extra all_tags="L;UNA" tree_id="13-5-2" />
+      <extra all_tags="UNA;L" tree_id="13-5-2" />
       <edge toID="0.69" type="Terminal">
         <attributes />
       </edge>
@@ -1709,7 +1709,7 @@
     </node>
     <node ID="1.132" type="FN">
       <attributes />
-      <extra all_tags="P;UNA" tree_id="21-4" />
+      <extra all_tags="UNA;P" tree_id="21-4" />
       <edge toID="0.103" type="Terminal">
         <attributes />
       </edge>
@@ -1750,7 +1750,7 @@
     </node>
     <node ID="1.137" type="FN">
       <attributes />
-      <extra all_tags="UNC;H" remarks="Adi:&#10;not sure. I thought &quot;as...X...as...possible&quot; should be marked as coNnector.&#10;&#10;Dotan: The way you annotated makes sese, just changed the first &quot;as&quot; to D" tree_id="23" />
+      <extra all_tags="H;UNC" remarks="Adi:&#10;not sure. I thought &quot;as...X...as...possible&quot; should be marked as coNnector.&#10;&#10;Dotan: The way you annotated makes sese, just changed the first &quot;as&quot; to D" tree_id="23" />
       <edge toID="1.126" type="A">
         <attributes remote="True" />
       </edge>
@@ -1898,7 +1898,7 @@
     </node>
     <node ID="1.153" type="FN">
       <attributes />
-      <extra all_tags="S;UNA" tree_id="24-4" />
+      <extra all_tags="UNA;S" tree_id="24-4" />
       <edge toID="0.121" type="Terminal">
         <attributes />
       </edge>
@@ -1955,7 +1955,7 @@
     </node>
     <node ID="1.159" type="FN">
       <attributes />
-      <extra all_tags="UNC;A" tree_id="25-5" />
+      <extra all_tags="A;UNC" tree_id="25-5" />
       <edge toID="1.160" type="P">
         <attributes />
       </edge>
@@ -1968,7 +1968,7 @@
     </node>
     <node ID="1.160" type="FN">
       <attributes />
-      <extra all_tags="P;UNA" tree_id="25-5-1" />
+      <extra all_tags="UNA;P" tree_id="25-5-1" />
       <edge toID="0.128" type="Terminal">
         <attributes />
       </edge>

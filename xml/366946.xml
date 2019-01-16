@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="366946">
-  <attributes annotationID="1985" passageID="666" userID="4" />
+  <attributes annotationID="2534" passageID="666" userID="26" />
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
@@ -569,7 +569,7 @@
     </node>
     <node ID="1.27" type="FN">
       <attributes />
-      <extra all_tags="UNA;D" tree_id="4-4" />
+      <extra all_tags="D;UNA" tree_id="4-4" />
       <edge toID="0.20" type="Terminal">
         <attributes />
       </edge>
@@ -602,7 +602,7 @@
     </node>
     <node ID="1.30" type="FN">
       <attributes />
-      <extra all_tags="UNA;T" tree_id="6-1" />
+      <extra all_tags="T;UNA" tree_id="6-1" />
       <edge toID="0.24" type="Terminal">
         <attributes />
       </edge>
@@ -802,7 +802,7 @@
     </node>
     <node ID="1.53" type="FN">
       <attributes />
-      <extra all_tags="UNA;P" tree_id="8-2" />
+      <extra all_tags="P;UNA" tree_id="8-2" />
       <edge toID="0.43" type="Terminal">
         <attributes />
       </edge>

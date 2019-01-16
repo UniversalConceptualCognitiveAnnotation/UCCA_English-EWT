@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="374344">
-  <attributes annotationID="1997" passageID="678" userID="4" />
+  <attributes annotationID="2546" passageID="678" userID="26" />
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
@@ -229,7 +229,7 @@
     </node>
     <node ID="1.5" type="FN">
       <attributes />
-      <extra all_tags="UNC;H" remarks="superlative" tree_id="2" />
+      <extra all_tags="H;UNC" remarks="superlative" tree_id="2" />
       <edge toID="1.6" type="A">
         <attributes />
       </edge>
@@ -487,7 +487,7 @@
     </node>
     <node ID="1.35" type="FN">
       <attributes />
-      <extra all_tags="UNA;C" tree_id="6-4-2" />
+      <extra all_tags="C;UNA" tree_id="6-4-2" />
       <edge toID="0.25" type="Terminal">
         <attributes />
       </edge>
@@ -602,10 +602,10 @@
     <node ID="1.48" type="FN">
       <attributes />
       <extra all_tags="C" tree_id="8-4-1" />
-      <edge toID="1.49" type="Q">
+      <edge toID="1.49" type="C">
         <attributes />
       </edge>
-      <edge toID="1.50" type="Q">
+      <edge toID="1.50" type="C">
         <attributes />
       </edge>
       <edge toID="1.65" type="U">
@@ -614,14 +614,14 @@
     </node>
     <node ID="1.49" type="FN">
       <attributes />
-      <extra all_tags="Q;C" tree_id="8-4-1-1" />
+      <extra all_tags="C;Q" tree_id="8-4-1-1" />
       <edge toID="0.39" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.50" type="FN">
       <attributes />
-      <extra all_tags="Q;C" tree_id="8-4-1-2" />
+      <extra all_tags="C;Q" tree_id="8-4-1-2" />
       <edge toID="0.41" type="Terminal">
         <attributes />
       </edge>
@@ -693,7 +693,7 @@
     </node>
     <node ID="1.59" type="FN">
       <attributes />
-      <extra all_tags="UNA;S" remarks="I could analyze this, but I consider borrowed foreign phrases as stand-alone" tree_id="10-2" />
+      <extra all_tags="S;UNA" tree_id="10-2" />
       <edge toID="0.47" type="Terminal">
         <attributes />
       </edge>

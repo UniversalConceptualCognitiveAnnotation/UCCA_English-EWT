@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="101864">
-  <attributes annotationID="2085" passageID="8" userID="4" />
+  <attributes annotationID="2578" passageID="8" userID="26" />
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
@@ -410,13 +410,13 @@
       <edge toID="1.33" type="A">
         <attributes />
       </edge>
-      <edge toID="1.34" type="T">
+      <edge toID="1.34" type="D">
         <attributes />
       </edge>
-      <edge toID="1.35" type="P">
+      <edge toID="1.35" type="D">
         <attributes />
       </edge>
-      <edge toID="1.36" type="A">
+      <edge toID="1.36" type="S">
         <attributes />
       </edge>
     </node>
@@ -429,21 +429,21 @@
     </node>
     <node ID="1.34" type="FN">
       <attributes />
-      <extra all_tags="T;D" remarks="this has been a common word which takes on 2 roles" tree_id="8-2" />
+      <extra all_tags="D;T" tree_id="8-2" />
       <edge toID="0.25" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.35" type="FN">
       <attributes />
-      <extra all_tags="P" remarks="I take it that &quot;feel&quot; here does not fall under the category of Perception and Sense (5.1.b in the guidelines), because the experience is explicitly stated" tree_id="8-3" />
+      <extra all_tags="D" tree_id="8-3" />
       <edge toID="0.26" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.36" type="FN">
       <attributes />
-      <extra all_tags="A" tree_id="8-4" />
+      <extra all_tags="S" tree_id="8-4" />
       <edge toID="0.27" type="Terminal">
         <attributes />
       </edge>

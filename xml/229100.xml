@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="229100">
-  <attributes annotationID="1732" passageID="391" userID="4" />
+  <attributes annotationID="2420" passageID="391" userID="26" />
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
@@ -361,7 +361,7 @@
     </node>
     <node ID="1.20" type="FN">
       <attributes />
-      <extra all_tags="E;UNA" tree_id="3-4-3" />
+      <extra all_tags="UNA;E" tree_id="3-4-3" />
       <edge toID="0.13" type="Terminal">
         <attributes />
       </edge>
@@ -408,7 +408,7 @@
     </node>
     <node ID="1.25" type="FN">
       <attributes />
-      <extra all_tags="S;UNA" tree_id="4-3" />
+      <extra all_tags="UNA;S" tree_id="4-3" />
       <edge toID="0.19" type="Terminal">
         <attributes />
       </edge>
@@ -656,7 +656,7 @@
     </node>
     <node ID="1.54" type="FN">
       <attributes />
-      <extra all_tags="C;UNA" remarks="it's a name... and I debate whether atlantic can be separated from 'wireless'&#10;&#10;Dotan: I think you did fine" tree_id="8-3-2" />
+      <extra all_tags="UNA;C" remarks="it's a name... and I debate whether atlantic can be separated from 'wireless'&#10;&#10;Dotan: I think you did fine" tree_id="8-3-2" />
       <edge toID="0.43" type="Terminal">
         <attributes />
       </edge>

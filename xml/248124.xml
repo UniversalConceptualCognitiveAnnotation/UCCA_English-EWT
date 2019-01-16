@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="248124">
-  <attributes annotationID="1910" passageID="430" userID="4" />
+  <attributes annotationID="2459" passageID="430" userID="26" />
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
@@ -851,7 +851,7 @@
     <node ID="1.71" type="FN">
       <attributes />
       <extra all_tags="H" tree_id="7" />
-      <edge toID="1.72" type="A">
+      <edge toID="1.73" type="A">
         <attributes />
       </edge>
       <edge toID="1.76" type="F">
@@ -864,16 +864,9 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.72" type="FN">
-      <attributes />
-      <extra all_tags="A" tree_id="7-1" />
-      <edge toID="1.73" type="S">
-        <attributes />
-      </edge>
-    </node>
     <node ID="1.73" type="FN">
       <attributes />
-      <extra all_tags="S;A" tree_id="7-1-1" />
+      <extra all_tags="A;S" tree_id="7-1-1" />
       <edge toID="1.74" type="F">
         <attributes />
       </edge>
@@ -926,7 +919,7 @@
     <node ID="1.80" type="FN">
       <attributes />
       <extra all_tags="H" remarks="Adi:&#10;the main subject in the sentance is &quot;handling&quot;, therefore, I think &quot;expert&quot; should be D" tree_id="9" />
-      <edge toID="1.72" type="A">
+      <edge toID="1.73" type="A">
         <attributes remote="True" />
       </edge>
       <edge toID="1.81" type="F">

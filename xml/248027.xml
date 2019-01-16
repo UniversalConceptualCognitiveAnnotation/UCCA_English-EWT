@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="248027">
-  <attributes annotationID="1909" passageID="429" userID="4" />
+  <attributes annotationID="2458" passageID="429" userID="26" />
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
@@ -307,7 +307,7 @@
     </node>
     <node ID="1.5" type="FN">
       <attributes />
-      <extra all_tags="UNA;A" tree_id="1-3" />
+      <extra all_tags="A;UNA" tree_id="1-3" />
       <edge toID="0.2" type="Terminal">
         <attributes />
       </edge>
@@ -518,7 +518,7 @@
     <node ID="1.29" type="FN">
       <attributes />
       <extra all_tags="H" tree_id="6" />
-      <edge toID="1.31" type="A">
+      <edge toID="1.30" type="A">
         <attributes />
       </edge>
       <edge toID="1.34" type="F">
@@ -537,9 +537,16 @@
         <attributes />
       </edge>
     </node>
+    <node ID="1.30" type="FN">
+      <attributes />
+      <extra all_tags="A" tree_id="6-1" />
+      <edge toID="1.31" type="S">
+        <attributes />
+      </edge>
+    </node>
     <node ID="1.31" type="FN">
       <attributes />
-      <extra all_tags="A;S" tree_id="6-1-1" />
+      <extra all_tags="S;A" tree_id="6-1-1" />
       <edge toID="1.32" type="F">
         <attributes />
       </edge>
@@ -636,7 +643,7 @@
     </node>
     <node ID="1.44" type="FN">
       <attributes />
-      <extra all_tags="UNA;P" tree_id="8-2" />
+      <extra all_tags="P;UNA" tree_id="8-2" />
       <edge toID="0.31" type="Terminal">
         <attributes />
       </edge>
@@ -941,7 +948,7 @@
     </node>
     <node ID="1.79" type="FN">
       <attributes />
-      <extra all_tags="H;UNC" remarks="the word &quot;there&quot; can be marked A or F, depending on interpretation:&#10;does &quot;there&quot; refer to a specific location (i.e. the restaurant); or&#10;is it expletive. Note that in the latter case, there still should be a remote participant to denote the location.&#10;&#10;" tree_id="16" />
+      <extra all_tags="UNC;H" remarks="the word &quot;there&quot; can be marked A or F, depending on interpretation:&#10;does &quot;there&quot; refer to a specific location (i.e. the restaurant); or&#10;is it expletive. Note that in the latter case, there still should be a remote participant to denote the location.&#10;&#10;" tree_id="16" />
       <edge toID="1.80" type="F">
         <attributes />
       </edge>
@@ -951,7 +958,7 @@
       <edge toID="1.82" type="D">
         <attributes />
       </edge>
-      <edge toID="1.84" type="A">
+      <edge toID="1.83" type="A">
         <attributes />
       </edge>
       <edge toID="1.87" type="F">
@@ -988,9 +995,16 @@
         <attributes />
       </edge>
     </node>
+    <node ID="1.83" type="FN">
+      <attributes />
+      <extra all_tags="A" tree_id="16-4" />
+      <edge toID="1.84" type="S">
+        <attributes />
+      </edge>
+    </node>
     <node ID="1.84" type="FN">
       <attributes />
-      <extra all_tags="A;S" tree_id="16-4-1" />
+      <extra all_tags="S;A" tree_id="16-4-1" />
       <edge toID="1.85" type="F">
         <attributes />
       </edge>

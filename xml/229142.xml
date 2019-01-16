@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="229142">
-  <attributes annotationID="1733" passageID="392" userID="4" />
+  <attributes annotationID="2421" passageID="392" userID="26" />
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
@@ -447,7 +447,7 @@
     </node>
     <node ID="1.31" type="FN">
       <attributes />
-      <extra all_tags="P;UNA" remarks="set expression, don't think it should be broken down&#10;&#10;Dotan: right" tree_id="6-2" />
+      <extra all_tags="UNA;P" remarks="set expression, don't think it should be broken down&#10;&#10;Dotan: right" tree_id="6-2" />
       <edge toID="0.24" type="Terminal">
         <attributes />
       </edge>

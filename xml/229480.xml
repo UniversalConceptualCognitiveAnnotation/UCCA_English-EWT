@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="229480">
-  <attributes annotationID="1736" passageID="395" userID="4" />
+  <attributes annotationID="2424" passageID="395" userID="26" />
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
@@ -730,7 +730,7 @@
     </node>
     <node ID="1.29" type="FN">
       <attributes />
-      <extra all_tags="UNC;H" remarks="possibly a comparative. Only that the alternative would be implicit" tree_id="4" />
+      <extra all_tags="H;UNC" remarks="possibly a comparative. Only that the alternative would be implicit" tree_id="4" />
       <edge toID="1.30" type="A">
         <attributes />
       </edge>
@@ -1055,7 +1055,7 @@
     </node>
     <node ID="1.66" type="FN">
       <attributes />
-      <extra all_tags="UNA;D" remarks="is it U or no?" tree_id="12-6" />
+      <extra all_tags="D;UNA" remarks="is it U or no?" tree_id="12-6" />
       <edge toID="0.58" type="Terminal">
         <attributes />
       </edge>
@@ -1320,7 +1320,7 @@
     </node>
     <node ID="1.95" type="FN">
       <attributes />
-      <extra all_tags="UNA;C" tree_id="13-5-6-2-2" />
+      <extra all_tags="C;UNA" tree_id="13-5-6-2-2" />
       <edge toID="0.81" type="Terminal">
         <attributes />
       </edge>
@@ -1658,7 +1658,7 @@
     </node>
     <node ID="1.133" type="FN">
       <attributes />
-      <extra all_tags="UNA;L" remarks="technically it is analyzable ... I think... if I put the that with the scene rather than with the linker&#10;&#10;Dotan: I think you can leave it UNA" tree_id="20" />
+      <extra all_tags="L;UNA" remarks="technically it is analyzable ... I think... if I put the that with the scene rather than with the linker&#10;&#10;Dotan: I think you can leave it UNA" tree_id="20" />
       <edge toID="0.112" type="Terminal">
         <attributes />
       </edge>

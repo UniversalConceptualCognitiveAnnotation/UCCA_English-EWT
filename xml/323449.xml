@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="323449">
-  <attributes annotationID="1944" passageID="564" userID="4" />
+  <attributes annotationID="2493" passageID="564" userID="26" />
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
@@ -1217,7 +1217,7 @@
       <edge toID="1.69" type="R">
         <attributes />
       </edge>
-      <edge toID="1.70" type="Q">
+      <edge toID="1.70" type="C">
         <attributes />
       </edge>
     </node>
@@ -1230,7 +1230,7 @@
     </node>
     <node ID="1.70" type="FN">
       <attributes />
-      <extra all_tags="Q;C" tree_id="10-3-6-2-2" />
+      <extra all_tags="C;Q" tree_id="10-3-6-2-2" />
       <edge toID="0.54" type="Terminal">
         <attributes />
       </edge>
@@ -1281,7 +1281,7 @@
     </node>
     <node ID="1.76" type="FN">
       <attributes />
-      <extra all_tags="UNA;L" tree_id="11" />
+      <extra all_tags="L;UNA" tree_id="11" />
       <edge toID="0.60" type="Terminal">
         <attributes />
       </edge>
@@ -1291,7 +1291,7 @@
     </node>
     <node ID="1.77" type="FN">
       <attributes />
-      <extra all_tags="UNC;H" remarks="comparative" tree_id="12" />
+      <extra all_tags="H;UNC" remarks="comparative" tree_id="12" />
       <edge toID="1.78" type="A">
         <attributes />
       </edge>
@@ -1861,7 +1861,7 @@
     </node>
     <node ID="1.140" type="FN">
       <attributes />
-      <extra all_tags="UNA;P" tree_id="20-6" />
+      <extra all_tags="P;UNA" tree_id="20-6" />
       <edge toID="0.113" type="Terminal">
         <attributes />
       </edge>

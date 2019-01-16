@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="252791">
-  <attributes annotationID="1918" passageID="438" userID="4" />
+  <attributes annotationID="2467" passageID="438" userID="26" />
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
@@ -330,7 +330,7 @@
     </node>
     <node ID="1.19" type="FN">
       <attributes />
-      <extra all_tags="UNA;C" tree_id="4-3-2" />
+      <extra all_tags="C;UNA" tree_id="4-3-2" />
       <edge toID="0.14" type="Terminal">
         <attributes />
       </edge>
@@ -340,7 +340,7 @@
     </node>
     <node ID="1.20" type="FN">
       <attributes />
-      <extra all_tags="UNC;H" remarks="Adi:&#10;Should &quot;no&quot; be an adverbial?&#10;this is equivalent to: 'they did not have feathers'" tree_id="5" />
+      <extra all_tags="H;UNC" remarks="Adi:&#10;Should &quot;no&quot; be an adverbial?&#10;this is equivalent to: 'they did not have feathers'" tree_id="5" />
       <edge toID="1.21" type="A">
         <attributes />
       </edge>

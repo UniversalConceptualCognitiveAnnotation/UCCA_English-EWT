@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="241855">
-  <attributes annotationID="1899" passageID="419" userID="4" />
+  <attributes annotationID="2448" passageID="419" userID="26" />
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
@@ -598,7 +598,7 @@
     </node>
     <node ID="1.41" type="FN">
       <attributes />
-      <extra all_tags="UNC;H" remarks="comparative&#10;comparing non-scene objects" tree_id="6" />
+      <extra all_tags="H;UNC" remarks="comparative&#10;comparing non-scene objects" tree_id="6" />
       <edge toID="1.42" type="A">
         <attributes />
       </edge>
@@ -739,7 +739,7 @@
     </node>
     <node ID="1.56" type="FN">
       <attributes />
-      <extra all_tags="S;UNC" remarks="Adi:&#10;meaning durable/ lasts a long time.&#10;should be somehow State" tree_id="6-3-5-5" />
+      <extra all_tags="UNC;S" remarks="Adi:&#10;meaning durable/ lasts a long time.&#10;should be somehow State" tree_id="6-3-5-5" />
       <edge toID="1.57" type="F">
         <attributes />
       </edge>
@@ -825,7 +825,7 @@
     </node>
     <node ID="1.64" type="FN">
       <attributes />
-      <extra all_tags="UNA;C" tree_id="7-1-1" />
+      <extra all_tags="C;UNA" tree_id="7-1-1" />
       <edge toID="0.47" type="Terminal">
         <attributes />
       </edge>
@@ -849,7 +849,7 @@
     </node>
     <node ID="1.67" type="FN">
       <attributes />
-      <extra all_tags="UNA;C" tree_id="7-1-4" />
+      <extra all_tags="C;UNA" tree_id="7-1-4" />
       <edge toID="0.53" type="Terminal">
         <attributes />
       </edge>

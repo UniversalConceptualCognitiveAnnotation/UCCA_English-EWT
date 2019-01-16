@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="332972">
-  <attributes annotationID="1964" passageID="584" userID="4" />
+  <attributes annotationID="2513" passageID="584" userID="26" />
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
@@ -106,7 +106,7 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
-      <extra all_tags="UNC;H" remarks="superlative" tree_id="1" />
+      <extra all_tags="H;UNC" remarks="superlative" tree_id="1" />
       <edge toID="1.3" type="S">
         <attributes />
       </edge>
@@ -334,7 +334,7 @@
     </node>
     <node ID="1.29" type="FN">
       <attributes />
-      <extra all_tags="UNC;H" remarks="superlative" tree_id="8" />
+      <extra all_tags="H;UNC" remarks="superlative" tree_id="8" />
       <edge toID="1.30" type="A">
         <attributes />
       </edge>

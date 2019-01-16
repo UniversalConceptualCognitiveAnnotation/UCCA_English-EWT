@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="210153">
-  <attributes annotationID="745" passageID="353" remarks="26244" userID="1" />
+  <attributes annotationID="1854" passageID="353" userID="14" />
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
@@ -223,7 +223,7 @@
     </node>
     <node ID="1.14" type="FN">
       <attributes />
-      <extra all_tags="C" tree_id="2-6-3" />
+      <extra all_tags="C;UNC" remarks="Nicole: would this also be participant? Wondering because owners and employees is already participant in the first level." tree_id="2-6-3" />
       <edge toID="1.15" type="S">
         <attributes />
       </edge>
@@ -275,7 +275,7 @@
     <node ID="1.20" type="FN">
       <attributes />
       <extra all_tags="A" tree_id="3-1" />
-      <edge toID="1.21" type="E">
+      <edge toID="1.21" type="F">
         <attributes />
       </edge>
       <edge toID="1.22" type="E">
@@ -287,7 +287,7 @@
     </node>
     <node ID="1.21" type="FN">
       <attributes />
-      <extra all_tags="E" tree_id="3-1-1" />
+      <extra all_tags="F" tree_id="3-1-1" />
       <edge toID="0.17" type="Terminal">
         <attributes />
       </edge>

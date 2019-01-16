@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="024385">
-  <attributes annotationID="1904" passageID="424" userID="4" />
+  <attributes annotationID="2453" passageID="424" userID="26" />
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
@@ -403,7 +403,7 @@
     </node>
     <node ID="1.8" type="FN">
       <attributes />
-      <extra all_tags="P;UNA" tree_id="1-2" />
+      <extra all_tags="UNA;P" tree_id="1-2" />
       <edge toID="0.4" type="Terminal">
         <attributes />
       </edge>
@@ -416,7 +416,7 @@
     </node>
     <node ID="1.9" type="FN">
       <attributes />
-      <extra all_tags="H;UNC" remarks="superlative" tree_id="2" />
+      <extra all_tags="UNC;H" remarks="superlative" tree_id="2" />
       <edge toID="1.10" type="S">
         <attributes />
       </edge>
@@ -480,7 +480,7 @@
     </node>
     <node ID="1.16" type="FN">
       <attributes />
-      <extra all_tags="D;UNA" tree_id="3-2" />
+      <extra all_tags="UNA;D" tree_id="3-2" />
       <edge toID="0.13" type="Terminal">
         <attributes />
       </edge>
@@ -1079,7 +1079,7 @@
     </node>
     <node ID="1.85" type="FN">
       <attributes />
-      <extra all_tags="C;UNA" remarks="Adi:&#10;I treated it as a reflexive. It's probably wrong, but otherwise there would be two participants which have the same identity (&quot;the bakers&quot; and &quot;their&quot;)" tree_id="14-4-4-2" />
+      <extra all_tags="UNA;C" remarks="Adi:&#10;I treated it as a reflexive. It's probably wrong, but otherwise there would be two participants which have the same identity (&quot;the bakers&quot; and &quot;their&quot;)" tree_id="14-4-4-2" />
       <edge toID="0.69" type="Terminal">
         <attributes />
       </edge>

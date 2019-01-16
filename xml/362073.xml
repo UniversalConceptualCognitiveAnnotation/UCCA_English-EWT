@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="362073">
-  <attributes annotationID="1364" passageID="654" remarks="26552" userID="1" />
+  <attributes annotationID="2270" passageID="654" userID="4" />
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
@@ -108,38 +108,45 @@
       <edge toID="1.10" type="D">
         <attributes />
       </edge>
-      <edge toID="1.11" type="S">
+      <edge toID="1.13" type="P">
         <attributes />
       </edge>
-      <edge toID="1.12" type="A">
-        <attributes />
-      </edge>
-      <edge toID="1.13" type="U">
+      <edge toID="1.14" type="U">
         <attributes />
       </edge>
     </node>
     <node ID="1.10" type="FN">
       <attributes />
       <extra all_tags="D" tree_id="4-1" />
-      <edge toID="0.6" type="Terminal">
+      <edge toID="1.11" type="E">
+        <attributes />
+      </edge>
+      <edge toID="1.12" type="C">
         <attributes />
       </edge>
     </node>
     <node ID="1.11" type="FN">
       <attributes />
-      <extra all_tags="S" tree_id="4-2" />
-      <edge toID="0.7" type="Terminal">
+      <extra all_tags="E" tree_id="4-1-1" />
+      <edge toID="0.6" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.12" type="FN">
       <attributes />
-      <extra all_tags="A" tree_id="4-3" />
+      <extra all_tags="C" tree_id="4-1-2" />
+      <edge toID="0.7" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.13" type="FN">
+      <attributes />
+      <extra all_tags="P" tree_id="4-2" />
       <edge toID="0.8" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.13" type="PNCT">
+    <node ID="1.14" type="PNCT">
       <attributes />
       <edge toID="0.9" type="Terminal">
         <attributes />

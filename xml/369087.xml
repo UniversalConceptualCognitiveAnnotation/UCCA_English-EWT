@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="369087">
-  <attributes annotationID="1989" passageID="670" userID="4" />
+  <attributes annotationID="2538" passageID="670" userID="26" />
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
@@ -409,7 +409,7 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
-      <extra all_tags="UNC;H" remarks="superlative" tree_id="1" />
+      <extra all_tags="H;UNC" remarks="superlative" tree_id="1" />
       <edge toID="1.3" type="D">
         <attributes />
       </edge>
@@ -467,7 +467,7 @@
       <edge toID="1.10" type="F">
         <attributes />
       </edge>
-      <edge toID="1.11" type="T">
+      <edge toID="1.11" type="D">
         <attributes />
       </edge>
       <edge toID="1.12" type="F">
@@ -496,7 +496,7 @@
     </node>
     <node ID="1.11" type="FN">
       <attributes />
-      <extra all_tags="T;D" tree_id="2-3" />
+      <extra all_tags="D;T" tree_id="2-3" />
       <edge toID="0.8" type="Terminal">
         <attributes />
       </edge>
@@ -568,7 +568,7 @@
     </node>
     <node ID="1.20" type="FN">
       <attributes />
-      <extra all_tags="UNA;P" tree_id="3-2" />
+      <extra all_tags="P;UNA" tree_id="3-2" />
       <edge toID="0.15" type="Terminal">
         <attributes />
       </edge>
@@ -666,7 +666,7 @@
     </node>
     <node ID="1.31" type="FN">
       <attributes />
-      <extra all_tags="UNA;C" tree_id="5-4-2" />
+      <extra all_tags="C;UNA" tree_id="5-4-2" />
       <edge toID="0.23" type="Terminal">
         <attributes />
       </edge>
@@ -770,7 +770,7 @@
     </node>
     <node ID="1.42" type="FN">
       <attributes />
-      <extra all_tags="UNA;P" tree_id="8-5" />
+      <extra all_tags="P;UNA" tree_id="8-5" />
       <edge toID="0.34" type="Terminal">
         <attributes />
       </edge>
@@ -1013,7 +1013,7 @@
     </node>
     <node ID="1.69" type="FN">
       <attributes />
-      <extra all_tags="UNA;P" tree_id="14-2" />
+      <extra all_tags="P;UNA" tree_id="14-2" />
       <edge toID="0.58" type="Terminal">
         <attributes />
       </edge>
@@ -1159,7 +1159,7 @@
     </node>
     <node ID="1.86" type="FN">
       <attributes />
-      <extra all_tags="UNA;P" tree_id="17-4" />
+      <extra all_tags="P;UNA" tree_id="17-4" />
       <edge toID="0.71" type="Terminal">
         <attributes />
       </edge>
@@ -1352,7 +1352,7 @@
       <edge toID="1.108" type="F">
         <attributes />
       </edge>
-      <edge toID="1.109" type="Q">
+      <edge toID="1.109" type="C">
         <attributes />
       </edge>
     </node>
@@ -1365,7 +1365,7 @@
     </node>
     <node ID="1.109" type="FN">
       <attributes />
-      <extra all_tags="Q;C" tree_id="20-4-2" />
+      <extra all_tags="C;Q" tree_id="20-4-2" />
       <edge toID="0.88" type="Terminal">
         <attributes />
       </edge>
