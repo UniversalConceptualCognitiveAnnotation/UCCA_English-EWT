@@ -6,15 +6,15 @@ i=1
 for xml in xml/*.xml; do
     printf "\r$xml ($i/$total)"
     i=$((i+1))
-    TOK_XML=$(grep -Po '(?<=text=")[^"]+' ${xml} | recode xml..unicode | tr -d '\0')
-    id=${xml#*/}
-    id=${id%.*}
-    txt=ud/${id%.*}.txt
-    TOK_UD=$(grep -o '\S\+' ${txt})
-    if [[ ${TOK_XML} != ${TOK_UD} ]]; then
+    TOK_XML="$(grep -Po '(?<=text=")[^"]+' ${xml} | recode xml..unicode | tr -d '\0')"
+    id="${xml#*/}"
+    id="${id%.*}"
+    txt="ud/${id%.*}.txt"
+    TOK_UD="$(grep -o '\S\+' ${txt})"
+    if [[ "${TOK_XML}" != "${TOK_UD}" ]]; then
         printf "\r$xml $txt\n"
-        echo ${TOK_XML}
-        echo ${TOK_UD}
+        echo "${TOK_XML}"
+        echo "${TOK_UD}"
     fi
     echo "${id} ${TOK_XML}" | tr "\n" " " >> ucca_tokens.txt
     echo >> ucca_tokens.txt
