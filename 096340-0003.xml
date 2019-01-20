@@ -86,6 +86,7 @@
       <attributes />
       <edge toID="1.2" type="H">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="H" />
       </edge>
     </node>
     <node ID="1.2" type="FN">
@@ -93,24 +94,31 @@
       <extra all_tags="H" tree_id="3" />
       <edge toID="1.4" type="A">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="A" />
       </edge>
       <edge toID="1.5" type="F">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="F" />
       </edge>
       <edge toID="1.6" type="A">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="A" />
       </edge>
       <edge toID="1.7" type="D">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="D" />
       </edge>
       <edge toID="1.8" type="S">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="S" />
       </edge>
       <edge toID="1.9" type="A">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="A" />
       </edge>
       <edge toID="1.18" type="U">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="U" />
       </edge>
     </node>
     <node ID="1.4" type="FN">
@@ -118,6 +126,7 @@
       <extra all_tags="A" tree_id="3-1" />
       <edge toID="0.1" type="Terminal">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="Terminal" />
       </edge>
     </node>
     <node ID="1.5" type="FN">
@@ -125,6 +134,7 @@
       <extra all_tags="F" tree_id="3-2" />
       <edge toID="0.2" type="Terminal">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="Terminal" />
       </edge>
     </node>
     <node ID="1.6" type="FN">
@@ -132,27 +142,35 @@
       <extra all_tags="A" tree_id="3-3" />
       <edge toID="1.10" type="C">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="C" />
       </edge>
       <edge toID="1.11" type="C">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="C" />
       </edge>
       <edge toID="1.12" type="C">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="C" />
       </edge>
       <edge toID="1.13" type="N">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="N" />
       </edge>
       <edge toID="1.14" type="C">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="C" />
       </edge>
       <edge toID="1.15" type="U">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="U" />
       </edge>
       <edge toID="1.16" type="U">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="U" />
       </edge>
       <edge toID="1.17" type="U">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="U" />
       </edge>
     </node>
     <node ID="1.7" type="FN">
@@ -160,6 +178,7 @@
       <extra all_tags="D" tree_id="3-4" />
       <edge toID="0.16" type="Terminal">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="Terminal" />
       </edge>
     </node>
     <node ID="1.8" type="FN">
@@ -167,6 +186,7 @@
       <extra all_tags="S" tree_id="3-5" />
       <edge toID="0.17" type="Terminal">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="Terminal" />
       </edge>
     </node>
     <node ID="1.9" type="FN">
@@ -174,6 +194,7 @@
       <extra all_tags="A" tree_id="3-6" />
       <edge toID="0.18" type="Terminal">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="Terminal" />
       </edge>
     </node>
     <node ID="1.10" type="FN">
@@ -181,9 +202,11 @@
       <extra all_tags="C;UNA" tree_id="3-3-1" />
       <edge toID="0.3" type="Terminal">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="Terminal" />
       </edge>
       <edge toID="0.4" type="Terminal">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="Terminal" />
       </edge>
     </node>
     <node ID="1.11" type="FN">
@@ -191,15 +214,19 @@
       <extra all_tags="C;UNA" tree_id="3-3-2" />
       <edge toID="0.6" type="Terminal">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="Terminal" />
       </edge>
       <edge toID="0.7" type="Terminal">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="Terminal" />
       </edge>
       <edge toID="0.8" type="Terminal">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="Terminal" />
       </edge>
       <edge toID="0.9" type="Terminal">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="Terminal" />
       </edge>
     </node>
     <node ID="1.12" type="FN">
@@ -207,6 +234,7 @@
       <extra all_tags="C" tree_id="3-3-3" />
       <edge toID="0.11" type="Terminal">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="Terminal" />
       </edge>
     </node>
     <node ID="1.13" type="FN">
@@ -214,6 +242,7 @@
       <extra all_tags="N" tree_id="3-3-4" />
       <edge toID="0.13" type="Terminal">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="Terminal" />
       </edge>
     </node>
     <node ID="1.14" type="FN">
@@ -221,33 +250,39 @@
       <extra all_tags="C;UNA" tree_id="3-3-5" />
       <edge toID="0.14" type="Terminal">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="Terminal" />
       </edge>
       <edge toID="0.15" type="Terminal">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="Terminal" />
       </edge>
     </node>
     <node ID="1.15" type="PNCT">
       <attributes />
       <edge toID="0.5" type="Terminal">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="Terminal" />
       </edge>
     </node>
     <node ID="1.16" type="PNCT">
       <attributes />
       <edge toID="0.10" type="Terminal">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="Terminal" />
       </edge>
     </node>
     <node ID="1.17" type="PNCT">
       <attributes />
       <edge toID="0.12" type="Terminal">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="Terminal" />
       </edge>
     </node>
     <node ID="1.18" type="PNCT">
       <attributes />
       <edge toID="0.19" type="Terminal">
         <attributes />
+        <category layer_name="" parent_name="" slot="" tag="Terminal" />
       </edge>
     </node>
   </layer>
