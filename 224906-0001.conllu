@@ -1,0 +1,11 @@
+# newdoc id = 224906
+# sent_id = 224906-0001
+1	First	first	ADJ	JJ	Degree=Pos|NumType=Ord	4	amod	4:amod	_
+2	and	and	CCONJ	CC	_	3	cc	3:cc	_
+3	Last	last	ADJ	JJ	Degree=Pos	1	conj	1:conj:and|4:amod	_
+4	time	time	NOUN	NN	Number=Sing	0	root	0:root	_
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	7:nsubj	SpaceAfter=No
+6	'll	will	AUX	MD	VerbForm=Fin	7	aux	7:aux	_
+7	eat	eat	VERB	VB	VerbForm=Inf	4	acl:relcl	4:acl:relcl	_
+8	there	there	ADV	RB	PronType=Dem	7	advmod	7:advmod	_
+

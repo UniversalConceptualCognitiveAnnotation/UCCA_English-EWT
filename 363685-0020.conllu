@@ -1,0 +1,13 @@
+# sent_id = 363685-0020
+1	If	if	SCONJ	IN	_	3	mark	3:mark	_
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	3:nsubj	_
+3	go	go	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	advcl	9:advcl:if	_
+4	later	later	ADV	RBR	Degree=Cmp	3	advmod	3:advmod	SpaceAfter=No
+5	,	,	PUNCT	,	_	9	punct	9:punct	_
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj:pass	9:nsubj:pass	SpaceAfter=No
+7	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	9:aux:pass	_
+8	all	all	ADV	RB	_	9	advmod	9:advmod	_
+9	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+10	up	up	ADP	RP	_	9	compound:prt	9:compound:prt	SpaceAfter=No
+11	.	.	PUNCT	.	_	9	punct	9:punct	_
+

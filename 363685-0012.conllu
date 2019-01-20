@@ -1,0 +1,25 @@
+# sent_id = 363685-0012
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj|7:nsubj	_
+2	returned	return	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	after	after	ADP	IN	_	5	case	5:case	_
+4	3	3	NUM	CD	NumType=Card	5	nummod	5:nummod	SpaceAfter=No
+5	PM	pm	NOUN	NN	Number=Sing	2	obl	2:obl:after	SpaceAfter=No
+6	,	,	PUNCT	,	_	7	punct	7:punct	_
+7	found	find	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj	_
+8	no	no	DET	DT	_	9	det	9:det	_
+9	one	one	NOUN	NN	Number=Sing	7	obj	7:obj	_
+10	there	there	ADV	RB	PronType=Dem	9	advmod	9:advmod	SpaceAfter=No
+11	,	,	PUNCT	,	_	14	punct	14:punct	_
+12	and	and	CCONJ	CC	_	14	cc	14:cc	_
+13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	_
+14	note	note	NOUN	NN	Number=Sing	9	conj	7:obj|9:conj:and	_
+15	from	from	ADP	IN	_	17	case	17:case	_
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
+17	innkeeper	innkeeper	NOUN	NN	Number=Sing	14	nmod	14:nmod:from	_
+18	with	with	ADP	IN	_	19	case	19:case	_
+19	directions	direction	NOUN	NNS	Number=Plur	14	nmod	14:nmod:with	_
+20	to	to	ADP	IN	_	22	case	22:case	_
+21	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	22	nmod:poss	22:nmod:poss	_
+22	room	room	NOUN	NN	Number=Sing	19	nmod	19:nmod:to	SpaceAfter=No
+23	.	.	PUNCT	.	_	2	punct	2:punct	_
+

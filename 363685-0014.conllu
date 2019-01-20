@@ -1,0 +1,26 @@
+# sent_id = 363685-0014
+1	If	if	SCONJ	IN	_	3	mark	3:mark	_
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
+3	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	advcl	18:advcl:if	_
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	6:nsubj	SpaceAfter=No
+5	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_
+6	taken	take	VERB	VBN	Tense=Past|VerbForm=Part	3	ccomp	3:ccomp	_
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	8:det	_
+8	soda	soda	NOUN	NN	Number=Sing	6	obj	6:obj	_
+9	from	from	ADP	IN	_	11	case	11:case	_
+10	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
+11	room	room	NOUN	NN	Number=Sing	8	nmod	8:nmod:from	_
+12	home	home	ADV	RB	_	6	advmod	6:advmod	_
+13	with	with	ADP	IN	_	14	case	14:case	_
+14	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obl	6:obl:with	SpaceAfter=No
+15	,	,	PUNCT	,	_	18	punct	18:punct	_
+16	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	18:nsubj	_
+17	will	will	AUX	MD	VerbForm=Fin	18	aux	18:aux	_
+18	charge	charge	VERB	VB	VerbForm=Inf	0	root	0:root	_
+19	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	18	iobj	18:iobj	_
+20	$	$	SYM	$	_	18	obj	18:obj	SpaceAfter=No
+21	1.50	1.50	NUM	CD	NumType=Card	20	nummod	20:nummod	_
+22	per	per	ADP	IN	_	23	case	23:case	_
+23	can	can	NOUN	NN	Number=Sing	20	nmod	20:nmod:per	SpaceAfter=No
+24	.	.	PUNCT	.	_	18	punct	18:punct	_
+

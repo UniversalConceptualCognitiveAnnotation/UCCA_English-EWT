@@ -1,0 +1,17 @@
+# sent_id = 235423-0007
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	asked	ask	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	for	for	ADP	IN	_	6	case	6:case	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+5	dinner	dinner	NOUN	NN	Number=Sing	6	compound	6:compound	_
+6	combo	combo	NOUN	NN	Number=Sing	2	obl	2:obl:for	_
+7	and	and	CCONJ	CC	_	9	cc	9:cc	_
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	9:nsubj	_
+9	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
+10	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	iobj	9:iobj	_
+11	two	two	NUM	CD	NumType=Card	13	nummod	13:nummod	_
+12	dinner	dinner	NOUN	NN	Number=Sing	13	compound	13:compound	_
+13	plates	plate	NOUN	NNS	Number=Plur	9	obj	9:obj	_
+14	instead	instead	ADV	RB	_	9	advmod	9:advmod	SpaceAfter=No
+15	.	.	PUNCT	.	_	2	punct	2:punct	_
+

@@ -1,0 +1,20 @@
+# sent_id = 315763-0007
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	apartments	apartment	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj	_
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+4	within	within	ADP	IN	_	6	case	6:case	_
+5	walking	walking	NOUN	NN	Number=Sing	6	compound	6:compound	_
+6	distance	distance	NOUN	NN	Number=Sing	0	root	0:root	_
+7	to	to	ADP	IN	_	9	case	9:case	_
+8	Trader	Trader	PROPN	NNP	Number=Sing	9	compound	9:compound	_
+9	Joe	Joe	PROPN	NNP	Number=Sing	6	nmod	6:nmod:to	SpaceAfter=No
+10	's	's	PART	POS	_	9	case	9:case	SpaceAfter=No
+11	,	,	PUNCT	,	_	13	punct	13:punct	_
+12	Whole	Whole	PROPN	NNP	Number=Sing	13	compound	13:compound	_
+13	Foods	Foods	PROPN	NNP	Number=Sing	9	conj	6:nmod:to|9:conj:and	SpaceAfter=No
+14	,	,	PUNCT	,	_	17	punct	17:punct	_
+15	and	and	CCONJ	CC	_	17	cc	17:cc	_
+16	other	other	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
+17	stores	store	NOUN	NNS	Number=Plur	9	conj	6:nmod:to|9:conj:and	SpaceAfter=No
+18	.	.	PUNCT	.	_	6	punct	6:punct	_
+

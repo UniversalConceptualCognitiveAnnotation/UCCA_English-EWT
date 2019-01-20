@@ -1,0 +1,20 @@
+# sent_id = 229623-0004
+1	For	for	ADP	IN	_	2	case	2:case	_
+2	$	$	SYM	$	_	8	obl	8:obl:for	SpaceAfter=No
+3	4	4	NUM	CD	NumType=Card	2	nummod	2:nummod	_
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	8:cop	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	8:det	_
+7	nice	nice	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
+8	break	break	NOUN	NN	Number=Sing	0	root	0:root	_
+9	from	from	ADP	IN	_	11	case	11:case	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
+11	monotony	monotony	NOUN	NN	Number=Sing	8	nmod	8:nmod:from	_
+12	of	of	ADP	IN	_	13	case	13:case	_
+13	winter	winter	NOUN	NN	Number=Sing	11	nmod	11:nmod:of	_
+14	indoors	indoors	ADV	RB	_	13	advmod	13:advmod	_
+15	with	with	ADP	IN	_	17	case	17:case	_
+16	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	17:det	_
+17	toddler	toddler	NOUN	NN	Number=Sing	13	nmod	13:nmod:with	SpaceAfter=No
+18	.	.	PUNCT	.	_	8	punct	8:punct	_
+

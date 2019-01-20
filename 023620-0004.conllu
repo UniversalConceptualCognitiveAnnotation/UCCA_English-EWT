@@ -1,0 +1,10 @@
+# sent_id = 023620-0004
+1	Bad	bad	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
+2	service	service	NOUN	NN	Number=Sing	0	root	0:root	_
+3	starting	start	VERB	VBG	VerbForm=Ger	2	acl	2:acl	_
+4	from	from	ADP	IN	_	7	case	7:case	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+6	front	front	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
+7	desk	desk	NOUN	NN	Number=Sing	3	obl	3:obl:from	SpaceAfter=No
+8	.	.	PUNCT	.	_	2	punct	2:punct	_
+

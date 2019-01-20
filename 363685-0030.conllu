@@ -1,0 +1,17 @@
+# sent_id = 363685-0030
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	Inn	inn	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	touts	tout	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
+5	shower	shower	NOUN	NN	Number=Sing	3	obj	3:obj	_
+6	with	with	ADP	IN	_	9	case	9:case	_
+7	dual	dual	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
+8	shower	shower	NOUN	NN	Number=Sing	9	compound	9:compound	_
+9	heads	head	NOUN	NNS	Number=Plur	5	nmod	5:nmod:with	SpaceAfter=No
+10	,	,	PUNCT	,	_	14	punct	14:punct	_
+11	but	but	CCONJ	CC	_	14	cc	14:cc	_
+12	only	only	ADV	RB	_	13	advmod	13:advmod	_
+13	one	one	NUM	CD	NumType=Card	14	nsubj	14:nsubj	_
+14	worked	work	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	3:conj:but	SpaceAfter=No
+15	.	.	PUNCT	.	_	3	punct	3:punct	_
+
