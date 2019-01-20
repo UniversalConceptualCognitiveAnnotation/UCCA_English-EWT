@@ -26,7 +26,7 @@
       <attributes />
       <edge toID="1.2" type="H">
         <attributes />
-        <category layer_name="" parent_name="" slot="" tag="H" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" parent_name="" slot="1" tag="H" />
       </edge>
       <edge toID="1.4" type="U">
         <attributes />
@@ -35,7 +35,7 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
-      <extra all_tags="H;UNA" tree_id="36" />
+      <extra tree_id="36" />
       <edge toID="0.2" type="Terminal">
         <attributes />
         <category layer_name="" parent_name="" slot="" tag="Terminal" />

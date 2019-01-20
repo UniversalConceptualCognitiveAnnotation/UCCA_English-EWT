@@ -26,27 +26,27 @@
       <attributes />
       <edge toID="1.2" type="H">
         <attributes />
-        <category layer_name="" parent_name="" slot="" tag="H" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" parent_name="" slot="1" tag="H" />
       </edge>
     </node>
     <node ID="1.2" type="FN">
       <attributes />
-      <extra all_tags="H" tree_id="1" />
+      <extra tree_id="1" />
       <edge toID="1.4" type="S">
         <attributes />
-        <category layer_name="" parent_name="" slot="" tag="S" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" parent_name="" slot="1" tag="S" />
       </edge>
     </node>
     <node ID="1.4" type="FN">
       <attributes />
-      <extra all_tags="S" remarks="Adi:&#10;May I annotate a 'play on words'?" tree_id="1-1" />
+      <extra remarks="Adi:&#10;May I annotate a 'play on words'?" tree_id="1-1" />
       <edge toID="1.5" type="C">
         <attributes />
-        <category layer_name="" parent_name="" slot="" tag="C" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" parent_name="" slot="1" tag="C" />
       </edge>
       <edge toID="1.6" type="F">
         <attributes />
-        <category layer_name="" parent_name="" slot="" tag="F" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" parent_name="" slot="1" tag="F" />
       </edge>
       <edge toID="1.7" type="U">
         <attributes />
@@ -59,7 +59,7 @@
     </node>
     <node ID="1.5" type="FN">
       <attributes />
-      <extra all_tags="C" tree_id="1-1-1" />
+      <extra tree_id="1-1-1" />
       <edge toID="0.1" type="Terminal">
         <attributes />
         <category layer_name="" parent_name="" slot="" tag="Terminal" />
@@ -67,7 +67,7 @@
     </node>
     <node ID="1.6" type="FN">
       <attributes />
-      <extra all_tags="F" tree_id="1-1-2" />
+      <extra tree_id="1-1-2" />
       <edge toID="0.3" type="Terminal">
         <attributes />
         <category layer_name="" parent_name="" slot="" tag="Terminal" />
