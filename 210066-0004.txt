@@ -1,0 +1,15 @@
+# ::id 210066-0004
+# ::tok No problem , sounded like it 's done every day .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.2.2 4-1.2.2 5-1.2.3 7-1.2.5 8-1.2.1.1 9-1.2.1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v4 / label~e.0)
+           :P (v5 / label~e.1))
+    :H (v3 / label
+           :T (v6 / label
+                  :E (v10 / label~e.8)
+                  :C (v11 / label~e.9))
+           :G (v7 / label~e.3,4)
+           :A (v8 / label~e.5)
+           :P (v9 / label~e.7)))

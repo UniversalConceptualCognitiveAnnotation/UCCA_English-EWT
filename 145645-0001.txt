@@ -1,6 +1,7 @@
 # ::id 145645-0001
 # ::tok spoken english rushi
-# ::alignments 0-1.1 1-1.1 2-1.1
+# ::alignments 0-1.1 1-1.1 2-1.2
 # ::format ucca
 (v1 / label
-    :H (v2 / label~e.0,1,2))
+    :H (v2 / label~e.0,1)
+    :H (v3 / label~e.2))

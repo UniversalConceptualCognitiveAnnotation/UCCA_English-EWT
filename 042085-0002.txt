@@ -1,6 +1,6 @@
 # ::id 042085-0002
 # ::tok Took 1 + hour to deliver to Chatham , hair in food , driver did n't know area .
-# ::alignments 0-1.1.2 1-1.1.3.1 3-1.1.3.2 5-1.1.5 6-1.1.6.1 7-1.1.6.2 9-1.2.1 10-1.2.2 11-1.2.3 13-1.3.5.1 15-1.3.1 16-1.3.2 17-1.3.3
+# ::alignments 0-1.1.2 1-1.1.3.1 3-1.1.3.2 5-1.1.5 6-1.1.6.1 7-1.1.6.2 9-1.2.1 10-1.2.2 11-1.2.3 13-1.3.5 15-1.3.1 16-1.3.2 17-1.3.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -21,5 +21,4 @@
            :D (v13 / label~e.15)
            :P (v14 / label~e.16)
            :A (v15 / label~e.17)
-           :A (v16 / label
-                   :P (v21 / label~e.13))))
+           :A (v16 / label~e.13)))

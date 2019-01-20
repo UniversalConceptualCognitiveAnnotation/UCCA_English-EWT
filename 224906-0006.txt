@@ -1,0 +1,39 @@
+# ::id 224906-0006
+# ::tok The only thing I found edible were the potato wedges , I finally gave up , he kept trying - he found the fried wantons to be OK - His Mongolian bowl was awful .
+# ::alignments 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3 5-1.1.4 8-1.1.6.2 9-1.1.6.3 11-1.2.1 12-1.3 13-1.2.2 14-1.2.2 16-1.4.1 17-1.4.2 18-1.4.3 20-1.5.1 21-1.5.2 23-1.5.3.2.2 24-1.5.3.3 27-1.5.6 29-1.6.1.1.2 30-1.6.1.2 31-1.6.1.2 33-1.6.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label
+                  :Q (v24 / label~e.1)
+                  :C (v25 / label~e.2))
+           :A (v9 / label~e.3)
+           :D (v10 / label~e.4)
+           :S (v11 / label~e.5)
+           :A (v12 / label
+                   :E (v26 / label~e.8)
+                   :C (v27 / label~e.9)))
+    :H (v3 / label
+           :A (v13 / label~e.11)
+           :P (v14 / label~e.13,14))
+    :L (v4 / label~e.12)
+    :H (v5 / label
+           :A (v15 / label~e.16)
+           :D (v16 / label~e.17)
+           :P (v17 / label~e.18))
+    :H (v6 / label
+           :A (v18 / label~e.20)
+           :D (v19 / label~e.21)
+           :A (v20 / label
+                   :E (v28 / label
+                           :A (v29 / label~e.24)
+                           :P (v32 / label~e.23))
+                   :C v29)
+           :S (v21 / label~e.27))
+    :H (v7 / label
+           :A (v22 / label
+                   :E (v30 / label
+                           :A (v31 / label~e.30,31)
+                           :A (v33 / label~e.29))
+                   :C v31)
+           :S (v23 / label~e.33)))

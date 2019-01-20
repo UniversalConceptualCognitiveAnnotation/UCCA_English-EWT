@@ -1,0 +1,11 @@
+# ::id 360937-0001
+# ::tok I stopped in today Yards Brewery .
+# ::alignments 0-1.1.2 1-1.1.3.1 3-1.1.4 4-1.1.5 5-1.1.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label
+                  :C (v7 / label~e.1))
+           :T (v5 / label~e.3)
+           :A (v6 / label~e.4,5)))

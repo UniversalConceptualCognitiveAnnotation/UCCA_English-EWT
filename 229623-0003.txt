@@ -1,0 +1,30 @@
+# ::id 229623-0003
+# ::tok It 's not the classiest place , but it was cleaner than I expected and the staff was very friendly .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1.2 4-1.1.3.1.3.2 5-1.1.3.2 7-1.2 8-1.3.1 10-1.3.3 11-1.4 12-1.5.1 13-1.5.2 14-1.6 16-1.7.1.2 18-1.7.3 19-1.7.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v9 / label~e.0)
+           :S (v10 / label~e.1)
+           :A (v11 / label
+                   :E (v19 / label
+                           :A (v20 / label~e.5)
+                           :D (v22 / label~e.2)
+                           :S (v23 / label
+                                   :C (v24 / label~e.4)))
+                   :C v20))
+    :L (v3 / label~e.7)
+    :H (v4 / label
+           :A (v12 / label~e.8)
+           :S (v13 / label~e.10))
+    :L (v5 / label~e.11)
+    :H (v6 / label
+           :A (v14 / label~e.12)
+           :P (v15 / label~e.13)
+           :A v13)
+    :L (v7 / label~e.14)
+    :H (v8 / label
+           :A (v16 / label
+                   :C (v21 / label~e.16))
+           :D (v17 / label~e.18)
+           :S (v18 / label~e.19)))
