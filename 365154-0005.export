@@ -1,29 +1,15 @@
 #BOS 365154-0005
-Good	Word	--	Terminal	500
-luck	Word	--	Terminal	500
-keeping	Word	--	Terminal	501
-business	Word	--	Terminal	502
-with	Word	--	Terminal	503
-that	Word	--	Terminal	504
-stuck	Word	--	Terminal	505
-up	Word	--	Terminal	505
-attitude	Word	--	Terminal	506
-Dr.	Word	--	Terminal	507
-Shady	Word	--	Terminal	508
-.	Punctuation	--	Terminal	509
-#500	FN	--	F	513
-#501	FN	--	D	513
-#502	FN	--	P	513
-#503	FN	--	R	512
-#504	FN	--	E	510
-#505	FN	--	D	512
-#506	FN	--	C	510
-#507	FN	--	E	511
-#508	FN	--	C	511
-#509	PNCT	--	U	511
-#510	FN	--	P	512
-#511	FN	--	A	513	A*	512
-#512	FN	--	A	513
-#513	FN	--	H	514
-#514	FN	--	--	0
+"	Punctuation	--	Terminal	500
+is	Word	--	Terminal	501
+a	Word	--	Terminal	502
+jerk	Word	--	Terminal	503
+.	Punctuation	--	Terminal	504
+#500	PNCT	--	U	506
+#501	FN	--	F	506
+#502	FN	--	F	505
+#503	FN	--	C	505
+#504	PNCT	--	U	505
+#505	FN	--	S	506
+#506	FN	--	H	507
+#507	FN	--	--	0
 #EOS 365154-0005

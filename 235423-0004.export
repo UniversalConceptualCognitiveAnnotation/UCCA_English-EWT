@@ -1,0 +1,59 @@
+#BOS 235423-0004
+I	Word	--	Terminal	500
+called	Word	--	Terminal	501
+in	Word	--	Terminal	502
+my	Word	--	Terminal	503
+order	Word	--	Terminal	504
+and	Word	--	Terminal	505
+upon	Word	--	Terminal	506
+arriving	Word	--	Terminal	507
+to	Word	--	Terminal	508
+pick	Word	--	Terminal	509
+it	Word	--	Terminal	510
+up	Word	--	Terminal	509
+,	Punctuation	--	Terminal	511
+they	Word	--	Terminal	512
+got	Word	--	Terminal	513
+my	Word	--	Terminal	514
+order	Word	--	Terminal	515
+confused	Word	--	Terminal	516
+with	Word	--	Terminal	517
+someone	Word	--	Terminal	518
+else	Word	--	Terminal	519
+s	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	A	530	A*	522	A*	523
+#501	FN	--	C	524
+#502	FN	--	F	524
+#503	FN	--	S	525
+#504	FN	--	C	526	A*	525
+#505	FN	--	L	533
+#506	FN	--	R	522
+#507	FN	--	P	522
+#508	FN	--	L	533
+#509	FN	--	P	523
+#510	FN	--	A	523
+#511	PNCT	--	U	533
+#512	FN	--	A	532
+#513	FN	--	D	532
+#514	FN	--	S	527
+#515	FN	--	C	528	C*	531	A*	527
+#516	FN	--	P	532
+#517	FN	--	R	531
+#518	FN	--	C	529
+#519	FN	--	R	529
+#520	FN	--	R	529
+#521	PNCT	--	U	529
+#522	FN	--	H	533
+#523	FN	--	H	533
+#524	FN	--	P	530
+#525	FN	--	E	526
+#526	FN	--	A	530
+#527	FN	--	E	528
+#528	FN	--	A	532
+#529	FN	--	E	531
+#530	FN	--	H	533
+#531	FN	--	A	532
+#532	FN	--	H	533
+#533	FN	--	--	0
+#EOS 235423-0004

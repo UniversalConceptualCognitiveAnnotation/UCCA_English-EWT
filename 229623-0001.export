@@ -1,0 +1,41 @@
+#BOS 229623-0001
+A	Word	--	Terminal	500
+friend	Word	--	Terminal	501
+and	Word	--	Terminal	502
+I	Word	--	Terminal	503
+recently	Word	--	Terminal	504
+took	Word	--	Terminal	505
+our	Word	--	Terminal	506
+16	Word	--	Terminal	517
+and	Word	--	Terminal	507
+18	Word	--	Terminal	508
+month	Word	--	Terminal	509
+olds	Word	--	Terminal	510
+here	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	F	513
+#501	FN	--	C	513
+#502	FN	--	N	515
+#503	FN	--	C	515	A*	514
+#504	FN	--	T	523
+#505	FN	--	P	523
+#506	FN	--	A	522
+#507	FN	--	L	520
+#508	FN	--	Q	516
+#509	FN	--	C	516	C*	517
+#510	FN	--	S	519	S*	518
+#511	FN	--	A	523
+#512	PNCT	--	U	523
+#513	FN	--	A	514
+#514	FN	--	C	515
+#515	FN	--	A	523
+#516	FN	--	T	519
+#517	FN	--	T	518
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	A	522
+#521	FN	--	S	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 229623-0001

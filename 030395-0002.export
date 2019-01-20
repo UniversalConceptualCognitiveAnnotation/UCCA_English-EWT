@@ -15,28 +15,27 @@ fast	Word	--	Terminal	512
 food	Word	--	Terminal	512
 style	Word	--	Terminal	513
 .	Punctuation	--	Terminal	514
-#500	FN	--	A	522
-#501	FN	--	P	522
+#500	FN	--	A	521
+#501	FN	--	P	521
 #502	FN	--	S	515
 #503	PNCT	--	U	517
 #504	FN	--	D	516
 #505	FN	--	S	516
 #506	FN	--	C	517	A*	515	A*	516
-#507	FN	--	R	521
-#508	FN	--	E	518
+#507	FN	--	R	520
+#508	FN	--	F	518
 #509	FN	--	S	519
 #510	FN	--	C	518
-#511	PNCT	--	U	521
-#512	FN	--	C	520
-#513	FN	--	E	520
+#511	PNCT	--	U	518
+#512	FN	--	C	518
+#513	FN	--	C	520	A*	519
 #514	PNCT	--	U	520
 #515	FN	--	E	517
 #516	FN	--	E	517
-#517	FN	--	A	522
-#518	FN	--	A	519
-#519	FN	--	C	521
-#520	FN	--	C	521
-#521	FN	--	A	522
-#522	FN	--	H	523
-#523	FN	--	--	0
+#517	FN	--	A	521
+#518	FN	--	E	520
+#519	FN	--	E	520
+#520	FN	--	D	521
+#521	FN	--	H	522
+#522	FN	--	--	0
 #EOS 030395-0002

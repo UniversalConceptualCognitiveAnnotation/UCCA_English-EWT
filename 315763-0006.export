@@ -1,0 +1,37 @@
+#BOS 315763-0006
+I	Word	--	Terminal	500
+have	Word	--	Terminal	501
+never	Word	--	Terminal	502
+had	Word	--	Terminal	503
+any	Word	--	Terminal	504
+problems	Word	--	Terminal	505
+with	Word	--	Terminal	506
+loud	Word	--	Terminal	507
+neighbors	Word	--	Terminal	508
+or	Word	--	Terminal	509
+concerns	Word	--	Terminal	510
+about	Word	--	Terminal	511
+safety	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	A	518	A*	519
+#501	FN	--	F	518
+#502	FN	--	D	518	D*	519
+#503	FN	--	F	514
+#504	FN	--	D	518
+#505	FN	--	C	514
+#506	FN	--	R	516
+#507	FN	--	S	515
+#508	FN	--	C	516	A*	515
+#509	FN	--	L	520
+#510	FN	--	S	519
+#511	FN	--	R	517
+#512	FN	--	C	517
+#513	PNCT	--	U	517
+#514	FN	--	P	518
+#515	FN	--	E	516
+#516	FN	--	A	518
+#517	FN	--	A	519
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 315763-0006

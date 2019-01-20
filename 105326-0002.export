@@ -1,0 +1,27 @@
+#BOS 105326-0002
++	Punctuation	--	Terminal	500
+there	Word	--	Terminal	501
+is	Word	--	Terminal	502
+a	Word	--	Terminal	503
+free	Word	--	Terminal	504
+cola	Word	--	Terminal	505
+with	Word	--	Terminal	506
+every	Word	--	Terminal	507
+pizza	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	PNCT	--	U	513
+#501	FN	--	F	513
+#502	FN	--	S	513
+#503	FN	--	F	511
+#504	FN	--	S	510
+#505	FN	--	C	511	A*	510
+#506	FN	--	R	512
+#507	FN	--	Q	512
+#508	FN	--	C	512
+#509	PNCT	--	U	512
+#510	FN	--	E	511
+#511	FN	--	A	513
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 105326-0002
