@@ -30,6 +30,11 @@ for xml in xml/*; do
   printf "\rSplitting $xml to sentences... ($i/$total)"
   i=$((i+1))
   python -m scripts.standard_to_sentences "${xml}" --sentences "ud/${doc_id}.txt" -o sentences_by_ud -b --suffix-format='-%04d' --suffix-start=1 2>/dev/null || exit 1
+  python -m scripts.standard_to_text "sentences_by_ud/${doc_id}-"* -o txt 2>/dev/null || exit 1
+  for sentence in "sentences_by_ud/${doc_id}-"*; do
+    txt=${sentence#*/}
+    sed 's/^/^/' "txt/${txt%.*}.txt" | grep -qf- "ud/${doc_id}.txt" || rm -fv "${sentence}"
+  done
 done
 echo
 echo Wrote sentences_by_ud
