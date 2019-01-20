@@ -1,34 +1,25 @@
 # format = ucca
 # sent_id = 391012-0006
-# text = The craziest part is that they are n't even based locally at the city I 'm in - they just have ' teams ' in areas through the country .
-1	The	_	Word	Word	_	21	L	21:L	_
-2	craziest	_	Word	Word	_	1	Terminal	1:Terminal	_
-3	part	_	Word	Word	_	1	Terminal	1:Terminal	_
-4	is	_	Word	Word	_	1	Terminal	1:Terminal	_
-5	that	_	Word	Word	_	10	R	10:R	_
-6	they	_	Word	Word	_	10	A	10:A	_
-7	are	_	Word	Word	_	10	F	10:F	_
-8	n't	_	Word	Word	_	10	D	10:D	_
-9	even	_	Word	Word	_	10	D	10:D	_
-10	based	_	Word	Word	_	0	H	0:H	_
-11	locally	_	Word	Word	_	10	A	10:A	_
-12	at	_	Word	Word	_	17	R	17:R	_
-13	the	_	Word	Word	_	14	F	14:F	_
-14	city	_	Word	Word	_	17	A	17:A	_
-15	I	_	Word	Word	_	17	A	17:A	_
-16	'm	_	Word	Word	_	17	F	17:F	_
-17	in	_	Word	Word	_	10	A	10:A	_
-18	-	_	Punctuation	Punctuation	_	10	U	10:U	_
-19	they	_	Word	Word	_	21	A	21:A	_
-20	just	_	Word	Word	_	21	D	21:D	_
-21	have	_	Word	Word	_	10	H	10:H	_
-22	'	_	Punctuation	Punctuation	_	21	U	21:U	_
-23	teams	_	Word	Word	_	21	A	21:A	_
-24	'	_	Punctuation	Punctuation	_	21	U	21:U	_
-25	in	_	Word	Word	_	26	R	26:R	_
-26	areas	_	Word	Word	_	21	A	21:A	_
-27	through	_	Word	Word	_	29	R	29:R	_
-28	the	_	Word	Word	_	29	F	29:F	_
-29	country	_	Word	Word	_	26	E	26:E	_
-30	.	_	Punctuation	Punctuation	_	29	U	29:U	_
+# text = On a recent event quote that I had done , they came in thousands of dollars over their local competition .
+1	On	_	Word	Word	_	12	L	12:L	_
+2	a	_	Word	Word	_	4	F	4:F	_
+3	recent	_	Word	Word	_	5	T	5:T	_
+4	event	_	Word	Word	_	5	A	5:A	_
+5	quote	_	Word	Word	_	0	H	0:H	_
+6	that	_	Word	Word	_	5	F	5:F	_
+7	I	_	Word	Word	_	5	A	5:A	_
+8	had	_	Word	Word	_	5	F	5:F	_
+9	done	_	Word	Word	_	5	D	5:D	_
+10	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+11	they	_	Word	Word	_	12	A	12:A	_
+12	came	_	Word	Word	_	5	H	5:H	_
+13	in	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	thousands	_	Word	Word	_	16	Q	16:Q	_
+15	of	_	Word	Word	_	16	F	16:F	_
+16	dollars	_	Word	Word	_	20	A	20:A	_
+17	over	_	Word	Word	_	16	R	16:R	_
+18	their	_	Word	Word	_	20	A	20:A	_
+19	local	_	Word	Word	_	20	D	20:D	_
+20	competition	_	Word	Word	_	12	A	12:A	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
 

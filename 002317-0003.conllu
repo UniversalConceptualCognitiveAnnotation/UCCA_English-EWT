@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 002317-0003
-# text = thank you
-1	thank	_	Word	Word	_	0	H	0:H	_
-2	you	_	Word	Word	_	1	Terminal	1:Terminal	_
+# text = telephone number
+1	telephone	_	Word	Word	_	2	E	2:E	_
+2	number	_	Word	Word	_	0	H	0:H	_
 

@@ -1,18 +1,18 @@
 # format = ucca
 # sent_id = 214912-0004
 # text = Your children will be taken care of and loved by a professional staff .
-1	Your	_	Word	Word	_	2	E	2:E	_
-2	children	_	Word	Word	_	0	C	0:C|9:A	_
-3	will	_	Word	Word	_	6	F	6:F	_
-4	be	_	Word	Word	_	6	F	6:F	_
-5	taken	_	Word	Word	_	6	F	6:F	_
-6	care	_	Word	Word	_	0	H	0:H	_
-7	of	_	Word	Word	_	6	R	6:R	_
+1	Your	_	Word	Word	_	5	A	5:A	_
+2	children	_	Word	Word	_	1	A	1:A|9:A	_
+3	will	_	Word	Word	_	5	F	5:F	_
+4	be	_	Word	Word	_	5	F	5:F	_
+5	taken	_	Word	Word	_	0	H	0:H	_
+6	care	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	of	_	Word	Word	_	5	Terminal	5:Terminal	_
 8	and	_	Word	Word	_	9	L	9:L	_
-9	loved	_	Word	Word	_	6	H	6:H	_
-10	by	_	Word	Word	_	12	R	12:R	_
-11	a	_	Word	Word	_	13	E	13:E	_
-12	professional	_	Word	Word	_	9	A	9:A	_
-13	staff	_	Word	Word	_	12	A	12:A	_
+9	loved	_	Word	Word	_	5	H	5:H	_
+10	by	_	Word	Word	_	13	R	13:R	_
+11	a	_	Word	Word	_	13	F	13:F	_
+12	professional	_	Word	Word	_	13	D	13:D	_
+13	staff	_	Word	Word	_	9	A	9:A	_
 14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
 

@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 011257-0003
+# text = She sort of appologized for Dan taking the day off to go skiing - but he could do the repair on Sunday !
+1	She	_	Word	Word	_	4	A	4:A	_
+2	sort	_	Word	Word	_	4	D	4:D	_
+3	of	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	appologized	_	Word	Word	_	0	H	0:H	_
+5	for	_	Word	Word	_	7	R	7:R	_
+6	Dan	_	Word	Word	_	7	A	7:A|13:A	_
+7	taking	_	Word	Word	_	4	A	4:A	_
+8	the	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	day	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	off	_	Word	Word	_	7	Terminal	7:Terminal	_
+11	to	_	Word	Word	_	13	F	13:F	_
+12	go	_	Word	Word	_	13	F	13:F	_
+13	skiing	_	Word	Word	_	7	A	7:A	_
+14	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+15	but	_	Word	Word	_	20	L	20:L	_
+16	he	_	Word	Word	_	20	A	20:A	_
+17	could	_	Word	Word	_	20	D	20:D	_
+18	do	_	Word	Word	_	20	F	20:F	_
+19	the	_	Word	Word	_	20	F	20:F	_
+20	repair	_	Word	Word	_	4	H	4:H	_
+21	on	_	Word	Word	_	22	R	22:R	_
+22	Sunday	_	Word	Word	_	20	T	20:T	_
+23	!	_	Punctuation	Punctuation	_	22	U	22:U	_
+
