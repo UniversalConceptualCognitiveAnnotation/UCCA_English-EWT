@@ -1,20 +1,19 @@
 # format = ucca
 # sent_id = 034313-0003
-# text = . He cross examined witnesses relentlessly and had them break down and tell the truth .
-1	.	_	Punctuation	Punctuation	_	13	U	13:U	_
-2	He	_	Word	Word	_	3	A	3:A|10:A|13:A	_
-3	cross	_	Word	Word	_	0	H	0:H	_
-4	examined	_	Word	Word	_	3	Terminal	3:Terminal	_
-5	witnesses	_	Word	Word	_	3	A	3:A	_
-6	relentlessly	_	Word	Word	_	3	D	3:D	_
-7	and	_	Word	Word	_	10	L	10:L	_
-8	had	_	Word	Word	_	10	D	10:D|13:A	_
-9	them	_	Word	Word	_	10	A	10:A|13:A	_
-10	break	_	Word	Word	_	3	H	3:H	_
-11	down	_	Word	Word	_	10	Terminal	10:Terminal	_
-12	and	_	Word	Word	_	13	L	13:L	_
-13	tell	_	Word	Word	_	3	H	3:H	_
-14	the	_	Word	Word	_	15	E	15:E	_
-15	truth	_	Word	Word	_	13	A	13:A	_
-16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+# text = He cross examined witnesses relentlessly and had them break down and tell the truth .
+1	He	_	Word	Word	_	2	A	2:A|9:A|12:A	_
+2	cross	_	Word	Word	_	0	H	0:H	_
+3	examined	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	witnesses	_	Word	Word	_	2	A	2:A	_
+5	relentlessly	_	Word	Word	_	2	D	2:D	_
+6	and	_	Word	Word	_	9	L	9:L	_
+7	had	_	Word	Word	_	9	D	9:D|12:A	_
+8	them	_	Word	Word	_	9	A	9:A|12:A	_
+9	break	_	Word	Word	_	2	H	2:H	_
+10	down	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	and	_	Word	Word	_	12	L	12:L	_
+12	tell	_	Word	Word	_	2	H	2:H	_
+13	the	_	Word	Word	_	14	E	14:E	_
+14	truth	_	Word	Word	_	12	A	12:A	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
 
