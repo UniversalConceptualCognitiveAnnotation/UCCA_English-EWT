@@ -1,7 +1,29 @@
 # ::id 365630-0003
-# ::tok A +
-# ::alignments 0-1.1.2
+# ::tok He took the time to explain things to me about my computer , i would recommend you go to him .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 3-1.1.2 5-1.1.4 6-1.1.5 7-1.1.6.1 8-1.1.6.2 9-1.1.7.1 10-1.1.7.2.2 11-1.1.7.3 13-1.2.1 14-1.2.2 15-1.2.3 16-1.2.4.1 17-1.2.4.2 18-1.2.4.3.1 19-1.2.4.3.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :Q (v3 / label~e.0)))
+           :A (v4 / label~e.0)
+           :D (v5 / label~e.1,2,3)
+           :P (v6 / label~e.5)
+           :A (v7 / label~e.6)
+           :A (v8 / label
+                  :R (v14 / label~e.7)
+                  :C (v15 / label~e.8))
+           :A (v9 / label
+                  :R (v16 / label~e.9)
+                  :E (v17 / label
+                          :A (v18 / label~e.11)
+                          :S (v22 / label~e.10))
+                  :C v18))
+    :H (v3 / label
+           :A (v10 / label~e.13)
+           :D (v11 / label~e.14)
+           :P (v12 / label~e.15)
+           :A (v13 / label
+                   :A (v19 / label~e.16)
+                   :P (v20 / label~e.17)
+                   :A (v21 / label
+                           :R (v23 / label~e.18)
+                           :C (v24 / label~e.19)))))
