@@ -1,17 +1,26 @@
 # format = ucca
 # sent_id = 206303-0004
-# text = Always professional and reliable , sessions are good fun and suitably challenging .
-1	Always	_	Word	Word	_	2	T	2:T	_
-2	professional	_	Word	Word	_	0	H	0:H	_
-3	and	_	Word	Word	_	4	L	4:L	_
-4	reliable	_	Word	Word	_	2	H	2:H	_
-5	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-6	sessions	_	Word	Word	_	9	A	9:A|12:A	_
-7	are	_	Word	Word	_	9	F	9:F	_
-8	good	_	Word	Word	_	9	D	9:D	_
-9	fun	_	Word	Word	_	2	H	2:H	_
-10	and	_	Word	Word	_	12	L	12:L	_
-11	suitably	_	Word	Word	_	12	D	12:D	_
-12	challenging	_	Word	Word	_	2	H	2:H	_
-13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+# text = She really listens to what it is you would like to achieve , and I am very happy with my results .
+1	She	_	Word	Word	_	3	A	3:A	_
+2	really	_	Word	Word	_	3	D	3:D	_
+3	listens	_	Word	Word	_	0	H	0:H	_
+4	to	_	Word	Word	_	12	R	12:R	_
+5	what	_	Word	Word	_	12	A	12:A	_
+6	it	_	Word	Word	_	12	F	12:F	_
+7	is	_	Word	Word	_	12	F	12:F	_
+8	you	_	Word	Word	_	12	A	12:A	_
+9	would	_	Word	Word	_	12	F	12:F	_
+10	like	_	Word	Word	_	12	F	12:F	_
+11	to	_	Word	Word	_	12	F	12:F	_
+12	achieve	_	Word	Word	_	3	A	3:A	_
+13	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+14	and	_	Word	Word	_	18	L	18:L	_
+15	I	_	Word	Word	_	18	A	18:A	_
+16	am	_	Word	Word	_	18	F	18:F	_
+17	very	_	Word	Word	_	18	D	18:D	_
+18	happy	_	Word	Word	_	3	H	3:H	_
+19	with	_	Word	Word	_	21	R	21:R	_
+20	my	_	Word	Word	_	21	E	21:E	_
+21	results	_	Word	Word	_	18	A	18:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
 

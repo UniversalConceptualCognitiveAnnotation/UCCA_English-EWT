@@ -1,22 +1,10 @@
 # format = ucca
 # sent_id = 365154-0006
-# text = After the way she spoke to me on my last visit , I will not be returning !!
-1	After	_	Word	Word	_	11	L	11:L	_
-2	the	_	Word	Word	_	3	F	3:F	_
-3	way	_	Word	Word	_	5	D	5:D	_
-4	she	_	Word	Word	_	5	A	5:A	_
-5	spoke	_	Word	Word	_	0	H	0:H	_
-6	to	_	Word	Word	_	7	R	7:R	_
-7	me	_	Word	Word	_	5	A	5:A	_
-8	on	_	Word	Word	_	11	L	11:L	_
-9	my	_	Word	Word	_	11	A	11:A	_
-10	last	_	Word	Word	_	11	D	11:D	_
-11	visit	_	Word	Word	_	5	H	5:H	_
-12	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-13	I	_	Word	Word	_	17	A	17:A	_
-14	will	_	Word	Word	_	17	F	17:F	_
-15	not	_	Word	Word	_	17	D	17:D	_
-16	be	_	Word	Word	_	17	F	17:F	_
-17	returning	_	Word	Word	_	5	H	5:H	_
-18	!!	_	Punctuation	Punctuation	_	17	U	17:U	_
+# text = You have just lost mine .
+1	You	_	Word	Word	_	4	A	4:A	_
+2	have	_	Word	Word	_	4	F	4:F	_
+3	just	_	Word	Word	_	4	T	4:T	_
+4	lost	_	Word	Word	_	0	H	0:H	_
+5	mine	_	Word	Word	_	4	A	4:A	_
+6	.	_	Punctuation	Punctuation	_	4	U	4:U	_
 
