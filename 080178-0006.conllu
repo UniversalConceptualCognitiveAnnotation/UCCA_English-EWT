@@ -3,14 +3,14 @@
 # text = They know their job and you do not have to watch them to be sure everything is done right .
 1	They	_	Word	Word	_	2	A	2:A	_
 2	know	_	Word	Word	_	0	H	0:H	_
-3	their	_	Word	Word	_	4	E	4:E	_
-4	job	_	Word	Word	_	0	P	0:P|3:A	_
+3	their	_	Word	Word	_	4	A	4:A	_
+4	job	_	Word	Word	_	2	A	2:A	_
 5	and	_	Word	Word	_	11	L	11:L	_
 6	you	_	Word	Word	_	11	A	11:A|15:A	_
 7	do	_	Word	Word	_	11	F	11:F	_
 8	not	_	Word	Word	_	11	D	11:D	_
 9	have	_	Word	Word	_	11	D	11:D	_
-10	to	_	Word	Word	_	11	F	11:F	_
+10	to	_	Word	Word	_	9	Terminal	9:Terminal	_
 11	watch	_	Word	Word	_	2	H	2:H	_
 12	them	_	Word	Word	_	11	A	11:A	_
 13	to	_	Word	Word	_	15	L	15:L	_

@@ -2,8 +2,8 @@
 # sent_id = 229442-0001
 # text = nice friendly local bagel place
 1	nice	_	Word	Word	_	0	H	0:H	_
-2	friendly	_	Word	Word	_	1	H	1:H	_
-3	local	_	Word	Word	_	5	E	5:E	_
+2	friendly	_	Word	Word	_	1	C	1:C	_
+3	local	_	Word	Word	_	1	C	1:C	_
 4	bagel	_	Word	Word	_	5	E	5:E	_
-5	place	_	Word	Word	_	0	C	0:C|1:A	_
+5	place	_	Word	Word	_	1	A	1:A	_
 

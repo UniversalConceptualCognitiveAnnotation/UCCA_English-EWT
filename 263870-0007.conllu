@@ -2,19 +2,19 @@
 # sent_id = 263870-0007
 # text = VCU also offers high - rise living for students and professors , and the historic yet fixed - up houses in the Fan are also available to students , professors , or even people wanting to live in a safe , viable community .
 1	VCU	_	Word	Word	_	3	A	3:A	_
-2	also	_	Word	Word	_	26	L	26:L	_
+2	also	_	Word	Word	_	3	D	3:D	_
 3	offers	_	Word	Word	_	0	H	0:H	_
-4	high	_	Word	Word	_	7	D	7:D	_
-5	-	_	Punctuation	Punctuation	_	4	U	4:U	_
-6	rise	_	Word	Word	_	4	Terminal	4:Terminal	_
+4	high	_	Word	Word	_	6	E	6:E	_
+5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	rise	_	Word	Word	_	7	A	7:A	_
 7	living	_	Word	Word	_	3	A	3:A	_
 8	for	_	Word	Word	_	9	R	9:R	_
 9	students	_	Word	Word	_	3	A	3:A	_
-10	and	_	Word	Word	_	9	N	9:N	_
-11	professors	_	Word	Word	_	9	C	9:C	_
+10	and	_	Word	Word	_	11	L	11:L	_
+11	professors	_	Word	Word	_	9	H	9:H	_
 12	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 13	and	_	Word	Word	_	26	L	26:L	_
-14	the	_	Word	Word	_	15	E	15:E	_
+14	the	_	Word	Word	_	15	F	15:F	_
 15	historic	_	Word	Word	_	20	E	20:E	_
 16	yet	_	Word	Word	_	17	L	17:L	_
 17	fixed	_	Word	Word	_	20	E	20:E	_
@@ -22,7 +22,7 @@
 19	up	_	Word	Word	_	17	Terminal	17:Terminal	_
 20	houses	_	Word	Word	_	26	A	26:A	_
 21	in	_	Word	Word	_	23	R	23:R	_
-22	the	_	Word	Word	_	23	E	23:E	_
+22	the	_	Word	Word	_	23	F	23:F	_
 23	Fan	_	Word	Word	_	20	E	20:E	_
 24	are	_	Word	Word	_	26	F	26:F	_
 25	also	_	Word	Word	_	26	D	26:D	_
@@ -30,16 +30,16 @@
 27	to	_	Word	Word	_	28	R	28:R	_
 28	students	_	Word	Word	_	26	A	26:A	_
 29	,	_	Punctuation	Punctuation	_	28	U	28:U	_
-30	professors	_	Word	Word	_	28	C	28:C	_
+30	professors	_	Word	Word	_	28	H	28:H	_
 31	,	_	Punctuation	Punctuation	_	28	U	28:U	_
-32	or	_	Word	Word	_	28	N	28:N	_
-33	even	_	Word	Word	_	37	G	37:G	_
+32	or	_	Word	Word	_	37	L	37:L	_
+33	even	_	Word	Word	_	37	R	37:R	_
 34	people	_	Word	Word	_	37	A	37:A	_
 35	wanting	_	Word	Word	_	37	D	37:D	_
 36	to	_	Word	Word	_	37	F	37:F	_
-37	live	_	Word	Word	_	28	C	28:C	_
+37	live	_	Word	Word	_	28	H	28:H	_
 38	in	_	Word	Word	_	43	R	43:R	_
-39	a	_	Word	Word	_	43	E	43:E	_
+39	a	_	Word	Word	_	43	F	43:F	_
 40	safe	_	Word	Word	_	43	E	43:E	_
 41	,	_	Punctuation	Punctuation	_	43	U	43:U	_
 42	viable	_	Word	Word	_	43	E	43:E	_

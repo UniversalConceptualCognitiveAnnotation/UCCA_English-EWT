@@ -2,9 +2,9 @@
 # sent_id = 267732-0003
 # text = November 7 , 2010 First time eating at Caffe Bella Italia and it was a wonderful experience .
 1	November	_	Word	Word	_	7	T	7:T	_
-2	7	_	Word	Word	_	1	Terminal	1:Terminal	_
+2	7	_	Word	Word	_	1	C	1:C	_
 3	,	_	Punctuation	Punctuation	_	1	U	1:U	_
-4	2010	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	2010	_	Word	Word	_	1	C	1:C	_
 5	First	_	Word	Word	_	6	Q	6:Q	_
 6	time	_	Word	Word	_	7	D	7:D	_
 7	eating	_	Word	Word	_	0	H	0:H	_
@@ -13,9 +13,9 @@
 10	Bella	_	Word	Word	_	9	Terminal	9:Terminal	_
 11	Italia	_	Word	Word	_	9	Terminal	9:Terminal	_
 12	and	_	Word	Word	_	17	L	17:L	_
-13	it	_	Word	Word	_	17	A	17:A	_
+13	it	_	Word	Word	_	17	F	17:F	_
 14	was	_	Word	Word	_	17	F	17:F	_
-15	a	_	Word	Word	_	17	E	17:E	_
+15	a	_	Word	Word	_	17	F	17:F	_
 16	wonderful	_	Word	Word	_	17	D	17:D	_
 17	experience	_	Word	Word	_	7	H	7:H	_
 18	.	_	Punctuation	Punctuation	_	17	U	17:U	_

@@ -9,7 +9,7 @@
 6	you	_	Word	Word	_	10	A	10:A	_
 7	never	_	Word	Word	_	10	T	10:T	_
 8	have	_	Word	Word	_	10	D	10:D	_
-9	to	_	Word	Word	_	10	F	10:F	_
+9	to	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	wait	_	Word	Word	_	4	H	4:H	_
 11	long	_	Word	Word	_	10	T	10:T	_
 12	because	_	Word	Word	_	15	L	15:L	_
@@ -18,11 +18,11 @@
 15	orginizied	_	Word	Word	_	4	H	4:H	_
 16	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 17	so	_	Word	Word	_	20	L	20:L	_
-18	you	_	Word	Word	_	20	A	20:A|22:A|25:A	_
+18	you	_	Word	Word	_	20	A	20:A|25:A	_
 19	are	_	Word	Word	_	20	F	20:F	_
 20	in	_	Word	Word	_	4	H	4:H	_
-21	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-22	out	_	Word	Word	_	4	H	4:H	_
+21	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	out	_	Word	Word	_	20	C	20:C	_
 23	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 24	and	_	Word	Word	_	25	L	25:L	_
 25	paid	_	Word	Word	_	4	H	4:H	_

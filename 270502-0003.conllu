@@ -1,18 +1,18 @@
 # format = ucca
 # sent_id = 270502-0003
 # text = They interviewed me , gave me tests in the software I included on my resume , and placed me in a position that I kept for several years .
-1	They	_	Word	Word	_	2	A	2:A|5:A|18:A	_
+1	They	_	Word	Word	_	2	A	2:A|7:A|18:A	_
 2	interviewed	_	Word	Word	_	0	H	0:H	_
 3	me	_	Word	Word	_	2	A	2:A	_
 4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-5	gave	_	Word	Word	_	2	H	2:H	_
-6	me	_	Word	Word	_	5	A	5:A	_
-7	tests	_	Word	Word	_	5	A	5:A	_
+5	gave	_	Word	Word	_	7	D	7:D	_
+6	me	_	Word	Word	_	7	A	7:A	_
+7	tests	_	Word	Word	_	2	H	2:H	_
 8	in	_	Word	Word	_	12	R	12:R	_
-9	the	_	Word	Word	_	10	E	10:E	_
+9	the	_	Word	Word	_	10	F	10:F	_
 10	software	_	Word	Word	_	12	A	12:A	_
 11	I	_	Word	Word	_	12	A	12:A	_
-12	included	_	Word	Word	_	5	A	5:A	_
+12	included	_	Word	Word	_	7	A	7:A	_
 13	on	_	Word	Word	_	15	R	15:R	_
 14	my	_	Word	Word	_	15	E	15:E	_
 15	resume	_	Word	Word	_	12	A	12:A	_
@@ -21,11 +21,11 @@
 18	placed	_	Word	Word	_	2	H	2:H	_
 19	me	_	Word	Word	_	18	A	18:A	_
 20	in	_	Word	Word	_	22	R	22:R	_
-21	a	_	Word	Word	_	22	E	22:E	_
-22	position	_	Word	Word	_	25	A	25:A	_
-23	that	_	Word	Word	_	25	F	25:F	_
+21	a	_	Word	Word	_	22	F	22:F	_
+22	position	_	Word	Word	_	18	A	18:A	_
+23	that	_	Word	Word	_	25	R	25:R	_
 24	I	_	Word	Word	_	25	A	25:A	_
-25	kept	_	Word	Word	_	18	A	18:A	_
+25	kept	_	Word	Word	_	22	E	22:E	_
 26	for	_	Word	Word	_	28	R	28:R	_
 27	several	_	Word	Word	_	28	Q	28:Q	_
 28	years	_	Word	Word	_	25	T	25:T	_

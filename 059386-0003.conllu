@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 059386-0003
 # text = Wait staff is always ready to help if you ca n't decide ( which happens every time for me d / t the huge menu of rolls ) and always courteous !
-1	Wait	_	Word	Word	_	2	E	2:E	_
-2	staff	_	Word	Word	_	0	S	0:S|31:A	_
+1	Wait	_	Word	Word	_	7	A	7:A	_
+2	staff	_	Word	Word	_	1	A	1:A|31:A	_
 3	is	_	Word	Word	_	7	F	7:F	_
 4	always	_	Word	Word	_	7	T	7:T	_
 5	ready	_	Word	Word	_	7	D	7:D	_
@@ -23,7 +23,7 @@
 20	d	_	Word	Word	_	24	L	24:L	_
 21	/	_	Punctuation	Punctuation	_	20	U	20:U	_
 22	t	_	Word	Word	_	20	Terminal	20:Terminal	_
-23	the	_	Word	Word	_	25	E	25:E	_
+23	the	_	Word	Word	_	25	F	25:F	_
 24	huge	_	Word	Word	_	7	H	7:H	_
 25	menu	_	Word	Word	_	24	A	24:A	_
 26	of	_	Word	Word	_	27	R	27:R	_

@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 194830-0002
 # text = The First time I walked in there with my teacup chihuahua puppy I knew I 'd be here a lot .
-1	The	_	Word	Word	_	14	L	14:L	_
-2	First	_	Word	Word	_	1	Terminal	1:Terminal	_
-3	time	_	Word	Word	_	1	Terminal	1:Terminal	_
+1	The	_	Word	Word	_	3	F	3:F	_
+2	First	_	Word	Word	_	3	Q	3:Q	_
+3	time	_	Word	Word	_	5	D	5:D	_
 4	I	_	Word	Word	_	5	A	5:A	_
 5	walked	_	Word	Word	_	0	H	0:H	_
 6	in	_	Word	Word	_	5	D	5:D	_
@@ -19,7 +19,7 @@
 16	'd	_	Word	Word	_	17	D	17:D	_
 17	be	_	Word	Word	_	14	A	14:A	_
 18	here	_	Word	Word	_	17	A	17:A	_
-19	a	_	Word	Word	_	17	Q	17:Q	_
-20	lot	_	Word	Word	_	19	Terminal	19:Terminal	_
-21	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+19	a	_	Word	Word	_	20	F	20:F	_
+20	lot	_	Word	Word	_	17	D	17:D	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
 

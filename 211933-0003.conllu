@@ -1,24 +1,24 @@
 # format = ucca
 # sent_id = 211933-0003
 # text = He listens and is excellent in diagnosing , addressing and explaining the specific issues and suggesting exercises to use .
-1	He	_	Word	Word	_	2	A	2:A|7:A|9:A|11:A|16:A	_
+1	He	_	Word	Word	_	2	A	2:A|14:A|16:A	_
 2	listens	_	Word	Word	_	0	H	0:H	_
-3	and	_	Word	Word	_	7	L	7:L	_
-4	is	_	Word	Word	_	7	F	7:F	_
-5	excellent	_	Word	Word	_	7	D	7:D|9:D|11:D|16:D	_
+3	and	_	Word	Word	_	14	L	14:L	_
+4	is	_	Word	Word	_	14	F	14:F	_
+5	excellent	_	Word	Word	_	14	D	14:D|16:D	_
 6	in	_	Word	Word	_	7	R	7:R	_
-7	diagnosing	_	Word	Word	_	2	H	2:H	_
-8	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-9	addressing	_	Word	Word	_	2	H	2:H	_
-10	and	_	Word	Word	_	11	L	11:L	_
-11	explaining	_	Word	Word	_	2	H	2:H	_
+7	diagnosing	_	Word	Word	_	14	Coordinated_Main_Rel.	14:Coordinated_Main_Rel.	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	addressing	_	Word	Word	_	7	C	7:C	_
+10	and	_	Word	Word	_	7	N	7:N	_
+11	explaining	_	Word	Word	_	7	C	7:C	_
 12	the	_	Word	Word	_	14	F	14:F	_
 13	specific	_	Word	Word	_	14	E	14:E	_
-14	issues	_	Word	Word	_	0	C	0:C|7:A|9:A	_
+14	issues	_	Word	Word	_	2	H	2:H	_
 15	and	_	Word	Word	_	16	L	16:L	_
 16	suggesting	_	Word	Word	_	2	H	2:H	_
 17	exercises	_	Word	Word	_	16	A	16:A	_
-18	to	_	Word	Word	_	19	R	19:R	_
+18	to	_	Word	Word	_	19	F	19:F	_
 19	use	_	Word	Word	_	17	E	17:E	_
 20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
 

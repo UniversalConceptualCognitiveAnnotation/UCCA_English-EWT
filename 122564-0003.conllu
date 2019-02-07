@@ -1,14 +1,14 @@
 # format = ucca
 # sent_id = 122564-0003
 # text = too many bugs some you even never seen before .
-1	too	_	Word	Word	_	2	E	2:E	_
-2	many	_	Word	Word	_	3	Q	3:Q	_
-3	bugs	_	Word	Word	_	0	H	0:H	_
+1	too	_	Word	Word	_	2	D	2:D	_
+2	many	_	Word	Word	_	0	H	0:H	_
+3	bugs	_	Word	Word	_	2	A	2:A|4:C	_
 4	some	_	Word	Word	_	8	A	8:A	_
 5	you	_	Word	Word	_	8	A	8:A	_
 6	even	_	Word	Word	_	8	D	8:D	_
 7	never	_	Word	Word	_	8	T	8:T	_
-8	seen	_	Word	Word	_	3	H	3:H	_
-9	before	_	Word	Word	_	8	A	8:A	_
+8	seen	_	Word	Word	_	2	H	2:H	_
+9	before	_	Word	Word	_	8	T	8:T	_
 10	.	_	Punctuation	Punctuation	_	8	U	8:U	_
 

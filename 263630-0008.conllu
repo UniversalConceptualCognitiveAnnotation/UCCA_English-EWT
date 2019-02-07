@@ -1,16 +1,16 @@
 # format = ucca
 # sent_id = 263630-0008
 # text = To add insult to injury , he refused to refund our money .
-1	To	_	Word	Word	_	8	L	8:L	_
+1	To	_	Word	Word	_	10	L	10:L	_
 2	add	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	insult	_	Word	Word	_	1	Terminal	1:Terminal	_
 4	to	_	Word	Word	_	1	Terminal	1:Terminal	_
 5	injury	_	Word	Word	_	1	Terminal	1:Terminal	_
-6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-7	he	_	Word	Word	_	8	A	8:A	_
-8	refused	_	Word	Word	_	0	H	0:H	_
-9	to	_	Word	Word	_	10	R	10:R	_
-10	refund	_	Word	Word	_	8	A	8:A	_
+6	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+7	he	_	Word	Word	_	10	A	10:A	_
+8	refused	_	Word	Word	_	10	D	10:D	_
+9	to	_	Word	Word	_	10	F	10:F	_
+10	refund	_	Word	Word	_	0	H	0:H	_
 11	our	_	Word	Word	_	12	E	12:E	_
 12	money	_	Word	Word	_	10	A	10:A	_
 13	.	_	Punctuation	Punctuation	_	12	U	12:U	_

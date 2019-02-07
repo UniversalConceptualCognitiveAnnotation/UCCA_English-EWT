@@ -1,12 +1,12 @@
 # format = ucca
 # sent_id = 178726-0004
 # text = Finally a convenient place close to home .
-1	Finally	_	Word	Word	_	5	L	5:L	_
-2	a	_	Word	Word	_	4	E	4:E	_
+1	Finally	_	Word	Word	_	3	G	3:G	_
+2	a	_	Word	Word	_	4	F	4:F	_
 3	convenient	_	Word	Word	_	0	H	0:H	_
-4	place	_	Word	Word	_	0	C	0:C|5:A	_
-5	close	_	Word	Word	_	3	H	3:H	_
-6	to	_	Word	Word	_	7	R	7:R	_
-7	home	_	Word	Word	_	5	A	5:A	_
+4	place	_	Word	Word	_	3	A	3:A	_
+5	close	_	Word	Word	_	7	R	7:R	_
+6	to	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	home	_	Word	Word	_	3	A	3:A	_
 8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
 

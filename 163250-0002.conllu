@@ -2,16 +2,16 @@
 # sent_id = 163250-0002
 # text = These people were so helpful this week and did everything to sort out my windscreen and insurance .
 1	These	_	Word	Word	_	2	E	2:E	_
-2	people	_	Word	Word	_	0	C	0:C|12:A	_
+2	people	_	Word	Word	_	0	C	0:C|9:A|12:A	_
 3	were	_	Word	Word	_	5	F	5:F	_
 4	so	_	Word	Word	_	5	D	5:D	_
 5	helpful	_	Word	Word	_	0	H	0:H	_
 6	this	_	Word	Word	_	7	E	7:E	_
 7	week	_	Word	Word	_	5	T	5:T	_
-8	and	_	Word	Word	_	12	L	12:L	_
-9	did	_	Word	Word	_	12	F	12:F	_
-10	everything	_	Word	Word	_	12	D	12:D	_
-11	to	_	Word	Word	_	12	R	12:R	_
+8	and	_	Word	Word	_	9	L	9:L	_
+9	did	_	Word	Word	_	5	H	5:H	_
+10	everything	_	Word	Word	_	9	D	9:D	_
+11	to	_	Word	Word	_	12	L	12:L	_
 12	sort	_	Word	Word	_	5	H	5:H	_
 13	out	_	Word	Word	_	12	Terminal	12:Terminal	_
 14	my	_	Word	Word	_	15	E	15:E	_

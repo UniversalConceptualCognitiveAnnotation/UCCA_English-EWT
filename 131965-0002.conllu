@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 131965-0002
 # text = We at R&L Plumbing Services are pleased with your professionalism and the extra mile you went to get out computers working correctly , you will be our first call if anything happens again and we will refer you to other people with computer issues .
-1	We	_	Word	Word	_	2	A	2:A	_
-2	at	_	Word	Word	_	7	A	7:A	_
-3	R&L	_	Word	Word	_	2	A	2:A	_
+1	We	_	Word	Word	_	7	A	7:A	_
+2	at	_	Word	Word	_	3	R	3:R	_
+3	R&L	_	Word	Word	_	1	E	1:E	_
 4	Plumbing	_	Word	Word	_	3	Terminal	3:Terminal	_
 5	Services	_	Word	Word	_	3	Terminal	3:Terminal	_
 6	are	_	Word	Word	_	7	F	7:F	_
@@ -15,13 +15,13 @@
 12	the	_	Word	Word	_	10	H	10:H	_
 13	extra	_	Word	Word	_	12	Terminal	12:Terminal	_
 14	mile	_	Word	Word	_	12	Terminal	12:Terminal	_
-15	you	_	Word	Word	_	12	A	12:A	_
+15	you	_	Word	Word	_	12	A	12:A|21:A	_
 16	went	_	Word	Word	_	12	Terminal	12:Terminal	_
 17	to	_	Word	Word	_	21	L	21:L	_
 18	get	_	Word	Word	_	21	D	21:D	_
-19	out	_	Word	Word	_	21	A	21:A	_
-20	computers	_	Word	Word	_	19	A	19:A	_
-21	working	_	Word	Word	_	12	H	12:H	_
+19	out	_	Word	Word	_	20	E	20:E	_
+20	computers	_	Word	Word	_	21	A	21:A	_
+21	working	_	Word	Word	_	10	H	10:H	_
 22	correctly	_	Word	Word	_	21	D	21:D	_
 23	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 24	you	_	Word	Word	_	29	A	29:A	_

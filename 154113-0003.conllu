@@ -1,15 +1,15 @@
 # format = ucca
 # sent_id = 154113-0003
 # text = I go to see her to have my hair cut .
-1	I	_	Word	Word	_	2	A	2:A	_
-2	go	_	Word	Word	_	0	H	0:H	_
-3	to	_	Word	Word	_	4	R	4:R	_
-4	see	_	Word	Word	_	2	A	2:A	_
+1	I	_	Word	Word	_	4	A	4:A|10:A	_
+2	go	_	Word	Word	_	4	D	4:D	_
+3	to	_	Word	Word	_	4	F	4:F	_
+4	see	_	Word	Word	_	0	H	0:H	_
 5	her	_	Word	Word	_	4	A	4:A	_
-6	to	_	Word	Word	_	10	R	10:R	_
-7	have	_	Word	Word	_	10	F	10:F	_
+6	to	_	Word	Word	_	10	L	10:L	_
+7	have	_	Word	Word	_	10	D	10:D	_
 8	my	_	Word	Word	_	9	E	9:E	_
 9	hair	_	Word	Word	_	10	A	10:A	_
-10	cut	_	Word	Word	_	4	A	4:A	_
+10	cut	_	Word	Word	_	4	H	4:H	_
 11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
 

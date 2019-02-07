@@ -1,28 +1,28 @@
 # format = ucca
 # sent_id = 292841-0003
 # text = A large group of my friends and I rent almost the whole motel every year for a weekend , and the experience and stay have always been five - star .
-1	A	_	Word	Word	_	3	E	3:E	_
-2	large	_	Word	Word	_	3	E	3:E	_
-3	group	_	Word	Word	_	6	E	6:E	_
+1	A	_	Word	Word	_	3	F	3:F	_
+2	large	_	Word	Word	_	3	Q	3:Q	_
+3	group	_	Word	Word	_	6	D	6:D	_
 4	of	_	Word	Word	_	6	F	6:F	_
-5	my	_	Word	Word	_	6	E	6:E	_
+5	my	_	Word	Word	_	6	A	6:A	_
 6	friends	_	Word	Word	_	9	A	9:A	_
 7	and	_	Word	Word	_	6	N	6:N	_
 8	I	_	Word	Word	_	6	C	6:C	_
 9	rent	_	Word	Word	_	0	H	0:H	_
 10	almost	_	Word	Word	_	12	E	12:E	_
-11	the	_	Word	Word	_	13	E	13:E	_
+11	the	_	Word	Word	_	13	F	13:F	_
 12	whole	_	Word	Word	_	13	Q	13:Q	_
 13	motel	_	Word	Word	_	9	A	9:A	_
 14	every	_	Word	Word	_	15	E	15:E	_
 15	year	_	Word	Word	_	9	T	9:T	_
 16	for	_	Word	Word	_	18	R	18:R	_
-17	a	_	Word	Word	_	18	E	18:E	_
+17	a	_	Word	Word	_	18	F	18:F	_
 18	weekend	_	Word	Word	_	9	T	9:T	_
 19	,	_	Punctuation	Punctuation	_	9	U	9:U	_
 20	and	_	Word	Word	_	30	L	30:L	_
-21	the	_	Word	Word	_	22	E	22:E	_
-22	experience	_	Word	Word	_	30	A	30:A	_
+21	the	_	Word	Word	_	22	F	22:F	_
+22	experience	_	Word	Word	_	30	Coordinated_Main_Rel.	30:Coordinated_Main_Rel.	_
 23	and	_	Word	Word	_	22	N	22:N	_
 24	stay	_	Word	Word	_	22	C	22:C	_
 25	have	_	Word	Word	_	30	F	30:F	_

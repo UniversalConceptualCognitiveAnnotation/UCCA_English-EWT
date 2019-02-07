@@ -2,20 +2,20 @@
 # sent_id = 008585-0007
 # text = Thanks Bud for all of your help and taking time away from your family that evening .
 1	Thanks	_	Word	Word	_	0	H	0:H	_
-2	Bud	_	Word	Word	_	1	G	1:G|11:A	_
+2	Bud	_	Word	Word	_	1	G	1:G|10:A|11:A	_
 3	for	_	Word	Word	_	7	R	7:R	_
-4	all	_	Word	Word	_	7	Q	7:Q	_
+4	all	_	Word	Word	_	7	D	7:D	_
 5	of	_	Word	Word	_	7	F	7:F	_
 6	your	_	Word	Word	_	7	A	7:A	_
 7	help	_	Word	Word	_	1	A	1:A	_
-8	and	_	Word	Word	_	11	L	11:L	_
-9	taking	_	Word	Word	_	11	F	11:F	_
-10	time	_	Word	Word	_	11	E	11:E	_
-11	away	_	Word	Word	_	7	H	7:H	_
-12	from	_	Word	Word	_	14	R	14:R	_
-13	your	_	Word	Word	_	14	E	14:E	_
-14	family	_	Word	Word	_	11	A	11:A	_
+8	and	_	Word	Word	_	10	L	10:L	_
+9	taking	_	Word	Word	_	10	F	10:F	_
+10	time	_	Word	Word	_	7	H	7:H	_
+11	away	_	Word	Word	_	10	A	10:A	_
+12	from	_	Word	Word	_	13	R	13:R	_
+13	your	_	Word	Word	_	11	A	11:A	_
+14	family	_	Word	Word	_	13	A	13:A	_
 15	that	_	Word	Word	_	16	E	16:E	_
-16	evening	_	Word	Word	_	11	T	11:T	_
+16	evening	_	Word	Word	_	10	T	10:T	_
 17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
 

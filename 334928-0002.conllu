@@ -1,17 +1,17 @@
 # format = ucca
 # sent_id = 334928-0002
 # text = And from a place that specializes in high quality meat , too .
-1	And	_	Word	Word	_	6	L	6:L	_
-2	from	_	Word	Word	_	6	L	6:L	_
+1	And	_	Word	Word	_	4	R	4:R	_
+2	from	_	Word	Word	_	4	R	4:R	_
 3	a	_	Word	Word	_	4	F	4:F	_
-4	place	_	Word	Word	_	6	A	6:A	_
-5	that	_	Word	Word	_	6	F	6:F	_
-6	specializes	_	Word	Word	_	0	H	0:H	_
+4	place	_	Word	Word	_	0	H	0:H	_
+5	that	_	Word	Word	_	6	R	6:R	_
+6	specializes	_	Word	Word	_	4	E	4:E	_
 7	in	_	Word	Word	_	10	R	10:R	_
 8	high	_	Word	Word	_	9	D	9:D	_
 9	quality	_	Word	Word	_	10	E	10:E	_
 10	meat	_	Word	Word	_	6	A	6:A	_
-11	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-12	too	_	Word	Word	_	6	G	6:G	_
-13	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	too	_	Word	Word	_	10	E	10:E	_
+13	.	_	Punctuation	Punctuation	_	10	U	10:U	_
 

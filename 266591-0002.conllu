@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 266591-0002
 # text = The food here is fresh and hot out of the Wok .
-1	The	_	Word	Word	_	2	E	2:E	_
+1	The	_	Word	Word	_	2	F	2:F	_
 2	food	_	Word	Word	_	0	C	0:C|7:A|8:A	_
 3	here	_	Word	Word	_	5	A	5:A	_
 4	is	_	Word	Word	_	5	F	5:F	_
@@ -9,8 +9,8 @@
 6	and	_	Word	Word	_	7	L	7:L	_
 7	hot	_	Word	Word	_	5	H	5:H	_
 8	out	_	Word	Word	_	7	A	7:A	_
-9	of	_	Word	Word	_	8	F	8:F	_
-10	the	_	Word	Word	_	11	E	11:E	_
+9	of	_	Word	Word	_	11	R	11:R	_
+10	the	_	Word	Word	_	11	F	11:F	_
 11	Wok	_	Word	Word	_	8	A	8:A	_
 12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
 

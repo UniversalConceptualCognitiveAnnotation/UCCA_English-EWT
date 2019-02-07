@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 267732-0005
 # text = Too bad they were out of the Chocolate Lava Cake .
-1	Too	_	Word	Word	_	2	E	2:E	_
-2	bad	_	Word	Word	_	5	G	5:G	_
+1	Too	_	Word	Word	_	5	G	5:G	_
+2	bad	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	they	_	Word	Word	_	5	A	5:A	_
 4	were	_	Word	Word	_	5	F	5:F	_
 5	out	_	Word	Word	_	0	H	0:H	_
 6	of	_	Word	Word	_	8	R	8:R	_
-7	the	_	Word	Word	_	8	E	8:E	_
+7	the	_	Word	Word	_	8	F	8:F	_
 8	Chocolate	_	Word	Word	_	5	A	5:A	_
 9	Lava	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	Cake	_	Word	Word	_	8	Terminal	8:Terminal	_

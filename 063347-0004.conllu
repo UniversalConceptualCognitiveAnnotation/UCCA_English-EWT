@@ -1,19 +1,19 @@
 # format = ucca
 # sent_id = 063347-0004
 # text = After a train ride over the mountains , we enjoyed hiking in the flower - filled Wenatchee hills ( in May ) and a very interesting bike ride in a loop around the Columbia River ... and then wine if we wanted it on the patio in the evening ....
-1	After	_	Word	Word	_	10	L	10:L	_
-2	a	_	Word	Word	_	4	E	4:E	_
-3	train	_	Word	Word	_	4	E	4:E	_
+1	After	_	Word	Word	_	11	L	11:L	_
+2	a	_	Word	Word	_	4	F	4:F	_
+3	train	_	Word	Word	_	4	A	4:A	_
 4	ride	_	Word	Word	_	0	H	0:H	_
 5	over	_	Word	Word	_	7	R	7:R	_
-6	the	_	Word	Word	_	7	E	7:E	_
+6	the	_	Word	Word	_	7	F	7:F	_
 7	mountains	_	Word	Word	_	4	A	4:A	_
 8	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-9	we	_	Word	Word	_	10	A	10:A|11:A	_
-10	enjoyed	_	Word	Word	_	4	H	4:H	_
-11	hiking	_	Word	Word	_	10	A	10:A	_
+9	we	_	Word	Word	_	11	A	11:A	_
+10	enjoyed	_	Word	Word	_	11	G	11:G	_
+11	hiking	_	Word	Word	_	4	H	4:H	_
 12	in	_	Word	Word	_	18	R	18:R	_
-13	the	_	Word	Word	_	18	E	18:E	_
+13	the	_	Word	Word	_	18	F	18:F	_
 14	flower	_	Word	Word	_	16	A	16:A	_
 15	-	_	Punctuation	Punctuation	_	16	U	16:U	_
 16	filled	_	Word	Word	_	18	E	18:E	_
@@ -24,18 +24,18 @@
 21	May	_	Word	Word	_	11	T	11:T	_
 22	)	_	Punctuation	Punctuation	_	4	U	4:U	_
 23	and	_	Word	Word	_	28	L	28:L	_
-24	a	_	Word	Word	_	28	E	28:E	_
+24	a	_	Word	Word	_	28	F	28:F	_
 25	very	_	Word	Word	_	26	E	26:E	_
 26	interesting	_	Word	Word	_	28	D	28:D	_
-27	bike	_	Word	Word	_	28	E	28:E	_
+27	bike	_	Word	Word	_	28	A	28:A	_
 28	ride	_	Word	Word	_	4	H	4:H	_
 29	in	_	Word	Word	_	31	R	31:R	_
-30	a	_	Word	Word	_	31	E	31:E	_
-31	loop	_	Word	Word	_	32	A	32:A	_
-32	around	_	Word	Word	_	28	A	28:A	_
-33	the	_	Word	Word	_	34	E	34:E	_
-34	Columbia	_	Word	Word	_	32	A	32:A	_
-35	River	_	Word	Word	_	34	Terminal	34:Terminal	_
+30	a	_	Word	Word	_	31	F	31:F	_
+31	loop	_	Word	Word	_	28	A	28:A	_
+32	around	_	Word	Word	_	35	R	35:R	_
+33	the	_	Word	Word	_	35	F	35:F	_
+34	Columbia	_	Word	Word	_	35	E	35:E	_
+35	River	_	Word	Word	_	31	E	31:E	_
 36	...	_	Punctuation	Punctuation	_	4	U	4:U	_
 37	and	_	Word	Word	_	39	L	39:L	_
 38	then	_	Word	Word	_	37	Terminal	37:Terminal	_
@@ -45,10 +45,10 @@
 42	wanted	_	Word	Word	_	4	H	4:H	_
 43	it	_	Word	Word	_	42	A	42:A	_
 44	on	_	Word	Word	_	46	R	46:R	_
-45	the	_	Word	Word	_	46	E	46:E	_
+45	the	_	Word	Word	_	46	F	46:F	_
 46	patio	_	Word	Word	_	39	A	39:A	_
 47	in	_	Word	Word	_	49	R	49:R	_
-48	the	_	Word	Word	_	49	E	49:E	_
+48	the	_	Word	Word	_	49	F	49:F	_
 49	evening	_	Word	Word	_	39	T	39:T	_
 50	....	_	Punctuation	Punctuation	_	49	U	49:U	_
 
