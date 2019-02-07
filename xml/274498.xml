@@ -1051,9 +1051,8 @@
         <attributes remote="True" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
-      <edge toID="1.69" type="Coordinated_Main_Rel.">
+      <edge toID="1.69" type="P">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" tag="Coordinated_Main_Rel." />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
       </edge>
       <edge toID="1.73" type="T">
@@ -1262,9 +1261,8 @@
         <attributes remote="True" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
-      <edge toID="1.89" type="Coordinated_Main_Rel.">
+      <edge toID="1.89" type="P">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" tag="Coordinated_Main_Rel." />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
       </edge>
     </node>

@@ -1067,9 +1067,8 @@
     <node ID="1.46" type="FN">
       <attributes />
       <extra tree_id="8" />
-      <edge toID="1.47" type="Coordinated_Main_Rel.">
+      <edge toID="1.47" type="S">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" tag="Coordinated_Main_Rel." />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
       </edge>
       <edge toID="1.52" type="D">
