@@ -1,0 +1,33 @@
+# sent_id = 211797-0004
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	thought	think	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	expl	8:expl	_
+4	would	would	AUX	MD	VerbForm=Fin	8	aux	8:aux	_
+5	be	be	AUX	VB	VerbForm=Inf	8	cop	8:cop	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	8:det	_
+7	good	good	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
+8	idea	idea	NOUN	NN	Number=Sing	2	ccomp	2:ccomp	_
+9	to	to	PART	TO	_	10	mark	10:mark	_
+10	see	see	VERB	VB	VerbForm=Inf	8	csubj	8:csubj	_
+11	how	how	ADV	WRB	PronType=Int	18	advmod	18:advmod	_
+12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	13:det	_
+13	few	few	ADJ	JJ	Degree=Pos	18	nsubj	16:obj|18:nsubj	_
+14	that	that	PRON	WDT	PronType=Rel	16	obj	13:ref	_
+15	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	16:nsubj	_
+16	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13	acl:relcl	13:acl:relcl	_
+17	would	would	AUX	MD	VerbForm=Fin	18	aux	18:aux	_
+18	look	look	VERB	VB	VerbForm=Inf	10	ccomp	10:ccomp	_
+19	like	like	ADP	IN	_	18	obl	18:obl	_
+20	on	on	ADP	IN	_	22	case	22:case	_
+21	a	a	DET	DT	Definite=Ind|PronType=Art	22	det	22:det	_
+22	model	model	NOUN	NN	Number=Sing	18	obl	18:obl:on	_
+23	(	(	PUNCT	-LRB-	_	25	punct	25:punct	SpaceAfter=No
+24	by	by	SCONJ	IN	_	25	mark	25:mark	_
+25	looking	look	VERB	VBG	VerbForm=Ger	18	advcl	18:advcl:by	_
+26	the	the	DET	DT	Definite=Def|PronType=Art	27	det	27:det	_
+27	dress	dress	NOUN	NN	Number=Sing	25	obj	25:obj	_
+28	up	up	ADP	RP	_	25	compound:prt	25:compound:prt	_
+29	online	online	ADV	RB	_	25	advmod	25:advmod	SpaceAfter=No
+30	)	)	PUNCT	-RRB-	_	25	punct	25:punct	SpaceAfter=No
+31	.	.	PUNCT	.	_	2	punct	2:punct	_
+
