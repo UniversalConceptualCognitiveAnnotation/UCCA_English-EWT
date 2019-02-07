@@ -18,8 +18,8 @@ just	Word	--	Terminal	510
 inside	Word	--	Terminal	511
 Barling	Word	--	Terminal	512
 .	Punctuation	--	Terminal	513
-#500	FN	--	A	515
-#501	FN	--	F	515
+#500	FN	--	A	517
+#501	FN	--	S	517
 #502	FN	--	C	514
 #503	PNCT	--	U	514
 #504	FN	--	C	514
@@ -32,7 +32,9 @@ Barling	Word	--	Terminal	512
 #511	FN	--	S	515
 #512	FN	--	A	515
 #513	PNCT	--	U	515
-#514	FN	--	A	515
-#515	FN	--	H	516
-#516	FN	--	--	0
+#514	FN	--	C	516	A*	515
+#515	FN	--	E	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
 #EOS 096340-0003

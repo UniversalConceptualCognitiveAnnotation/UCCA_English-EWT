@@ -14,26 +14,26 @@ next	Word	--	Terminal	511
 block	Word	--	Terminal	512
 )	Punctuation	--	Terminal	513
 .	Punctuation	--	Terminal	514
-#500	FN	--	P	520
+#500	FN	--	P	519
 #501	FN	--	E	515
 #502	FN	--	C	515
 #503	FN	--	R	516
-#504	FN	--	E	516
-#505	FN	--	C	516	A*	518
+#504	FN	--	F	516
+#505	FN	--	C	516	A*	520
 #506	PNCT	--	U	521
 #507	FN	--	L	521
-#508	FN	--	F	518
-#509	FN	--	F	518
-#510	FN	--	E	517
-#511	FN	--	C	517
-#512	FN	--	A	518
-#513	PNCT	--	U	518
-#514	PNCT	--	U	518
-#515	FN	--	A	520
-#516	FN	--	A	520
-#517	FN	--	S	518
-#518	FN	--	H	521
-#519	FN	--	A	520
+#508	FN	--	F	520
+#509	FN	--	S	520
+#510	FN	--	F	517
+#511	FN	--	E	517
+#512	FN	--	C	517
+#513	PNCT	--	U	517
+#514	PNCT	--	U	517
+#515	FN	--	A	519
+#516	FN	--	A	519
+#517	FN	--	A	520
+#518	FN	--	A	519
+#519	FN	--	H	521
 #520	FN	--	H	521
 #521	FN	--	--	0
 #EOS 262722-0008

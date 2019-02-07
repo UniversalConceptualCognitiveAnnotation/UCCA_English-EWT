@@ -1,0 +1,18 @@
+#BOS 117893-0003
+Hot	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+fresh	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+delicious	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+#500	FN	--	C	506
+#501	PNCT	--	U	506
+#502	FN	--	C	506
+#503	PNCT	--	U	506
+#504	FN	--	C	506
+#505	PNCT	--	U	506
+#506	FN	--	S	508
+#507	FN	--	A	508
+#508	FN	--	H	509
+#509	FN	--	--	0
+#EOS 117893-0003

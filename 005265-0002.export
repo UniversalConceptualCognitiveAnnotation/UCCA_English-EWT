@@ -5,19 +5,21 @@ a	Word	--	Terminal	502
 cute	Word	--	Terminal	503
 little	Word	--	Terminal	504
 nice	Word	--	Terminal	505
-and	Word	--	Terminal	505
-quiet	Word	--	Terminal	505
-library	Word	--	Terminal	506
-#500	FN	--	A	508
-#501	FN	--	F	508
-#502	FN	--	F	507
-#503	FN	--	S	508
-#504	FN	--	S	509
-#505	FN	--	S	510
-#506	FN	--	C	507	A*	509	A*	510
-#507	FN	--	A	508
-#508	FN	--	H	511
-#509	FN	--	H	511
-#510	FN	--	H	511
-#511	FN	--	--	0
+and	Word	--	Terminal	506
+quiet	Word	--	Terminal	507
+library	Word	--	Terminal	508
+#500	FN	--	A	512
+#501	FN	--	S	512
+#502	FN	--	F	511
+#503	FN	--	C	509
+#504	FN	--	C	509
+#505	FN	--	C	509
+#506	FN	--	N	509
+#507	FN	--	C	509
+#508	FN	--	C	511	A*	510
+#509	FN	--	S	510
+#510	FN	--	E	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
 #EOS 005265-0002

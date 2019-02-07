@@ -18,13 +18,13 @@ trimmers	Word	--	Terminal	514
 .	Punctuation	--	Terminal	515
 #500	FN	--	A	521
 #501	FN	--	F	521
-#502	FN	--	D	521
-#503	FN	--	F	521
+#502	FN	--	T	521
+#503	FN	--	D	521
 #504	FN	--	S	516
-#505	FN	--	C	517
+#505	FN	--	C	517	A*	516
 #506	FN	--	E	517
 #507	FN	--	E	518
-#508	FN	--	C	518	A*	516
+#508	FN	--	C	518
 #509	FN	--	P	521
 #510	FN	--	R	520
 #511	FN	--	F	520
@@ -32,7 +32,7 @@ trimmers	Word	--	Terminal	514
 #513	FN	--	R	519
 #514	FN	--	C	519
 #515	PNCT	--	U	519
-#516	FN	--	E	518
+#516	FN	--	E	517
 #517	FN	--	E	518
 #518	FN	--	A	521
 #519	FN	--	E	520

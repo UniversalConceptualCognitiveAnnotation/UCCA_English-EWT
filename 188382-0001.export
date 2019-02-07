@@ -7,15 +7,17 @@ place	Word	--	Terminal	504
 to	Word	--	Terminal	505
 shop	Word	--	Terminal	506
 .	Punctuation	--	Terminal	507
-#500	FN	--	A	509
-#501	FN	--	F	509
-#502	FN	--	E	508
-#503	FN	--	E	508
-#504	FN	--	C	508
+#500	FN	--	A	511
+#501	FN	--	S	511
+#502	FN	--	F	510
+#503	FN	--	S	508
+#504	FN	--	C	510	A*	508
 #505	FN	--	F	509
 #506	FN	--	P	509
 #507	PNCT	--	U	509
-#508	FN	--	D	509
-#509	FN	--	H	510
-#510	FN	--	--	0
+#508	FN	--	E	510
+#509	FN	--	E	510
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
 #EOS 188382-0001

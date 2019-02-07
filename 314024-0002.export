@@ -13,23 +13,26 @@ home	Word	--	Terminal	510
 for	Word	--	Terminal	511
 dinner	Word	--	Terminal	512
 .	Punctuation	--	Terminal	513
-#500	FN	--	S	514
-#501	FN	--	A	514	A*	515	A*	517
-#502	FN	--	L	518
-#503	FN	--	F	515
-#504	FN	--	T	515
-#505	FN	--	S	515
-#506	PNCT	--	U	518
-#507	FN	--	D	517
-#508	FN	--	F	517
-#509	FN	--	P	517
-#510	FN	--	A	517
-#511	FN	--	R	516
-#512	FN	--	P	516
-#513	PNCT	--	U	516
-#514	FN	--	H	518
-#515	FN	--	H	518
+#500	FN	--	S	517
+#501	FN	--	C	516	A*	514
+#502	FN	--	R	514
+#503	FN	--	F	514
+#504	FN	--	T	514
+#505	FN	--	S	514
+#506	PNCT	--	U	521
+#507	FN	--	D	520
+#508	FN	--	F	520
+#509	FN	--	P	520
+#510	FN	--	A	520
+#511	FN	--	L	521
+#512	FN	--	P	515
+#513	PNCT	--	U	515
+#514	FN	--	E	516
+#515	FN	--	H	521
 #516	FN	--	A	517
-#517	FN	--	H	518
-#518	FN	--	--	0
+#517	FN	--	H	521
+#518	FN	--	A	520
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
 #EOS 314024-0002

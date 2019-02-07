@@ -14,27 +14,26 @@ routine	Word	--	Terminal	510
 oil	Word	--	Terminal	511
 change	Word	--	Terminal	512
 .	Punctuation	--	Terminal	513
-#500	FN	--	E	514
-#501	FN	--	C	514
-#502	FN	--	F	521
+#500	FN	--	A	514
+#501	FN	--	A	514
+#502	FN	--	F	520
 #503	FN	--	F	515
 #504	FN	--	S	516
-#505	FN	--	T	517
-#506	FN	--	C	518	A*	516
+#505	FN	--	E	517
+#506	FN	--	C	517	A*	516
 #507	FN	--	C	515
-#508	FN	--	L	522
-#509	FN	--	E	519
-#510	FN	--	T	520
-#511	FN	--	A	520
-#512	FN	--	C	519
-#513	PNCT	--	U	519
-#514	FN	--	A	521
-#515	FN	--	P	521
-#516	FN	--	E	518
-#517	FN	--	E	518
-#518	FN	--	A	521
-#519	FN	--	P	520
-#520	FN	--	H	522
-#521	FN	--	H	522
-#522	FN	--	--	0
+#508	FN	--	L	521
+#509	FN	--	F	518
+#510	FN	--	T	519
+#511	FN	--	A	519
+#512	FN	--	C	518
+#513	PNCT	--	U	518
+#514	FN	--	A	520
+#515	FN	--	P	520
+#516	FN	--	E	517
+#517	FN	--	A	520
+#518	FN	--	P	519
+#519	FN	--	H	521
+#520	FN	--	H	521
+#521	FN	--	--	0
 #EOS 091704-0002
