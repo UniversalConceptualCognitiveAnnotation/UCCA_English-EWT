@@ -1,21 +1,21 @@
 # format = ucca
-1	The	_	Word	-	-	_	_	_	E	_	_	_	_
-2	customer	_	Word	-	-	_	E	_	_	_	_	_	_
-3	service	_	Word	-	+	_	_	_	A	_	_	_	_
-4	at	_	Word	-	-	_	_	R	_	_	_	_	_
-5	Home	_	Word	-	+	_	E	_	_	_	_	_	_
-6	Delivery	_	Word	-	-	_	_	Terminal	_	_	_	_	_
-7	Service	_	Word	-	+	_	_	_	_	A	_	_	_
-8	was	_	Word	-	-	_	_	_	_	F	_	_	_
-9	terrible	_	Word	-	+	_	_	_	_	_	_	_	_
-10	let	_	Word	-	+	_	_	_	_	L	_	_	_
-11	alone	_	Word	-	-	_	_	_	_	_	Terminal	_	_
-12	their	_	Word	-	-	_	_	_	_	_	_	A	_
-13	promise	_	Word	-	+	_	_	_	_	_	_	_	A
-14	to	_	Word	-	-	_	_	_	_	_	_	_	F
-15	proper	_	Word	-	-	_	_	_	_	_	_	_	D
-16	set	_	Word	-	+	_	_	_	_	H	_	_	_
-17	up	_	Word	-	-	_	_	_	_	_	_	_	Terminal
-18	furniture	_	Word	-	-	_	_	_	_	_	_	_	A
-19	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	F	_	_	_	_
+2	customer	_	Word	-	-	_	A	_	_	_	_
+3	service	_	Word	-	+	_	_	_	_	_	_
+4	at	_	Word	-	-	_	_	R	_	_	_
+5	Home	_	Word	-	+	_	A	_	_	_	_
+6	Delivery	_	Word	-	-	_	_	Terminal	_	_	_
+7	Service	_	Word	-	-	_	_	Terminal	_	_	_
+8	was	_	Word	-	-	_	F	_	_	_	_
+9	terrible	_	Word	-	-	_	D	_	_	_	_
+10	let	_	Word	-	+	_	L	_	_	_	_
+11	alone	_	Word	-	-	_	_	_	Terminal	_	_
+12	their	_	Word	-	-	_	_	_	_	A	A*
+13	promise	_	Word	-	+	_	H	_	_	_	_
+14	to	_	Word	-	-	_	_	_	_	_	R
+15	proper	_	Word	-	-	_	_	_	_	_	D
+16	set	_	Word	-	+	_	_	_	_	A	_
+17	up	_	Word	-	-	_	_	_	_	_	Terminal
+18	furniture	_	Word	-	-	_	_	_	_	_	A
+19	.	_	Punctuation	-	-	_	_	_	_	_	U
 

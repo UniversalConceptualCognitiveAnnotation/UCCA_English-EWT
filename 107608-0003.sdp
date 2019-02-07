@@ -1,31 +1,31 @@
 # format = ucca
-1	The	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_
-2	team	_	Word	-	+	_	_	A*	_	A*	A*	A*	_	_	_	_	_
-3	who	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_
-4	work	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_
-5	there	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_
-6	are	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_
-7	helpfull	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-8	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
-9	friendly	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_
-10	and	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_
-11	extremely	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_
-12	knowledgeable	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_
-13	and	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_
-14	will	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_	_
-15	help	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_
-16	you	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_
-17	as	_	Word	-	+	_	_	_	L	_	_	_	_	_	_	_	_
-18	much	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_
-19	as	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_
-20	they	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_
-21	can	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_
-22	with	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_
-23	thier	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A
-24	years	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	T
-25	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
-26	hands	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	D
-27	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_
-28	practice	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_
-29	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	F	_	_	_	_	_	_	_	_
+2	team	_	Word	-	+	_	_	A*	_	A*	A*	_	_	_	_
+3	who	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
+4	work	_	Word	-	+	_	E	_	_	_	_	_	_	_	_
+5	there	_	Word	-	-	_	_	A	_	_	_	_	_	_	_
+6	are	_	Word	-	-	_	_	_	F	_	_	_	_	_	_
+7	helpfull	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_
+9	friendly	_	Word	-	-	_	_	_	C	_	_	_	_	_	_
+10	and	_	Word	-	-	_	_	_	L	_	_	_	_	_	_
+11	extremely	_	Word	-	-	_	_	_	_	D	_	_	_	_	_
+12	knowledgeable	_	Word	-	+	_	_	_	H	_	_	_	_	_	_
+13	and	_	Word	-	-	_	_	_	L	_	_	_	_	_	_
+14	will	_	Word	-	-	_	_	_	_	_	D	_	_	_	_
+15	help	_	Word	-	+	_	_	_	H	_	_	_	_	_	_
+16	you	_	Word	-	-	_	_	_	_	_	A	_	_	_	_
+17	as	_	Word	-	+	_	_	_	L	_	_	_	_	_	_
+18	much	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
+19	as	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
+20	they	_	Word	-	+	_	_	_	H	_	_	_	_	_	_
+21	can	_	Word	-	-	_	_	_	_	_	_	_	D	_	_
+22	with	_	Word	-	-	_	_	_	L	_	_	_	_	_	_
+23	thier	_	Word	-	-	_	_	_	_	_	_	_	_	_	A
+24	years	_	Word	-	-	_	_	_	_	_	_	_	_	_	T
+25	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+26	hands	_	Word	-	+	_	_	_	_	_	_	_	_	_	D
+27	on	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_
+28	practice	_	Word	-	+	_	_	_	H	_	_	_	_	_	_
+29	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

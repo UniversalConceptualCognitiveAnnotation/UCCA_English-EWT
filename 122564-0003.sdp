@@ -1,12 +1,12 @@
 # format = ucca
-1	too	_	Word	-	-	_	E	_	_
-2	many	_	Word	-	+	_	_	Q	_
-3	bugs	_	Word	-	+	_	_	_	_
-4	some	_	Word	-	-	_	_	_	A
+1	too	_	Word	-	-	_	D	_	_
+2	many	_	Word	-	+	_	_	_	_
+3	bugs	_	Word	-	-	_	A	C*	_
+4	some	_	Word	-	+	_	_	_	A
 5	you	_	Word	-	-	_	_	_	A
 6	even	_	Word	-	-	_	_	_	D
 7	never	_	Word	-	-	_	_	_	T
-8	seen	_	Word	-	+	_	_	H	_
-9	before	_	Word	-	-	_	_	_	A
+8	seen	_	Word	-	+	_	H	_	_
+9	before	_	Word	-	-	_	_	_	T
 10	.	_	Punctuation	-	-	_	_	_	U
 

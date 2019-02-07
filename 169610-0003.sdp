@@ -1,12 +1,12 @@
 # format = ucca
-1	Her	_	Word	-	-	_	_	A
-2	flexibility	_	Word	-	+	_	_	A
-3	and	_	Word	-	-	_	N	_
-4	accessibility	_	Word	-	-	_	C	_
-5	made	_	Word	-	-	_	_	F
-6	for	_	Word	-	-	_	_	F
-7	an	_	Word	-	-	_	_	E
-8	easy	_	Word	-	-	_	_	D
-9	closing	_	Word	-	+	_	_	_
-10	.	_	Punctuation	-	-	_	_	U
+1	Her	_	Word	-	+	_	_	_	_	A
+2	flexibility	_	Word	-	+	_	Coordinated_Main_Rel.	_	_	_
+3	and	_	Word	-	-	_	_	N	_	_
+4	accessibility	_	Word	-	-	_	_	C	_	_
+5	made	_	Word	-	+	_	_	_	_	D
+6	for	_	Word	-	-	_	_	_	Terminal	_
+7	an	_	Word	-	-	_	_	_	_	F
+8	easy	_	Word	-	-	_	_	_	_	D
+9	closing	_	Word	-	+	_	_	_	_	_
+10	.	_	Punctuation	-	-	_	_	_	_	U
 

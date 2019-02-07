@@ -1,20 +1,20 @@
 # format = ucca
-1	I	_	Word	-	-	_	A	_	_	A*	_	_	_
-2	own	_	Word	-	+	_	_	_	_	_	_	_	_
-3	a	_	Word	-	-	_	_	_	F	_	_	_	_
-4	property	_	Word	-	-	_	_	E	_	_	_	_	_
-5	management	_	Word	-	+	_	_	_	E	_	_	_	_
-6	firm	_	Word	-	+	_	A	_	_	_	_	_	_
-7	and	_	Word	-	-	_	L	_	_	_	_	_	_
-8	need	_	Word	-	+	_	H	_	_	_	_	_	_
-9	a	_	Word	-	-	_	_	_	_	_	F	_	_
-10	contractor	_	Word	-	+	_	_	_	_	A	_	_	_
-11	with	_	Word	-	-	_	_	_	_	_	_	_	R
-12	the	_	Word	-	-	_	_	_	_	_	_	_	F
-13	credentials	_	Word	-	-	_	_	_	_	_	_	_	A
-14	that	_	Word	-	-	_	_	_	_	_	_	_	F
-15	Farrell	_	Word	-	+	_	_	_	_	_	_	_	A
-16	Electric	_	Word	-	-	_	_	_	_	_	_	Terminal	_
-17	has	_	Word	-	+	_	_	_	_	_	E	_	_
-18	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+1	I	_	Word	-	-	_	A	_	_	A*	_	_	_	_
+2	own	_	Word	-	+	_	_	_	_	_	_	_	_	_
+3	a	_	Word	-	-	_	_	_	F	_	_	_	_	_
+4	property	_	Word	-	-	_	_	A	_	_	_	_	_	_
+5	management	_	Word	-	+	_	_	_	E	_	_	_	_	_
+6	firm	_	Word	-	+	_	A	_	_	_	_	_	_	_
+7	and	_	Word	-	-	_	L	_	_	_	_	_	_	_
+8	need	_	Word	-	+	_	H	_	_	_	_	_	_	_
+9	a	_	Word	-	-	_	_	_	_	_	F	_	_	_
+10	contractor	_	Word	-	+	_	_	_	_	A	_	_	_	_
+11	with	_	Word	-	-	_	_	_	_	_	_	R	_	_
+12	the	_	Word	-	-	_	_	_	_	_	_	F	_	_
+13	credentials	_	Word	-	+	_	_	_	_	_	E	_	_	_
+14	that	_	Word	-	-	_	_	_	_	_	_	_	_	R
+15	Farrell	_	Word	-	+	_	_	_	_	_	_	_	_	A
+16	Electric	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
+17	has	_	Word	-	+	_	_	_	_	_	_	E	_	_
+18	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
 

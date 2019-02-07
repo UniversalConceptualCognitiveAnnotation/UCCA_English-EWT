@@ -2,9 +2,9 @@
 1	Hands	_	Word	-	+	_	_	D	_	_	_	_
 2	-	_	Punctuation	-	-	_	U	_	_	_	_	_
 3	down	_	Word	-	-	_	Terminal	_	_	_	_	_
-4	the	_	Word	-	-	_	_	E	_	_	_	_
+4	the	_	Word	-	-	_	_	F	_	_	_	_
 5	best	_	Word	-	+	_	_	_	_	_	_	_
-6	pasta	_	Word	-	+	_	_	A	_	_	_	_
+6	pasta	_	Word	-	+	_	_	_	_	A*	_	C*
 7	and	_	Word	-	-	_	_	_	N	_	_	_
 8	gnocchi	_	Word	-	-	_	_	_	C	_	_	_
 9	I	_	Word	-	-	_	_	_	_	A	_	_
@@ -16,8 +16,8 @@
 15	I	_	Word	-	-	_	_	_	_	_	A	_
 16	've	_	Word	-	-	_	_	_	_	_	F	_
 17	eaten	_	Word	-	+	_	_	H	_	_	_	_
-18	a	_	Word	-	+	_	_	_	_	_	Q	_
-19	lot	_	Word	-	-	_	_	_	_	_	_	Terminal
-20	)	_	Punctuation	-	-	_	_	_	_	_	U	_
-21	.	_	Punctuation	-	-	_	_	_	_	_	U	_
+18	a	_	Word	-	-	_	_	_	_	_	_	F
+19	lot	_	Word	-	+	_	_	_	_	_	A	_
+20	)	_	Punctuation	-	-	_	_	_	_	_	_	U
+21	.	_	Punctuation	-	-	_	_	_	_	_	_	U
 

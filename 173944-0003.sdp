@@ -1,17 +1,17 @@
 # format = ucca
-1	She	_	Word	-	-	_	A	_	_	_	_
+1	She	_	Word	-	-	_	A	_	_	A*	_
 2	answers	_	Word	-	+	_	_	_	_	_	_
-3	all	_	Word	-	-	_	_	D	_	_	_
-4	questions	_	Word	-	-	_	_	A	_	_	_
-5	asked	_	Word	-	+	_	A	_	_	_	_
+3	all	_	Word	-	-	_	_	Q	_	_	_
+4	questions	_	Word	-	+	_	A	_	_	_	_
+5	asked	_	Word	-	-	_	_	E	_	_	_
 6	and	_	Word	-	-	_	L	_	_	_	_
 7	provides	_	Word	-	-	_	_	_	_	F	_
-8	the	_	Word	-	-	_	_	_	E	_	_
+8	the	_	Word	-	-	_	_	_	F	_	_
 9	best	_	Word	-	+	_	_	_	_	D	_
-10	service	_	Word	-	+	_	H	_	_	_	_
+10	service	_	Word	-	+	_	_	_	_	_	A*
 11	i	_	Word	-	-	_	_	_	_	_	A
 12	have	_	Word	-	-	_	_	_	_	_	F
 13	ever	_	Word	-	-	_	_	_	_	_	T
-14	seen	_	Word	-	+	_	_	_	_	A	_
+14	seen	_	Word	-	+	_	H	_	_	_	_
 15	.	_	Punctuation	-	-	_	_	_	_	_	U
 

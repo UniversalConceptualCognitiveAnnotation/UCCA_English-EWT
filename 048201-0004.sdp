@@ -12,10 +12,10 @@
 11	all	_	Word	-	-	_	_	_	_	Q	_	_	_
 12	the	_	Word	-	-	_	_	_	_	_	F	_	_
 13	same	_	Word	-	+	_	H	_	_	_	_	_	_
-14	when	_	Word	-	-	_	_	_	_	_	_	_	R
-15	it	_	Word	-	-	_	_	_	_	_	_	_	F
-16	came	_	Word	-	+	_	_	_	_	_	_	_	E
-17	to	_	Word	-	-	_	_	_	_	_	_	R	_
+14	when	_	Word	-	+	_	_	_	_	_	_	_	R
+15	it	_	Word	-	-	_	_	_	_	_	_	Terminal	_
+16	came	_	Word	-	-	_	_	_	_	_	_	Terminal	_
+17	to	_	Word	-	-	_	_	_	_	_	_	Terminal	_
 18	quality	_	Word	-	+	_	_	_	_	_	D	_	_
 19	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

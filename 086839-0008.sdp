@@ -1,51 +1,51 @@
 # format = ucca
-1	When	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
-2	we	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-3	expressed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	our	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-5	discontent	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-6	to	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_
-7	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-8	manager	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-9	(	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-10	that	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-11	's	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_
-12	right	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-13	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-14	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-15	manager	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-16	)	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-17	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-18	did	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_
-19	he	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-20	say	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-21	he	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-22	would	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_	_
-23	return	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-24	some	_	Word	-	-	_	_	_	_	_	_	_	_	Q	_	_	_	_	_
-25	money	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-26	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-27	did	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_
-28	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-29	say	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-30	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-31	would	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_
-32	give	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_
-33	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-34	discount	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-35	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	L	_	_	_
-36	our	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-37	next	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	T	_	_
-38	visit	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	H	_	_	_
-39	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-40	did	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_
-41	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-42	just	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D	_
-43	say	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-44	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_
-45	I	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A
-46	'm	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F
-47	sorry	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-48	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-49	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	When	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	we	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	expressed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	our	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+5	discontent	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	to	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+7	the	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
+8	manager	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	(	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	that	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+11	's	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_
+12	right	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+14	the	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_
+15	manager	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+16	)	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	did	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_
+19	he	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+20	say	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	he	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+22	would	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_
+23	return	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+24	some	_	Word	-	-	_	_	_	_	_	_	_	_	Q	_	_	_	_	_	_
+25	money	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+26	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	did	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
+28	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+29	say	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+31	would	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_
+32	give	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+33	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_
+34	discount	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+35	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	L	_	_	_	_
+36	our	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+37	next	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_
+38	visit	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	H	_	_	_	_
+39	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	did	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
+41	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+42	just	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_
+43	say	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_
+45	I	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+46	'm	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+47	sorry	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+48	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+49	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

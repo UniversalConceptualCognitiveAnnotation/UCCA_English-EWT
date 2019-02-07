@@ -1,7 +1,7 @@
 # format = ucca
 1	Barb	_	Word	-	-	_	A	_	_	_	_	_	_	_	A*	_	_	_	_	_
 2	does	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	an	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	an	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_
 4	AMAZING	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_
 5	JOB	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 6	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
@@ -22,9 +22,9 @@
 21	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
 22	to	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_
 23	give	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
-24	every	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+24	every	_	Word	-	-	_	_	_	_	_	_	_	Q	_	_	_	_	_	_	_
 25	person	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-26	an	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+26	an	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
 27	AWESOME	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_
 28	MASSAGE	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A*	_	_	_	_
 29	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
@@ -44,10 +44,10 @@
 43	LOVE	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
 44	SHE	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
 45	IS	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
-46	THE	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+46	THE	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
 47	BEST	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
 48	OF	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-49	THE	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+49	THE	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
 50	BEST	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
 51	!	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

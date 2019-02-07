@@ -1,39 +1,39 @@
 # format = ucca
-1	Finally	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
-2	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
-3	it	_	Word	-	+	_	_	G	_	_	_	_	_	_	_	_	_
-4	must	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_
-5	be	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_
-6	said	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_
-7	that	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_
-8	Stuart	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_
-9	is	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-10	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
-11	fantastic	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
-12	person	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
-13	to	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_
-14	work	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
-15	with	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_
-16	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
-17	because	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
-18	of	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
-19	his	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
-20	solid	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
-21	strategies	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_
-22	and	_	Word	-	+	_	_	L	_	_	_	_	_	_	_	_	_
-23	equally	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_
-24	as	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_
-25	importantly	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_
-26	because	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
-27	he	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	A*
-28	is	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
-29	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
-30	genuinely	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
-31	good	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_
-32	person	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
-33	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
-34	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-35	great	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D
-36	communicator	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
-37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	Finally	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
+2	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+3	it	_	Word	-	+	_	_	G	_	_	_	_	_	_	_	_
+4	must	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_
+5	be	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_
+6	said	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_
+7	that	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_
+8	Stuart	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_
+9	is	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+10	a	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_
+11	fantastic	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
+12	person	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
+13	to	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
+14	work	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_
+15	with	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_
+16	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+17	because	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
+18	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_
+19	his	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_
+20	solid	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_
+21	strategies	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
+22	and	_	Word	-	+	_	_	L	_	_	_	_	_	_	_	_
+23	equally	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
+24	as	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
+25	importantly	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
+26	because	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
+27	he	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	A*
+28	is	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
+29	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_
+30	genuinely	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_
+31	good	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_
+32	person	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
+33	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
+34	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
+35	great	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D
+36	communicator	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
+37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

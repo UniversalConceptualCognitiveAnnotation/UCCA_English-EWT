@@ -1,6 +1,6 @@
 # format = ucca
-1	Wait	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
-2	staff	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A*
+1	Wait	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+2	staff	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	A*
 3	is	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_
 4	always	_	Word	-	-	_	_	T	_	_	_	_	_	_	_	_	_
 5	ready	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_
@@ -21,7 +21,7 @@
 20	d	_	Word	-	+	_	_	L	_	_	_	_	_	_	_	_	_
 21	/	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_
 22	t	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_
-23	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
+23	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_
 24	huge	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
 25	menu	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
 26	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_

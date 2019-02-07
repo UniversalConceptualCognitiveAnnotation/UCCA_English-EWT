@@ -1,23 +1,23 @@
 # format = ucca
-1	Billing	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_
-2	takes	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-3	15	_	Word	-	-	_	_	Q	_	_	_	_	_	_	_	_
-4	minutes	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
-5	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_
-6	back	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
-7	office	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_
-8	jobs	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
-9	takes	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
-10	1	_	Word	-	-	_	_	_	_	_	_	Q	_	_	_	_
-11	day	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
-12	's	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_
-13	training	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
-14	How	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	T
-15	fast	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
-16	your	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
-17	support	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
-18	queries	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A
-19	get	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D
-20	answered	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
-21	?	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+1	Billing	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+2	takes	_	Word	-	-	_	D	_	_	_	_	_	_	_	_
+3	15	_	Word	-	-	_	_	Q	_	_	_	_	_	_	_
+4	minutes	_	Word	-	+	_	T	_	_	_	_	_	_	_	_
+5	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
+6	back	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
+7	office	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
+8	jobs	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
+9	takes	_	Word	-	-	_	_	_	_	_	_	D	_	_	_
+10	1	_	Word	-	-	_	_	_	_	_	Q	_	_	_	_
+11	day	_	Word	-	+	_	_	_	_	_	_	T	_	_	_
+12	's	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
+13	training	_	Word	-	+	_	P*	_	_	_	_	_	_	_	_
+14	How	_	Word	-	+	_	_	_	_	_	_	_	_	_	T
+15	fast	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
+16	your	_	Word	-	-	_	_	_	_	_	_	_	_	A	_
+17	support	_	Word	-	-	_	_	_	_	_	_	_	_	D	_
+18	queries	_	Word	-	+	_	_	_	_	_	_	_	_	_	A
+19	get	_	Word	-	-	_	_	_	_	_	_	_	_	_	D
+20	answered	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+21	?	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 
