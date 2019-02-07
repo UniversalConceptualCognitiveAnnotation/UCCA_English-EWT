@@ -5,11 +5,11 @@
 (v1 / label
     :H (v2 / label
            :D (v6 / label~e.0)
-           :P (v7 / label~e.1))
+           :A (v7 / label~e.1))
     :H (v3 / label
            :D v6
-           :A (v8 / label~e.3))
+           :P (v8 / label~e.3))
     :L (v4 / label~e.4)
     :H (v5 / label
            :D v6
-           :P (v9 / label~e.5)))
+           :A (v9 / label~e.5)))

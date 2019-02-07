@@ -1,34 +1,35 @@
 # ::id 278775-0005
 # ::tok We were familiar with Search Engine Optimization strategies , but new nothing about Social Media - we just heard that it was the next big thing .
-# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.2 6-1.1.4.2 7-1.1.4.3 9-1.2 10-1.3.1 11-1.3.2.1.1 12-1.3.2.1.2 13-1.3.2.2 14-1.3.2.2 16-1.4.4 17-1.4.1 18-1.4.2 19-1.4.3.1 20-1.4.3.2 21-1.4.3.3 22-1.4.3.4.1 23-1.4.3.4.2 24-1.4.3.4.3 25-1.4.3.4.4
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.2 6-1.1.4.2 7-1.1.4.3 9-1.2 10-1.3.1 11-1.3.2 12-1.3.3.1 13-1.3.3.2 14-1.3.3.3 16-1.4.4 17-1.4.1 18-1.4.2 19-1.4.3.1 20-1.4.3.2 21-1.4.3.3 23-1.4.3.4.2 24-1.4.3.4.3.2 25-1.4.3.4.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v6 / label~e.0)
            :S (v7 / label~e.2)
            :A (v8 / label
-                  :R (v15 / label~e.3)
-                  :E (v16 / label~e.4,5,6)
-                  :C (v17 / label~e.7)))
+                  :R (v16 / label~e.3)
+                  :E (v17 / label~e.4,5,6)
+                  :C (v18 / label~e.7)))
     :L (v3 / label~e.9)
     :H (v4 / label
            :S (v9 / label~e.10)
-           :A (v10 / label
-                   :E (v18 / label
-                           :Q (v24 / label~e.11)
-                           :C (v25 / label~e.12))
-                   :C (v19 / label~e.13,14))
+           :D (v10 / label~e.11)
+           :A (v11 / label
+                   :R (v19 / label~e.12)
+                   :E (v20 / label~e.13)
+                   :C (v21 / label~e.14))
            :A v6)
     :H (v5 / label
-           :D (v11 / label~e.17)
-           :P (v12 / label~e.18)
-           :A (v13 / label
-                   :R (v20 / label~e.19)
-                   :A (v21 / label~e.20)
-                   :S (v22 / label~e.21)
-                   :A (v23 / label
-                           :E (v26 / label~e.22)
-                           :E (v27 / label~e.23)
-                           :E (v28 / label~e.24)
-                           :C (v29 / label~e.25)))
-           :A (v14 / label~e.16)))
+           :D (v12 / label~e.17)
+           :P (v13 / label~e.18)
+           :A (v14 / label
+                   :R (v22 / label~e.19)
+                   :A (v23 / label~e.20)
+                   :S (v24 / label~e.21)
+                   :A (v25 / label
+                           :E (v26 / label~e.23)
+                           :E (v27 / label
+                                   :A (v28 / label~e.25)
+                                   :S (v29 / label~e.24))
+                           :C v28))
+           :A (v15 / label~e.16)))

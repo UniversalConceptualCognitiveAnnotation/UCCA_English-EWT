@@ -1,0 +1,15 @@
+# ::id 048198-0003
+# ::tok Mary is an excellent host who does yummy breakfasts .
+# ::alignments 0-1.1.4 3-1.1.3 4-1.1.2.2 5-1.2 7-1.3.3 8-1.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v5 / label
+                  :C (v10 / label~e.4))
+           :D (v6 / label~e.3)
+           :A (v7 / label~e.0))
+    :L (v3 / label~e.5)
+    :H (v4 / label
+           :D (v8 / label~e.7)
+           :P (v9 / label~e.8)
+           :A v7))

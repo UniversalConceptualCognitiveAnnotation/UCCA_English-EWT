@@ -1,6 +1,6 @@
 # ::id 290594-0005
 # ::tok It 's unfortunate that bmil believed that his ' perfect ' dog was not given the right opportunity to prove himself .
-# ::alignments 2-1.1.3 3-1.1.4.3 4-1.1.4.4 5-1.1.4.1 6-1.1.4.2.1 7-1.1.4.2.2 9-1.1.4.2.3.1 11-1.1.4.2.3.2 13-1.1.4.2.5 14-1.1.4.2.6 15-1.1.4.2.7.1.1 16-1.1.4.2.7.1.2 17-1.1.4.2.7.1.3 19-1.1.4.2.7.2.2 20-1.1.4.2.7.2.2
+# ::alignments 2-1.1.3 3-1.1.4.3 4-1.1.4.4 5-1.1.4.1 6-1.1.4.2.1 7-1.1.4.2.2 9-1.1.4.2.3.1.2 11-1.1.4.2.3.2 13-1.1.4.2.5 14-1.1.4.2.6 16-1.1.4.2.7.1.2 17-1.1.4.2.7.1.3 19-1.1.4.2.7.3 20-1.1.4.2.7.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -11,16 +11,16 @@
                          :R (v9 / label~e.6)
                          :A (v10 / label~e.7)
                          :A (v11 / label
-                                 :E (v15 / label~e.9)
-                                 :C (v16 / label~e.11))
+                                 :E (v15 / label
+                                         :A (v16 / label~e.11)
+                                         :S (v19 / label~e.9))
+                                 :C v16)
                          :D (v12 / label~e.13)
                          :P (v13 / label~e.14)
                          :A (v14 / label
                                  :A (v17 / label
-                                         :E (v19 / label~e.15)
                                          :E (v20 / label~e.16)
                                          :C (v21 / label~e.17))
-                                 :P (v18 / label
-                                         :C (v22 / label~e.19,20))))
+                                 :P (v18 / label~e.19,20)))
                   :R (v7 / label~e.3)
                   :A (v8 / label~e.4))))

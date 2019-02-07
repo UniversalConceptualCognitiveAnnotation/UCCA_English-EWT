@@ -1,6 +1,6 @@
 # ::id 070730-0007
 # ::tok But I 'd go elsewhere unless the prices are cut .
-# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3 4-1.2.4 5-1.3 6-1.4.2.1 7-1.4.2.2 9-1.4.4
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3 4-1.2.4 5-1.3 7-1.4.2.2 9-1.4.4
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -12,6 +12,5 @@
     :L (v4 / label~e.5)
     :H (v5 / label
            :A (v10 / label
-                   :E (v12 / label~e.6)
-                   :C (v13 / label~e.7))
+                   :C (v12 / label~e.7))
            :P (v11 / label~e.9)))

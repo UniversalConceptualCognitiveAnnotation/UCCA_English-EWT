@@ -1,6 +1,13 @@
 # ::id 275919-0001
 # ::tok Grocery and Daily Needs Store
-# ::alignments 0-1.1 1-1.1 2-1.1 3-1.1 4-1.1
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3.2 3-1.1.1.3.1 4-1.1.2
 # ::format ucca
 (v1 / label
-    :H (v2 / label~e.0,1,2,3,4))
+    :H (v2 / label
+           :E (v3 / label
+                  :C (v5 / label~e.0)
+                  :N (v6 / label~e.1)
+                  :C (v7 / label
+                         :C (v8 / label~e.3)
+                         :E (v9 / label~e.2)))
+           :C (v4 / label~e.4)))

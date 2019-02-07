@@ -1,6 +1,8 @@
 # ::id 147825-0003
 # ::tok Ridiculous !
-# ::alignments 0-1.1
+# ::alignments 0-1.1.2
 # ::format ucca
 (v1 / label
-    :H (v2 / label~e.0))
+    :H (v2 / label
+           :A (v3 / label)
+           :S (v4 / label~e.0)))

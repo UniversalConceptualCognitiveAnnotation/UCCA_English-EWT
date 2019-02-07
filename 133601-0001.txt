@@ -1,19 +1,19 @@
 # ::id 133601-0001
 # ::tok Dr. Chao you are the best dentist I have ever had .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 4-1.1.4.1 5-1.1.4.2 6-1.1.5.2 7-1.1.5.1.1 9-1.1.5.1.3 10-1.1.5.1.4
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 5-1.1.4.2 6-1.1.5.2 7-1.1.5.1.1 9-1.1.5.1.3 10-1.1.5.1.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v3 / label
+           :G (v3 / label
                   :E (v7 / label~e.0)
                   :C (v8 / label~e.1))
            :A (v4 / label~e.2)
            :S (v5 / label
-                  :E (v9 / label~e.4)
-                  :C (v10 / label~e.5))
+                  :C (v9 / label~e.5))
            :A (v6 / label
-                  :E (v11 / label
-                          :A (v13 / label~e.7)
-                          :D (v14 / label~e.9)
-                          :S (v15 / label~e.10))
-                  :C (v12 / label~e.6))))
+                  :E (v10 / label
+                          :A (v12 / label~e.7)
+                          :T (v13 / label~e.9)
+                          :S (v14 / label~e.10)
+                          :A (v11 / label~e.6))
+                  :C v11)))

@@ -1,6 +1,6 @@
 # ::id 262722-0008
 # ::tok Choose this hotel over the Hilton ( which is on the next block ) .
-# ::alignments 0-1.1.2 1-1.1.3.1 2-1.1.3.2 3-1.1.4.1 4-1.1.4.2 5-1.3.1 7-1.2 10-1.3.6.1 11-1.3.6.2 12-1.3.7
+# ::alignments 0-1.1.2 1-1.1.3.1 2-1.1.3.2 3-1.1.4.1 5-1.3.1 7-1.2 9-1.3.3 11-1.3.4.1 12-1.3.4.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -11,12 +11,11 @@
                   :C (v13 / label~e.2))
            :A (v8 / label
                   :R (v14 / label~e.3)
-                  :E (v15 / label~e.4)
                   :C (v9 / label~e.5)))
     :L (v3 / label~e.7)
     :H (v4 / label
            :A v9
-           :S (v10 / label
-                   :E (v16 / label~e.10)
-                   :C (v17 / label~e.11))
-           :A (v11 / label~e.12)))
+           :S (v10 / label~e.9)
+           :A (v11 / label
+                   :E (v15 / label~e.11)
+                   :C (v16 / label~e.12))))

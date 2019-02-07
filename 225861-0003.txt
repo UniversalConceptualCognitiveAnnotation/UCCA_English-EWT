@@ -1,6 +1,6 @@
 # ::id 225861-0003
 # ::tok yet again it was a great stay from begiinning to end .
-# ::alignments 0-1.1 1-1.1 2-1.2.1 5-1.2.4 6-1.2.3.2 7-1.2.5.1 8-1.2.5.2 9-1.2.5.3 10-1.2.5.4
+# ::alignments 0-1.1 1-1.1 2-1.2.1 5-1.2.4 6-1.2.3.2 7-1.2.5.1.1 8-1.2.5.1.2 9-1.2.5.2.1 10-1.2.5.2.2
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0,1)
@@ -10,7 +10,9 @@
                   :C (v8 / label~e.6))
            :D (v6 / label~e.5)
            :T (v7 / label
-                  :R (v9 / label~e.7)
-                  :C (v10 / label~e.8)
-                  :N (v11 / label~e.9)
-                  :C (v12 / label~e.10))))
+                  :C (v9 / label
+                         :R (v11 / label~e.7)
+                         :C (v12 / label~e.8))
+                  :C (v10 / label
+                          :R (v13 / label~e.9)
+                          :C (v14 / label~e.10)))))

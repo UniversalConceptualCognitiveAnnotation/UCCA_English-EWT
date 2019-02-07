@@ -1,0 +1,11 @@
+# ::id 117893-0003
+# ::tok Hot , fresh , delicious .
+# ::alignments 0-1.1.2.3 2-1.1.2.4 4-1.1.2.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :S (v4 / label
+                  :C (v5 / label~e.0)
+                  :C (v6 / label~e.2)
+                  :C (v7 / label~e.4))))

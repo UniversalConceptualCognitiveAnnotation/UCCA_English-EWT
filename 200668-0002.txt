@@ -1,21 +1,20 @@
 # ::id 200668-0002
 # ::tok The staff in Allentown are friendly , helpful and a delight to know ..
-# ::alignments 1-1.2.2 2-1.1.2.1 3-1.1.2.2 5-1.1.4 7-1.2.1 8-1.3 10-1.4.3.2 12-1.4.5
+# ::alignments 1-1.3.1 2-1.1.2.1 3-1.1.2.2 5-1.1.4.1 7-1.1.4.2 8-1.2 10-1.3.3.1 12-1.3.5
 # ::format ucca
 (v1 / label
     :H (v2 / label
+           :A (v5 / label
+                  :C (v8 / label~e.1))
            :A (v6 / label
-                  :C (v10 / label~e.1))
-           :A (v7 / label
-                  :R (v13 / label~e.2)
-                  :C (v14 / label~e.3))
-           :S (v8 / label~e.5))
-    :H (v3 / label
-           :S (v9 / label~e.7)
-           :A v10)
-    :L (v4 / label~e.8)
-    :H (v5 / label
-           :A v10
-           :D (v11 / label
-                   :C (v15 / label~e.10))
-           :P (v12 / label~e.12)))
+                  :R (v11 / label~e.2)
+                  :C (v12 / label~e.3))
+           :Coordinated_Main_Rel. (v7 / label
+                                      :C (v13 / label~e.5)
+                                      :C (v14 / label~e.7)))
+    :L (v3 / label~e.8)
+    :H (v4 / label
+           :A v8
+           :D (v9 / label
+                  :C (v15 / label~e.10))
+           :P (v10 / label~e.12)))

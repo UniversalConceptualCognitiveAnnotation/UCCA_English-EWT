@@ -1,6 +1,11 @@
 # ::id 184290-0001
 # ::tok wow wow wow .
-# ::alignments 0-1.1 1-1.1 2-1.1
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3
 # ::format ucca
 (v1 / label
-    :H (v2 / label~e.0,1,2))
+    :H (v2 / label
+           :A (v3 / label)
+           :S (v4 / label
+                  :C (v5 / label~e.0)
+                  :C (v6 / label~e.1)
+                  :C (v7 / label~e.2))))

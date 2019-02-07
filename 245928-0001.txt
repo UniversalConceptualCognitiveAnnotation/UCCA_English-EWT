@@ -1,12 +1,11 @@
 # ::id 245928-0001
 # ::tok Rude and Untrustworthy
-# ::alignments 0-1.1.1 1-1.2 2-1.3.1
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :S (v5 / label~e.0)
-           :A (v6 / label))
-    :L (v3 / label~e.1)
-    :H (v4 / label
-           :S (v7 / label~e.2)
-           :A (v8 / label)))
+           :Coordinated_Main_Rel. (v3 / label
+                                      :C (v5 / label~e.0)
+                                      :N (v6 / label~e.1)
+                                      :C (v7 / label~e.2))
+           :A (v4 / label)))

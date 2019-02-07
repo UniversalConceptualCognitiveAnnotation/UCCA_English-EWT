@@ -1,6 +1,6 @@
 # ::id 275140-0002
 # ::tok We 've had about 5 repairs done on 3 different laptops .
-# ::alignments 0-1.1.2 3-1.1.5.1.1 4-1.1.5.1.2 5-1.1.6 6-1.1.7 7-1.1.1.1 8-1.1.1.2 9-1.1.1.3 10-1.1.1.4
+# ::alignments 0-1.1.2 3-1.1.5.1 4-1.1.5.2 5-1.1.6 6-1.1.7 7-1.1.1.1 8-1.1.1.2 9-1.1.1.3 10-1.1.1.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -11,8 +11,7 @@
                   :C (v11 / label~e.10))
            :A (v4 / label~e.0)
            :D (v5 / label
-                  :Q (v12 / label
-                          :E (v13 / label~e.3)
-                          :C (v14 / label~e.4)))
+                  :E (v12 / label~e.3)
+                  :Q (v13 / label~e.4))
            :P (v6 / label~e.5)
            :D (v7 / label~e.6)))

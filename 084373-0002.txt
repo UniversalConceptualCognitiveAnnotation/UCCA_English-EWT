@@ -1,13 +1,13 @@
 # ::id 084373-0002
 # ::tok Our window panes were so dirty that they needed a specialist to come and clean them .
-# ::alignments 0-1.1.1.1.2 1-1.1.1.2 2-1.1.1.3 4-1.1.3 5-1.1.4 6-1.2 7-1.3.1 8-1.3.2 9-1.3.3.1.1 10-1.5.3 12-1.3.5 13-1.4 14-1.5.5 15-1.5.6
+# ::alignments 0-1.1.1.1.2 1-1.1.1.2 2-1.1.1.3 4-1.1.3 5-1.1.4 6-1.2 7-1.3.1 8-1.3.2 10-1.5.1 12-1.3.5 13-1.4 14-1.5.3 15-1.5.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v7 / label
                   :E (v17 / label
                           :A (v18 / label~e.1)
-                          :S (v21 / label~e.0))
+                          :S (v20 / label~e.0))
                   :E v18
                   :C (v19 / label~e.2))
            :D (v8 / label~e.4)
@@ -17,14 +17,10 @@
            :A (v10 / label~e.7)
            :D (v11 / label~e.8)
            :A (v12 / label
-                   :P (v20 / label
-                           :E (v22 / label~e.9)
-                           :C (v14 / label~e.10)))
+                   :C (v14 / label~e.10))
            :P (v13 / label~e.12))
     :L (v5 / label~e.13)
     :H (v6 / label
-           :A v10
-           :D v11
            :A v14
            :P (v15 / label~e.14)
            :A (v16 / label~e.15)))

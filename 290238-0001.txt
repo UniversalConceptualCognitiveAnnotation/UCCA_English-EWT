@@ -1,10 +1,10 @@
 # ::id 290238-0001
 # ::tok Out of business ?
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2
+# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :D (v3 / label
-                  :C (v5 / label~e.0)
-                  :R (v6 / label~e.1))
-           :P (v4 / label~e.2)))
+           :D (v3 / label~e.0)
+           :P (v4 / label
+                  :R (v5 / label~e.1)
+                  :C (v6 / label~e.2))))

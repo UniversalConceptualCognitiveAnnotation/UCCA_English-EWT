@@ -1,6 +1,6 @@
 # ::id 130795-0005
 # ::tok Parts department blows , Service department is even worse .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 4-1.2.2.1 5-1.2.2.2 7-1.2.4 8-1.2.5
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 4-1.2.2.1.2 5-1.2.2.2 7-1.2.4 8-1.2.5
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -10,7 +10,9 @@
            :S (v5 / label~e.2))
     :H (v3 / label
            :A (v6 / label
-                  :E (v11 / label~e.4)
-                  :C (v12 / label~e.5))
+                  :E (v11 / label
+                          :A (v12 / label~e.5)
+                          :P (v13 / label~e.4))
+                  :C v12)
            :G (v7 / label~e.7)
            :S (v8 / label~e.8)))

@@ -1,6 +1,6 @@
 # ::id 202402-0002
 # ::tok When my server crashed , Greg worked from 7 PM until 4 AM and had my company up and running the next morning .
-# ::alignments 0-1.1 1-1.2.1.1.2 2-1.2.1.2 3-1.2.2 5-1.3.1 6-1.3.2 7-1.3.3.1 8-1.3.3.2.1 9-1.3.3.2.2 10-1.3.3.3 11-1.3.3.4.1 12-1.3.3.4.2 13-1.4 15-1.5.1.1.2 16-1.5.1.2 17-1.5.2 18-1.5.2 19-1.5.2 20-1.5.3.1 21-1.5.3.2 22-1.5.3.3
+# ::alignments 0-1.1 1-1.2.1.1.2 2-1.2.1.2 3-1.2.2 5-1.3.1 6-1.3.2 7-1.3.3.1 8-1.3.3.2.1 9-1.3.3.2.2 10-1.3.3.3 11-1.3.3.4.1 12-1.3.3.4.2 13-1.4 15-1.5.1.1.2 16-1.5.1.2 17-1.5.2 18-1.5.2 19-1.5.2 21-1.5.3.2 22-1.5.3.3
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -8,7 +8,7 @@
            :A (v7 / label
                   :E (v15 / label
                           :A (v16 / label~e.2)
-                          :S (v26 / label~e.1))
+                          :A (v25 / label~e.1))
                   :C v16)
            :P (v8 / label~e.3))
     :H (v4 / label
@@ -17,22 +17,21 @@
            :T (v11 / label
                    :R (v17 / label~e.7)
                    :C (v18 / label
-                           :Q (v27 / label~e.8)
-                           :C (v28 / label~e.9))
+                           :Q (v26 / label~e.8)
+                           :C (v27 / label~e.9))
                    :N (v19 / label~e.10)
                    :C (v20 / label
-                           :Q (v29 / label~e.11)
-                           :C (v30 / label~e.12))))
+                           :Q (v28 / label~e.11)
+                           :C (v29 / label~e.12))))
     :L (v5 / label~e.13)
     :H (v6 / label
            :A (v12 / label
                    :E (v21 / label
                            :A (v22 / label~e.16)
-                           :S (v31 / label~e.15))
+                           :A (v30 / label~e.15))
                    :C v22)
            :P (v13 / label~e.17,18,19)
            :T (v14 / label
-                   :E (v23 / label~e.20)
-                   :E (v24 / label~e.21)
-                   :C (v25 / label~e.22))
+                   :E (v23 / label~e.21)
+                   :C (v24 / label~e.22))
            :A v9))

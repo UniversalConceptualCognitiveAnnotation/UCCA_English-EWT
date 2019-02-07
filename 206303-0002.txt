@@ -1,13 +1,14 @@
 # ::id 206303-0002
 # ::tok A real pleasure training with Natasha .
-# ::alignments 1-1.1.1.3 2-1.1.1.1 3-1.1.2 4-1.1.3.2 5-1.1.3.3
+# ::alignments 1-1.1.2.2 2-1.1.2.3 3-1.1.3 4-1.1.4.2 5-1.1.4.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v3 / label
-                  :P (v6 / label~e.2)
-                  :D (v7 / label~e.1))
-           :P (v4 / label~e.3)
-           :A (v5 / label
-                  :R (v8 / label~e.4)
-                  :C (v9 / label~e.5))))
+           :A (v3 / label)
+           :D (v4 / label
+                  :E (v7 / label~e.1)
+                  :C (v8 / label~e.2))
+           :P (v5 / label~e.3)
+           :A (v6 / label
+                  :R (v9 / label~e.4)
+                  :C (v10 / label~e.5))))

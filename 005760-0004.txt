@@ -1,6 +1,6 @@
 # ::id 005760-0004
 # ::tok Expensive for the level of food and the quality of service .
-# ::alignments 0-1.1.2 1-1.2 3-1.3.1.2 4-1.3.2.1 5-1.3.2.2 6-1.4 8-1.5.2.2 10-1.5.4
+# ::alignments 0-1.1.2 1-1.2 3-1.3.1.2 4-1.3.2.1 5-1.3.2.2 6-1.4 8-1.5.1.2 9-1.5.2.3 10-1.5.2.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -17,4 +17,6 @@
     :H (v6 / label
            :D (v11 / label
                    :C (v16 / label~e.8))
-           :P (v12 / label~e.10)))
+           :P (v12 / label
+                   :C (v17 / label~e.10)
+                   :R (v18 / label~e.9))))

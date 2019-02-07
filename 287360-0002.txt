@@ -4,6 +4,6 @@
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :S (v3 / label~e.0)
+           :D (v3 / label~e.0)
            :A (v4 / label
                   :C (v5 / label~e.2))))

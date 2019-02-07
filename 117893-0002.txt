@@ -1,0 +1,10 @@
+# ::id 117893-0002
+# ::tok Holy cow was that a delicious meal .
+# ::alignments 0-1.1.1 1-1.1.1 5-1.1.5 6-1.1.4.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0,1)
+           :P (v4 / label
+                  :C (v6 / label~e.6))
+           :D (v5 / label~e.5)))

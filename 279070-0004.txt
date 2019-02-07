@@ -1,6 +1,6 @@
 # ::id 279070-0004
 # ::tok It is a cloth napkin kind of place , but I thought well worth it .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1.1 3-1.1.3.1.2 4-1.1.3.1.3 5-1.1.3.2 7-1.1.3.4 9-1.2 10-1.3.2 11-1.3.3 12-1.3.4.4 13-1.3.4.1 14-1.3.4.2
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.3.1.2 4-1.1.3.1.3 5-1.1.3.2 7-1.1.3.4 9-1.2 10-1.3.2 11-1.3.3 12-1.3.4.4 13-1.3.4.1 14-1.3.4.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -8,9 +8,8 @@
            :S (v6 / label~e.1)
            :A (v7 / label
                   :E (v11 / label
-                          :E (v17 / label~e.2)
-                          :E (v18 / label~e.3)
-                          :C (v19 / label~e.4))
+                          :E (v17 / label~e.3)
+                          :C (v18 / label~e.4))
                   :E (v12 / label~e.5)
                   :C (v13 / label~e.7)))
     :L (v3 / label~e.9)

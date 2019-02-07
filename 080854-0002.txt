@@ -1,16 +1,16 @@
 # ::id 080854-0002
 # ::tok Great job master keying our building .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.2 3-1.1.3.2 4-1.1.3.3.3.2 5-1.1.3.3.1
+# ::alignments 0-1.1.1 1-1.1.2 2-1.2.2 3-1.2.2 4-1.2.3.2.1 5-1.2.3.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :D (v3 / label~e.0)
-           :P (v4 / label~e.1)
-           :A (v5 / label
-                  :A (v6 / label)
-                  :P (v7 / label~e.2,3)
-                  :A (v8 / label
-                         :C (v9 / label~e.5)
-                         :E (v10 / label
-                                 :A v9
-                                 :S (v11 / label~e.4))))))
+           :D (v4 / label~e.0)
+           :P (v5 / label~e.1))
+    :H (v3 / label
+           :A (v6 / label)
+           :P (v7 / label~e.2,3)
+           :A (v8 / label
+                  :E (v9 / label
+                         :S (v11 / label~e.4)
+                         :A (v10 / label~e.5))
+                  :C v10)))

@@ -1,6 +1,6 @@
 # ::id 010378-0004
 # ::tok I believe he is correct in that he needs my physical address for legal reasons , however , he did not adequately explain this during our session .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 4-1.1.3.3 5-1.1.3.4.1 6-1.1.3.4.1 7-1.1.3.4.2 8-1.1.3.4.3 9-1.1.3.4.4.1.1 10-1.1.3.4.4.2 11-1.1.3.4.4.3 12-1.1.3.4.4.4.1 13-1.1.3.4.4.4.2 14-1.1.3.4.4.4.3 16-1.2 18-1.3.1 20-1.3.3 21-1.3.4 22-1.3.5 23-1.3.6 24-1.4 25-1.5.1 26-1.5.2
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 4-1.1.3.3 5-1.1.3.4.1 6-1.1.3.4.1 7-1.1.3.4.2 8-1.1.3.4.3 9-1.1.3.4.4.1.2 10-1.1.3.4.4.2 11-1.1.3.4.4.3 12-1.1.3.4.5.1 13-1.1.3.4.5.2 14-1.1.3.4.5.3 16-1.2 18-1.3.1 20-1.3.3 21-1.3.4 22-1.3.5 23-1.3.6 24-1.4 25-1.5.1 26-1.5.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -14,14 +14,15 @@
                           :A (v21 / label~e.7)
                           :S (v22 / label~e.8)
                           :A (v23 / label
-                                  :E (v24 / label
-                                          :S (v28 / label~e.9))
-                                  :E (v25 / label~e.10)
-                                  :C (v26 / label~e.11)
-                                  :E (v27 / label
-                                          :R (v29 / label~e.12)
-                                          :E (v30 / label~e.13)
-                                          :C (v31 / label~e.14))))))
+                                  :E (v25 / label
+                                          :A (v27 / label~e.11)
+                                          :S (v31 / label~e.9))
+                                  :E (v26 / label~e.10)
+                                  :C v27)
+                          :A (v24 / label
+                                  :R (v28 / label~e.12)
+                                  :E (v29 / label~e.13)
+                                  :C (v30 / label~e.14)))))
     :L (v3 / label~e.16)
     :H (v4 / label
            :A (v10 / label~e.18)

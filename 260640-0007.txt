@@ -1,50 +1,48 @@
 # ::id 260640-0007
 # ::tok Whether they pay me or not , if their parents get into an accident , stuck in traffic , etc. THE LAST THING I WOULD DO IS LET A CHILD GET RAPED BECAUSE I WAS N'T PAID .
-# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3 4-1.3 5-1.4.1 7-1.5 8-1.6.1.1 9-1.7.3 12-1.6.4.1 13-1.6.4.2 15-1.7.1 16-1.7.2.1 17-1.7.2.2 19-1.8 20-1.9.1.1 21-1.9.1.2 22-1.9.1.3 23-1.9.2 24-1.9.3 25-1.9.4 27-1.9.6.1 28-1.9.6.2.1 29-1.9.6.2.2 31-1.9.6.4 32-1.10 33-1.11.1 35-1.11.3 36-1.11.4
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3 4-1.3 5-1.4.1 7-1.5 8-1.6.1.1 9-1.7.3 13-1.6.4.2 15-1.7.1 16-1.7.2.1 17-1.7.2.2 19-1.8 21-1.9.1.2 22-1.9.1.3 23-1.9.2 24-1.9.3 25-1.9.4 26-1.10 27-1.11.1 29-1.11.2.2 31-1.11.4 32-1.12 33-1.13.1 35-1.13.3 36-1.13.4
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
     :H (v3 / label
-           :A (v13 / label~e.1)
-           :P (v14 / label~e.2)
-           :A (v15 / label~e.3))
+           :A (v15 / label~e.1)
+           :P (v16 / label~e.2)
+           :A (v17 / label~e.3))
     :L (v4 / label~e.4)
     :H (v5 / label
-           :D (v16 / label~e.5)
-           :A v13
-           :P v14
-           :A v15)
+           :D (v18 / label~e.5)
+           :A v15
+           :P v16
+           :A v17)
     :L (v6 / label~e.7)
     :H (v7 / label
-           :A (v17 / label
-                   :E (v30 / label~e.8)
-                   :C (v21 / label~e.9))
-           :P (v18 / label
-                   :E (v31 / label~e.12)
-                   :C (v32 / label~e.13)))
+           :A (v19 / label
+                   :A (v34 / label~e.8)
+                   :A (v23 / label~e.9))
+           :P (v20 / label
+                   :C (v35 / label~e.13)))
     :H (v8 / label
-           :S (v19 / label~e.15)
-           :A (v20 / label
-                   :R (v33 / label~e.16)
-                   :C (v34 / label~e.17))
-           :A v21)
+           :S (v21 / label~e.15)
+           :A (v22 / label
+                   :R (v36 / label~e.16)
+                   :C (v37 / label~e.17))
+           :A v23)
     :L (v9 / label~e.19)
     :H (v10 / label
-            :A (v22 / label
-                    :E (v35 / label~e.20)
-                    :E (v36 / label~e.21)
-                    :C (v37 / label~e.22))
-            :A (v23 / label~e.23)
-            :D (v24 / label~e.24)
-            :P (v25 / label~e.25)
-            :A (v26 / label
-                    :D (v38 / label~e.27)
-                    :A (v39 / label
-                            :E (v41 / label~e.28)
-                            :C (v42 / label~e.29))
-                    :P (v40 / label~e.31)))
-    :L (v11 / label~e.32)
+            :A (v24 / label
+                    :E (v38 / label~e.21)
+                    :C (v39 / label~e.22))
+            :A (v25 / label~e.23)
+            :D (v26 / label~e.24)
+            :P (v27 / label~e.25))
+    :L (v11 / label~e.26)
     :H (v12 / label
-            :A (v27 / label~e.33)
-            :D (v28 / label~e.35)
-            :P (v29 / label~e.36)))
+            :D (v28 / label~e.27)
+            :A (v29 / label
+                    :C (v40 / label~e.29))
+            :P (v30 / label~e.31))
+    :L (v13 / label~e.32)
+    :H (v14 / label
+            :A (v31 / label~e.33)
+            :D (v32 / label~e.35)
+            :P (v33 / label~e.36)))
