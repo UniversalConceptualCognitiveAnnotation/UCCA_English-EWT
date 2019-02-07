@@ -95,14 +95,15 @@
     </node>
     <node ID="1.7" type="FN">
       <attributes />
-      <extra remarks="Nicole: I am assuming this is not a scene?" tree_id="15-1-1" />
-      <edge toID="1.10" type="E">
+      <extra tree_id="15-1-1" />
+      <edge toID="1.10" type="A">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
-      <edge toID="1.11" type="C">
+      <edge toID="1.11" type="A">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
       </edge>
     </node>
     <node ID="1.8" type="FN">

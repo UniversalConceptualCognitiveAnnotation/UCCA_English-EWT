@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="077034-0003">
-  <attributes annotationID="1621" passageID="782" remarks="26698" userID="1" />
+  <attributes annotationID="4166" passageID="782" remarks="26698" userID="26" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -76,38 +76,38 @@
     <node ID="1.7" type="FN">
       <attributes />
       <extra tree_id="9-4" />
-      <edge toID="1.8" type="E">
+      <edge toID="1.8" type="P">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
-      </edge>
-      <edge toID="1.9" type="C">
-        <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
       </edge>
     </node>
     <node ID="1.8" type="FN">
       <attributes />
       <extra tree_id="9-4-1" />
-      <edge toID="0.3" type="Terminal">
+      <edge toID="1.9" type="F">
         <attributes />
-        <category tag="Terminal" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
       </edge>
-    </node>
-    <node ID="1.9" type="FN">
-      <attributes />
-      <extra tree_id="9-4-2" />
-      <edge toID="1.10" type="P">
+      <edge toID="1.10" type="C">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>
       <edge toID="1.11" type="U">
         <attributes />
         <category tag="U" />
       </edge>
     </node>
+    <node ID="1.9" type="FN">
+      <attributes />
+      <extra tree_id="9-4-1-1" />
+      <edge toID="0.3" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
     <node ID="1.10" type="FN">
       <attributes />
-      <extra tree_id="9-4-2-1" />
+      <extra tree_id="9-4-1-2" />
       <edge toID="0.4" type="Terminal">
         <attributes />
         <category tag="Terminal" />

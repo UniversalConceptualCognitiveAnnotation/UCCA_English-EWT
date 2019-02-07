@@ -536,9 +536,9 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
       </edge>
-      <edge toID="1.86" type="G">
+      <edge toID="1.86" type="F">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="G" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
       </edge>
       <edge toID="1.87" type="D">
         <attributes />
@@ -1332,7 +1332,7 @@
     </node>
     <node ID="1.86" type="FN">
       <attributes />
-      <extra remarks="Nicole: could also be function?" tree_id="8-3" />
+      <extra tree_id="8-3" />
       <edge toID="0.23" type="Terminal">
         <attributes />
         <category tag="Terminal" />

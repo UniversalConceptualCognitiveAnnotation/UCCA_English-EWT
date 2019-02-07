@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="392826-0004">
-  <attributes annotationID="423" passageID="187" remarks="26065" userID="1" />
+  <attributes annotationID="2813" passageID="187" remarks="26065" userID="26" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -52,15 +52,15 @@
     <node ID="1.2" type="FN">
       <attributes />
       <extra tree_id="6" />
-      <edge toID="1.10" type="A">
+      <edge toID="1.11" type="A">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
-      <edge toID="1.11" type="D">
+      <edge toID="1.12" type="D">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="D" />
       </edge>
-      <edge toID="1.12" type="S">
+      <edge toID="1.13" type="S">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
       </edge>
@@ -100,7 +100,11 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
       </edge>
-      <edge toID="1.9" type="C">
+      <edge toID="1.9" type="E">
+        <attributes />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
+      </edge>
+      <edge toID="1.10" type="C">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>
@@ -115,12 +119,8 @@
     </node>
     <node ID="1.8" type="FN">
       <attributes />
-      <extra remarks="you can separate &quot;really&quot; from &quot;not&quot; but not &quot;not&quot; from &quot;really&quot;, so I think it's U" tree_id="8-2-1" />
+      <extra tree_id="8-2-1" />
       <edge toID="0.4" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.5" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
@@ -128,16 +128,24 @@
     <node ID="1.9" type="FN">
       <attributes />
       <extra tree_id="8-2-2" />
-      <edge toID="0.6" type="Terminal">
+      <edge toID="0.5" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.10" type="FN">
+      <attributes />
+      <extra tree_id="8-2-3" />
+      <edge toID="0.6" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.11" type="FN">
       <attributes implicit="True" />
       <extra tree_id="6-1" />
     </node>
-    <node ID="1.11" type="FN">
+    <node ID="1.12" type="FN">
       <attributes />
       <extra tree_id="6-2" />
       <edge toID="0.1" type="Terminal">
@@ -145,7 +153,7 @@
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.12" type="FN">
+    <node ID="1.13" type="FN">
       <attributes />
       <extra tree_id="6-3" />
       <edge toID="0.2" type="Terminal">

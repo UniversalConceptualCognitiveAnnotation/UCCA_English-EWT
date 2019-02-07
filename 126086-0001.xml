@@ -168,9 +168,9 @@
     <node ID="1.5" type="FN">
       <attributes />
       <extra tree_id="4" />
-      <edge toID="1.8" type="A">
+      <edge toID="1.8" type="T">
         <attributes />
-        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="A" />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="T" />
       </edge>
       <edge toID="1.9" type="A">
         <attributes />
@@ -191,7 +191,7 @@
     </node>
     <node ID="1.8" type="FN">
       <attributes />
-      <extra tree_id="4-1" />
+      <extra remarks="revise" tree_id="4-1" />
       <edge toID="1.13" type="E">
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="E" />
@@ -291,7 +291,7 @@
     </node>
     <node ID="1.21" type="FN">
       <attributes />
-      <extra tree_id="1-3" />
+      <extra remarks="revise" tree_id="1-3" />
       <edge toID="0.3" type="Terminal">
         <attributes />
         <category tag="Terminal" />

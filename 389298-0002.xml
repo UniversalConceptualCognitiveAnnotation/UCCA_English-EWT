@@ -119,18 +119,18 @@
     </node>
     <node ID="1.4" type="FN">
       <attributes />
-      <extra tree_id="6" />
+      <extra remarks="revise" tree_id="6" />
       <edge toID="1.6" type="A">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
-      <edge toID="1.7" type="P">
+      <edge toID="1.7" type="D">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="D" />
       </edge>
-      <edge toID="1.8" type="A">
+      <edge toID="1.8" type="S">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
       </edge>
       <edge toID="1.9" type="D">
         <attributes />

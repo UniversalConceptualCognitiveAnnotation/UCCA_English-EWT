@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="385436-0001">
-  <attributes annotationID="417" passageID="184" remarks="26055" userID="1" />
+  <attributes annotationID="4053" passageID="184" remarks="26055" userID="26" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -155,6 +155,7 @@
       <edge toID="1.18" type="S">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
     </node>
     <node ID="1.4" type="FN">
@@ -235,7 +236,7 @@
     </node>
     <node ID="1.13" type="FN">
       <attributes />
-      <extra tree_id="4-3" />
+      <extra remarks="name" tree_id="4-3" />
       <edge toID="1.14" type="R">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="R" />
@@ -259,7 +260,7 @@
     </node>
     <node ID="1.15" type="FN">
       <attributes />
-      <extra tree_id="4-3-2-1" />
+      <extra tree_id="4-3-2" />
       <edge toID="0.18" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -267,7 +268,7 @@
     </node>
     <node ID="1.16" type="FN">
       <attributes />
-      <extra tree_id="4-3-2-2" />
+      <extra tree_id="4-3-3" />
       <edge toID="0.19" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -283,7 +284,7 @@
     </node>
     <node ID="1.18" type="FN">
       <attributes />
-      <extra remarks="+participant" tree_id="2-2" />
+      <extra tree_id="2-2" />
       <edge toID="1.19" type="F">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
@@ -327,7 +328,7 @@
     </node>
     <node ID="1.23" type="FN">
       <attributes />
-      <extra tree_id="1-3" />
+      <extra remarks="superlative" tree_id="1-3" />
       <edge toID="1.24" type="F">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
@@ -439,7 +440,7 @@
     </node>
     <node ID="1.33" type="FN">
       <attributes />
-      <extra remarks="Superlative" tree_id="1-3-2-1" />
+      <extra tree_id="1-3-2-1" />
       <edge toID="0.4" type="Terminal">
         <attributes />
         <category tag="Terminal" />

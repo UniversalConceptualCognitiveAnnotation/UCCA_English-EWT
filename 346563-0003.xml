@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="346563-0003">
-  <attributes annotationID="2261" passageID="613" userID="4" />
+  <attributes annotationID="2891" passageID="613" userID="26" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -48,9 +48,9 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="D" />
       </edge>
-      <edge toID="1.6" type="P">
+      <edge toID="1.6" type="S">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
       </edge>
       <edge toID="1.7" type="A">
         <attributes />
@@ -92,7 +92,7 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>
-      <edge toID="1.10" type="U">
+      <edge toID="1.11" type="U">
         <attributes />
         <category tag="U" />
       </edge>
@@ -100,9 +100,13 @@
     <node ID="1.8" type="FN">
       <attributes />
       <extra tree_id="3-4-1" />
-      <edge toID="0.4" type="Terminal">
+      <edge toID="1.9" type="A">
+        <attributes remote="True" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+      </edge>
+      <edge toID="1.10" type="S">
         <attributes />
-        <category tag="Terminal" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
       </edge>
     </node>
     <node ID="1.9" type="FN">
@@ -113,7 +117,15 @@
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.10" type="PNCT">
+    <node ID="1.10" type="FN">
+      <attributes />
+      <extra tree_id="3-4-1-1" />
+      <edge toID="0.4" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.11" type="PNCT">
       <attributes />
       <edge toID="0.6" type="Terminal">
         <attributes />

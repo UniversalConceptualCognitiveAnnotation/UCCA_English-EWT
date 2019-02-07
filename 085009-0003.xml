@@ -151,14 +151,14 @@
     </node>
     <node ID="1.6" type="FN">
       <attributes />
-      <extra tree_id="7" />
-      <edge toID="1.9" type="P">
+      <extra remarks="revise" tree_id="7" />
+      <edge toID="1.9" type="D">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="D" />
       </edge>
-      <edge toID="1.21" type="A">
+      <edge toID="1.21" type="P">
         <attributes remote="True" />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
       </edge>
       <edge toID="1.23" type="U">
         <attributes />

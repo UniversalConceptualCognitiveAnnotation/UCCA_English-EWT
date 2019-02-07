@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="210153-0002">
-  <attributes annotationID="1854" passageID="353" userID="14" />
+  <attributes annotationID="2849" passageID="353" userID="26" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -160,7 +160,11 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>
-      <edge toID="1.18" type="U">
+      <edge toID="1.15" type="U">
+        <attributes />
+        <category tag="U" />
+      </edge>
+      <edge toID="1.16" type="U">
         <attributes />
         <category tag="U" />
       </edge>
@@ -191,10 +195,10 @@
     </node>
     <node ID="1.12" type="FN">
       <attributes />
-      <extra remarks="Nicole: would this also be participant? Wondering because owners and employees is already participant in the first level." tree_id="2-6-3" />
-      <edge toID="1.17" type="S">
+      <extra tree_id="2-6-3-1" />
+      <edge toID="0.11" type="Terminal">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
+        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.13" type="FN">
@@ -207,40 +211,20 @@
     </node>
     <node ID="1.14" type="FN">
       <attributes />
-      <extra tree_id="2-6-5" />
-      <edge toID="1.16" type="S">
-        <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
-      </edge>
-      <edge toID="1.19" type="U">
-        <attributes />
-        <category tag="U" />
-      </edge>
-    </node>
-    <node ID="1.16" type="FN">
-      <attributes />
       <extra tree_id="2-6-5-1" />
       <edge toID="0.13" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.17" type="FN">
-      <attributes />
-      <extra tree_id="2-6-3-1" />
-      <edge toID="0.11" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.18" type="PNCT">
+    <node ID="1.15" type="PNCT">
       <attributes />
       <edge toID="0.10" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.19" type="PNCT">
+    <node ID="1.16" type="PNCT">
       <attributes />
       <edge toID="0.14" type="Terminal">
         <attributes />

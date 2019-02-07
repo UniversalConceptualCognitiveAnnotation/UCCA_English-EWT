@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="216281-0004">
-  <attributes annotationID="1864" passageID="363" userID="14" />
+  <attributes annotationID="2855" passageID="363" userID="26" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -91,7 +91,7 @@
     </node>
     <node ID="1.7" type="FN">
       <attributes />
-      <extra remarks="Nicole: This was &quot;D&quot;, but I do think it gives information about when Rich was there (before 8.30) - would this be one of the &quot;time scenes&quot; that are unclear?" tree_id="9-4" />
+      <extra tree_id="9-4" />
       <edge toID="1.8" type="R">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="R" />
@@ -131,7 +131,11 @@
     </node>
     <node ID="1.10" type="FN">
       <attributes />
-      <extra remarks="Nicole: I agree that this doesn't make sense as an E-Scene (time is not a participant here) - but wondering if a Participant is still needed?" tree_id="9-4-3" />
+      <extra remarks="Nicole: I agree that this doesn't make sense as an E-Scene (time is not a participant here) - but wondering if a Participant is still needed?&#10;Dotan: since 'time' stand for a specific hour in this case I think it can be added as an A" tree_id="9-4-3" />
+      <edge toID="1.11" type="A">
+        <attributes remote="True" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+      </edge>
       <edge toID="1.12" type="P">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />

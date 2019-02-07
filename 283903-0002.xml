@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="283903-0002">
-  <attributes annotationID="2379" passageID="489" userID="4" />
+  <attributes annotationID="2869" passageID="489" userID="26" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -43,6 +43,7 @@
       <edge toID="1.5" type="P">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" tag="Coordinated_Main_Rel." />
       </edge>
     </node>
     <node ID="1.4" type="FN">
@@ -58,15 +59,15 @@
       <extra remarks="coordinated process" tree_id="2-2" />
       <edge toID="1.6" type="C">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" tag="C" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>
       <edge toID="1.7" type="N">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" tag="N" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="N" />
       </edge>
       <edge toID="1.8" type="C">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" tag="C" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>
       <edge toID="1.9" type="U">
         <attributes />
