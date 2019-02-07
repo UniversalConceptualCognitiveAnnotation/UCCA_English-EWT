@@ -2,10 +2,10 @@
 # sent_id = 276689-0001
 # text = The landlord is not nice nor helpful
 1	The	_	Word	Word	_	2	F	2:F	_
-2	landlord	_	Word	Word	_	0	H	0:H	_
-3	is	_	Word	Word	_	2	F	2:F	_
-4	not	_	Word	Word	_	2	D	2:D	_
-5	nice	_	Word	Word	_	2	Coordinated_Main_Rel.	2:Coordinated_Main_Rel.	_
+2	landlord	_	Word	Word	_	5	A	5:A	_
+3	is	_	Word	Word	_	5	F	5:F	_
+4	not	_	Word	Word	_	5	D	5:D	_
+5	nice	_	Word	Word	_	0	H	0:H	_
 6	nor	_	Word	Word	_	5	N	5:N	_
 7	helpful	_	Word	Word	_	5	C	5:C	_
 

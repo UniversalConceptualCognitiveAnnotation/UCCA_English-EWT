@@ -1,16 +1,16 @@
 # format = ucca
 # sent_id = 171255-0002
 # text = They treat there employees with respect and concern and expect that they will extend the same politeness to there customers .
-1	They	_	Word	Word	_	0	H	0:H	_
-2	treat	_	Word	Word	_	1	D	1:D	_
+1	They	_	Word	Word	_	6	A	6:A|10:A	_
+2	treat	_	Word	Word	_	6	D	6:D	_
 3	there	_	Word	Word	_	4	A	4:A	_
-4	employees	_	Word	Word	_	1	A	1:A	_
+4	employees	_	Word	Word	_	6	A	6:A	_
 5	with	_	Word	Word	_	6	R	6:R	_
-6	respect	_	Word	Word	_	1	Coordinated_Main_Rel.	1:Coordinated_Main_Rel.	_
+6	respect	_	Word	Word	_	0	H	0:H	_
 7	and	_	Word	Word	_	6	N	6:N	_
 8	concern	_	Word	Word	_	6	C	6:C	_
 9	and	_	Word	Word	_	10	L	10:L	_
-10	expect	_	Word	Word	_	1	H	1:H	_
+10	expect	_	Word	Word	_	6	H	6:H	_
 11	that	_	Word	Word	_	17	R	17:R	_
 12	they	_	Word	Word	_	17	A	17:A	_
 13	will	_	Word	Word	_	17	F	17:F	_
