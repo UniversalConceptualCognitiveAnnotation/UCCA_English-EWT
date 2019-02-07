@@ -5,7 +5,7 @@
 (v1 / label
     :H (v2 / label
            :D (v3 / label~e.0)
-           :Coordinated_Main_Rel. (v4 / label
-                                      :C (v5 / label~e.1)
-                                      :N (v6 / label~e.2)
-                                      :C (v7 / label~e.3))))
+           :S (v4 / label
+                  :C (v5 / label~e.1)
+                  :N (v6 / label~e.2)
+                  :C (v7 / label~e.3))))

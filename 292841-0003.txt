@@ -31,9 +31,9 @@
            :D (v10 / label
                    :Q (v22 / label~e.27)
                    :C (v23 / label~e.29))
-           :Coordinated_Main_Rel. (v11 / label
-                                       :C (v24 / label
-                                               :C (v32 / label~e.21))
-                                       :N (v25 / label~e.22)
-                                       :C (v26 / label~e.23))
+           :P (v11 / label
+                   :C (v24 / label
+                           :C (v32 / label~e.21))
+                   :N (v25 / label~e.22)
+                   :C (v26 / label~e.23))
            :T (v12 / label~e.25)))

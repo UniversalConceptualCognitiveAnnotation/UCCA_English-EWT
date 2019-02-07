@@ -5,9 +5,9 @@
 (v1 / label
     :H (v2 / label
            :A (v5 / label~e.0)
-           :Coordinated_Main_Rel. (v6 / label
-                                      :C (v11 / label~e.2)
-                                      :C (v12 / label~e.4)))
+           :S (v6 / label
+                  :C (v11 / label~e.2)
+                  :C (v12 / label~e.4)))
     :L (v3 / label~e.6)
     :H (v4 / label
            :A (v7 / label

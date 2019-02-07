@@ -6,10 +6,10 @@
     :H (v2 / label
            :A (v3 / label
                   :A (v7 / label~e.0)
-                  :Coordinated_Main_Rel. (v8 / label
-                                             :C (v10 / label~e.1)
-                                             :N (v11 / label~e.2)
-                                             :C (v12 / label~e.3)))
+                  :S (v8 / label
+                         :C (v10 / label~e.1)
+                         :N (v11 / label~e.2)
+                         :C (v12 / label~e.3)))
            :D (v4 / label~e.4,5)
            :P (v5 / label
                   :C (v9 / label~e.8))

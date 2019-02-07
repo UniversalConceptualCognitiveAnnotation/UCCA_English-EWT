@@ -4,11 +4,11 @@
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :Coordinated_Main_Rel. (v5 / label
-                                      :C (v8 / label~e.2)
-                                      :C (v9 / label
-                                             :E (v10 / label~e.4)
-                                             :C (v11 / label~e.5)))
+           :S (v5 / label
+                  :C (v8 / label~e.2)
+                  :C (v9 / label
+                         :E (v10 / label~e.4)
+                         :C (v11 / label~e.5)))
            :A (v6 / label~e.0))
     :L (v3 / label~e.7)
     :H (v4 / label

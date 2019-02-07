@@ -4,7 +4,7 @@
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :Coordinated_Main_Rel. (v3 / label
-                                      :C (v5 / label~e.1)
-                                      :C (v6 / label~e.2))
+           :S (v3 / label
+                  :C (v5 / label~e.1)
+                  :C (v6 / label~e.2))
            :A (v4 / label~e.3)))

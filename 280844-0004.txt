@@ -15,12 +15,12 @@
     :H (v4 / label
            :A (v10 / label~e.9)
            :D (v11 / label~e.11)
-           :Coordinated_Main_Rel. (v12 / label
-                                       :C (v20 / label~e.12)
-                                       :N (v21 / label~e.13)
-                                       :C (v22 / label
-                                               :E (v23 / label~e.14)
-                                               :C (v14 / label~e.15))))
+           :S (v12 / label
+                   :C (v20 / label~e.12)
+                   :N (v21 / label~e.13)
+                   :C (v22 / label
+                           :E (v23 / label~e.14)
+                           :C (v14 / label~e.15))))
     :L (v5 / label~e.17)
     :H (v6 / label
            :P (v13 / label~e.19)

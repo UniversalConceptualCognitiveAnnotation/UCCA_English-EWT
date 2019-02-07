@@ -9,9 +9,9 @@
            :A (v6 / label
                   :R (v11 / label~e.2)
                   :C (v12 / label~e.3))
-           :Coordinated_Main_Rel. (v7 / label
-                                      :C (v13 / label~e.5)
-                                      :C (v14 / label~e.7)))
+           :S (v7 / label
+                  :C (v13 / label~e.5)
+                  :C (v14 / label~e.7)))
     :L (v3 / label~e.8)
     :H (v4 / label
            :A v8
