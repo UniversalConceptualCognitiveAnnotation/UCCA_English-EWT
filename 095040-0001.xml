@@ -36,9 +36,8 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="D" />
       </edge>
-      <edge toID="1.4" type="Coordinated_Main_Rel.">
+      <edge toID="1.4" type="S">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" tag="Coordinated_Main_Rel." />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
       </edge>
     </node>
