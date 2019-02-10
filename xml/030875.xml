@@ -144,7 +144,7 @@
     </node>
     <node ID="1.3" type="FN">
       <attributes />
-      <extra tree_id="1-1" />
+      <extra remarks="names" tree_id="1-1" />
       <edge toID="0.1" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -164,7 +164,7 @@
     </node>
     <node ID="1.5" type="FN">
       <attributes />
-      <extra tree_id="1-3" />
+      <extra remarks="revise" tree_id="1-3" />
       <edge toID="1.6" type="E">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
