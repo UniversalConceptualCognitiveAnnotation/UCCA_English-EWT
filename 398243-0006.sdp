@@ -2,10 +2,10 @@
 1	He	_	Word	-	-	_	A	_	_	A*	_	_	_
 2	checked	_	Word	-	+	_	_	_	_	_	_	_	_
 3	out	_	Word	-	-	_	Terminal	_	_	_	_	_	_
-4	what	_	Word	-	-	_	_	A	_	_	_	_	_
+4	what	_	Word	-	-	_	_	A	A*	_	_	_	_
 5	I	_	Word	-	-	_	_	A	A*	_	_	_	_
 6	needed	_	Word	-	+	_	A	_	_	_	_	_	_
-7	to	_	Word	-	-	_	_	_	F	_	_	_	_
+7	to	_	Word	-	-	_	_	_	R	_	_	_	_
 8	have	_	Word	-	-	_	_	_	F	_	_	_	_
 9	done	_	Word	-	+	_	_	A	_	_	_	_	_
 10	told	_	Word	-	+	_	H	_	_	_	_	_	_
@@ -17,7 +17,7 @@
 16	before	_	Word	-	-	_	L	_	_	_	_	_	_
 17	he	_	Word	-	-	_	_	_	_	_	_	A	A*
 18	did	_	Word	-	-	_	_	_	_	_	_	F	_
-19	any	_	Word	-	-	_	_	_	_	_	_	Q	_
+19	any	_	Word	-	-	_	_	_	_	_	_	D	_
 20	work	_	Word	-	+	_	H	_	_	_	_	_	_
 21	and	_	Word	-	-	_	L	_	_	_	_	_	_
 22	did	_	Word	-	-	_	_	_	_	_	_	_	F

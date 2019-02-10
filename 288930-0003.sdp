@@ -1,14 +1,14 @@
 # format = ucca
 1	Try	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
 2	the	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_
-3	360	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_
-4	restraunt	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
+3	360	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
+4	restraunt	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_
 5	u	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_
 6	spin	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
 7	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
 8	the	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_
-9	cn	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_
-10	tower	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+9	cn	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+10	tower	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_
 11	with	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_
 12	a	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_
 13	beautiful	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
@@ -19,10 +19,10 @@
 18	elevator	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
 19	is	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_
 20	about	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
-21	an	_	Word	-	-	_	_	_	_	_	_	_	_	Q	_	_
+21	an	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_
 22	hour	_	Word	-	+	_	_	_	_	_	_	_	_	_	T	_
 23	line	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
-24	up	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_
+24	up	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_
 25	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
 26	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
 27	summer	_	Word	-	+	_	_	_	_	_	_	_	_	_	T	_

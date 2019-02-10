@@ -1,22 +1,22 @@
 # format = ucca
-1	I	_	Word	-	-	_	A	_	_	_	_	_
-2	HAD	_	Word	-	-	_	D	_	_	_	_	_
-3	TO	_	Word	-	-	_	F	_	_	_	_	_
-4	ASK	_	Word	-	+	_	_	_	_	_	_	_
-5	THE	_	Word	-	-	_	_	E	_	_	_	_
-6	GIRL	_	Word	-	+	_	A	_	_	_	_	_
-7	WHO	_	Word	-	-	_	_	_	R	_	_	_
-8	BROUGHT	_	Word	-	+	_	_	E	_	_	_	_
-9	MY	_	Word	-	-	_	_	_	_	E	_	_
-10	FOOD	_	Word	-	+	_	_	_	A	_	_	_
-11	AND	_	Word	-	-	_	L	_	_	_	_	_
-12	SHE	_	Word	-	-	_	_	_	_	_	A	A*
-13	NEVER	_	Word	-	-	_	_	_	_	_	T	T*
-14	CAME	_	Word	-	+	_	H	_	_	_	_	_
-15	BACK	_	Word	-	-	_	_	_	_	_	D	_
-16	TO	_	Word	-	-	_	L	_	_	_	_	_
-17	LET	_	Word	-	-	_	_	_	_	_	_	D
-18	ME	_	Word	-	-	_	_	_	_	_	_	A
-19	KNOW	_	Word	-	+	_	H	_	_	_	_	_
-20	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+1	I	_	Word	-	-	_	_	A	_	_	_	_	_
+2	HAD	_	Word	-	+	_	_	D	_	_	_	_	_
+3	TO	_	Word	-	-	_	Terminal	_	_	_	_	_	_
+4	ASK	_	Word	-	+	_	_	_	_	_	_	_	_
+5	THE	_	Word	-	-	_	_	_	F	_	_	_	_
+6	GIRL	_	Word	-	+	_	_	A	_	_	_	_	_
+7	WHO	_	Word	-	-	_	_	_	_	R	_	_	_
+8	BROUGHT	_	Word	-	+	_	_	_	E	_	_	_	_
+9	MY	_	Word	-	-	_	_	_	_	_	E	_	_
+10	FOOD	_	Word	-	+	_	_	_	_	A	_	_	_
+11	AND	_	Word	-	-	_	_	L	_	_	_	_	_
+12	SHE	_	Word	-	-	_	_	_	_	_	_	A	A*
+13	NEVER	_	Word	-	-	_	_	_	_	_	_	T	_
+14	CAME	_	Word	-	+	_	_	H	_	_	_	_	_
+15	BACK	_	Word	-	-	_	_	_	_	_	_	D	_
+16	TO	_	Word	-	-	_	_	L	_	_	_	_	_
+17	LET	_	Word	-	-	_	_	_	_	_	_	_	D
+18	ME	_	Word	-	-	_	_	_	_	_	_	_	A
+19	KNOW	_	Word	-	+	_	_	H	_	_	_	_	_
+20	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 
