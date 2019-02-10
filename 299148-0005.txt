@@ -1,6 +1,6 @@
 # ::id 299148-0005
 # ::tok If you are in town and need that kind of space I say stay here but if you are looking for a little more upscale affair do n't let the pictures fool you and book somewhere else .
-# ::alignments 0-1.1 1-1.2.1 3-1.2.3 4-1.2.4 5-1.3 6-1.4.1 7-1.4.2.1 8-1.4.2.2 9-1.4.2.3 10-1.4.2.4 11-1.5.1 12-1.5.2 13-1.5.3.1 14-1.5.3.2 15-1.6 16-1.7 17-1.8.1 19-1.8.3 20-1.8.4.1 21-1.8.4.2.1 22-1.8.4.2.2 23-1.8.4.2.3 24-1.8.4.3 25-1.8.4.4 27-1.9.2 28-1.9.3 29-1.9.4.1 30-1.9.4.2 31-1.9.5 32-1.9.6 33-1.10 34-1.11.1 35-1.11.2.1 36-1.11.2.2
+# ::alignments 0-1.1 1-1.2.1 3-1.2.3 4-1.2.4 5-1.3 6-1.4.1 7-1.4.2.1 8-1.4.2.2 9-1.4.2.3 10-1.4.2.4 11-1.5.1 12-1.5.2 13-1.5.3.1 14-1.5.3.2 15-1.6 16-1.7 17-1.8.1 19-1.8.3 20-1.8.4.1 22-1.8.4.2.2 23-1.8.4.2.3 24-1.8.4.3 25-1.8.4.4 27-1.9.2 28-1.9.3 30-1.9.4.2 31-1.9.5 32-1.9.6 33-1.10 34-1.11.1 35-1.11.2.1 36-1.11.2.2
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -31,18 +31,16 @@
            :P (v22 / label~e.19)
            :A (v23 / label
                    :R (v37 / label~e.20)
-                   :Q (v38 / label
-                           :E (v45 / label~e.21)
-                           :E (v46 / label~e.22)
-                           :C (v47 / label~e.23))
+                   :D (v38 / label
+                           :E (v44 / label~e.22)
+                           :C (v45 / label~e.23))
                    :D (v39 / label~e.24)
                    :P (v40 / label~e.25)))
     :H (v10 / label
             :D (v24 / label~e.27)
             :D (v25 / label~e.28)
             :A (v26 / label
-                    :E (v41 / label~e.29)
-                    :C (v42 / label~e.30))
+                    :C (v41 / label~e.30))
             :P (v27 / label~e.31)
             :A (v28 / label~e.32)
             :A v21)
@@ -50,6 +48,6 @@
     :H (v12 / label
             :P (v29 / label~e.34)
             :A (v30 / label
-                    :C (v43 / label~e.35)
-                    :E (v44 / label~e.36))
+                    :C (v42 / label~e.35)
+                    :E (v43 / label~e.36))
             :A v21))

@@ -1,6 +1,6 @@
 # ::id 288930-0002
 # ::tok you get a really good view of the city and there is also attractions like simulator , short movies .
-# ::alignments 0-1.1.1 1-1.1.2 3-1.1.4.1 4-1.1.4.2 5-1.1.5 6-1.1.6.1 8-1.1.6.3 9-1.2 10-1.3.1 12-1.3.3 13-1.3.4.1 14-1.3.4.2.1 15-1.3.4.2.2 17-1.3.4.2.3.1 18-1.3.4.2.3.2
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.4.1 4-1.1.4.2 5-1.1.5 6-1.1.6.1 8-1.1.6.3 9-1.2 10-1.3.1 12-1.3.3 13-1.3.4.1 14-1.3.4.2.1 15-1.3.4.2.2 17-1.3.4.2.3.1.2 18-1.3.4.2.3.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -23,5 +23,7 @@
                            :R (v19 / label~e.14)
                            :C (v20 / label~e.15)
                            :C (v21 / label
-                                   :E (v22 / label~e.17)
-                                   :C (v23 / label~e.18))))))
+                                   :E (v22 / label
+                                           :A (v23 / label~e.18)
+                                           :S (v24 / label~e.17))
+                                   :C v23)))))

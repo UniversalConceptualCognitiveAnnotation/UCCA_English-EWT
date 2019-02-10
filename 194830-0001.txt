@@ -1,10 +1,12 @@
 # ::id 194830-0001
 # ::tok impressive truly impressive
-# ::alignments 0-1.1.1 1-1.2.1 2-1.2.2
+# ::alignments 0-1.1.2 1-1.2.2 2-1.2.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :S (v4 / label~e.0))
+           :A (v4 / label)
+           :S (v5 / label~e.0))
     :H (v3 / label
-           :D (v5 / label~e.1)
-           :S (v6 / label~e.2)))
+           :A (v6 / label)
+           :D (v7 / label~e.1)
+           :S (v8 / label~e.2)))
