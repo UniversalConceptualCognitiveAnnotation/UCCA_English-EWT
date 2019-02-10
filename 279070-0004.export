@@ -15,26 +15,27 @@ well	Word	--	Terminal	512
 worth	Word	--	Terminal	513
 it	Word	--	Terminal	514
 .	Punctuation	--	Terminal	515
-#500	FN	--	A	519	A*	520
-#501	FN	--	S	519
+#500	FN	--	A	521	A*	520
+#501	FN	--	S	521
 #502	FN	--	F	516
 #503	FN	--	E	516
 #504	FN	--	C	516
-#505	FN	--	E	517
-#506	FN	--	F	517
-#507	FN	--	C	517
-#508	PNCT	--	U	521
-#509	FN	--	L	521
+#505	FN	--	C	517
+#506	FN	--	R	518
+#507	FN	--	C	518	A*	519
+#508	PNCT	--	U	522
+#509	FN	--	L	522
 #510	FN	--	A	520
 #511	FN	--	P	520
-#512	FN	--	D	518
-#513	FN	--	S	518
-#514	FN	--	A	518
-#515	PNCT	--	U	518
-#516	FN	--	E	517
-#517	FN	--	A	519
-#518	FN	--	A	520
-#519	FN	--	H	521
-#520	FN	--	H	521
-#521	FN	--	--	0
+#512	FN	--	D	519
+#513	FN	--	S	519
+#514	FN	--	A	519
+#515	PNCT	--	U	519
+#516	FN	--	C	517
+#517	FN	--	E	518
+#518	FN	--	A	521
+#519	FN	--	A	520
+#520	FN	--	H	522
+#521	FN	--	H	522
+#522	FN	--	--	0
 #EOS 279070-0004

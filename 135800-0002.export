@@ -9,20 +9,21 @@ poor	Word	--	Terminal	506
 fuel	Word	--	Terminal	507
 economy	Word	--	Terminal	508
 .	Punctuation	--	Terminal	509
-#500	FN	--	P	514
+#500	FN	--	P	515
 #501	FN	--	S	510
-#502	FN	--	C	511
-#503	FN	--	F	514
-#504	FN	--	Q	512
-#505	FN	--	R	513
-#506	FN	--	E	513
-#507	FN	--	E	513
-#508	FN	--	C	513
-#509	PNCT	--	U	513
+#502	FN	--	C	511	A*	510
+#503	FN	--	D	515
+#504	FN	--	D	515
+#505	FN	--	R	514
+#506	FN	--	S	514
+#507	FN	--	E	512
+#508	FN	--	C	512
+#509	PNCT	--	U	512
 #510	FN	--	E	511
-#511	FN	--	A	514
-#512	FN	--	D	514
-#513	FN	--	A	514
-#514	FN	--	H	515
-#515	FN	--	--	0
+#511	FN	--	A	515
+#512	FN	--	A	514
+#513	FN	--	A	515
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
 #EOS 135800-0002

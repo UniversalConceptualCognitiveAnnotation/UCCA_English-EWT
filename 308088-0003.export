@@ -29,16 +29,16 @@ to	Word	--	Terminal	526
 move	Word	--	Terminal	527
 vehicles	Word	--	Terminal	528
 .	Punctuation	--	Terminal	529
-#500	FN	--	A	530	A*	541
+#500	FN	--	A	530	A*	538
 #501	FN	--	P	530
 #502	FN	--	A	530
-#503	FN	--	D	541
-#504	FN	--	P	541
-#505	FN	--	R	538
+#503	FN	--	D	538
+#504	FN	--	P	538
+#505	FN	--	R	531
 #506	FN	--	P	531
-#507	PNCT	--	U	544
-#508	FN	--	H	544
-#509	PNCT	--	U	544
+#507	PNCT	--	U	543
+#508	FN	--	H	543
+#509	PNCT	--	U	543
 #510	FN	--	D	540
 #511	FN	--	A	540
 #512	FN	--	P	540
@@ -59,19 +59,18 @@ vehicles	Word	--	Terminal	528
 #527	FN	--	P	537
 #528	FN	--	A	537
 #529	PNCT	--	U	537
-#530	FN	--	H	542
-#531	FN	--	C	538
+#530	FN	--	H	541
+#531	FN	--	A	538
 #532	FN	--	E	534
 #533	FN	--	E	534
 #534	FN	--	T	540
 #535	FN	--	A	539
 #536	FN	--	D	537
 #537	FN	--	A	539
-#538	FN	--	A	541
+#538	FN	--	H	541
 #539	FN	--	A	540
-#540	FN	--	H	544
-#541	FN	--	H	542
-#542	FN	--	E	543
-#543	FN	--	H	544
-#544	FN	--	--	0
+#540	FN	--	H	543
+#541	FN	--	E	542
+#542	FN	--	H	543
+#543	FN	--	--	0
 #EOS 308088-0003
