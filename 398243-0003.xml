@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="398243-0003">
-  <attributes annotationID="1457" passageID="700" remarks="26614" userID="1" />
+  <attributes annotationID="3497" passageID="700" remarks="26614" userID="4" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -136,9 +136,9 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
       </edge>
-      <edge toID="1.9" type="Q">
+      <edge toID="1.9" type="D">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="Q" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="D" />
       </edge>
       <edge toID="1.13" type="A">
         <attributes remote="True" />
@@ -176,13 +176,13 @@
     <node ID="1.9" type="FN">
       <attributes />
       <extra tree_id="12-5" />
-      <edge toID="1.10" type="E">
+      <edge toID="1.10" type="F">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
       </edge>
-      <edge toID="1.11" type="E">
+      <edge toID="1.11" type="Q">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="Q" />
       </edge>
       <edge toID="1.12" type="C">
         <attributes />
@@ -284,9 +284,9 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="R" />
       </edge>
-      <edge toID="1.21" type="E">
+      <edge toID="1.21" type="F">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
       </edge>
       <edge toID="1.22" type="C">
         <attributes />

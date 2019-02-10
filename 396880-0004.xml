@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="396880-0004">
-  <attributes annotationID="1455" passageID="699" remarks="26611" userID="1" />
+  <attributes annotationID="3496" passageID="699" remarks="26611" userID="4" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -112,7 +112,7 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="H" />
       </edge>
-      <edge toID="1.31" type="U">
+      <edge toID="1.30" type="U">
         <attributes />
         <category tag="U" />
       </edge>
@@ -232,7 +232,7 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>
-      <edge toID="1.32" type="U">
+      <edge toID="1.31" type="U">
         <attributes />
         <category tag="U" />
       </edge>
@@ -372,13 +372,13 @@
     <node ID="1.27" type="FN">
       <attributes />
       <extra tree_id="9-4" />
-      <edge toID="1.28" type="E">
+      <edge toID="1.28" type="F">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
       </edge>
-      <edge toID="1.29" type="C">
+      <edge toID="1.29" type="P">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
       </edge>
     </node>
     <node ID="1.28" type="FN">
@@ -392,27 +392,19 @@
     <node ID="1.29" type="FN">
       <attributes />
       <extra tree_id="9-4-2" />
-      <edge toID="1.30" type="P">
-        <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
-      </edge>
-    </node>
-    <node ID="1.30" type="FN">
-      <attributes />
-      <extra tree_id="9-4-2-1" />
       <edge toID="0.6" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.31" type="PNCT">
+    <node ID="1.30" type="PNCT">
       <attributes />
       <edge toID="0.7" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.32" type="PNCT">
+    <node ID="1.31" type="PNCT">
       <attributes />
       <edge toID="0.21" type="Terminal">
         <attributes />

@@ -71,7 +71,7 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
-      <extra tree_id="1" />
+      <extra remarks="revise" tree_id="1" />
       <edge toID="1.4" type="S">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
@@ -104,9 +104,9 @@
     <node ID="1.6" type="FN">
       <attributes />
       <extra tree_id="1-3" />
-      <edge toID="1.7" type="R">
+      <edge toID="1.7" type="F">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="R" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
       </edge>
       <edge toID="1.8" type="P">
         <attributes />
