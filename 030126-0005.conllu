@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 030126-0005
 # text = The staff and the Principal are rediculous , they do n't listen to any input , and they make up rediculous rules ( They banned backpacks , because a teacher TRIPPED OVER a student 's ) .
-1	The	_	Word	Word	_	2	E	2:E	_
+1	The	_	Word	Word	_	2	F	2:F	_
 2	staff	_	Word	Word	_	7	A	7:A	_
-3	and	_	Word	Word	_	2	N	2:N	_
-4	the	_	Word	Word	_	5	E	5:E	_
-5	Principal	_	Word	Word	_	2	C	2:C	_
+3	and	_	Word	Word	_	5	L	5:L	_
+4	the	_	Word	Word	_	5	F	5:F	_
+5	Principal	_	Word	Word	_	2	H	2:H	_
 6	are	_	Word	Word	_	7	F	7:F	_
 7	rediculous	_	Word	Word	_	0	H	0:H	_
 8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
@@ -14,7 +14,7 @@
 11	n't	_	Word	Word	_	12	D	12:D	_
 12	listen	_	Word	Word	_	7	H	7:H	_
 13	to	_	Word	Word	_	15	R	15:R	_
-14	any	_	Word	Word	_	15	Q	15:Q	_
+14	any	_	Word	Word	_	15	D	15:D	_
 15	input	_	Word	Word	_	12	A	12:A	_
 16	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 17	and	_	Word	Word	_	19	L	19:L	_
@@ -29,11 +29,11 @@
 26	backpacks	_	Word	Word	_	25	A	25:A|34:C|35:A	_
 27	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 28	because	_	Word	Word	_	31	L	31:L	_
-29	a	_	Word	Word	_	30	E	30:E	_
+29	a	_	Word	Word	_	30	F	30:F	_
 30	teacher	_	Word	Word	_	31	A	31:A	_
 31	TRIPPED	_	Word	Word	_	7	H	7:H	_
 32	OVER	_	Word	Word	_	31	D	31:D	_
-33	a	_	Word	Word	_	34	E	34:E	_
+33	a	_	Word	Word	_	34	F	34:F	_
 34	student	_	Word	Word	_	31	A	31:A	_
 35	's	_	Word	Word	_	34	E	34:E	_
 36	)	_	Punctuation	Punctuation	_	35	U	35:U	_

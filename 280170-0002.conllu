@@ -3,7 +3,7 @@
 # text = I used to tan down the street before I was referred to this place by one of my friends .
 1	I	_	Word	Word	_	4	A	4:A	_
 2	used	_	Word	Word	_	4	D	4:D	_
-3	to	_	Word	Word	_	4	F	4:F	_
+3	to	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	tan	_	Word	Word	_	0	H	0:H	_
 5	down	_	Word	Word	_	7	R	7:R	_
 6	the	_	Word	Word	_	7	F	7:F	_
@@ -16,9 +16,9 @@
 13	this	_	Word	Word	_	14	E	14:E	_
 14	place	_	Word	Word	_	11	A	11:A	_
 15	by	_	Word	Word	_	19	R	19:R	_
-16	one	_	Word	Word	_	19	Q	19:Q	_
-17	of	_	Word	Word	_	19	F	19:F	_
-18	my	_	Word	Word	_	19	E	19:E	_
+16	one	_	Word	Word	_	19	D	19:D	_
+17	of	_	Word	Word	_	19	R	19:R	_
+18	my	_	Word	Word	_	19	A	19:A	_
 19	friends	_	Word	Word	_	11	A	11:A	_
 20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
 

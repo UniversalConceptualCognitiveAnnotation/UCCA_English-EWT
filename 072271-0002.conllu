@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 072271-0002
 # text = What a joy to stroll off historic Canyon Road in Santa Fe into a gallery with a gorgeous diversity of art .
-1	What	_	Word	Word	_	5	G	5:G	_
-2	a	_	Word	Word	_	1	Terminal	1:Terminal	_
-3	joy	_	Word	Word	_	1	Terminal	1:Terminal	_
+1	What	_	Word	Word	_	3	E	3:E	_
+2	a	_	Word	Word	_	3	F	3:F	_
+3	joy	_	Word	Word	_	5	D	5:D	_
 4	to	_	Word	Word	_	5	F	5:F	_
 5	stroll	_	Word	Word	_	0	H	0:H	_
 6	off	_	Word	Word	_	9	R	9:R	_
@@ -20,7 +20,7 @@
 17	a	_	Word	Word	_	21	F	21:F	_
 18	gorgeous	_	Word	Word	_	21	E	21:E	_
 19	diversity	_	Word	Word	_	21	E	21:E	_
-20	of	_	Word	Word	_	21	F	21:F	_
+20	of	_	Word	Word	_	21	R	21:R	_
 21	art	_	Word	Word	_	15	E	15:E	_
 22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
 
