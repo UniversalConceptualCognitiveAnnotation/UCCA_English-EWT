@@ -13,24 +13,24 @@ s	Word	--	Terminal	510
 highest	Word	--	Terminal	511
 level	Word	--	Terminal	512
 .	Punctuation	--	Terminal	513
-#500	FN	--	F	515
+#500	FN	--	F	516
 #501	FN	--	S	514
-#502	FN	--	C	515	A*	514
-#503	FN	--	E	515
+#502	FN	--	C	516	C*	519	A*	515	A*	514
+#503	FN	--	E	516
 #504	FN	--	F	520
 #505	FN	--	S	520
 #506	FN	--	R	519
-#507	FN	--	S	516
-#508	FN	--	E	517
-#509	FN	--	C	517	A*	516
-#510	FN	--	R	517
-#511	FN	--	S	518
-#512	FN	--	C	519	A*	518
-#513	PNCT	--	U	519
-#514	FN	--	E	515
-#515	FN	--	A	520
-#516	FN	--	E	517
-#517	FN	--	E	519
+#507	FN	--	S	517
+#508	FN	--	E	518
+#509	FN	--	C	518	A*	517
+#510	FN	--	R	518
+#511	FN	--	D	515
+#512	FN	--	S	515
+#513	PNCT	--	U	515
+#514	FN	--	E	516
+#515	FN	--	E	519
+#516	FN	--	A	520
+#517	FN	--	E	518
 #518	FN	--	E	519
 #519	FN	--	A	520
 #520	FN	--	H	521
