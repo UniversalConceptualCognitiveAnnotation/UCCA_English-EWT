@@ -285,14 +285,13 @@
     </node>
     <node ID="1.17" type="FN">
       <attributes />
-      <extra tree_id="2-4" />
+      <extra remarks="revise" tree_id="2-4" />
       <edge toID="1.18" type="E">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
       </edge>
-      <edge toID="1.19" type="Q">
+      <edge toID="1.19" type="C">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="Q" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>
     </node>
@@ -306,7 +305,7 @@
     </node>
     <node ID="1.19" type="FN">
       <attributes />
-      <extra remarks="revise" tree_id="2-4-2" />
+      <extra tree_id="2-4-2" />
       <edge toID="0.14" type="Terminal">
         <attributes />
         <category tag="Terminal" />

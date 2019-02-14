@@ -94,7 +94,7 @@
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="H" />
       </edge>
       <edge toID="1.18" type="L">
-        <attributes uncertain="True" />
+        <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="L" />
       </edge>
       <edge toID="1.22" type="H">
@@ -276,7 +276,7 @@
     </node>
     <node ID="1.18" type="FN">
       <attributes />
-      <extra remarks="comparative&#10;revise" tree_id="3" />
+      <extra tree_id="3" />
       <edge toID="1.19" type="E">
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="E" />

@@ -114,55 +114,47 @@
     </node>
     <node ID="1.9" type="FN">
       <attributes />
-      <extra remarks="there is some sort of implicit unit here,as with the previous scene, wherein  presumably the passage is talking about a restaurant or coffee shop. I'm really not sure what to do with this unit, though. Nice is a state, I think. Or is the atmosphere the state? or is it a participant? &#10;&#10;Dotan: I think I would mark nice_D and atmosphere_S" tree_id="3" />
-      <edge toID="1.10" type="A">
-        <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
-      </edge>
-      <edge toID="1.11" type="S">
+      <extra remarks="revise&#10;there is some sort of implicit unit here,as with the previous scene, wherein  presumably the passage is talking about a restaurant or coffee shop. I'm really not sure what to do with this unit, though. Nice is a state, I think. Or is the atmosphere the state? or is it a participant? &#10;&#10;Dotan: I think I would mark nice_D and atmosphere_S" tree_id="3" />
+      <edge toID="1.10" type="S">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
       </edge>
-      <edge toID="1.14" type="D">
+      <edge toID="1.13" type="D">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="D" />
       </edge>
     </node>
     <node ID="1.10" type="FN">
-      <attributes implicit="True" />
-      <extra tree_id="3-1" />
-    </node>
-    <node ID="1.11" type="FN">
       <attributes />
-      <extra tree_id="3-2" />
-      <edge toID="1.12" type="F">
+      <extra tree_id="3-1" />
+      <edge toID="1.11" type="F">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
       </edge>
-      <edge toID="1.13" type="C">
+      <edge toID="1.12" type="C">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>
     </node>
+    <node ID="1.11" type="FN">
+      <attributes />
+      <extra tree_id="3-1-1" />
+      <edge toID="0.6" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
     <node ID="1.12" type="FN">
       <attributes />
-      <extra tree_id="3-2-1" />
-      <edge toID="0.6" type="Terminal">
+      <extra tree_id="3-1-2" />
+      <edge toID="0.8" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.13" type="FN">
       <attributes />
-      <extra tree_id="3-2-2" />
-      <edge toID="0.8" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.14" type="FN">
-      <attributes />
-      <extra tree_id="3-3" />
+      <extra tree_id="3-2" />
       <edge toID="0.7" type="Terminal">
         <attributes />
         <category tag="Terminal" />

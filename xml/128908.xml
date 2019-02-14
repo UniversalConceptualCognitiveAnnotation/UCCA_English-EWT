@@ -29,7 +29,7 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
-      <extra remarks="1.2" tree_id="1" />
+      <extra tree_id="1" />
       <edge toID="0.1" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -37,7 +37,7 @@
     </node>
     <node ID="1.3" type="FN">
       <attributes />
-      <extra remarks="1.3" tree_id="2" />
+      <extra tree_id="2" />
       <edge toID="0.2" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -45,7 +45,7 @@
     </node>
     <node ID="1.4" type="FN">
       <attributes />
-      <extra remarks="1.4" tree_id="3" />
+      <extra tree_id="3" />
       <edge toID="1.5" type="F">
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="F" />
@@ -61,7 +61,7 @@
     </node>
     <node ID="1.5" type="FN">
       <attributes />
-      <extra remarks="1.5" tree_id="3-1" />
+      <extra tree_id="3-1" />
       <edge toID="0.3" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -69,7 +69,7 @@
     </node>
     <node ID="1.6" type="FN">
       <attributes />
-      <extra remarks="1.6" tree_id="3-2" />
+      <extra tree_id="3-2" />
       <edge toID="0.4" type="Terminal">
         <attributes />
         <category tag="Terminal" />
