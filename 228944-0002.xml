@@ -99,7 +99,7 @@
     </node>
     <node ID="1.6" type="FN">
       <attributes />
-      <extra tree_id="2-3" />
+      <extra remarks="revise&#10;superlative" tree_id="2-3" />
       <edge toID="1.7" type="E">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
@@ -115,7 +115,7 @@
     </node>
     <node ID="1.7" type="FN">
       <attributes />
-      <extra remarks="superlative" tree_id="2-3-2" />
+      <extra tree_id="2-3-2" />
       <edge toID="1.14" type="D">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="D" />

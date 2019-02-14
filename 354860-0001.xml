@@ -80,11 +80,11 @@
     <node ID="1.4" type="FN">
       <attributes />
       <extra tree_id="1-1" />
-      <edge toID="1.19" type="F">
+      <edge toID="1.20" type="F">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
       </edge>
-      <edge toID="1.20" type="C">
+      <edge toID="1.21" type="C">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>
@@ -216,7 +216,7 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>
-      <edge toID="1.21" type="U">
+      <edge toID="1.22" type="U">
         <attributes />
         <category tag="U" />
       </edge>
@@ -224,9 +224,9 @@
     <node ID="1.17" type="FN">
       <attributes />
       <extra tree_id="1-2-2-4-3-1" />
-      <edge toID="0.10" type="Terminal">
+      <edge toID="1.19" type="P">
         <attributes />
-        <category tag="Terminal" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
       </edge>
     </node>
     <node ID="1.18" type="FN">
@@ -239,13 +239,21 @@
     </node>
     <node ID="1.19" type="FN">
       <attributes />
+      <extra tree_id="1-2-2-4-3-1-1" />
+      <edge toID="0.10" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.20" type="FN">
+      <attributes />
       <extra tree_id="1-1-1" />
       <edge toID="0.1" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.20" type="FN">
+    <node ID="1.21" type="FN">
       <attributes />
       <extra tree_id="1-1-2" />
       <edge toID="0.2" type="Terminal">
@@ -253,7 +261,7 @@
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.21" type="PNCT">
+    <node ID="1.22" type="PNCT">
       <attributes />
       <edge toID="0.12" type="Terminal">
         <attributes />

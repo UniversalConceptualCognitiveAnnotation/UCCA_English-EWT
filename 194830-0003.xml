@@ -157,6 +157,10 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="D" />
       </edge>
+      <edge toID="1.28" type="A">
+        <attributes />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+      </edge>
       <edge toID="1.31" type="A">
         <attributes remote="True" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
@@ -380,14 +384,10 @@
     </node>
     <node ID="1.26" type="FN">
       <attributes />
-      <extra remarks="Should be part of 'light verb' with 'has' from previous scene - technically it is impossible.  " tree_id="7-2" />
-      <edge toID="1.28" type="F">
+      <extra tree_id="7-2" />
+      <edge toID="1.29" type="F">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
-      </edge>
-      <edge toID="1.29" type="E">
-        <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
       </edge>
       <edge toID="1.30" type="C">
         <attributes />
@@ -404,23 +404,23 @@
     </node>
     <node ID="1.28" type="FN">
       <attributes />
-      <extra tree_id="7-2-1" />
-      <edge toID="0.7" type="Terminal">
+      <extra tree_id="7-4" />
+      <edge toID="0.9" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.29" type="FN">
       <attributes />
-      <extra tree_id="7-2-2" />
-      <edge toID="0.9" type="Terminal">
+      <extra tree_id="7-2-1" />
+      <edge toID="0.7" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.30" type="FN">
       <attributes />
-      <extra tree_id="7-2-3" />
+      <extra tree_id="7-2-2" />
       <edge toID="0.10" type="Terminal">
         <attributes />
         <category tag="Terminal" />

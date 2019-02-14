@@ -160,9 +160,9 @@
     <node ID="1.10" type="FN">
       <attributes />
       <extra tree_id="5-5" />
-      <edge toID="1.11" type="Q">
+      <edge toID="1.11" type="E">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="Q" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
       </edge>
       <edge toID="1.12" type="C">
         <attributes />
@@ -175,7 +175,7 @@
     </node>
     <node ID="1.11" type="FN">
       <attributes />
-      <extra remarks="revise" tree_id="5-5-1" />
+      <extra tree_id="5-5-1" />
       <edge toID="0.11" type="Terminal">
         <attributes />
         <category tag="Terminal" />
