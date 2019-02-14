@@ -1,53 +1,53 @@
 # format = ucca
-1	Barb	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-2	does	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_
-3	an	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_
-4	AMAZING	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_	_
-5	JOB	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-7	she	_	Word	-	-	_	_	A	_	A*	_	_	A*	_	_	_	_	_	_
-8	is	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_
-9	always	_	Word	-	-	_	_	T	_	_	_	_	_	_	_	_	_	_	_
-10	learning	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-11	new	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-12	things	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-13	on	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-14	how	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_	_	_
-15	to	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_
-16	use	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-17	her	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-18	hands	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-19	and	_	Word	-	-	_	_	_	_	_	N	_	_	_	_	_	_	_	_
-20	body	_	Word	-	-	_	_	_	_	_	C	_	_	_	_	_	_	_	_
-21	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-22	to	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
-23	give	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_	_
-24	every	_	Word	-	-	_	_	_	_	_	_	Q	_	_	_	_	_	_	_
-25	person	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-26	an	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_	_
-27	AWESOME	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_	_
-28	MASSAGE	_	Word	-	+	_	_	_	_	_	_	_	_	_	A*	_	_	_	_
-29	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-30	CALL	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-31	TODAY	_	Word	-	-	_	_	_	_	_	_	_	_	T	_	_	_	_	_
-32	AND	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
-33	SCHEDULE	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-34	YOU	_	Word	-	-	_	_	_	_	_	_	_	_	A*	A*	A	_	_	_
-35	MUST	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_
-36	SEE	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-37	HER	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-38	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-39	YOU	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-40	WILL	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_	_
-41	FALL	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-42	IN	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-43	LOVE	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-44	SHE	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-45	IS	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_
-46	THE	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_
-47	BEST	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-48	OF	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-49	THE	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F
-50	BEST	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-51	!	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Barb	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	does	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	an	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	AMAZING	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	JOB	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	she	_	Word	-	-	_	_	A	_	_	A*	_	_	A*	_	_	_	_	_	_
+8	is	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_
+9	always	_	Word	-	-	_	_	T	_	_	_	_	_	_	_	_	_	_	_	_
+10	learning	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	new	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+12	things	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+13	on	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+14	how	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+15	to	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_
+16	use	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+17	her	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+18	hands	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+19	and	_	Word	-	-	_	_	_	_	_	_	N	_	_	_	_	_	_	_	_
+20	body	_	Word	-	-	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_
+21	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	to	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	give	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
+24	every	_	Word	-	-	_	_	_	_	_	_	_	Q	_	_	_	_	_	_	_
+25	person	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+26	an	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
+27	AWESOME	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_
+28	MASSAGE	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A*	_	_	_	_
+29	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	CALL	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	TODAY	_	Word	-	-	_	_	_	_	_	_	_	_	_	T	_	_	_	_	_
+32	AND	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	SCHEDULE	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	YOU	_	Word	-	-	_	_	_	_	_	_	_	_	_	A*	A*	A	_	_	_
+35	MUST	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_
+36	SEE	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	HER	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+38	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	YOU	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+40	WILL	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_
+41	FALL	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	IN	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+43	LOVE	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+44	SHE	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+45	IS	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
+46	THE	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
+47	BEST	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	OF	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+49	THE	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+50	BEST	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+51	!	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 
