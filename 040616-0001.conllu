@@ -3,7 +3,7 @@
 # text = we purchased a new home but was unable to sell our old house so we contacted this property management company and they have helped us quickly rent out our house and keep it maintained .
 1	we	_	Word	Word	_	2	A	2:A|10:A	_
 2	purchased	_	Word	Word	_	0	H	0:H	_
-3	a	_	Word	Word	_	5	E	5:E	_
+3	a	_	Word	Word	_	5	F	5:F	_
 4	new	_	Word	Word	_	5	E	5:E	_
 5	home	_	Word	Word	_	2	A	2:A	_
 6	but	_	Word	Word	_	10	L	10:L	_
@@ -18,14 +18,14 @@
 15	we	_	Word	Word	_	16	A	16:A	_
 16	contacted	_	Word	Word	_	2	H	2:H	_
 17	this	_	Word	Word	_	20	E	20:E	_
-18	property	_	Word	Word	_	19	E	19:E	_
+18	property	_	Word	Word	_	19	A	19:A	_
 19	management	_	Word	Word	_	20	E	20:E	_
 20	company	_	Word	Word	_	16	A	16:A	_
-21	and	_	Word	Word	_	24	L	24:L	_
-22	they	_	Word	Word	_	24	A	24:A|27:A|34:A	_
-23	have	_	Word	Word	_	24	F	24:F	_
-24	helped	_	Word	Word	_	2	H	2:H	_
-25	us	_	Word	Word	_	24	A	24:A	_
+21	and	_	Word	Word	_	27	L	27:L	_
+22	they	_	Word	Word	_	27	A	27:A|34:A	_
+23	have	_	Word	Word	_	27	F	27:F	_
+24	helped	_	Word	Word	_	27	D	27:D	_
+25	us	_	Word	Word	_	27	A	27:A	_
 26	quickly	_	Word	Word	_	27	D	27:D	_
 27	rent	_	Word	Word	_	2	H	2:H	_
 28	out	_	Word	Word	_	27	F	27:F	_

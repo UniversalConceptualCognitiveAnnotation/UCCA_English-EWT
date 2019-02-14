@@ -1,14 +1,14 @@
 # format = ucca
 # sent_id = 043020-0003
 # text = They were very polite , eager to answer any questions and willing to wait for us to return from vacation to begin installing our fence .
-1	They	_	Word	Word	_	4	A	4:A|6:A|8:A|14:A|23:A	_
+1	They	_	Word	Word	_	4	A	4:A|8:A|14:A|23:A	_
 2	were	_	Word	Word	_	4	F	4:F	_
 3	very	_	Word	Word	_	4	D	4:D	_
 4	polite	_	Word	Word	_	0	H	0:H	_
 5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-6	eager	_	Word	Word	_	4	H	4:H	_
-7	to	_	Word	Word	_	8	R	8:R	_
-8	answer	_	Word	Word	_	6	A	6:A	_
+6	eager	_	Word	Word	_	8	D	8:D	_
+7	to	_	Word	Word	_	8	F	8:F	_
+8	answer	_	Word	Word	_	4	H	4:H	_
 9	any	_	Word	Word	_	10	E	10:E	_
 10	questions	_	Word	Word	_	8	A	8:A	_
 11	and	_	Word	Word	_	14	L	14:L	_
@@ -16,11 +16,11 @@
 13	to	_	Word	Word	_	14	F	14:F	_
 14	wait	_	Word	Word	_	4	H	4:H	_
 15	for	_	Word	Word	_	16	R	16:R	_
-16	us	_	Word	Word	_	0	C	0:C|18:A	_
-17	to	_	Word	Word	_	18	L	18:L	_
-18	return	_	Word	Word	_	4	H	4:H	_
+16	us	_	Word	Word	_	0	C	0:C|20:A	_
+17	to	_	Word	Word	_	20	L	20:L	_
+18	return	_	Word	Word	_	20	D	20:D	_
 19	from	_	Word	Word	_	20	R	20:R	_
-20	vacation	_	Word	Word	_	18	A	18:A	_
+20	vacation	_	Word	Word	_	4	H	4:H	_
 21	to	_	Word	Word	_	23	L	23:L	_
 22	begin	_	Word	Word	_	23	D	23:D	_
 23	installing	_	Word	Word	_	4	H	4:H	_

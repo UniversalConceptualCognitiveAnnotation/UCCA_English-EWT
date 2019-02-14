@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 313558-0004
 # text = Neither me nor my son have n't had a single cavity since we started dental care there .
-1	Neither	_	Word	Word	_	2	N	2:N	_
+1	Neither	_	Word	Word	_	2	E	2:E	_
 2	me	_	Word	Word	_	8	A	8:A	_
 3	nor	_	Word	Word	_	2	N	2:N	_
 4	my	_	Word	Word	_	2	C	2:C	_
@@ -15,7 +15,7 @@
 12	since	_	Word	Word	_	16	L	16:L	_
 13	we	_	Word	Word	_	16	A	16:A	_
 14	started	_	Word	Word	_	16	D	16:D	_
-15	dental	_	Word	Word	_	16	E	16:E	_
+15	dental	_	Word	Word	_	16	A	16:A	_
 16	care	_	Word	Word	_	8	H	8:H	_
 17	there	_	Word	Word	_	16	A	16:A	_
 18	.	_	Punctuation	Punctuation	_	16	U	16:U	_

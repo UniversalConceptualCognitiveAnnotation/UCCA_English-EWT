@@ -2,7 +2,7 @@
 # sent_id = 043020-0019
 # text = When the fence was first installed I would have given them five stars , now for their poor customer follow - up and unwillingness to fix the fence they have dropped to a one - star in my opinion !
 1	When	_	Word	Word	_	10	L	10:L	_
-2	the	_	Word	Word	_	3	E	3:E	_
+2	the	_	Word	Word	_	3	F	3:F	_
 3	fence	_	Word	Word	_	6	A	6:A	_
 4	was	_	Word	Word	_	6	F	6:F	_
 5	first	_	Word	Word	_	6	D	6:D	_
@@ -11,29 +11,29 @@
 8	would	_	Word	Word	_	10	D	10:D	_
 9	have	_	Word	Word	_	10	F	10:F	_
 10	given	_	Word	Word	_	6	H	6:H	_
-11	them	_	Word	Word	_	10	A	10:A|26:A	_
+11	them	_	Word	Word	_	10	A	10:A	_
 12	five	_	Word	Word	_	13	Q	13:Q	_
 13	stars	_	Word	Word	_	10	A	10:A	_
 14	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 15	now	_	Word	Word	_	20	L	20:L	_
 16	for	_	Word	Word	_	20	R	20:R	_
-17	their	_	Word	Word	_	20	A	20:A|24:A	_
+17	their	_	Word	Word	_	20	A	20:A|26:A	_
 18	poor	_	Word	Word	_	20	D	20:D	_
 19	customer	_	Word	Word	_	20	A	20:A	_
 20	follow	_	Word	Word	_	6	H	6:H	_
 21	-	_	Punctuation	Punctuation	_	20	U	20:U	_
 22	up	_	Word	Word	_	20	Terminal	20:Terminal	_
-23	and	_	Word	Word	_	24	L	24:L	_
-24	unwillingness	_	Word	Word	_	6	H	6:H	_
-25	to	_	Word	Word	_	26	R	26:R	_
-26	fix	_	Word	Word	_	24	A	24:A	_
-27	the	_	Word	Word	_	28	E	28:E	_
+23	and	_	Word	Word	_	26	L	26:L	_
+24	unwillingness	_	Word	Word	_	26	D	26:D	_
+25	to	_	Word	Word	_	26	F	26:F	_
+26	fix	_	Word	Word	_	6	H	6:H	_
+27	the	_	Word	Word	_	28	F	28:F	_
 28	fence	_	Word	Word	_	26	A	26:A	_
 29	they	_	Word	Word	_	31	A	31:A	_
 30	have	_	Word	Word	_	31	F	31:F	_
 31	dropped	_	Word	Word	_	6	H	6:H	_
 32	to	_	Word	Word	_	36	R	36:R	_
-33	a	_	Word	Word	_	36	E	36:E	_
+33	a	_	Word	Word	_	36	F	36:F	_
 34	one	_	Word	Word	_	36	Q	36:Q	_
 35	-	_	Punctuation	Punctuation	_	36	U	36:U	_
 36	star	_	Word	Word	_	31	A	31:A	_

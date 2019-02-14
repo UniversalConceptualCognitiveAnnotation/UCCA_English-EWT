@@ -2,7 +2,7 @@
 # sent_id = 105237-0001
 # text = Worst place flour tortillas are always hard the beef enchiladas are discussing meat all over cooked was good many yrs ago but restaurant has gone down hill
 1	Worst	_	Word	Word	_	0	H	0:H	_
-2	place	_	Word	Word	_	1	A	1:A|18:A	_
+2	place	_	Word	Word	_	1	A	1:A	_
 3	flour	_	Word	Word	_	4	E	4:E	_
 4	tortillas	_	Word	Word	_	7	A	7:A	_
 5	are	_	Word	Word	_	7	F	7:F	_
@@ -23,7 +23,7 @@
 20	yrs	_	Word	Word	_	18	T	18:T	_
 21	ago	_	Word	Word	_	20	R	20:R	_
 22	but	_	Word	Word	_	26	L	26:L	_
-23	restaurant	_	Word	Word	_	26	A	26:A	_
+23	restaurant	_	Word	Word	_	26	A	26:A|18:A	_
 24	has	_	Word	Word	_	26	F	26:F	_
 25	gone	_	Word	Word	_	26	F	26:F	_
 26	down	_	Word	Word	_	1	H	1:H	_

@@ -5,17 +5,17 @@
 2	is	_	Word	Word	_	1	F	1:F	_
 3	very	_	Word	Word	_	4	E	4:E	_
 4	friendly	_	Word	Word	_	1	D	1:D	_
-5	they	_	Word	Word	_	6	A	6:A	_
+5	they	_	Word	Word	_	6	A	6:A|10:A|16:A	_
 6	treat	_	Word	Word	_	1	H	1:H	_
 7	you	_	Word	Word	_	6	A	6:A	_
-8	like	_	Word	Word	_	10	R	10:R	_
+8	like	_	Word	Word	_	10	L	10:L	_
 9	a	_	Word	Word	_	10	F	10:F	_
-10	human	_	Word	Word	_	6	D	6:D	_
+10	human	_	Word	Word	_	1	H	1:H	_
 11	being	_	Word	Word	_	10	Terminal	10:Terminal	_
-12	and	_	Word	Word	_	10	N	10:N	_
+12	and	_	Word	Word	_	16	L	16:L	_
 13	not	_	Word	Word	_	16	D	16:D	_
-14	just	_	Word	Word	_	16	E	16:E	_
-15	another	_	Word	Word	_	16	E	16:E	_
-16	patient	_	Word	Word	_	10	C	10:C	_
+14	just	_	Word	Word	_	16	D	16:D	_
+15	another	_	Word	Word	_	16	D	16:D	_
+16	patient	_	Word	Word	_	1	H	1:H	_
 17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
 
