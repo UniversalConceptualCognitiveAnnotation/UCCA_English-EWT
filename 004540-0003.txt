@@ -1,6 +1,6 @@
 # ::id 004540-0003
 # ::tok Additionally , when there was confusion ( my fault ) , they left me flowers along with a personalized gift .
-# ::alignments 0-1.1 2-1.2 5-1.3.3 7-1.4.1 8-1.4.2 11-1.5.1 12-1.5.2 13-1.5.3 14-1.5.4.1 15-1.5.4.2 16-1.5.4.2 17-1.5.4.3.1 18-1.5.4.3.2.2 19-1.5.4.3.3
+# ::alignments 0-1.1 2-1.2 5-1.3.3 7-1.4.1 8-1.4.2 11-1.5.1 12-1.5.2 13-1.5.3 14-1.5.4.1 15-1.5.4.2 16-1.5.4.2 18-1.5.4.3.2.2 19-1.5.4.3.3
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -19,8 +19,7 @@
                    :C (v14 / label~e.14)
                    :N (v15 / label~e.15,16)
                    :C (v16 / label
-                           :E (v17 / label~e.17)
-                           :E (v18 / label
-                                   :A (v19 / label~e.19)
-                                   :S (v20 / label~e.18))
-                           :C v19))))
+                           :E (v17 / label
+                                   :A (v18 / label~e.19)
+                                   :S (v19 / label~e.18))
+                           :C v18))))

@@ -1,6 +1,6 @@
 # ::id 015148-0003
 # ::tok It is all very unique and you wo nt find any other baby wearing the same stuff .
-# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4 4-1.1.5 5-1.2 6-1.3.2 8-1.3.4 9-1.3.5 10-1.3.1.1.1 11-1.3.1.1.2 12-1.3.1.1.3 13-1.3.1.2 14-1.3.1.3.1 15-1.3.1.3.2 16-1.3.1.3.3
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4 4-1.1.5 5-1.2 6-1.3.2 8-1.3.4 9-1.3.5 10-1.3.1.1 11-1.3.1.2 12-1.3.1.3 13-1.3.1.4.2 15-1.3.1.4.3.2 16-1.3.1.4.3.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -11,15 +11,15 @@
     :L (v3 / label~e.5)
     :H (v4 / label
            :A (v9 / label
-                  :A (v13 / label
-                          :E (v16 / label~e.10)
-                          :E (v17 / label~e.11)
-                          :C (v18 / label~e.12))
-                  :P (v14 / label~e.13)
-                  :A (v15 / label
-                          :E (v19 / label~e.14)
-                          :E (v20 / label~e.15)
-                          :C (v21 / label~e.16)))
+                  :E (v13 / label~e.10)
+                  :E (v14 / label~e.11)
+                  :C (v15 / label~e.12)
+                  :E (v16 / label
+                          :A v15
+                          :P (v17 / label~e.13)
+                          :A (v18 / label
+                                  :E (v19 / label~e.15)
+                                  :C (v20 / label~e.16))))
            :A (v10 / label~e.6)
            :D (v11 / label~e.8)
            :P (v12 / label~e.9)))

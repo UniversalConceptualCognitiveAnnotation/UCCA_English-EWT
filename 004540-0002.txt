@@ -1,28 +1,30 @@
 # ::id 004540-0002
 # ::tok For example , I actually forgot to feed my cat , and they went out of their way to take care of him .
-# ::alignments 0-1.1 1-1.1 3-1.2.1 4-1.2.2 5-1.2.3 6-1.2.4.2 7-1.2.4.3 8-1.2.4.4.1.2 9-1.2.4.4.2 11-1.3 12-1.4.5 13-1.4.1 14-1.4.1 15-1.4.1 16-1.4.1 17-1.4.1 20-1.4.3.2 21-1.4.4.1 22-1.4.4.2
+# ::alignments 0-1.1.1 1-1.1.2 3-1.2.1 4-1.2.2 5-1.2.3 6-1.2.4.2 7-1.2.4.3 8-1.2.4.4.1.2 9-1.2.4.4.2 11-1.3 12-1.4.5 13-1.4.1 14-1.4.1 15-1.4.1 16-1.4.1 17-1.4.1 20-1.4.3.2 21-1.4.4.1 22-1.4.4.2
 # ::format ucca
 (v1 / label
-    :L (v2 / label~e.0,1)
+    :L (v2 / label
+           :R (v6 / label~e.0)
+           :C (v7 / label~e.1))
     :H (v3 / label
-           :A (v6 / label~e.3)
-           :G (v7 / label~e.4)
-           :P (v8 / label~e.5)
-           :A (v9 / label
-                  :A v6
-                  :R (v14 / label~e.6)
-                  :P (v15 / label~e.7)
-                  :A (v16 / label
-                          :E (v20 / label
-                                  :A (v21 / label~e.9)
-                                  :S (v22 / label~e.8))
-                          :C v21)))
+           :A (v8 / label~e.3)
+           :G (v9 / label~e.4)
+           :P (v10 / label~e.5)
+           :A (v11 / label
+                   :A v8
+                   :R (v16 / label~e.6)
+                   :P (v17 / label~e.7)
+                   :A (v18 / label
+                           :E (v22 / label
+                                   :A (v23 / label~e.9)
+                                   :S (v24 / label~e.8))
+                           :C v23)))
     :L (v4 / label~e.11)
     :H (v5 / label
-           :D (v10 / label~e.13,14,15,16,17)
-           :P (v11 / label
-                   :C (v17 / label~e.20))
-           :A (v12 / label
-                   :R (v18 / label~e.21)
-                   :C (v19 / label~e.22))
-           :A (v13 / label~e.12)))
+           :D (v12 / label~e.13,14,15,16,17)
+           :P (v13 / label
+                   :C (v19 / label~e.20))
+           :A (v14 / label
+                   :R (v20 / label~e.21)
+                   :C (v21 / label~e.22))
+           :A (v15 / label~e.12)))

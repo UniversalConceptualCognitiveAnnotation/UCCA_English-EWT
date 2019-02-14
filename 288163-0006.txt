@@ -1,6 +1,6 @@
 # ::id 288163-0006
 # ::tok Provided me with warm blanket and has soft music playing .
-# ::alignments 0-1.1.2 1-1.1.3 2-1.1.4.1 3-1.1.4.2 4-1.1.4.3 5-1.2 7-1.3.4.1 8-1.3.4.2 9-1.3.5
+# ::alignments 0-1.1.2 1-1.1.3 2-1.1.4.1 3-1.1.4.2.2 4-1.1.4.3 5-1.2 7-1.3.4.1 8-1.3.4.2 9-1.3.5
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -9,8 +9,10 @@
            :A (v7 / label~e.1)
            :A (v8 / label
                   :R (v12 / label~e.2)
-                  :E (v13 / label~e.3)
-                  :C (v14 / label~e.4)))
+                  :E (v13 / label
+                          :A (v14 / label~e.4)
+                          :S (v17 / label~e.3))
+                  :C v14))
     :L (v3 / label~e.5)
     :H (v4 / label
            :A (v9 / label)

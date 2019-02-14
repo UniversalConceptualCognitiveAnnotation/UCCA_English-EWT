@@ -1,6 +1,6 @@
 # ::id 210019-0002
 # ::tok We go over about 5 times a year .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.4 4-1.1.4.5.1 5-1.1.4.5.2 7-1.1.4.2
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.2.1 4-1.1.4.2.2 5-1.1.4.3 7-1.1.4.1.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -8,8 +8,9 @@
            :P (v4 / label~e.1)
            :D (v5 / label~e.2)
            :T (v6 / label
-                  :C (v7 / label~e.7)
-                  :E (v8 / label~e.3)
-                  :Q (v9 / label
-                         :E (v10 / label~e.4)
-                         :C (v11 / label~e.5)))))
+                  :E (v7 / label
+                         :C (v10 / label~e.7))
+                  :Q (v8 / label
+                         :E (v11 / label~e.3)
+                         :C (v12 / label~e.4))
+                  :C (v9 / label~e.5))))

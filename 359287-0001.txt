@@ -1,6 +1,6 @@
 # ::id 359287-0001
 # ::tok High guality pup food at a good price .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.4.1 6-1.1.4.3 7-1.1.4.2.2
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.4.3 6-1.1.4.5.2 7-1.1.4.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -10,7 +10,8 @@
                   :E (v7 / label~e.2)
                   :C (v8 / label~e.3))
            :A (v6 / label
-                  :R (v9 / label~e.4)
-                  :A (v10 / label
-                          :C (v12 / label~e.7))
-                  :S (v11 / label~e.6))))
+                  :C (v9 / label~e.7)
+                  :R (v10 / label~e.4)
+                  :E (v11 / label
+                          :A v9
+                          :S (v12 / label~e.6)))))
