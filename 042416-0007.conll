@@ -1,10 +1,8 @@
 # format = ucca
 # sent_id = 042416-0007
 1	We	_	Word	Word	_	4	A	_	_
-1	We	_	Word	Word	_	6	A*	_	_
-2	can	_	Word	Word	_	4	F	_	_
+2	can	_	Word	Word	_	4	D	_	_
 3	not	_	Word	Word	_	4	D	_	_
-3	not	_	Word	Word	_	21	D*	_	_
 4	wait	_	Word	Word	_	0	H	_	_
 5	to	_	Word	Word	_	6	R	_	_
 6	go	_	Word	Word	_	4	A	_	_
@@ -19,11 +17,11 @@
 14	great	_	Word	Word	_	15	E	_	_
 15	B&B	_	Word	Word	_	9	C	_	_
 16	...	_	Punctuation	Punctuation	_	4	U	_	_
-17	especially	_	Word	Word	_	21	D	_	_
-18	my	_	Word	Word	_	21	E	_	_
+17	especially	_	Word	Word	_	18	R	_	_
+18	my	_	Word	Word	_	1	E	_	_
 19	4	_	Word	Word	_	20	Q	_	_
 20	year	_	Word	Word	_	21	T	_	_
-21	old	_	Word	Word	_	0	C	_	_
+21	old	_	Word	Word	_	18	A	_	_
 21	old	_	Word	Word	_	25	A*	_	_
 21	old	_	Word	Word	_	36	A*	_	_
 22	,	_	Punctuation	Punctuation	_	4	U	_	_
@@ -35,7 +33,7 @@
 28	Sue	_	Word	Word	_	25	A	_	_
 29	and	_	Word	Word	_	28	N	_	_
 30	all	_	Word	Word	_	32	Q	_	_
-31	the	_	Word	Word	_	32	E	_	_
+31	the	_	Word	Word	_	32	F	_	_
 32	ladies	_	Word	Word	_	28	C	_	_
 33	,	_	Punctuation	Punctuation	_	4	U	_	_
 34	and	_	Word	Word	_	4	L	_	_
