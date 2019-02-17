@@ -30,8 +30,8 @@ series	Word	--	Terminal	525
 .	Punctuation	--	Terminal	526
 #500	FN	--	C	533
 #501	FN	--	N	533
-#502	FN	--	E	527
-#503	FN	--	C	527
+#502	FN	--	A	527
+#503	FN	--	A	527
 #504	FN	--	F	534
 #505	FN	--	S	534
 #506	FN	--	A	534
@@ -41,17 +41,17 @@ series	Word	--	Terminal	525
 #510	PNCT	--	U	536
 #511	FN	--	S	528
 #512	FN	--	E	529
-#513	FN	--	C	529
+#513	FN	--	C	529	A*	528
 #514	PNCT	--	U	537
 #515	FN	--	P	537
-#516	FN	--	E	530
+#516	FN	--	F	530
 #517	FN	--	C	530
 #518	FN	--	L	538
 #519	FN	--	R	535
-#520	FN	--	C	531
+#520	FN	--	P	535	C*	531
 #521	FN	--	Q	531
 #522	FN	--	R	532
-#523	FN	--	E	532
+#523	FN	--	F	532
 #524	FN	--	E	532
 #525	FN	--	C	532
 #526	PNCT	--	U	532
@@ -59,8 +59,8 @@ series	Word	--	Terminal	525
 #528	FN	--	E	529
 #529	FN	--	E	536
 #530	FN	--	A	537
-#531	FN	--	P	535
-#532	FN	--	D	535
+#531	FN	--	A	535
+#532	FN	--	A	535
 #533	FN	--	A	534
 #534	FN	--	H	538
 #535	FN	--	H	538
