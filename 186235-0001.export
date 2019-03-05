@@ -17,8 +17,8 @@ account	Word	--	Terminal	512
 set	Word	--	Terminal	513
 up	Word	--	Terminal	513
 .	Punctuation	--	Terminal	514
-#500	FN	--	G	521
-#501	PNCT	--	U	521
+#500	FN	--	G	522
+#501	PNCT	--	U	522
 #502	FN	--	F	515
 #503	FN	--	C	515
 #504	FN	--	F	516
@@ -26,18 +26,19 @@ up	Word	--	Terminal	513
 #506	FN	--	C	516
 #507	FN	--	R	517
 #508	FN	--	C	517
-#509	FN	--	A	521
+#509	FN	--	A	522
 #510	FN	--	R	520
 #511	FN	--	S	518
 #512	FN	--	C	519	A*	518
 #513	FN	--	P	520
 #514	PNCT	--	U	520
 #515	FN	--	A	521
-#516	FN	--	D	521
-#517	FN	--	P	521
+#516	FN	--	D	522
+#517	FN	--	P	522
 #518	FN	--	E	519
 #519	FN	--	A	520
-#520	FN	--	A	521
-#521	FN	--	H	522
-#522	FN	--	--	0
+#520	FN	--	A	522
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
 #EOS 186235-0001

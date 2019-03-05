@@ -15,27 +15,28 @@ busy	Word	--	Terminal	512
 or	Word	--	Terminal	513
 not	Word	--	Terminal	514
 .	Punctuation	--	Terminal	515
-#500	FN	--	L	522
+#500	FN	--	L	523
 #501	FN	--	F	516
 #502	FN	--	C	516
-#503	FN	--	F	521
-#504	FN	--	D	521
+#503	FN	--	F	522
+#504	FN	--	D	522
 #505	FN	--	F	517
 #506	FN	--	C	517
 #507	FN	--	R	518
 #508	FN	--	C	518
-#509	FN	--	L	522
+#509	FN	--	L	523
 #510	FN	--	A	519	A*	520
 #511	FN	--	F	519
 #512	FN	--	S	519	S*	520
-#513	FN	--	L	522
+#513	FN	--	L	523
 #514	FN	--	D	520
 #515	PNCT	--	U	520
-#516	FN	--	A	521
-#517	FN	--	P	521
-#518	FN	--	A	521
-#519	FN	--	H	522
-#520	FN	--	H	522
-#521	FN	--	H	522
-#522	FN	--	--	0
+#516	FN	--	P	521
+#517	FN	--	P	522
+#518	FN	--	A	522
+#519	FN	--	H	523
+#520	FN	--	H	523
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
 #EOS 022273-0002

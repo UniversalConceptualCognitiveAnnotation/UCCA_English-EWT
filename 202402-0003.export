@@ -7,17 +7,18 @@ call	Word	--	Terminal	504
 customer	Word	--	Terminal	505
 service	Word	--	Terminal	506
 !	Punctuation	--	Terminal	507
-#500	FN	--	A	511
-#501	FN	--	S	511
-#502	FN	--	C	510	A*	509
-#503	FN	--	A	509
-#504	FN	--	P	509
+#500	FN	--	A	512
+#501	FN	--	S	512
+#502	FN	--	C	511	A*	510
+#503	FN	--	A	510
+#504	FN	--	P	510
 #505	FN	--	A	508
-#506	FN	--	P	508
-#507	PNCT	--	U	508
+#506	FN	--	P	509
+#507	PNCT	--	U	509
 #508	FN	--	A	509
-#509	FN	--	E	510
-#510	FN	--	A	511
-#511	FN	--	H	512
-#512	FN	--	--	0
+#509	FN	--	A	510
+#510	FN	--	E	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
 #EOS 202402-0003
