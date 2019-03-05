@@ -192,7 +192,7 @@
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="C" />
       </edge>
-      <edge toID="1.6" type="E">
+      <edge toID="1.5" type="E">
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="E" />
       </edge>
@@ -207,6 +207,15 @@
       <edge toID="0.1" type="Terminal">
         <attributes />
         <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.5" type="FN">
+      <attributes />
+      <extra tree_id="1-1-2" />
+      <edge toID="1.6" type="A">
+        <attributes />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="A" />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="S" />
       </edge>
     </node>
     <node ID="1.6" type="FN">
@@ -389,7 +398,7 @@
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="A" />
       </edge>
       <edge toID="1.24" type="S">
-        <attributes />
+        <attributes Coordinated_Main_Rel.="True" />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="S" />
       </edge>
     </node>

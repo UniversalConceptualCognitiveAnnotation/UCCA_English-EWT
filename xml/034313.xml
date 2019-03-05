@@ -391,7 +391,7 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
       </edge>
-      <edge toID="1.25" type="A">
+      <edge toID="1.24" type="A">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
@@ -418,6 +418,15 @@
       <edge toID="0.16" type="Terminal">
         <attributes />
         <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.24" type="FN">
+      <attributes />
+      <extra tree_id="2-3" />
+      <edge toID="1.25" type="S">
+        <attributes />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
     </node>
     <node ID="1.25" type="FN">
@@ -607,7 +616,7 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
       </edge>
-      <edge toID="1.45" type="C">
+      <edge toID="1.44" type="C">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>
@@ -624,6 +633,15 @@
         <category tag="Terminal" />
       </edge>
     </node>
+    <node ID="1.44" type="FN">
+      <attributes />
+      <extra tree_id="8-3-2" />
+      <edge toID="1.45" type="P">
+        <attributes />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+      </edge>
+    </node>
     <node ID="1.45" type="FN">
       <attributes />
       <extra tree_id="8-3-2-1" />
@@ -635,7 +653,7 @@
     <node ID="1.46" type="FN">
       <attributes />
       <extra tree_id="8-3-3" />
-      <edge toID="1.45" type="A">
+      <edge toID="1.44" type="A">
         <attributes remote="True" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>

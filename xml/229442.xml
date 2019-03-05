@@ -233,7 +233,7 @@
       <attributes />
       <extra tree_id="1" />
       <edge toID="1.3" type="S">
-        <attributes />
+        <attributes Coordinated_Main_Rel.="True" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
       </edge>
       <edge toID="1.7" type="A">
@@ -837,7 +837,7 @@
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="R" />
       </edge>
       <edge toID="1.61" type="P">
-        <attributes />
+        <attributes Coordinated_Main_Rel.="True" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
       </edge>
       <edge toID="1.66" type="A">

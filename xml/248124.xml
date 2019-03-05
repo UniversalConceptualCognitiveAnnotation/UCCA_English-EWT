@@ -975,7 +975,7 @@
     <node ID="1.71" type="FN">
       <attributes />
       <extra tree_id="7" />
-      <edge toID="1.73" type="A">
+      <edge toID="1.72" type="A">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
@@ -989,6 +989,15 @@
       </edge>
       <edge toID="1.78" type="S">
         <attributes />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
+      </edge>
+    </node>
+    <node ID="1.72" type="FN">
+      <attributes />
+      <extra tree_id="7-1" />
+      <edge toID="1.73" type="A">
+        <attributes />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
       </edge>
     </node>
@@ -1055,7 +1064,7 @@
     <node ID="1.80" type="FN">
       <attributes />
       <extra remarks="Adi:&#10;the main subject in the sentance is &quot;handling&quot;, therefore, I think &quot;expert&quot; should be D" tree_id="9" />
-      <edge toID="1.73" type="A">
+      <edge toID="1.72" type="A">
         <attributes remote="True" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>

@@ -630,7 +630,7 @@
     <node ID="1.30" type="FN">
       <attributes />
       <extra remarks="1.28" tree_id="7" />
-      <edge toID="1.32" type="A">
+      <edge toID="1.31" type="A">
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="A" />
       </edge>
@@ -641,6 +641,15 @@
       <edge toID="1.36" type="S">
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="S" />
+      </edge>
+    </node>
+    <node ID="1.31" type="FN">
+      <attributes />
+      <extra remarks="1.29" tree_id="7-1" />
+      <edge toID="1.32" type="S">
+        <attributes />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="S" />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="A" />
       </edge>
     </node>
     <node ID="1.32" type="FN">

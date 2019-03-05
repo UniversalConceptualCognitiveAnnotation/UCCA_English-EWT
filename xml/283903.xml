@@ -112,7 +112,7 @@
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="D" />
       </edge>
       <edge toID="1.8" type="P">
-        <attributes uncertain="True" />
+        <attributes Coordinated_Main_Rel.="True" uncertain="True" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
       </edge>
     </node>

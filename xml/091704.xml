@@ -2000,7 +2000,7 @@
     <node ID="1.130" type="FN">
       <attributes />
       <extra tree_id="23-3" />
-      <edge toID="1.132" type="C">
+      <edge toID="1.131" type="C">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>
@@ -2011,6 +2011,15 @@
       <edge toID="1.136" type="C">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
+      </edge>
+    </node>
+    <node ID="1.131" type="FN">
+      <attributes />
+      <extra tree_id="23-3-1" />
+      <edge toID="1.132" type="A">
+        <attributes />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
       </edge>
     </node>
     <node ID="1.132" type="FN">
