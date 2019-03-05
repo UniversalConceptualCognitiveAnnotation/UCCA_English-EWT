@@ -2,6 +2,7 @@
 # sent_id = 360937-0005
 1	After	_	Word	Word	_	3	L	_	_
 2	my	_	Word	Word	_	3	A	_	_
+2	my	_	Word	Word	_	5	A*	_	_
 3	sampler	_	Word	Word	_	0	H	_	_
 4	&	_	Word	Word	_	3	L	_	_
 5	sandwich	_	Word	Word	_	3	H	_	_
@@ -9,9 +10,9 @@
 7	I	_	Word	Word	_	8	A	_	_
 8	asked	_	Word	Word	_	3	H	_	_
 9	for	_	Word	Word	_	14	R	_	_
-10	a	_	Word	Word	_	11	E	_	_
+10	a	_	Word	Word	_	11	F	_	_
 11	pint	_	Word	Word	_	14	Q	_	_
-12	of	_	Word	Word	_	14	F	_	_
+12	of	_	Word	Word	_	14	R	_	_
 13	there	_	Word	Word	_	14	E	_	_
 14	Nitrogen	_	Word	Word	_	8	A	_	_
 15	Love	_	Word	Word	_	14	Terminal	_	_
@@ -25,20 +26,20 @@
 23	impressed	_	Word	Word	_	20	A	_	_
 24	,	_	Punctuation	Punctuation	_	23	U	_	_
 25	with	_	Word	Word	_	28	R	_	_
-26	the	_	Word	Word	_	28	E	_	_
-27	great	_	Word	Word	_	28	E	_	_
+26	the	_	Word	Word	_	28	F	_	_
+27	great	_	Word	Word	_	28	D	_	_
 28	taste	_	Word	Word	_	23	A	_	_
 29	&	_	Word	Word	_	3	L	_	_
 30	I	_	Word	Word	_	34	A	_	_
 31	am	_	Word	Word	_	34	F	_	_
-32	a	_	Word	Word	_	34	E	_	_
+32	a	_	Word	Word	_	34	F	_	_
 33	Guiness	_	Word	Word	_	34	A	_	_
 34	Lover	_	Word	Word	_	3	H	_	_
 35	so	_	Word	Word	_	3	L	_	_
-36	coming	_	Word	Word	_	3	H	_	_
-37	from	_	Word	Word	_	38	R	_	_
-38	me	_	Word	Word	_	36	A	_	_
-39	,	_	Punctuation	Punctuation	_	3	U	_	_
+36	coming	_	Word	Word	_	41	G	_	_
+37	from	_	Word	Word	_	36	Terminal	_	_
+38	me	_	Word	Word	_	36	Terminal	_	_
+39	,	_	Punctuation	Punctuation	_	41	U	_	_
 40	I	_	Word	Word	_	41	A	_	_
 41	think	_	Word	Word	_	3	H	_	_
 42	this	_	Word	Word	_	44	A	_	_
