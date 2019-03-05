@@ -1,19 +1,19 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_
-2	front	_	Word	-	-	_	E	_	_	_	_	_	_
-3	staff	_	Word	-	+	_	_	_	_	_	A*	A*	A*
-4	has	_	Word	-	-	_	_	F	_	_	_	_	_
-5	seen	_	Word	-	+	_	_	_	_	_	_	_	_
-6	quite	_	Word	-	+	_	_	_	_	Q	_	_	_
-7	a	_	Word	-	-	_	_	_	Terminal	_	_	_	_
-8	bit	_	Word	-	-	_	_	_	Terminal	_	_	_	_
-9	of	_	Word	-	-	_	_	_	R	_	_	_	_
-10	turnover	_	Word	-	+	_	_	A	_	_	_	_	_
-11	and	_	Word	-	-	_	_	L	_	_	_	_	_
-12	changed	_	Word	-	+	_	_	H	_	_	_	_	_
-13	from	_	Word	-	-	_	_	_	_	_	_	R	_
-14	professional	_	Word	-	+	_	_	_	_	_	A	_	_
-15	to	_	Word	-	-	_	_	_	_	_	_	_	R
-16	rude	_	Word	-	+	_	_	_	_	_	A	_	_
-17	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	F	_	_	_	_	_
+2	front	_	Word	-	-	_	D	_	_	_	_	_
+3	staff	_	Word	-	+	_	_	_	_	A*	A*	A*
+4	has	_	Word	-	-	_	_	_	F	_	_	_
+5	seen	_	Word	-	-	_	_	_	D	_	_	_
+6	quite	_	Word	-	+	_	_	_	D	_	_	_
+7	a	_	Word	-	-	_	_	Terminal	_	_	_	_
+8	bit	_	Word	-	-	_	_	Terminal	_	_	_	_
+9	of	_	Word	-	-	_	_	_	R	_	_	_
+10	turnover	_	Word	-	+	_	_	_	_	_	_	_
+11	and	_	Word	-	-	_	_	_	L	_	_	_
+12	changed	_	Word	-	+	_	_	_	H	_	_	_
+13	from	_	Word	-	-	_	_	_	_	_	R	_
+14	professional	_	Word	-	+	_	_	_	_	A	_	_
+15	to	_	Word	-	-	_	_	_	_	_	_	R
+16	rude	_	Word	-	+	_	_	_	_	A	_	_
+17	.	_	Punctuation	-	-	_	_	_	_	_	_	U
 

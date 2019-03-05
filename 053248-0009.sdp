@@ -1,49 +1,49 @@
 # format = ucca
-1	Then	_	Word	-	+	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_
-2	again	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-4	for	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_
-5	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	three	_	Word	-	+	_	_	_	Q	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	of	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	us	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-9	who	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	dined	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-11	together	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_
-12	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-13	two	_	Word	-	-	_	_	_	_	_	Q	_	_	_	_	_	_	_	_	_	_	_
-14	pieces	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-15	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
-16	flatbread	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-17	left	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_
-18	us	_	Word	-	-	_	_	_	_	_	_	_	A	_	A*	_	_	_	_	_	_	_
-19	fighting	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-20	for	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
-21	more	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-22	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-23	and	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_
-24	licking	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-25	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-26	hummus	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-27	from	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-28	our	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-29	fingers	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-30	(	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-31	and	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_
-32	yes	_	Word	-	-	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-33	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-34	those	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-35	two	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Q	_	_	_	_
-36	pieces	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-37	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
-38	flatbread	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-39	did	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_
-40	represent	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-41	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-42	three	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Q	_
-43	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_
-44	person	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
-45	order	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-46	)	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-47	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Then	_	Word	-	+	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+2	again	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+4	for	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+5	the	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	three	_	Word	-	-	_	_	Q	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	of	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	us	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+9	who	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	dined	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	together	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_
+12	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+13	two	_	Word	-	-	_	_	_	_	Q	_	_	_	_	_	_	_	_	_	_	_
+14	pieces	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+15	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+16	flatbread	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+17	left	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_
+18	us	_	Word	-	-	_	_	_	_	_	_	A	_	A*	_	_	_	_	_	_	_
+19	fighting	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+20	for	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+21	more	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+22	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+23	and	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+24	licking	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+25	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
+26	hummus	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+27	from	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+28	our	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+29	fingers	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+30	(	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+31	and	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+32	yes	_	Word	-	-	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+33	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+34	those	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+35	two	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Q	_	_	_	_
+36	pieces	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+37	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+38	flatbread	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+39	did	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_
+40	represent	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+41	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+42	three	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Q	_
+43	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_
+44	person	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+45	order	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+46	)	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+47	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

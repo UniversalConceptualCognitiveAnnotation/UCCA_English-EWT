@@ -1,29 +1,29 @@
 # format = ucca
-1	I	_	Word	-	-	_	A	_	_	_	_	_	_
-2	was	_	Word	-	-	_	F	_	_	_	_	_	_
-3	involved	_	Word	-	+	_	_	_	_	_	_	_	_
-4	in	_	Word	-	-	_	_	R	_	_	_	_	_
-5	a	_	Word	-	-	_	_	E	_	_	_	_	_
-6	car	_	Word	-	-	_	_	E	_	_	_	_	_
-7	accident	_	Word	-	+	_	A	_	_	_	_	_	_
-8	20	_	Word	-	-	_	_	_	Q	_	_	_	_
-9	years	_	Word	-	+	_	T	_	_	_	_	_	_
-10	ago	_	Word	-	-	_	_	_	E	_	_	_	_
-11	and	_	Word	-	-	_	L	_	_	_	_	_	_
-12	since	_	Word	-	+	_	L	_	_	_	_	_	_
-13	then	_	Word	-	-	_	_	_	_	Terminal	_	_	_
-14	I	_	Word	-	-	_	_	_	_	_	A	A*	_
-15	've	_	Word	-	-	_	_	_	_	_	F	_	_
-16	been	_	Word	-	-	_	_	_	_	_	F	_	_
-17	a	_	Word	-	-	_	_	_	_	_	E	_	_
-18	nervous	_	Word	-	-	_	_	_	_	_	D	_	_
-19	wreck	_	Word	-	+	_	H	_	_	_	_	_	_
-20	and	_	Word	-	-	_	L	_	_	_	_	_	_
-21	have	_	Word	-	-	_	_	_	_	_	_	F	_
-22	n't	_	Word	-	-	_	_	_	_	_	_	D	_
-23	been	_	Word	-	-	_	_	_	_	_	_	F	_
-24	behind	_	Word	-	+	_	H	_	_	_	_	_	_
-25	the	_	Word	-	-	_	_	_	_	_	_	_	E
-26	wheel	_	Word	-	+	_	_	_	_	_	_	A	_
-27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+1	I	_	Word	-	-	_	A	_	_	_	_	_
+2	was	_	Word	-	-	_	F	_	_	_	_	_
+3	involved	_	Word	-	-	_	D	_	_	_	_	_
+4	in	_	Word	-	-	_	R	_	_	_	_	_
+5	a	_	Word	-	-	_	F	_	_	_	_	_
+6	car	_	Word	-	-	_	A	_	_	_	_	_
+7	accident	_	Word	-	+	_	_	_	_	_	_	_
+8	20	_	Word	-	-	_	_	Q	_	_	_	_
+9	years	_	Word	-	+	_	T	_	_	_	_	_
+10	ago	_	Word	-	-	_	_	R	_	_	_	_
+11	and	_	Word	-	-	_	L	_	_	_	_	_
+12	since	_	Word	-	+	_	L	_	_	_	_	_
+13	then	_	Word	-	-	_	_	_	Terminal	_	_	_
+14	I	_	Word	-	-	_	_	_	_	A	A*	_
+15	've	_	Word	-	-	_	_	_	_	F	_	_
+16	been	_	Word	-	-	_	_	_	_	F	_	_
+17	a	_	Word	-	-	_	_	_	_	F	_	_
+18	nervous	_	Word	-	-	_	_	_	_	D	_	_
+19	wreck	_	Word	-	+	_	H	_	_	_	_	_
+20	and	_	Word	-	-	_	L	_	_	_	_	_
+21	have	_	Word	-	-	_	_	_	_	_	F	_
+22	n't	_	Word	-	-	_	_	_	_	_	D	_
+23	been	_	Word	-	-	_	_	_	_	_	F	_
+24	behind	_	Word	-	+	_	H	_	_	_	_	_
+25	the	_	Word	-	-	_	_	_	_	_	_	F
+26	wheel	_	Word	-	+	_	_	_	_	_	A	_
+27	.	_	Punctuation	-	-	_	_	_	_	_	_	U
 

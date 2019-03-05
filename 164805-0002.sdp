@@ -1,17 +1,17 @@
 # format = ucca
-1	I	_	Word	-	-	_	A	_	_	_	_
-2	sent	_	Word	-	+	_	_	_	_	_	_
-3	my	_	Word	-	-	_	_	_	E*	_	_
-4	wife	_	Word	-	+	_	A	_	_	_	_
-5	and	_	Word	-	-	_	_	N	_	_	_
-6	daughter	_	Word	-	+	_	_	C	_	_	_
-7	over	_	Word	-	-	_	F	_	_	_	_
-8	to	_	Word	-	-	_	L	_	_	_	_
-9	check	_	Word	-	+	_	H	_	_	_	_
-10	out	_	Word	-	-	_	_	_	_	F	_
-11	a	_	Word	-	-	_	_	_	_	_	E
-12	pre-owned	_	Word	-	-	_	_	_	_	_	E
-13	2009	_	Word	-	+	_	_	_	_	A	_
-14	XF	_	Word	-	-	_	_	_	_	_	Terminal
-15	.	_	Punctuation	-	-	_	_	_	_	_	U
+1	I	_	Word	-	-	_	A	_	_	_
+2	sent	_	Word	-	+	_	_	_	_	_
+3	my	_	Word	-	+	_	A	_	_	_
+4	wife	_	Word	-	-	_	_	A	_	_
+5	and	_	Word	-	-	_	_	N	_	_
+6	daughter	_	Word	-	-	_	_	C	_	_
+7	over	_	Word	-	-	_	D	_	_	_
+8	to	_	Word	-	-	_	L	_	_	_
+9	check	_	Word	-	+	_	H	_	_	_
+10	out	_	Word	-	-	_	_	_	Terminal	_
+11	a	_	Word	-	-	_	_	_	_	F
+12	pre-owned	_	Word	-	-	_	_	_	_	E
+13	2009	_	Word	-	+	_	_	_	A	_
+14	XF	_	Word	-	-	_	_	_	_	Terminal
+15	.	_	Punctuation	-	-	_	_	_	_	U
 

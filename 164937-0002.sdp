@@ -1,33 +1,33 @@
 # format = ucca
-1	What	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_
-2	I	_	Word	-	-	_	A	_	_	A*	_	_	_	_	_	_
-3	love	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-4	most	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_
-5	about	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_
-6	this	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_
-7	place	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
-8	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
-9	other	_	Word	-	+	_	L	_	_	_	_	_	_	_	_	_
-10	than	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
-11	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_
-12	food	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
-13	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
-14	is	_	Word	-	+	_	L	_	_	_	_	_	_	_	_	_
-15	that	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_
-16	eating	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
-17	here	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_
-18	makes	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_
-19	you	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_
-20	feel	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
-21	like	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
-22	you	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_
-23	're	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
-24	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
-25	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
-26	small	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
-27	town	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
-28	rather	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
-29	than	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
-30	Baltimore	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
-31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+1	What	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_
+2	I	_	Word	-	-	_	A	_	_	A*	_	_	_	_	_	_	_
+3	love	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+4	most	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_
+5	about	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_
+6	this	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
+7	place	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
+9	other	_	Word	-	+	_	L	_	_	_	_	_	_	_	_	_	_
+10	than	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_
+11	the	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_
+12	food	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
+14	is	_	Word	-	+	_	L	_	_	_	_	_	_	_	_	_	_
+15	that	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_
+16	eating	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
+17	here	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_
+18	makes	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_
+19	you	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_
+20	feel	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
+21	like	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
+22	you	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	A*
+23	're	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_
+24	in	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
+25	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_
+26	small	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
+27	town	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
+28	rather	_	Word	-	+	_	_	_	_	_	_	_	_	L	_	_	_
+29	than	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	C	_
+30	Baltimore	_	Word	-	+	_	_	_	_	_	_	_	_	H	_	_	_
+31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 

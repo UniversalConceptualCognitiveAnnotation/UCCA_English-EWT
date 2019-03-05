@@ -1,13 +1,13 @@
 # format = ucca
-1	Somewhere	_	Word	-	-	_	A	_	_
-2	in	_	Word	-	-	_	F	_	_
-3	between	_	Word	-	-	_	D	_	_
-4	his	_	Word	-	-	_	A	_	_
-5	rudeness	_	Word	-	+	_	_	_	_
-6	he	_	Word	-	-	_	_	A	_
-7	asked	_	Word	-	+	_	H	_	_
-8	if	_	Word	-	-	_	_	_	R
-9	we	_	Word	-	-	_	_	_	A
-10	smoked	_	Word	-	+	_	_	A	_
-11	.	_	Punctuation	-	-	_	_	_	U
+1	Somewhere	_	Word	-	-	_	_	A	_	_
+2	in	_	Word	-	+	_	_	D	_	_
+3	between	_	Word	-	-	_	Terminal	_	_	_
+4	his	_	Word	-	-	_	_	A	_	_
+5	rudeness	_	Word	-	+	_	_	_	_	_
+6	he	_	Word	-	-	_	_	_	A	_
+7	asked	_	Word	-	+	_	_	H	_	_
+8	if	_	Word	-	-	_	_	_	_	R
+9	we	_	Word	-	-	_	_	_	_	A
+10	smoked	_	Word	-	+	_	_	_	A	_
+11	.	_	Punctuation	-	-	_	_	_	_	U
 
