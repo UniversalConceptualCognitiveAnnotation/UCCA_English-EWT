@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="048363-0017">
-  <attributes annotationID="1505" passageID="724" remarks="26638" userID="1" />
+  <attributes annotationID="3508" passageID="724" remarks="26638" userID="4" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -79,10 +79,10 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
-      <extra tree_id="40" />
-      <edge toID="1.4" type="A">
+      <extra remarks="Adi:&#10;similar to example 2 in vocatives (p.30), only that here the participant is mentioned explicitly other than by name Therefor, I marked &quot;Gerry&quot; ground only" tree_id="40" />
+      <edge toID="1.4" type="G">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="G" />
       </edge>
       <edge toID="1.5" type="A">
         <attributes />
@@ -240,13 +240,13 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="R" />
       </edge>
-      <edge toID="1.19" type="E">
+      <edge toID="1.19" type="A">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
-      <edge toID="1.20" type="C">
+      <edge toID="1.20" type="S">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
       </edge>
       <edge toID="1.22" type="U">
         <attributes />

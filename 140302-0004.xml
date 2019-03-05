@@ -92,7 +92,7 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
-      <edge toID="1.19" type="U">
+      <edge toID="1.20" type="U">
         <attributes />
         <category tag="U" />
       </edge>
@@ -193,11 +193,11 @@
     <node ID="1.13" type="FN">
       <attributes />
       <extra tree_id="12-3" />
-      <edge toID="1.17" type="F">
+      <edge toID="1.18" type="F">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
       </edge>
-      <edge toID="1.18" type="C">
+      <edge toID="1.19" type="C">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>
@@ -212,13 +212,22 @@
     </node>
     <node ID="1.15" type="FN">
       <attributes />
+      <extra tree_id="12-5" />
+      <edge toID="1.17" type="S">
+        <attributes />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+      </edge>
+    </node>
+    <node ID="1.17" type="FN">
+      <attributes />
       <extra tree_id="12-5-1" />
       <edge toID="0.6" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.17" type="FN">
+    <node ID="1.18" type="FN">
       <attributes />
       <extra tree_id="12-3-1" />
       <edge toID="0.4" type="Terminal">
@@ -226,7 +235,7 @@
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.18" type="FN">
+    <node ID="1.19" type="FN">
       <attributes />
       <extra tree_id="12-3-2" />
       <edge toID="0.7" type="Terminal">
@@ -234,7 +243,7 @@
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.19" type="PNCT">
+    <node ID="1.20" type="PNCT">
       <attributes />
       <edge toID="0.2" type="Terminal">
         <attributes />

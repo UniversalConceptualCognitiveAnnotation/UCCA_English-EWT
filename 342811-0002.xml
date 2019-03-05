@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="342811-0002">
-  <attributes annotationID="1251" passageID="603" remarks="26501" userID="1" />
+  <attributes annotationID="4197" passageID="603" remarks="26501" userID="4" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -36,35 +36,51 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="T" />
       </edge>
-      <edge toID="1.6" type="U">
+    </node>
+    <node ID="1.4" type="FN">
+      <attributes />
+      <extra tree_id="3-4" />
+      <edge toID="1.5" type="C">
+        <attributes />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
+      </edge>
+      <edge toID="1.6" type="C">
+        <attributes />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
+      </edge>
+      <edge toID="1.7" type="U">
+        <attributes />
+        <category tag="U" />
+      </edge>
+      <edge toID="1.8" type="U">
         <attributes />
         <category tag="U" />
       </edge>
     </node>
-    <node ID="1.4" type="FN">
+    <node ID="1.5" type="FN">
       <attributes />
-      <extra tree_id="3-3" />
+      <extra tree_id="3-4-1" />
       <edge toID="0.1" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
+    </node>
+    <node ID="1.6" type="FN">
+      <attributes />
+      <extra tree_id="3-4-2" />
       <edge toID="0.3" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
-      <edge toID="1.5" type="U">
-        <attributes />
-        <category tag="U" />
-      </edge>
     </node>
-    <node ID="1.5" type="PNCT">
+    <node ID="1.7" type="PNCT">
       <attributes />
       <edge toID="0.2" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.6" type="PNCT">
+    <node ID="1.8" type="PNCT">
       <attributes />
       <edge toID="0.4" type="Terminal">
         <attributes />

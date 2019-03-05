@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="004940-0009">
-  <attributes annotationID="1509" passageID="726" remarks="26640" userID="1" />
+  <attributes annotationID="3509" passageID="726" remarks="26640" userID="4" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -47,7 +47,7 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
-      <extra remarks="Adi:&#10;unclear grammer.&#10;should &quot;surprised&quot; be a secondary verb?" tree_id="25" />
+      <extra remarks="Adi:&#10;unclear grammar.&#10;I think it should be:&#10;&quot;they recently surprised me with a larger order&quot;" tree_id="25" />
       <edge toID="1.4" type="A">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
@@ -116,9 +116,9 @@
     <node ID="1.9" type="FN">
       <attributes />
       <extra tree_id="25-5-1" />
-      <edge toID="1.11" type="E">
+      <edge toID="1.11" type="F">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
       </edge>
       <edge toID="1.12" type="C">
         <attributes />

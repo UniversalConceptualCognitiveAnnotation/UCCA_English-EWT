@@ -196,7 +196,7 @@
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="S" />
       </edge>
-      <edge toID="1.32" type="A">
+      <edge toID="1.37" type="A">
         <attributes remote="True" />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="A" />
       </edge>
@@ -316,7 +316,7 @@
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="C" />
       </edge>
-      <edge toID="1.38" type="U">
+      <edge toID="1.39" type="U">
         <attributes />
         <category tag="U" />
       </edge>
@@ -440,7 +440,7 @@
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="C" />
       </edge>
-      <edge toID="1.37" type="U">
+      <edge toID="1.38" type="U">
         <attributes />
         <category tag="U" />
       </edge>
@@ -471,10 +471,11 @@
     </node>
     <node ID="1.32" type="FN">
       <attributes />
-      <extra tree_id="3-1-2-1" />
-      <edge toID="0.2" type="Terminal">
+      <extra tree_id="3-1-2" />
+      <edge toID="1.37" type="S">
         <attributes />
-        <category tag="Terminal" />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="S" />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="A" />
       </edge>
     </node>
     <node ID="1.33" type="FN">
@@ -521,14 +522,22 @@
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.37" type="PNCT">
+    <node ID="1.37" type="FN">
+      <attributes />
+      <extra tree_id="3-1-2-1" />
+      <edge toID="0.2" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.38" type="PNCT">
       <attributes />
       <edge toID="0.8" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.38" type="PNCT">
+    <node ID="1.39" type="PNCT">
       <attributes />
       <edge toID="0.29" type="Terminal">
         <attributes />

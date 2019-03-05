@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="345182-0003">
-  <attributes annotationID="1266" passageID="610" remarks="26508" userID="1" />
+  <attributes annotationID="4199" passageID="610" remarks="26508" userID="4" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -152,9 +152,9 @@
     <node ID="1.11" type="FN">
       <attributes />
       <extra tree_id="3-3-5" />
-      <edge toID="1.12" type="E">
+      <edge toID="1.12" type="F">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
       </edge>
       <edge toID="1.13" type="C">
         <attributes />
@@ -167,7 +167,7 @@
     </node>
     <node ID="1.12" type="FN">
       <attributes />
-      <extra tree_id="3-3-5-1-1" />
+      <extra tree_id="3-3-5-1" />
       <edge toID="0.7" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -175,7 +175,7 @@
     </node>
     <node ID="1.13" type="FN">
       <attributes />
-      <extra tree_id="3-3-5-1-2" />
+      <extra tree_id="3-3-5-2" />
       <edge toID="0.8" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -183,7 +183,7 @@
     </node>
     <node ID="1.14" type="FN">
       <attributes />
-      <extra tree_id="3-3-5-2" />
+      <extra tree_id="3-3-5-3" />
       <edge toID="1.13" type="A">
         <attributes remote="True" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
@@ -203,7 +203,7 @@
     </node>
     <node ID="1.15" type="FN">
       <attributes />
-      <extra tree_id="3-3-5-2-2" />
+      <extra tree_id="3-3-5-3-2" />
       <edge toID="0.9" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -211,7 +211,7 @@
     </node>
     <node ID="1.16" type="FN">
       <attributes />
-      <extra tree_id="3-3-5-2-3" />
+      <extra tree_id="3-3-5-3-3" />
       <edge toID="0.10" type="Terminal">
         <attributes />
         <category tag="Terminal" />

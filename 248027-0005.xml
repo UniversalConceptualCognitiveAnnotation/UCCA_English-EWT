@@ -80,7 +80,7 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
       </edge>
-      <edge toID="1.13" type="U">
+      <edge toID="1.14" type="U">
         <attributes />
         <category tag="U" />
       </edge>
@@ -111,14 +111,11 @@
     </node>
     <node ID="1.6" type="FN">
       <attributes />
-      <extra tree_id="16-4-1" />
-      <edge toID="1.11" type="F">
+      <extra tree_id="16-4" />
+      <edge toID="1.11" type="S">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
-      </edge>
-      <edge toID="1.12" type="C">
-        <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
     </node>
     <node ID="1.7" type="FN">
@@ -147,13 +144,25 @@
     </node>
     <node ID="1.11" type="FN">
       <attributes />
+      <extra tree_id="16-4-1" />
+      <edge toID="1.12" type="F">
+        <attributes />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
+      </edge>
+      <edge toID="1.13" type="C">
+        <attributes />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
+      </edge>
+    </node>
+    <node ID="1.12" type="FN">
+      <attributes />
       <extra tree_id="16-4-1-1" />
       <edge toID="0.4" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.12" type="FN">
+    <node ID="1.13" type="FN">
       <attributes />
       <extra tree_id="16-4-1-2" />
       <edge toID="0.5" type="Terminal">
@@ -161,7 +170,7 @@
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.13" type="PNCT">
+    <node ID="1.14" type="PNCT">
       <attributes />
       <edge toID="0.9" type="Terminal">
         <attributes />

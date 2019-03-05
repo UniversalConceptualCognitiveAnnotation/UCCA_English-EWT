@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="054496-0004">
-  <attributes annotationID="1523" passageID="733" remarks="26647" userID="1" />
+  <attributes annotationID="3512" passageID="733" remarks="26647" userID="4" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -140,8 +140,12 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
-      <edge toID="1.10" type="P">
+      <edge toID="1.10" type="F">
         <attributes />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
+      </edge>
+      <edge toID="1.13" type="P">
+        <attributes remote="True" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
       </edge>
       <edge toID="1.15" type="U">
@@ -151,7 +155,7 @@
     </node>
     <node ID="1.9" type="FN">
       <attributes />
-      <extra tree_id="14-4-1" />
+      <extra tree_id="14-4-2" />
       <edge toID="0.9" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -159,7 +163,7 @@
     </node>
     <node ID="1.10" type="FN">
       <attributes />
-      <extra tree_id="14-4-2" />
+      <extra tree_id="14-4-3" />
       <edge toID="0.10" type="Terminal">
         <attributes />
         <category tag="Terminal" />
