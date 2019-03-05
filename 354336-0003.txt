@@ -1,6 +1,6 @@
 # ::id 354336-0003
 # ::tok Try their weekend " tastings " which you can learn about by getting on their weekly email list .
-# ::alignments 0-1.1.2 1-1.1.3.1 2-1.1.3.2 4-1.1.3.3 6-1.2 7-1.3.1 8-1.3.2 9-1.3.3 10-1.3.4.1 11-1.4 12-1.5.3 13-1.5.1.1 14-1.5.1.2.2 15-1.5.1.3.3 16-1.5.1.4 17-1.5.1.5
+# ::alignments 0-1.1.2 1-1.1.3.1 2-1.1.3.2 4-1.1.3.3 6-1.2 7-1.3.1 8-1.3.2 9-1.3.3 10-1.3.4.1 11-1.4 12-1.5.3 13-1.5.1.1 14-1.5.1.2.2 15-1.5.1.3.1 16-1.5.1.3.2 17-1.5.1.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -23,13 +23,11 @@
            :A (v14 / label
                    :R (v20 / label~e.13)
                    :E (v21 / label
-                           :A (v24 / label~e.17)
-                           :S (v25 / label~e.14))
+                           :A (v23 / label~e.17)
+                           :S (v24 / label~e.14))
                    :E (v22 / label
-                           :A v24
-                           :P (v26 / label)
-                           :T (v27 / label~e.15))
-                   :E (v23 / label~e.16)
-                   :C v24)
+                           :T (v25 / label~e.15)
+                           :P (v26 / label~e.16))
+                   :C v23)
            :A v10
            :P (v15 / label~e.12)))

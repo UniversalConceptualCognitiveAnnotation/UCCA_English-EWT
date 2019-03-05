@@ -1,18 +1,18 @@
 # ::id 188461-0002
 # ::tok The statement about " best hamburguers in town " can be even amplifiaed to " best hamburguers in world " Totally worth , juicy , big , fresh , and excellent customer service !
-# ::alignments 1-1.1.1.2 2-1.1.1.3.1 4-1.1.1.3.2 5-1.1.1.3.3 6-1.1.1.3.4.1 7-1.1.1.3.4.2 9-1.1.2 11-1.1.4 12-1.1.5 13-1.1.6.1 15-1.1.6.2 16-1.3.2 17-1.1.6.4.1 18-1.1.6.4.2 20-1.2.2 21-1.2.3 23-1.3.1.1 25-1.3.1.2 27-1.3.1.3 29-1.4 30-1.5.1 31-1.5.2 32-1.5.3
+# ::alignments 1-1.1.1.2 2-1.1.1.3.1 4-1.1.1.3.2 5-1.1.1.3.3 6-1.1.1.3.4.1 7-1.1.1.3.4.2 9-1.1.2 11-1.1.4 12-1.1.5 13-1.1.6.1 15-1.1.6.2 16-1.3.2 17-1.1.6.4.1 18-1.1.6.4.2 20-1.2.2 21-1.2.3 23-1.3.1.1 25-1.3.1.2 27-1.3.1.3 29-1.4 30-1.5.1 31-1.5.2.1 32-1.5.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v7 / label
                   :C (v20 / label~e.1)
                   :E (v21 / label
-                          :R (v28 / label~e.2)
-                          :S (v29 / label~e.4)
-                          :A (v30 / label~e.5)
-                          :A (v31 / label
-                                  :R (v34 / label~e.6)
-                                  :C (v35 / label~e.7))))
+                          :R (v29 / label~e.2)
+                          :S (v30 / label~e.4)
+                          :A (v31 / label~e.5)
+                          :A (v32 / label
+                                  :R (v35 / label~e.6)
+                                  :C (v36 / label~e.7))))
            :D (v8 / label~e.9)
            :D (v9 / label~e.11)
            :P (v10 / label~e.12)
@@ -21,8 +21,8 @@
                    :S (v23 / label~e.15)
                    :A (v16 / label~e.16)
                    :A (v24 / label
-                           :R (v32 / label~e.17)
-                           :C (v33 / label~e.18))))
+                           :R (v33 / label~e.17)
+                           :C (v34 / label~e.18))))
     :H (v3 / label
            :A (v12 / label)
            :D (v13 / label~e.20)
@@ -36,5 +36,6 @@
     :L (v5 / label~e.29)
     :H (v6 / label
            :D (v17 / label~e.30)
-           :A (v18 / label~e.31)
+           :A (v18 / label
+                   :S (v28 / label~e.31))
            :P (v19 / label~e.32)))

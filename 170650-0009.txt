@@ -1,31 +1,32 @@
 # ::id 170650-0009
 # ::tok They made me feel confident in what they would do , and treated me like a member of their own family .
-# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.5.1 6-1.1.5.2 7-1.1.5.3 8-1.1.5.4 9-1.1.5.5 11-1.2 12-1.3.2 13-1.3.3 14-1.3.4.1 15-1.3.4.2 16-1.3.4.3 17-1.3.4.4.1 18-1.3.4.4.2 19-1.3.4.4.3 20-1.3.4.4.4
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4 4-1.1.5 5-1.1.6.1 6-1.1.6.2 7-1.1.6.3 8-1.1.6.4 9-1.1.6.5 11-1.2 12-1.3.2 13-1.3.3 14-1.3.4.1 16-1.3.4.2.2 17-1.3.4.3.1 18-1.3.4.3.2 19-1.3.4.3.3 20-1.3.4.3.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v5 / label~e.0)
-           :A (v6 / label~e.2)
-           :P (v7 / label
-                  :E (v12 / label~e.3)
-                  :C (v13 / label~e.4))
-           :A (v8 / label
-                  :R (v14 / label~e.5)
-                  :A (v15 / label~e.6)
-                  :A (v16 / label~e.7)
-                  :D (v17 / label~e.8)
-                  :P (v18 / label~e.9)))
+           :D (v6 / label~e.1)
+           :A (v7 / label~e.2)
+           :G (v8 / label~e.3)
+           :P (v9 / label~e.4)
+           :A (v10 / label
+                   :R (v14 / label~e.5)
+                   :A (v15 / label~e.6)
+                   :A (v16 / label~e.7)
+                   :D (v17 / label~e.8)
+                   :P (v18 / label~e.9)))
     :L (v3 / label~e.11)
     :H (v4 / label
            :A v5
-           :P (v9 / label~e.12)
-           :A (v10 / label~e.13)
-           :A (v11 / label
+           :P (v11 / label~e.12)
+           :A (v12 / label~e.13)
+           :A (v13 / label
                    :R (v19 / label~e.14)
-                   :E (v20 / label~e.15)
-                   :C (v21 / label~e.16)
-                   :E (v22 / label
+                   :S (v20 / label
+                           :C (v22 / label~e.16))
+                   :A (v21 / label
                            :R (v23 / label~e.17)
-                           :E (v24 / label~e.18)
-                           :E (v25 / label~e.19)
-                           :C (v26 / label~e.20)))))
+                           :A (v24 / label~e.18)
+                           :D (v25 / label~e.19)
+                           :A (v26 / label~e.20))
+                   :A v12)))

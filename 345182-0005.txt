@@ -1,6 +1,6 @@
 # ::id 345182-0005
 # ::tok I picked it up when it was finished and was charge 30.00 .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.2 4-1.2 5-1.3.1 7-1.3.3 8-1.4 10-1.5.4 11-1.5.1.1
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.2 4-1.2 5-1.3.1 7-1.3.3 8-1.4 10-1.5.4 11-1.5.1.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -14,6 +14,7 @@
     :L (v5 / label~e.8)
     :H (v6 / label
            :A (v12 / label
-                   :Q (v14 / label~e.11))
+                   :C (v14 / label)
+                   :Q (v15 / label~e.11))
            :A v7
            :P (v13 / label~e.10)))

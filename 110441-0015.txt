@@ -1,6 +1,6 @@
 # ::id 110441-0015
 # ::tok Bottom line is that when it 's a small privatly owned resturant like this is you can tell that the owners and employees take pride in their product and service .
-# ::alignments 0-1.1.1 1-1.1.1 2-1.1.2 3-1.2.1 4-1.3 5-1.2.2 6-1.2.3 8-1.2.4.2 9-1.2.4.3.2 10-1.2.4.3.3 11-1.2.4.4 12-1.4 13-1.5.1 14-1.5.2 15-1.6.4 16-1.6.1 17-1.6.2 18-1.6.3.1 20-1.6.3.2.1.2 21-1.6.3.2.2 22-1.6.3.2.3 24-1.6.3.3.2 25-1.6.3.4.1 26-1.6.3.4.2 27-1.6.3.4.3.1 28-1.6.3.4.3.2 29-1.6.3.4.3.3
+# ::alignments 0-1.1.1 1-1.1.1 2-1.1.2 3-1.2.1 4-1.3 5-1.2.2 6-1.2.3 8-1.2.4.2 9-1.2.4.3.2 10-1.2.4.3.3 11-1.2.4.4 12-1.4 13-1.5.1 14-1.5.2 15-1.6.4 16-1.6.1 17-1.6.2 18-1.6.3.1 20-1.6.3.2.1.1.2 21-1.6.3.2.2 22-1.6.3.2.3.1 24-1.6.3.3.2 25-1.6.3.4.1 26-1.6.3.4.2 27-1.6.3.4.3.1 28-1.6.3.4.3.2 29-1.6.3.4.3.3
 # ::format ucca
 (v1 / label
     :L (v2 / label
@@ -30,16 +30,18 @@
                    :R (v23 / label~e.18)
                    :A (v24 / label
                            :C (v29 / label
-                                   :C (v36 / label~e.20))
+                                   :S (v36 / label
+                                           :C (v41 / label~e.20)))
                            :N (v30 / label~e.21)
-                           :C (v31 / label~e.22))
+                           :C (v31 / label
+                                   :S (v37 / label~e.22)))
                    :P (v25 / label
                            :C (v32 / label~e.24))
                    :A (v26 / label
                            :R (v33 / label~e.25)
                            :E (v34 / label~e.26)
                            :C (v35 / label
-                                   :C (v37 / label~e.27)
-                                   :N (v38 / label~e.28)
-                                   :C (v39 / label~e.29))))
+                                   :C (v38 / label~e.27)
+                                   :N (v39 / label~e.28)
+                                   :C (v40 / label~e.29))))
            :A (v19 / label~e.15)))

@@ -1,13 +1,14 @@
 # ::id 120992-0001
 # ::tok Holly - the owner , knows exactly how to make you feel beautiful in clothes .
-# ::alignments 0-1.1.2.1 3-1.1.2.2.2 5-1.1.3 6-1.1.4.2 7-1.1.4.3 9-1.1.4.1.2 10-1.1.4.1.3 11-1.1.4.1.4 12-1.1.4.1.5 13-1.1.4.1.6.1 14-1.1.4.1.6.2
+# ::alignments 0-1.1.2.1 3-1.1.2.2.1.2 5-1.1.3 6-1.1.4.2 7-1.1.4.3 9-1.1.4.1.2 10-1.1.4.1.3 11-1.1.4.1.4 12-1.1.4.1.5 13-1.1.4.1.6.1 14-1.1.4.1.6.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
                   :C (v6 / label~e.0)
                   :E (v7 / label
-                         :C (v11 / label~e.3)))
+                         :A (v11 / label
+                                 :C (v17 / label~e.3))))
            :S (v4 / label~e.5)
            :A (v5 / label
                   :E (v8 / label
@@ -16,8 +17,8 @@
                          :D (v14 / label~e.11)
                          :S (v15 / label~e.12)
                          :A (v16 / label
-                                 :R (v17 / label~e.13)
-                                 :C (v18 / label~e.14))
+                                 :R (v18 / label~e.13)
+                                 :C (v19 / label~e.14))
                          :A v6
                          :D (v10 / label~e.7))
                   :E (v9 / label~e.6)

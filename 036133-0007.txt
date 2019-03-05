@@ -1,16 +1,15 @@
 # ::id 036133-0007
 # ::tok ( They even got me a couch pretty quickly . )
-# ::alignments 1-1.1.4 2-1.1.5 3-1.1.6 4-1.1.7 5-1.1.1.1 6-1.1.1.2 7-1.1.2.1 8-1.1.2.2
+# ::alignments 1-1.1.4 2-1.1.5 3-1.1.6 4-1.1.7 6-1.1.1.2 7-1.1.2.1 8-1.1.2.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
-                  :E (v9 / label~e.5)
-                  :C (v10 / label~e.6))
+                  :C (v9 / label~e.6))
            :T (v4 / label
-                  :E (v11 / label~e.7)
-                  :C (v12 / label~e.8))
+                  :E (v10 / label~e.7)
+                  :C (v11 / label~e.8))
            :A (v5 / label~e.1)
-           :D (v6 / label~e.2)
+           :G (v6 / label~e.2)
            :P (v7 / label~e.3)
            :A (v8 / label~e.4)))

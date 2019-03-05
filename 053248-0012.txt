@@ -1,42 +1,41 @@
 # ::id 053248-0012
 # ::tok The duck was a 65 % glob of chewy fat with no resemblance to the juicy , crispy delicacy it usually represents at other establishments .
-# ::alignments 0-1.1.1.1 1-1.3.1 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.3.2 6-1.1.3.3.1 7-1.1.3.3.2 8-1.1.3.3.3.1 9-1.1.3.3.3.2 10-1.2 11-1.3.2 12-1.3.3 13-1.3.4.5 14-1.3.4.1.1.1 15-1.3.4.1.2 17-1.3.4.2.1 18-1.3.4.2.2 19-1.3.4.3.1 20-1.3.4.3.2 21-1.3.4.3.3 22-1.3.4.3.4.1 23-1.3.4.3.4.2 24-1.3.4.3.4.3
+# ::alignments 1-1.3.1 2-1.1.2 4-1.1.3.2.1.1 5-1.1.3.2.1.2 6-1.1.3.3 7-1.1.3.2.2 8-1.1.3.2.3.2 9-1.1.3.2.4 10-1.2 11-1.3.2 12-1.3.3 13-1.3.4.2.1 15-1.3.4.2.3.1 17-1.3.4.2.3.2 18-1.3.4.2.2.2 19-1.3.4.1.1 20-1.3.4.1.2 21-1.3.4.1.3 22-1.3.4.1.4.1 23-1.3.4.1.4.2 24-1.3.4.1.4.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v5 / label
-                  :E (v12 / label~e.0)
                   :C (v8 / label~e.1))
            :S (v6 / label~e.2)
            :A (v7 / label
-                  :E (v13 / label~e.3)
-                  :Q (v14 / label~e.4,5)
-                  :C (v15 / label
-                          :C (v20 / label~e.6)
-                          :N (v21 / label~e.7)
-                          :C (v22 / label
-                                  :S (v31 / label~e.8)
-                                  :A (v32 / label~e.9)))))
+                  :E (v12 / label
+                          :Q (v16 / label
+                                  :Q (v27 / label~e.4)
+                                  :C (v28 / label~e.5))
+                          :R (v17 / label~e.7)
+                          :E (v18 / label
+                                  :A (v19 / label~e.9)
+                                  :S (v29 / label~e.8))
+                          :C v19)
+                  :C (v13 / label~e.6)))
     :L (v3 / label~e.10)
     :H (v4 / label
            :A v8
            :D (v9 / label~e.11)
            :S (v10 / label~e.12)
            :A (v11 / label
-                   :H (v16 / label
+                   :H (v14 / label
+                           :A (v20 / label~e.19)
+                           :T (v21 / label~e.20)
+                           :P (v22 / label~e.21)
                            :A (v23 / label
-                                   :E (v33 / label~e.14)
-                                   :C (v26 / label~e.18))
-                           :S (v24 / label~e.15))
-                   :H (v17 / label
-                           :S (v25 / label~e.17)
-                           :A v26)
-                   :H (v18 / label
-                           :A (v27 / label~e.19)
-                           :T (v28 / label~e.20)
-                           :P (v29 / label~e.21)
-                           :A (v30 / label
-                                   :R (v34 / label~e.22)
-                                   :E (v35 / label~e.23)
-                                   :C (v36 / label~e.24)))
-                   :R (v19 / label~e.13))))
+                                   :R (v30 / label~e.22)
+                                   :E (v31 / label~e.23)
+                                   :C (v32 / label~e.24)))
+                   :H (v15 / label
+                           :R (v24 / label~e.13)
+                           :A (v25 / label
+                                   :C (v33 / label~e.18))
+                           :S (v26 / label
+                                   :C (v34 / label~e.15)
+                                   :C (v35 / label~e.17))))))

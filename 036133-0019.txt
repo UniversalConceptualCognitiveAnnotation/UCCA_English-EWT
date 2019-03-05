@@ -1,6 +1,6 @@
 # ::id 036133-0019
 # ::tok It has been 3 weeks and I STILL do n't have my table ( which was NOT cheap , I might add ) .
-# ::alignments 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.2 6-1.3.1 7-1.3.2 9-1.3.4 10-1.3.5 11-1.3.6.1.1 12-1.5.5 14-1.4 16-1.5.2 17-1.5.3 19-1.5.4 20-1.5.4 21-1.5.4
+# ::alignments 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.2 6-1.3.1 7-1.3.2 9-1.3.4 10-1.3.5 11-1.3.6.1.2 12-1.5.5 14-1.4 16-1.5.2 17-1.5.3 19-1.5.4 20-1.5.4 21-1.5.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -16,8 +16,9 @@
            :S (v12 / label~e.10)
            :A (v13 / label
                    :E (v20 / label
+                           :A (v17 / label~e.12)
                            :S (v21 / label~e.11))
-                   :C (v17 / label~e.12)))
+                   :C v17))
     :L (v5 / label~e.14)
     :H (v6 / label
            :D (v14 / label~e.16)

@@ -1,6 +1,6 @@
 # ::id 053248-0022
 # ::tok When we arrived at 5 , and left circa 7 , there were the same 4 or 5 empty tables surrounding us .
-# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3.1 4-1.2.3.2 6-1.3 7-1.4.1 8-1.4.2.1 9-1.4.2.2 13-1.5.3.1 14-1.5.3.2 15-1.5.3.3.1 16-1.5.3.3.2 17-1.5.3.3.3 18-1.5.3.4 19-1.5.3.5 20-1.5.4 21-1.5.5
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3.1 4-1.2.3.2 6-1.3 7-1.4.1 8-1.4.2.1 9-1.4.2.2 14-1.5.3.2 15-1.5.3.3.1 16-1.5.3.3.2 17-1.5.3.3.3 18-1.5.3.4.2 19-1.5.3.5 20-1.5.4 21-1.5.5
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -19,13 +19,14 @@
            :A v7)
     :H (v6 / label
            :A (v12 / label
-                   :E (v19 / label~e.13)
-                   :E (v20 / label~e.14)
-                   :Q (v21 / label
-                           :C (v24 / label~e.15)
-                           :N (v25 / label~e.16)
-                           :C (v26 / label~e.17))
-                   :E (v22 / label~e.18)
-                   :C (v23 / label~e.19))
+                   :E (v19 / label~e.14)
+                   :Q (v20 / label
+                           :C (v23 / label~e.15)
+                           :N (v24 / label~e.16)
+                           :C (v25 / label~e.17))
+                   :E (v21 / label
+                           :A (v22 / label~e.19)
+                           :S (v26 / label~e.18))
+                   :C v22)
            :S (v13 / label~e.20)
            :A (v14 / label~e.21)))

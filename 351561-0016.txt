@@ -1,6 +1,6 @@
 # ::id 351561-0016
 # ::tok YES I am sure , well , she says , is that ON 17th STREET .
-# ::alignments 0-1.1 1-1.2.1 3-1.2.3 5-1.3 7-1.4.4 8-1.4.1 11-1.4.2.2 12-1.4.2.3 13-1.4.2.4 14-1.4.2.4
+# ::alignments 0-1.1 1-1.2.1 3-1.2.3 5-1.3 7-1.4.4 8-1.4.1 11-1.4.2.2 12-1.4.2.3 13-1.4.2.4.1 14-1.4.2.4.2
 # ::format ucca
 (v1 / label
     :H (v2 / label~e.0)
@@ -13,5 +13,7 @@
            :A (v9 / label
                   :A (v11 / label~e.11)
                   :S (v12 / label~e.12)
-                  :A (v13 / label~e.13,14))
+                  :A (v13 / label
+                          :C (v14 / label~e.13)
+                          :C (v15 / label~e.14)))
            :A (v10 / label~e.7)))

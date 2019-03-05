@@ -1,29 +1,26 @@
 # ::id 035726-0002
 # ::tok Dr. Aster and her team have been a strong advocate in the health of both my daughters .
-# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2 2-1.1.1.2 3-1.1.1.3.1.2 4-1.1.1.3.2 7-1.1.4.1 8-1.1.5 9-1.1.4.2 10-1.1.6.1 11-1.1.6.2 12-1.1.6.3 13-1.1.6.4.1 14-1.1.6.4.2 15-1.1.6.4.3 16-1.1.6.4.4
+# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2 2-1.1.1.2 3-1.1.1.3.1 4-1.1.1.3.2 8-1.1.5 9-1.1.4.2 10-1.1.6.1 12-1.1.6.2.2 13-1.1.6.3.1 14-1.1.6.3.2 15-1.1.6.3.3 16-1.1.6.3.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
                   :C (v7 / label
-                         :E (v16 / label~e.0)
-                         :C (v17 / label~e.1))
+                         :E (v14 / label~e.0)
+                         :C (v15 / label~e.1))
                   :N (v8 / label~e.2)
                   :C (v9 / label
-                         :E (v18 / label
-                                 :A (v19 / label~e.4)
-                                 :S (v24 / label~e.3))
-                         :C v19))
+                         :A (v16 / label~e.3)
+                         :S (v17 / label~e.4)))
            :P (v4 / label
-                  :E (v10 / label~e.7)
-                  :C (v11 / label~e.9))
+                  :C (v10 / label~e.9))
            :D (v5 / label~e.8)
            :A (v6 / label
-                  :R (v12 / label~e.10)
-                  :E (v13 / label~e.11)
-                  :C (v14 / label~e.12)
-                  :E (v15 / label
-                          :R (v20 / label~e.13)
-                          :Q (v21 / label~e.14)
-                          :E (v22 / label~e.15)
-                          :C (v23 / label~e.16)))))
+                  :R (v11 / label~e.10)
+                  :S (v12 / label
+                          :C (v18 / label~e.12))
+                  :A (v13 / label
+                          :R (v19 / label~e.13)
+                          :D (v20 / label~e.14)
+                          :A (v21 / label~e.15)
+                          :A (v22 / label~e.16)))))

@@ -1,6 +1,6 @@
 # ::id 361545-0007
 # ::tok Whereas my answer to the question " Where do you get your laundry done ? " used to be , " At the checkout line at WalMart , " I can honestly say the answer now is , " At The Laundry Tub . "
-# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.3 4-1.4.1.1 5-1.4.1.2 7-1.4.2.1 9-1.4.2.3 10-1.4.2.4 11-1.4.2.5.1.1 12-1.4.2.5.2 13-1.4.2.6 16-1.2.3 21-1.2.6.1 22-1.2.6.2 23-1.2.6.3 24-1.2.6.4 25-1.2.6.5.1 26-1.2.6.5.2 29-1.5.1 31-1.5.3 32-1.5.4 33-1.5.5.1.1 34-1.5.5.1.2 35-1.5.6 39-1.5.5.3.1 40-1.5.5.3.2 41-1.5.5.3.2 42-1.5.5.3.2
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.3 5-1.4.1.2 7-1.4.2.1 9-1.4.2.3 10-1.4.2.4 11-1.4.2.5.1.2 12-1.4.2.5.2 13-1.4.2.6 16-1.2.3 21-1.2.6.1 23-1.2.6.3 24-1.2.6.4 25-1.2.6.5.1 26-1.2.6.5.2 29-1.5.1 31-1.5.3 32-1.5.4 34-1.5.5.1.2 35-1.5.6 39-1.5.5.3.1 40-1.5.5.3.2 41-1.5.5.3.2 42-1.5.5.3.2
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -10,36 +10,33 @@
            :T (v9 / label~e.16)
            :A (v10 / label
                    :R (v18 / label~e.21)
-                   :E (v19 / label~e.22)
-                   :E (v20 / label~e.23)
-                   :C (v21 / label~e.24)
-                   :E (v22 / label
-                           :R (v32 / label~e.25)
-                           :C (v33 / label~e.26))))
+                   :E (v19 / label~e.23)
+                   :C (v20 / label~e.24)
+                   :E (v21 / label
+                           :R (v30 / label~e.25)
+                           :C (v31 / label~e.26))))
     :L (v4 / label~e.3)
     :H (v5 / label
            :S (v11 / label
-                   :E (v23 / label~e.4)
-                   :C (v24 / label~e.5))
+                   :C (v22 / label~e.5))
            :A (v12 / label
-                   :A (v25 / label~e.7)
-                   :A (v26 / label~e.9)
-                   :P (v27 / label~e.10)
-                   :A (v28 / label
-                           :E (v34 / label
-                                   :S (v40 / label~e.11))
-                           :C (v35 / label~e.12))
-                   :D (v29 / label~e.13)))
+                   :A (v23 / label~e.7)
+                   :A (v24 / label~e.9)
+                   :D (v25 / label~e.10)
+                   :A (v26 / label
+                           :E (v32 / label
+                                   :A (v33 / label~e.12)
+                                   :S (v37 / label~e.11))
+                           :C v33)
+                   :P (v27 / label~e.13)))
     :H (v6 / label
            :A (v13 / label~e.29)
            :D (v14 / label~e.31)
            :P (v15 / label~e.32)
            :A (v16 / label
-                   :S (v30 / label
-                           :E (v36 / label~e.33)
-                           :C (v37 / label~e.34))
-                   :A (v31 / label
-                           :S (v38 / label~e.39)
-                           :A (v39 / label~e.40,41,42)
-                           :A v25))
+                   :S (v28 / label
+                           :C (v34 / label~e.34))
+                   :A (v29 / label
+                           :R (v35 / label~e.39)
+                           :C (v36 / label~e.40,41,42)))
            :T (v17 / label~e.35)))

@@ -1,33 +1,34 @@
 # ::id 035899-0004
 # ::tok Their sense of humour and calmness when dealing with the little ones amazes me every time I walk in .
-# ::alignments 0-1.1.1 1-1.1.2.1.2 2-1.1.2.1.2 3-1.1.2.1.2 4-1.1.2.2 5-1.1.2.3.2 6-1.1.2.4 7-1.1.2.5.2 8-1.1.2.5.3.1 9-1.1.2.5.3.2 10-1.1.2.5.3.3 11-1.1.2.5.3.4 12-1.1.3 13-1.1.4 14-1.2.1.1 15-1.2.1.2 16-1.2.2 17-1.2.3.2
+# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2.1.1 2-1.1.1.1.2.1.2.1 3-1.1.1.1.2.1.2.2 4-1.1.1.1.2.2 5-1.1.1.1.2.3 6-1.1.1.2 7-1.1.1.3.1 8-1.1.1.3.2.1 10-1.1.1.3.2.3 11-1.1.1.3.2.4 12-1.1.2 13-1.1.3 14-1.2.2 15-1.2.1 16-1.3.2 17-1.3.3 18-1.3.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v4 / label~e.0)
            :A (v5 / label
-                  :H (v11 / label
-                          :A v4
-                          :S (v19 / label~e.1,2,3))
-                  :L (v12 / label~e.4)
                   :H (v13 / label
-                          :A v4
-                          :S (v20 / label~e.5))
+                          :A (v16 / label~e.0)
+                          :S (v17 / label
+                                  :C (v20 / label
+                                          :C (v26 / label~e.1)
+                                          :E (v27 / label
+                                                  :R (v28 / label~e.2)
+                                                  :C (v29 / label~e.3)))
+                                  :N (v21 / label~e.4)
+                                  :C (v22 / label~e.5)))
                   :L (v14 / label~e.6)
                   :H (v15 / label
-                          :A v4
-                          :P (v21 / label~e.7)
-                          :A (v22 / label
+                          :P (v18 / label~e.7)
+                          :A (v19 / label
                                   :R (v23 / label~e.8)
-                                  :E (v24 / label~e.9)
-                                  :E (v25 / label~e.10)
-                                  :C (v26 / label~e.11))))
+                                  :E (v24 / label~e.10)
+                                  :C (v25 / label~e.11))
+                          :A v16))
            :P (v6 / label~e.12)
            :A (v7 / label~e.13))
-    :H (v3 / label
-           :T (v8 / label
-                  :E (v16 / label~e.14)
-                  :C (v17 / label~e.15))
-           :A (v9 / label~e.16)
-           :P (v10 / label
-                   :C (v18 / label~e.17))))
+    :L (v3 / label
+           :C (v8 / label~e.15)
+           :Q (v9 / label~e.14))
+    :H (v4 / label
+           :A (v10 / label~e.16)
+           :P (v11 / label~e.17)
+           :D (v12 / label~e.18)))

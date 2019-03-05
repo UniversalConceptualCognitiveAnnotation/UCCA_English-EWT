@@ -1,6 +1,6 @@
 # ::id 165018-0007
 # ::tok There was not one ounce of caring involved and anyone I can warn about the complete lack of service will be warned .
-# ::alignments 2-1.1.3 3-1.1.4.1 4-1.1.4.2 6-1.1.6 7-1.1.7 8-1.2 9-1.3.1 10-1.3.2 11-1.3.3 12-1.3.4 13-1.3.5.1 14-1.3.5.2.1 15-1.3.5.3.1 16-1.3.5.3.2 17-1.3.5.3.3 18-1.3.5.2.2 21-1.4.3.3
+# ::alignments 2-1.1.3 3-1.1.4.1 4-1.1.4.2 6-1.1.6 7-1.1.7 8-1.2 9-1.3.1 10-1.3.2 11-1.3.3 12-1.3.4 13-1.3.5.1 15-1.3.5.2.2 16-1.3.5.2.3 17-1.3.5.3.1 18-1.3.5.3.2 21-1.4.5
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -18,14 +18,12 @@
            :P (v13 / label~e.12)
            :A (v14 / label
                    :R (v18 / label~e.13)
-                   :P (v19 / label
-                           :E (v22 / label~e.14)
-                           :C (v23 / label~e.18))
-                   :D (v20 / label
-                           :E (v24 / label~e.15)
-                           :C (v25 / label~e.16)
-                           :R (v26 / label~e.17))))
+                   :D (v19 / label
+                           :E (v21 / label~e.15)
+                           :C (v22 / label~e.16))
+                   :P (v20 / label
+                           :R (v23 / label~e.17)
+                           :C (v24 / label~e.18))))
     :H (v5 / label
            :A v10
-           :P (v15 / label
-                   :C (v21 / label~e.21))))
+           :P (v15 / label~e.21)))

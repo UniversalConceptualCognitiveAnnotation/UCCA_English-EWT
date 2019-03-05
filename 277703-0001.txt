@@ -1,6 +1,6 @@
 # ::id 277703-0001
 # ::tok The best Supermarket in Bay Ridge have everything what a customer needs .
-# ::alignments 1-1.1.1.2.2 2-1.1.1.3 3-1.1.1.4.1 4-1.1.1.4.2 5-1.1.1.4.2 6-1.1.2 7-1.1.3.1 8-1.1.3.2 10-1.1.3.3.4.2 11-1.1.3.3.1
+# ::alignments 1-1.1.1.2.2 2-1.1.1.3 3-1.1.1.4.1 4-1.1.1.4.2 5-1.1.1.4.2 6-1.1.2 7-1.1.3.1 8-1.1.3.2 10-1.1.3.3.4.1.2 11-1.1.3.3.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -20,4 +20,5 @@
                           :S (v15 / label~e.11)
                           :A v10
                           :A (v16 / label
-                                  :C (v17 / label~e.10))))))
+                                  :S (v17 / label
+                                          :C (v18 / label~e.10)))))))

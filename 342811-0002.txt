@@ -1,7 +1,9 @@
 # ::id 342811-0002
 # ::tok May , 2009 .
-# ::alignments 0-1.1.1 2-1.1.1
+# ::alignments 0-1.1.1.1 2-1.1.1.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :T (v3 / label~e.0,2)))
+           :T (v3 / label
+                  :C (v4 / label~e.0)
+                  :C (v5 / label~e.2))))

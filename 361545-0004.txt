@@ -1,61 +1,72 @@
 # ::id 361545-0004
 # ::tok I availed myself of the wash 'n fold service , taking just about a year 's worth of dirty clothes in and getting back neatly folded , clean clothes in clear plastic bags ( I 'd originally brought them in , in six large yellow garbage bags ) .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 3-1.1.3.1 4-1.1.3.2.1 5-1.1.3.3.1 6-1.1.3.3.2 7-1.1.3.3.3 8-1.1.3.2.2 10-1.2.1.1 11-1.2.2.1.1 12-1.2.2.1.2 13-1.2.2.2.1 14-1.2.2.2.2 16-1.2.2.3 18-1.2.4.1 19-1.2.4.2 21-1.3 22-1.4.1 23-1.4.2 24-1.4.3.1.2 25-1.4.3.1.3 27-1.4.3.2 28-1.4.3.3 29-1.4.3.4.1 30-1.4.3.4.2 31-1.4.3.4.3 32-1.4.3.4.4 34-1.5.1 36-1.5.3 37-1.5.4.1 38-1.5.5 41-1.5.6.1 42-1.5.6.2 43-1.5.6.3 44-1.5.6.4 45-1.5.6.5 46-1.5.6.6
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 3-1.1.3.1 5-1.1.3.3.1 6-1.1.3.3.2 7-1.1.3.3.3 8-1.1.3.2.2 10-1.2.1.1 11-1.2.2.1.1.1.1 12-1.2.2.1.1.1.2 14-1.2.2.1.1.3 15-1.2.2.1.1.4 16-1.2.2.1.2 17-1.2.2.2 18-1.2.2.4.2 19-1.2.2.3 21-1.3 22-1.4.1 23-1.4.2 24-1.4.3.1.2 25-1.4.3.1.3 27-1.4.3.2.2 28-1.4.3.3 29-1.4.3.4.1 30-1.4.3.4.2.2 31-1.4.3.4.3 32-1.4.3.4.4 34-1.5.1 36-1.5.3 37-1.5.4.1 38-1.5.5 41-1.5.6.1 42-1.5.6.2 43-1.5.6.3.2 44-1.5.6.4.2 45-1.5.6.5 46-1.5.6.6
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v7 / label~e.0)
            :P (v8 / label~e.1,2)
            :A (v9 / label
-                  :R (v21 / label~e.3)
-                  :P (v22 / label
-                          :E (v41 / label~e.4)
-                          :C (v42 / label~e.8))
-                  :D (v23 / label
-                          :C (v43 / label~e.5)
-                          :N (v44 / label~e.6)
-                          :C (v45 / label~e.7))))
+                  :R (v20 / label~e.3)
+                  :P (v21 / label
+                          :C (v39 / label~e.8))
+                  :D (v22 / label
+                          :C (v40 / label~e.5)
+                          :N (v41 / label~e.6)
+                          :C (v42 / label~e.7))))
     :H (v3 / label
            :P (v10 / label
-                   :C (v24 / label~e.10))
-           :Q (v11 / label
-                   :E (v25 / label
-                           :E (v46 / label~e.11)
-                           :C (v47 / label~e.12))
-                   :Q (v26 / label
-                           :E (v48 / label~e.13)
-                           :C (v49 / label~e.14))
-                   :C (v27 / label~e.16))
-           :A (v12 / label
-                   :E (v28 / label~e.18)
-                   :C (v29 / label~e.19))
+                   :C (v23 / label~e.10))
+           :A (v11 / label
+                   :Q (v24 / label
+                           :E (v43 / label
+                                   :E (v55 / label
+                                           :E (v59 / label~e.11)
+                                           :C (v60 / label~e.12))
+                                   :C (v56 / label~e.14)
+                                   :R (v57 / label~e.15))
+                           :C (v44 / label~e.16))
+                   :R (v25 / label~e.17)
+                   :C (v26 / label~e.19)
+                   :E (v27 / label
+                           :A v26
+                           :S (v45 / label~e.18)))
            :A v7)
     :L (v4 / label~e.21)
     :H (v5 / label
-           :P (v13 / label~e.22)
-           :D (v14 / label~e.23)
-           :A (v15 / label
-                   :E (v30 / label
-                           :A (v32 / label~e.28)
-                           :D (v50 / label~e.24)
-                           :P (v51 / label~e.25))
-                   :E (v31 / label~e.27)
-                   :C v32
-                   :E (v33 / label
-                           :R (v52 / label~e.29)
-                           :E (v53 / label~e.30)
-                           :E (v54 / label~e.31)
-                           :C (v55 / label~e.32))))
+           :P (v12 / label~e.22)
+           :D (v13 / label~e.23)
+           :A (v14 / label
+                   :E (v28 / label
+                           :A (v30 / label~e.28)
+                           :D (v46 / label~e.24)
+                           :P (v47 / label~e.25))
+                   :E (v29 / label
+                           :A v30
+                           :S (v48 / label~e.27))
+                   :C v30
+                   :E (v31 / label
+                           :R (v49 / label~e.29)
+                           :E (v50 / label
+                                   :A (v52 / label~e.32)
+                                   :S (v58 / label~e.30))
+                           :E (v51 / label~e.31)
+                           :C v52))
+           :A v7)
     :H (v6 / label
-           :A (v16 / label~e.34)
-           :T (v17 / label~e.36)
-           :P (v18 / label
-                   :C (v34 / label~e.37))
-           :A (v19 / label~e.38)
-           :A (v20 / label
-                   :R (v35 / label~e.41)
-                   :Q (v36 / label~e.42)
-                   :E (v37 / label~e.43)
-                   :E (v38 / label~e.44)
-                   :E (v39 / label~e.45)
-                   :C (v40 / label~e.46))))
+           :A (v15 / label~e.34)
+           :T (v16 / label~e.36)
+           :P (v17 / label
+                   :C (v32 / label~e.37))
+           :A (v18 / label~e.38)
+           :A (v19 / label
+                   :R (v33 / label~e.41)
+                   :Q (v34 / label~e.42)
+                   :E (v35 / label
+                           :A (v38 / label~e.46)
+                           :S (v53 / label~e.43))
+                   :E (v36 / label
+                           :A v38
+                           :S (v54 / label~e.44))
+                   :E (v37 / label~e.45)
+                   :C v38)))
