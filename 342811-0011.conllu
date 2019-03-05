@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 342811-0011
 # text = A mid-afternoon " fire drill " was disruptive , putting everyone out of the hotel .
-1	A	_	Word	Word	_	2	E	2:E	_
-2	mid-afternoon	_	Word	Word	_	8	T	8:T	_
-3	"	_	Punctuation	Punctuation	_	8	U	8:U	_
-4	fire	_	Word	Word	_	5	D	5:D	_
+1	A	_	Word	Word	_	2	F	2:F	_
+2	mid-afternoon	_	Word	Word	_	5	T	5:T	_
+3	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	fire	_	Word	Word	_	5	A	5:A	_
 5	drill	_	Word	Word	_	0	P	0:P|12:A	_
 6	"	_	Punctuation	Punctuation	_	8	U	8:U	_
 7	was	_	Word	Word	_	8	F	8:F	_
@@ -14,7 +14,7 @@
 11	everyone	_	Word	Word	_	12	A	12:A	_
 12	out	_	Word	Word	_	8	H	8:H	_
 13	of	_	Word	Word	_	15	R	15:R	_
-14	the	_	Word	Word	_	15	E	15:E	_
+14	the	_	Word	Word	_	15	F	15:F	_
 15	hotel	_	Word	Word	_	12	A	12:A	_
 16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
 

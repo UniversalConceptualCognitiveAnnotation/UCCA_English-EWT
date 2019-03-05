@@ -1,16 +1,16 @@
 # format = ucca
 # sent_id = 361348-0005
 # text = There was minimal cheese and sauce and it completely lacked flavor .
-1	There	_	Word	Word	_	3	F	3:F	_
-2	was	_	Word	Word	_	3	F	3:F	_
-3	minimal	_	Word	Word	_	0	H	0:H	_
-4	cheese	_	Word	Word	_	3	A	3:A	_
+1	There	_	Word	Word	_	0	H	0:H	_
+2	was	_	Word	Word	_	1	F	1:F	_
+3	minimal	_	Word	Word	_	1	D	1:D	_
+4	cheese	_	Word	Word	_	1	A	1:A	_
 5	and	_	Word	Word	_	4	N	4:N	_
 6	sauce	_	Word	Word	_	4	C	4:C	_
 7	and	_	Word	Word	_	10	L	10:L	_
 8	it	_	Word	Word	_	10	A	10:A	_
 9	completely	_	Word	Word	_	10	D	10:D	_
-10	lacked	_	Word	Word	_	3	H	3:H	_
+10	lacked	_	Word	Word	_	1	H	1:H	_
 11	flavor	_	Word	Word	_	10	A	10:A	_
 12	.	_	Punctuation	Punctuation	_	10	U	10:U	_
 

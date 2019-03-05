@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 165018-0005
 # text = I called reception to ask if they knew the state the room was in and was told " This is a Days Inn , not the Hilton " and the receptionist then hung up on me .
-1	I	_	Word	Word	_	2	A	2:A|17:A	_
+1	I	_	Word	Word	_	2	A	2:A|5:A|17:A	_
 2	called	_	Word	Word	_	0	H	0:H	_
 3	reception	_	Word	Word	_	2	A	2:A	_
 4	to	_	Word	Word	_	5	L	5:L	_
@@ -9,28 +9,28 @@
 6	if	_	Word	Word	_	8	R	8:R	_
 7	they	_	Word	Word	_	8	A	8:A	_
 8	knew	_	Word	Word	_	5	A	5:A	_
-9	the	_	Word	Word	_	10	E	10:E	_
+9	the	_	Word	Word	_	10	F	10:F	_
 10	state	_	Word	Word	_	8	A	8:A	_
-11	the	_	Word	Word	_	12	E	12:E	_
+11	the	_	Word	Word	_	12	F	12:F	_
 12	room	_	Word	Word	_	10	A	10:A	_
 13	was	_	Word	Word	_	10	F	10:F	_
-14	in	_	Word	Word	_	10	F	10:F	_
+14	in	_	Word	Word	_	10	A	10:A	_
 15	and	_	Word	Word	_	17	L	17:L	_
 16	was	_	Word	Word	_	17	F	17:F	_
 17	told	_	Word	Word	_	2	H	2:H	_
 18	"	_	Punctuation	Punctuation	_	17	U	17:U	_
 19	This	_	Word	Word	_	20	A	20:A|27:A	_
 20	is	_	Word	Word	_	17	A	17:A	_
-21	a	_	Word	Word	_	22	E	22:E	_
+21	a	_	Word	Word	_	22	F	22:F	_
 22	Days	_	Word	Word	_	20	A	20:A	_
 23	Inn	_	Word	Word	_	22	Terminal	22:Terminal	_
 24	,	_	Punctuation	Punctuation	_	20	U	20:U	_
 25	not	_	Word	Word	_	27	D	27:D	_
-26	the	_	Word	Word	_	27	E	27:E	_
+26	the	_	Word	Word	_	27	F	27:F	_
 27	Hilton	_	Word	Word	_	20	H	20:H	_
 28	"	_	Punctuation	Punctuation	_	2	U	2:U	_
 29	and	_	Word	Word	_	33	L	33:L	_
-30	the	_	Word	Word	_	31	E	31:E	_
+30	the	_	Word	Word	_	31	F	31:F	_
 31	receptionist	_	Word	Word	_	33	A	33:A	_
 32	then	_	Word	Word	_	33	L	33:L	_
 33	hung	_	Word	Word	_	2	H	2:H	_

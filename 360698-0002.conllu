@@ -2,11 +2,11 @@
 # sent_id = 360698-0002
 # text = But my wife and I first went there thinking it would be Brazilian food ( think lots of meat ) , but it turned out to be a vegan restaurant !
 1	But	_	Word	Word	_	9	L	9:L	_
-2	my	_	Word	Word	_	3	E	3:E	_
-3	wife	_	Word	Word	_	7	A	7:A|9:A	_
-4	and	_	Word	Word	_	3	N	3:N	_
-5	I	_	Word	Word	_	3	C	3:C	_
-6	first	_	Word	Word	_	7	Q	7:Q	_
+2	my	_	Word	Word	_	7	A	7:A|9:A	_
+3	wife	_	Word	Word	_	2	A	2:A	_
+4	and	_	Word	Word	_	2	N	2:N	_
+5	I	_	Word	Word	_	2	C	2:C	_
+6	first	_	Word	Word	_	7	D	7:D	_
 7	went	_	Word	Word	_	0	H	0:H	_
 8	there	_	Word	Word	_	7	A	7:A	_
 9	thinking	_	Word	Word	_	7	H	7:H	_
@@ -22,14 +22,14 @@
 19	meat	_	Word	Word	_	16	A	16:A	_
 20	)	_	Punctuation	Punctuation	_	7	U	7:U	_
 21	,	_	Punctuation	Punctuation	_	7	U	7:U	_
-22	but	_	Word	Word	_	24	L	24:L	_
-23	it	_	Word	Word	_	24	F	24:F	_
-24	turned	_	Word	Word	_	7	H	7:H	_
+22	but	_	Word	Word	_	27	L	27:L	_
+23	it	_	Word	Word	_	27	A	27:A	_
+24	turned	_	Word	Word	_	27	D	27:D	_
 25	out	_	Word	Word	_	24	Terminal	24:Terminal	_
-26	to	_	Word	Word	_	24	F	24:F	_
-27	be	_	Word	Word	_	24	F	24:F	_
-28	a	_	Word	Word	_	30	E	30:E	_
+26	to	_	Word	Word	_	27	F	27:F	_
+27	be	_	Word	Word	_	7	H	7:H	_
+28	a	_	Word	Word	_	30	F	30:F	_
 29	vegan	_	Word	Word	_	30	E	30:E	_
-30	restaurant	_	Word	Word	_	24	A	24:A	_
+30	restaurant	_	Word	Word	_	27	A	27:A	_
 31	!	_	Punctuation	Punctuation	_	30	U	30:U	_
 

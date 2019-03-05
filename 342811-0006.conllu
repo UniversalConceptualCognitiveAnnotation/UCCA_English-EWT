@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 342811-0006
 # text = There were 3 adults in our room but towels for only 2 , no linens for sofa bed .
-1	There	_	Word	Word	_	5	F	5:F	_
-2	were	_	Word	Word	_	5	F	5:F|9:S|15:S	_
+1	There	_	Word	Word	_	5	F	5:F|9:S|15:S	_
+2	were	_	Word	Word	_	5	F	5:F	_
 3	3	_	Word	Word	_	4	Q	4:Q	_
-4	adults	_	Word	Word	_	5	A	5:A	_
+4	adults	_	Word	Word	_	0	C	0:C|12:C	_
 5	in	_	Word	Word	_	0	H	0:H	_
 6	our	_	Word	Word	_	7	E	7:E	_
 7	room	_	Word	Word	_	5	A	5:A	_

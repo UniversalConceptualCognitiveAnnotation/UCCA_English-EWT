@@ -1,21 +1,21 @@
 # format = ucca
 # sent_id = 169083-0007
 # text = This is a great hospital and even better since it became part of the UW system .
-1	This	_	Word	Word	_	4	A	4:A	_
-2	is	_	Word	Word	_	4	F	4:F	_
-3	a	_	Word	Word	_	5	E	5:E	_
-4	great	_	Word	Word	_	0	H	0:H	_
-5	hospital	_	Word	Word	_	0	C	0:C|8:A	_
+1	This	_	Word	Word	_	2	A	2:A	_
+2	is	_	Word	Word	_	0	H	0:H	_
+3	a	_	Word	Word	_	5	F	5:F	_
+4	great	_	Word	Word	_	5	E	5:E	_
+5	hospital	_	Word	Word	_	0	C	0:C|4:A|8:A	_
 6	and	_	Word	Word	_	8	L	8:L	_
 7	even	_	Word	Word	_	8	D	8:D	_
-8	better	_	Word	Word	_	4	H	4:H	_
-9	since	_	Word	Word	_	11	L	11:L	_
-10	it	_	Word	Word	_	11	A	11:A	_
-11	became	_	Word	Word	_	4	H	4:H	_
-12	part	_	Word	Word	_	16	E	16:E	_
-13	of	_	Word	Word	_	12	E	12:E	_
-14	the	_	Word	Word	_	16	E	16:E	_
+8	better	_	Word	Word	_	2	H	2:H	_
+9	since	_	Word	Word	_	12	L	12:L	_
+10	it	_	Word	Word	_	12	A	12:A	_
+11	became	_	Word	Word	_	12	D	12:D	_
+12	part	_	Word	Word	_	2	H	2:H	_
+13	of	_	Word	Word	_	16	R	16:R	_
+14	the	_	Word	Word	_	16	F	16:F	_
 15	UW	_	Word	Word	_	16	E	16:E	_
-16	system	_	Word	Word	_	11	A	11:A	_
+16	system	_	Word	Word	_	12	A	12:A	_
 17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
 

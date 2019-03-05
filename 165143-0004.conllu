@@ -1,17 +1,17 @@
 # format = ucca
 # sent_id = 165143-0004
 # text = The service was just about as good as I 'd get in NYC ( that means it was poor ) and the food was almost mediocre .
-1	The	_	Word	Word	_	2	E	2:E	_
+1	The	_	Word	Word	_	2	F	2:F	_
 2	service	_	Word	Word	_	0	H	0:H	_
-3	was	_	Word	Word	_	7	R	7:R	_
-4	just	_	Word	Word	_	2	G	2:G	_
+3	was	_	Word	Word	_	2	F	2:F	_
+4	just	_	Word	Word	_	2	D	2:D	_
 5	about	_	Word	Word	_	4	Terminal	4:Terminal	_
 6	as	_	Word	Word	_	7	E	7:E	_
-7	good	_	Word	Word	_	2	A	2:A	_
-8	as	_	Word	Word	_	6	C	6:C	_
+7	good	_	Word	Word	_	2	D	2:D	_
+8	as	_	Word	Word	_	11	R	11:R	_
 9	I	_	Word	Word	_	11	A	11:A	_
-10	'd	_	Word	Word	_	11	F	11:F	_
-11	get	_	Word	Word	_	7	E	7:E	_
+10	'd	_	Word	Word	_	11	D	11:D	_
+11	get	_	Word	Word	_	2	A	2:A	_
 12	in	_	Word	Word	_	13	R	13:R	_
 13	NYC	_	Word	Word	_	11	A	11:A	_
 14	(	_	Punctuation	Punctuation	_	2	U	2:U	_
@@ -22,7 +22,7 @@
 19	poor	_	Word	Word	_	2	H	2:H	_
 20	)	_	Punctuation	Punctuation	_	2	U	2:U	_
 21	and	_	Word	Word	_	26	L	26:L	_
-22	the	_	Word	Word	_	23	E	23:E	_
+22	the	_	Word	Word	_	23	F	23:F	_
 23	food	_	Word	Word	_	26	A	26:A	_
 24	was	_	Word	Word	_	26	F	26:F	_
 25	almost	_	Word	Word	_	26	D	26:D	_

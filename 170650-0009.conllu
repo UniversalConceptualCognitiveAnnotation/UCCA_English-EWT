@@ -2,9 +2,9 @@
 # sent_id = 170650-0009
 # text = They made me feel confident in what they would do , and treated me like a member of their own family .
 1	They	_	Word	Word	_	5	A	5:A|13:A	_
-2	made	_	Word	Word	_	5	F	5:F	_
+2	made	_	Word	Word	_	5	D	5:D	_
 3	me	_	Word	Word	_	5	A	5:A	_
-4	feel	_	Word	Word	_	5	E	5:E	_
+4	feel	_	Word	Word	_	5	G	5:G	_
 5	confident	_	Word	Word	_	0	H	0:H	_
 6	in	_	Word	Word	_	10	R	10:R	_
 7	what	_	Word	Word	_	10	A	10:A	_
@@ -14,13 +14,13 @@
 11	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 12	and	_	Word	Word	_	13	L	13:L	_
 13	treated	_	Word	Word	_	5	H	5:H	_
-14	me	_	Word	Word	_	13	A	13:A	_
+14	me	_	Word	Word	_	13	A	13:A|17:A	_
 15	like	_	Word	Word	_	17	R	17:R	_
-16	a	_	Word	Word	_	17	E	17:E	_
+16	a	_	Word	Word	_	17	F	17:F	_
 17	member	_	Word	Word	_	13	A	13:A	_
-18	of	_	Word	Word	_	21	R	21:R	_
-19	their	_	Word	Word	_	21	E	21:E	_
-20	own	_	Word	Word	_	21	E	21:E	_
-21	family	_	Word	Word	_	17	E	17:E	_
-22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+18	of	_	Word	Word	_	19	R	19:R	_
+19	their	_	Word	Word	_	17	A	17:A	_
+20	own	_	Word	Word	_	19	D	19:D	_
+21	family	_	Word	Word	_	19	A	19:A	_
+22	.	_	Punctuation	Punctuation	_	19	U	19:U	_
 

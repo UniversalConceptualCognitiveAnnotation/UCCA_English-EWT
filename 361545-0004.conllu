@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 361545-0004
 # text = I availed myself of the wash 'n fold service , taking just about a year 's worth of dirty clothes in and getting back neatly folded , clean clothes in clear plastic bags ( I 'd originally brought them in , in six large yellow garbage bags ) .
-1	I	_	Word	Word	_	2	A	2:A|11:A	_
+1	I	_	Word	Word	_	2	A	2:A|11:A|23:A	_
 2	availed	_	Word	Word	_	0	H	0:H	_
 3	myself	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	of	_	Word	Word	_	9	R	9:R	_
-5	the	_	Word	Word	_	9	E	9:E	_
+5	the	_	Word	Word	_	9	F	9:F	_
 6	wash	_	Word	Word	_	9	D	9:D	_
 7	'n	_	Word	Word	_	6	N	6:N	_
 8	fold	_	Word	Word	_	6	C	6:C	_
@@ -13,12 +13,12 @@
 10	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 11	taking	_	Word	Word	_	2	H	2:H	_
 12	just	_	Word	Word	_	13	E	13:E	_
-13	about	_	Word	Word	_	17	E	17:E	_
-14	a	_	Word	Word	_	15	E	15:E	_
-15	year	_	Word	Word	_	17	Q	17:Q	_
-16	's	_	Word	Word	_	15	F	15:F	_
-17	worth	_	Word	Word	_	11	Q	11:Q	_
-18	of	_	Word	Word	_	11	F	11:F	_
+13	about	_	Word	Word	_	15	E	15:E	_
+14	a	_	Word	Word	_	15	F	15:F	_
+15	year	_	Word	Word	_	17	E	17:E	_
+16	's	_	Word	Word	_	15	R	15:R	_
+17	worth	_	Word	Word	_	20	Q	20:Q	_
+18	of	_	Word	Word	_	20	R	20:R	_
 19	dirty	_	Word	Word	_	20	E	20:E	_
 20	clothes	_	Word	Word	_	11	A	11:A	_
 21	in	_	Word	Word	_	11	F	11:F	_

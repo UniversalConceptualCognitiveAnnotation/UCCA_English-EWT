@@ -3,18 +3,18 @@
 # text = I saw deer frequently , in fact a small herd were grazing near the lodge .
 1	I	_	Word	Word	_	2	A	2:A	_
 2	saw	_	Word	Word	_	0	H	0:H	_
-3	deer	_	Word	Word	_	2	A	2:A	_
+3	deer	_	Word	Word	_	2	A	2:A|10:C	_
 4	frequently	_	Word	Word	_	2	T	2:T	_
 5	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 6	in	_	Word	Word	_	12	L	12:L	_
 7	fact	_	Word	Word	_	6	Terminal	6:Terminal	_
-8	a	_	Word	Word	_	10	E	10:E	_
+8	a	_	Word	Word	_	10	F	10:F	_
 9	small	_	Word	Word	_	10	E	10:E	_
 10	herd	_	Word	Word	_	12	A	12:A	_
 11	were	_	Word	Word	_	12	F	12:F	_
 12	grazing	_	Word	Word	_	2	H	2:H	_
 13	near	_	Word	Word	_	15	R	15:R	_
-14	the	_	Word	Word	_	15	E	15:E	_
+14	the	_	Word	Word	_	15	F	15:F	_
 15	lodge	_	Word	Word	_	12	A	12:A	_
 16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
 

@@ -14,14 +14,14 @@
 11	to	_	Word	Word	_	12	F	12:F	_
 12	handle	_	Word	Word	_	5	A	5:A	_
 13	this	_	Word	Word	_	12	A	12:A	_
-14	and	_	Word	Word	_	22	L	22:L	_
-15	all	_	Word	Word	_	22	Q	22:Q	_
-16	you	_	Word	Word	_	22	A	22:A	_
-17	have	_	Word	Word	_	22	F	22:F	_
-18	to	_	Word	Word	_	22	F	22:F	_
-19	do	_	Word	Word	_	22	D	22:D	_
-20	is	_	Word	Word	_	22	F	22:F	_
+14	and	_	Word	Word	_	19	L	19:L	_
+15	all	_	Word	Word	_	19	D	19:D	_
+16	you	_	Word	Word	_	19	A	19:A|22:A	_
+17	have	_	Word	Word	_	19	D	19:D	_
+18	to	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	do	_	Word	Word	_	2	H	2:H	_
+20	is	_	Word	Word	_	19	F	19:F	_
 21	to	_	Word	Word	_	22	R	22:R	_
-22	reciprocate	_	Word	Word	_	2	H	2:H	_
+22	reciprocate	_	Word	Word	_	19	A	19:A	_
 23	!	_	Punctuation	Punctuation	_	22	U	22:U	_
 

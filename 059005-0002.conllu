@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 059005-0002
 # text = Excellent bagels and excellent service !
-1	Excellent	_	Word	Word	_	0	H	0:H	_
-2	bagels	_	Word	Word	_	1	A	1:A	_
-3	and	_	Word	Word	_	1	N	1:N	_
+1	Excellent	_	Word	Word	_	2	E	2:E	_
+2	bagels	_	Word	Word	_	5	H	5:H	_
+3	and	_	Word	Word	_	5	L	5:L	_
 4	excellent	_	Word	Word	_	5	D	5:D	_
-5	service	_	Word	Word	_	1	C	1:C	_
+5	service	_	Word	Word	_	0	H	0:H	_
 6	!	_	Punctuation	Punctuation	_	5	U	5:U	_
 

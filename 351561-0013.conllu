@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 351561-0013
 # text = OK , 1701 LOCUST STREET i say .
-1	OK	_	Word	Word	_	3	G	3:G	_
+1	OK	_	Word	Word	_	3	F	3:F	_
 2	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 3	1701	_	Word	Word	_	7	A	7:A	_
-4	LOCUST	_	Word	Word	_	3	Terminal	3:Terminal	_
-5	STREET	_	Word	Word	_	3	Terminal	3:Terminal	_
+4	LOCUST	_	Word	Word	_	3	C	3:C	_
+5	STREET	_	Word	Word	_	3	C	3:C	_
 6	i	_	Word	Word	_	7	A	7:A	_
 7	say	_	Word	Word	_	0	H	0:H	_
 8	.	_	Punctuation	Punctuation	_	7	U	7:U	_

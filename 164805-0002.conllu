@@ -3,15 +3,15 @@
 # text = I sent my wife and daughter over to check out a pre-owned 2009 XF .
 1	I	_	Word	Word	_	2	A	2:A	_
 2	sent	_	Word	Word	_	0	H	0:H	_
-3	my	_	Word	Word	_	0	S	0:S|6:E	_
-4	wife	_	Word	Word	_	2	A	2:A	_
-5	and	_	Word	Word	_	4	N	4:N	_
-6	daughter	_	Word	Word	_	4	C	4:C	_
-7	over	_	Word	Word	_	2	F	2:F	_
+3	my	_	Word	Word	_	2	A	2:A	_
+4	wife	_	Word	Word	_	3	A	3:A	_
+5	and	_	Word	Word	_	3	N	3:N	_
+6	daughter	_	Word	Word	_	3	C	3:C	_
+7	over	_	Word	Word	_	2	D	2:D	_
 8	to	_	Word	Word	_	9	L	9:L	_
 9	check	_	Word	Word	_	2	H	2:H	_
-10	out	_	Word	Word	_	9	F	9:F	_
-11	a	_	Word	Word	_	13	E	13:E	_
+10	out	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	a	_	Word	Word	_	13	F	13:F	_
 12	pre-owned	_	Word	Word	_	13	E	13:E	_
 13	2009	_	Word	Word	_	9	A	9:A	_
 14	XF	_	Word	Word	_	13	Terminal	13:Terminal	_

@@ -1,25 +1,25 @@
 # format = ucca
 # sent_id = 053248-0012
 # text = The duck was a 65 % glob of chewy fat with no resemblance to the juicy , crispy delicacy it usually represents at other establishments .
-1	The	_	Word	Word	_	2	E	2:E	_
+1	The	_	Word	Word	_	2	F	2:F	_
 2	duck	_	Word	Word	_	0	C	0:C|13:A	_
 3	was	_	Word	Word	_	0	H	0:H	_
-4	a	_	Word	Word	_	7	E	7:E	_
-5	65	_	Word	Word	_	7	Q	7:Q	_
-6	%	_	Word	Word	_	5	Terminal	5:Terminal	_
+4	a	_	Word	Word	_	7	F	7:F	_
+5	65	_	Word	Word	_	6	Q	6:Q	_
+6	%	_	Word	Word	_	10	Q	10:Q	_
 7	glob	_	Word	Word	_	3	A	3:A	_
-8	of	_	Word	Word	_	7	N	7:N	_
-9	chewy	_	Word	Word	_	7	C	7:C	_
-10	fat	_	Word	Word	_	9	A	9:A	_
+8	of	_	Word	Word	_	10	R	10:R	_
+9	chewy	_	Word	Word	_	10	E	10:E	_
+10	fat	_	Word	Word	_	7	E	7:E	_
 11	with	_	Word	Word	_	13	L	13:L	_
 12	no	_	Word	Word	_	13	D	13:D	_
 13	resemblance	_	Word	Word	_	3	H	3:H	_
 14	to	_	Word	Word	_	16	R	16:R	_
-15	the	_	Word	Word	_	19	E	19:E	_
+15	the	_	Word	Word	_	19	F	19:F	_
 16	juicy	_	Word	Word	_	13	A	13:A	_
 17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
-18	crispy	_	Word	Word	_	16	H	16:H	_
-19	delicacy	_	Word	Word	_	0	C	0:C|18:A	_
+18	crispy	_	Word	Word	_	16	C	16:C	_
+19	delicacy	_	Word	Word	_	16	A	16:A	_
 20	it	_	Word	Word	_	22	A	22:A	_
 21	usually	_	Word	Word	_	22	T	22:T	_
 22	represents	_	Word	Word	_	16	H	16:H	_

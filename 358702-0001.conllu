@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 358702-0001
 # text = Slowest , Unfriendly Sstaff on Weekends
-1	Slowest	_	Word	Word	_	0	H	0:H	_
+1	Slowest	_	Word	Word	_	4	D	4:D	_
 2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
-3	Unfriendly	_	Word	Word	_	1	H	1:H	_
-4	Sstaff	_	Word	Word	_	3	A	3:A|1:A	_
+3	Unfriendly	_	Word	Word	_	1	C	1:C	_
+4	Sstaff	_	Word	Word	_	0	H	0:H	_
 5	on	_	Word	Word	_	6	R	6:R	_
-6	Weekends	_	Word	Word	_	1	H	1:H	_
+6	Weekends	_	Word	Word	_	4	H	4:H	_
 

@@ -2,7 +2,7 @@
 # sent_id = 071518-0003
 # text = The dealer wanted $ 1300 to fix that and another $ 1500 to fix some other things .
 1	The	_	Word	Word	_	2	F	2:F	_
-2	dealer	_	Word	Word	_	3	A	3:A	_
+2	dealer	_	Word	Word	_	0	C	0:C|7:A|14:A	_
 3	wanted	_	Word	Word	_	0	H	0:H	_
 4	$	_	Word	Word	_	3	A	3:A	_
 5	1300	_	Word	Word	_	4	Q	4:Q	_
