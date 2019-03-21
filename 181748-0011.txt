@@ -1,6 +1,6 @@
 # ::id 181748-0011
 # ::tok I mean , I do n't care if he does n't know , but if he pretends to know and tells me BS to my face , there 's no way I 'm going to trust him when matters turn to the price of the car and financing .
-# ::alignments 0-1.1.1 1-1.1.1 3-1.1.2 5-1.1.4 6-1.1.5 7-1.1.6.1 8-1.1.6.2 10-1.1.6.4 11-1.1.6.5 13-1.2 14-1.3.1 15-1.3.2 16-1.3.3 18-1.3.4.3 19-1.4 20-1.5.1 21-1.5.2 22-1.5.3 23-1.5.4.1 24-1.5.4.2 25-1.5.4.3 29-1.6.3.1 30-1.6.3.2 31-1.6.4 35-1.6.8 36-1.6.9 37-1.6.10.1 38-1.6.10.2 39-1.6.10.3 40-1.6.10.4.1 41-1.6.10.4.2.1 42-1.6.10.4.2.2 43-1.6.10.4.2.3 44-1.6.10.4.2.4 45-1.6.10.4.2.5 46-1.6.10.4.3 47-1.6.10.4.4.1
+# ::alignments 0-1.1.1 1-1.1.1 3-1.1.2 5-1.1.4 6-1.1.5 7-1.1.6.1 8-1.1.6.2 10-1.1.6.4 11-1.1.6.5 13-1.2 14-1.3.1 15-1.3.2 16-1.3.3 18-1.3.5 19-1.4 20-1.5.1 21-1.5.2 22-1.5.3 23-1.5.4.1 24-1.5.4.2 25-1.5.4.3 29-1.6.3.1 30-1.6.3.2 31-1.6.4 35-1.6.8 36-1.6.9 37-1.6.10.1 38-1.6.10.2 39-1.6.10.3 40-1.6.10.4.1 42-1.6.10.4.2.1.2 43-1.6.10.4.2.2.1 45-1.6.10.4.4.2 46-1.6.10.4.3 47-1.6.10.4.4.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -17,39 +17,38 @@
     :H (v4 / label
            :R (v13 / label~e.14)
            :A (v14 / label~e.15)
-           :P (v15 / label~e.16)
-           :A (v16 / label
-                   :A v14
-                   :S (v30 / label~e.18)))
+           :D (v15 / label~e.16)
+           :S (v16 / label~e.18))
     :L (v5 / label~e.19)
     :H (v6 / label
            :P (v17 / label~e.20)
            :A (v18 / label~e.21)
            :A (v19 / label~e.22)
            :A (v20 / label
-                   :R (v31 / label~e.23)
-                   :E (v32 / label~e.24)
-                   :C (v33 / label~e.25))
+                   :R (v30 / label~e.23)
+                   :E (v31 / label~e.24)
+                   :C (v32 / label~e.25))
            :A v14)
     :H (v7 / label
            :D (v21 / label
-                   :C (v34 / label~e.29)
-                   :C (v35 / label~e.30))
+                   :C (v33 / label~e.29)
+                   :C (v34 / label~e.30))
            :A (v22 / label~e.31)
            :P (v23 / label~e.35)
            :A (v24 / label~e.36)
            :A (v25 / label
-                   :R (v36 / label~e.37)
-                   :A (v37 / label~e.38)
-                   :P (v38 / label~e.39)
-                   :A (v39 / label
-                           :R (v40 / label~e.40)
-                           :C (v41 / label
-                                   :E (v44 / label~e.41)
-                                   :E (v45 / label~e.42)
-                                   :R (v46 / label~e.43)
-                                   :E (v47 / label~e.44)
-                                   :C (v48 / label~e.45))
-                           :N (v42 / label~e.46)
-                           :C (v43 / label
-                                   :P (v49 / label~e.47))))))
+                   :R (v35 / label~e.37)
+                   :A (v36 / label~e.38)
+                   :P (v37 / label~e.39)
+                   :A (v38 / label
+                           :R (v39 / label~e.40)
+                           :C (v40 / label
+                                   :S (v43 / label
+                                           :C (v47 / label~e.42))
+                                   :A (v44 / label
+                                           :R (v48 / label~e.43)
+                                           :C (v46 / label~e.45)))
+                           :N (v41 / label~e.46)
+                           :C (v42 / label
+                                   :P (v45 / label~e.47)
+                                   :A v46)))))

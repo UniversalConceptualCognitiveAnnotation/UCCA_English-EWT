@@ -1,10 +1,9 @@
 # ::id 183518-0008
 # ::tok Best of all , there are no ads !!!! !
-# ::alignments 0-1.1 1-1.1 2-1.1 5-1.2.5 6-1.2.6 7-1.2.1
+# ::alignments 0-1.1 1-1.1 2-1.1 6-1.2.6 7-1.2.1
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0,1,2)
     :H (v3 / label
-           :A (v4 / label~e.7)
-           :S (v5 / label~e.5)
-           :D (v6 / label~e.6)))
+           :P (v4 / label~e.7)
+           :D (v5 / label~e.6)))

@@ -1,6 +1,6 @@
 # ::id 376320-0002
 # ::tok I recently traveled to Canada on business and had a most excellent experience .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.2 6-1.3.1 7-1.4 9-1.5.2.2 10-1.5.3.1 11-1.5.3.2 12-1.5.2.3
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.2 6-1.3.1 7-1.4 10-1.5.3.1 11-1.5.3.2 12-1.5.2.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -17,8 +17,7 @@
     :H (v6 / label
            :A v7
            :P (v12 / label
-                   :E (v16 / label~e.9)
-                   :C (v17 / label~e.12))
+                   :C (v16 / label~e.12))
            :D (v13 / label
-                   :Q (v18 / label~e.10)
-                   :C (v19 / label~e.11))))
+                   :E (v17 / label~e.10)
+                   :C (v18 / label~e.11))))

@@ -1,0 +1,28 @@
+# ::id 211797-0011
+# ::tok Whatever type of operation they are running , I 'm not interested and if you 're smart , you wo n't be either .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3.1 3-1.1.1.3.2 4-1.1.2 6-1.1.4 8-1.2.1 10-1.2.3 11-1.2.4 12-1.3 13-1.4 14-1.5.1 16-1.5.3 18-1.6.1 20-1.6.3 22-1.6.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label
+                  :A (v19 / label~e.0)
+                  :D (v20 / label~e.1)
+                  :P (v21 / label
+                          :R (v22 / label~e.2)
+                          :C (v23 / label~e.3)))
+           :A (v9 / label~e.4)
+           :P (v10 / label~e.6))
+    :H (v3 / label
+           :A (v11 / label~e.8)
+           :D (v12 / label~e.10)
+           :S (v13 / label~e.11))
+    :L (v4 / label~e.12)
+    :L (v5 / label~e.13)
+    :H (v6 / label
+           :A (v14 / label~e.14)
+           :S (v15 / label~e.16))
+    :H (v7 / label
+           :A (v16 / label~e.18)
+           :D (v17 / label~e.20)
+           :D (v18 / label~e.22)
+           :S v13))

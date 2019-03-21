@@ -1,6 +1,6 @@
 # ::id 017345-0009
 # ::tok Same clerk had considerable difficulty taking down a number .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.3 4-1.1.4 5-1.1.5.2.1 7-1.1.5.1.1 8-1.1.5.1.2
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.3 4-1.1.4 5-1.1.5.2 6-1.1.5.2 8-1.1.5.1.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -11,7 +11,5 @@
            :S (v5 / label~e.4)
            :A (v6 / label
                   :A (v9 / label
-                         :E (v11 / label~e.7)
-                         :C (v12 / label~e.8))
-                  :P (v10 / label
-                          :C (v13 / label~e.5)))))
+                         :C (v11 / label~e.8))
+                  :P (v10 / label~e.5,6))))

@@ -1,6 +1,6 @@
 # ::id 018562-0006
 # ::tok I 'm sure it s not every day that a funeral director sees the same family in such a short time .
-# ::alignments 0-1.1.1 2-1.1.3 5-1.1.4.1 6-1.1.4.2.1 7-1.1.4.2.2 9-1.1.4.4.1 10-1.1.4.4.2 11-1.1.4.4.3 12-1.1.4.5 13-1.1.4.6.1 14-1.1.4.6.2 15-1.1.4.6.3 16-1.1.4.7.1 17-1.1.4.7.2 18-1.1.4.7.3 19-1.1.4.7.4 20-1.1.4.7.5
+# ::alignments 0-1.1.1 2-1.1.3 5-1.1.4.1 6-1.1.4.2.1 7-1.1.4.2.2 10-1.1.4.4.2 11-1.1.4.4.1.2 12-1.1.4.5 14-1.1.4.6.2 15-1.1.4.6.3 16-1.1.4.7.1 17-1.1.4.7.2 19-1.1.4.7.4 20-1.1.4.7.5
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -12,17 +12,15 @@
                          :Q (v12 / label~e.6)
                          :C (v13 / label~e.7))
                   :A (v8 / label
-                         :E (v14 / label~e.9)
-                         :E (v15 / label~e.10)
-                         :C (v16 / label~e.11))
+                         :A (v14 / label
+                                 :C (v22 / label~e.11))
+                         :A (v15 / label~e.10))
                   :P (v9 / label~e.12)
                   :A (v10 / label
-                          :E (v17 / label~e.13)
-                          :E (v18 / label~e.14)
-                          :C (v19 / label~e.15))
+                          :E (v16 / label~e.14)
+                          :C (v17 / label~e.15))
                   :T (v11 / label
-                          :R (v20 / label~e.16)
-                          :E (v21 / label~e.17)
-                          :E (v22 / label~e.18)
-                          :E (v23 / label~e.19)
-                          :C (v24 / label~e.20)))))
+                          :R (v18 / label~e.16)
+                          :E (v19 / label~e.17)
+                          :E (v20 / label~e.19)
+                          :C (v21 / label~e.20)))))

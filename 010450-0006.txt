@@ -1,11 +1,11 @@
 # ::id 010450-0006
 # ::tok It used to be fabulous , why did you guys change it ??
-# ::alignments 0-1.1.1 1-1.1.2 4-1.1.5 6-1.2.1 8-1.2.2.5.1 9-1.2.2.5.2 10-1.2.2.1 11-1.2.2.2
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 4-1.1.4 6-1.2.1 8-1.2.2.5.1 9-1.2.2.5.2 10-1.2.2.1 11-1.2.2.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v4 / label~e.0)
-           :T (v5 / label~e.1)
+           :D (v5 / label~e.1,2)
            :S (v6 / label~e.4))
     :H (v3 / label
            :H (v7 / label~e.6)

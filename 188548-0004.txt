@@ -1,6 +1,6 @@
 # ::id 188548-0004
 # ::tok When it came time to pay the bill up front , they would not let me use any of the certificate for a tip ( which I have done with any other restaurant I 've gotten a gift certificate for . )
-# ::alignments 0-1.1 3-1.2.2.2 5-1.2.4 6-1.2.5.1 7-1.2.5.2 8-1.2.6 9-1.2.6 11-1.3.1 12-1.3.2 13-1.3.3 14-1.3.4 15-1.3.5 16-1.3.6 17-1.3.7.1 19-1.3.7.3 20-1.3.7.4 21-1.3.8.1 22-1.3.8.2.1 23-1.3.8.2.2 25-1.4 26-1.5.1 28-1.5.3 29-1.5.4.1 30-1.5.4.2.1 31-1.5.4.2.2 32-1.5.4.2.3 33-1.5.4.3 35-1.5.4.5 36-1.5.4.6.1 37-1.5.4.6.2 38-1.5.4.6.3 39-1.5.4.6.4
+# ::alignments 0-1.1 3-1.2.2.2 5-1.2.4 7-1.2.5.2 8-1.2.6 9-1.2.6 11-1.3.1 12-1.3.2 13-1.3.3 14-1.3.4 15-1.3.5 16-1.3.6 17-1.3.7.1 18-1.3.7.2 20-1.3.7.4 21-1.3.8.1 23-1.3.8.2.2 25-1.4 26-1.5.1 28-1.5.3 29-1.5.4.1 30-1.5.4.2 31-1.5.4.3 32-1.5.4.4 33-1.5.4.5.1 35-1.5.4.5.3 37-1.5.4.5.4.2 38-1.5.4.5.4.3 39-1.5.4.5.5.2
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -9,8 +9,7 @@
                   :C (v22 / label~e.3))
            :P (v8 / label~e.5)
            :A (v9 / label
-                  :E (v23 / label~e.6)
-                  :C (v24 / label~e.7))
+                  :C (v23 / label~e.7))
            :A (v10 / label~e.8,9))
     :H (v4 / label
            :A (v11 / label~e.11)
@@ -20,28 +19,28 @@
            :A (v15 / label~e.15)
            :P (v16 / label~e.16)
            :A (v17 / label
-                   :E (v25 / label~e.17)
-                   :E (v26 / label~e.19)
-                   :C (v27 / label~e.20))
+                   :E (v24 / label~e.17)
+                   :R (v25 / label~e.18)
+                   :C (v26 / label~e.20))
            :A (v18 / label
-                   :R (v28 / label~e.21)
-                   :P (v29 / label
-                           :E (v35 / label~e.22)
-                           :C (v36 / label~e.23))))
+                   :R (v27 / label~e.21)
+                   :P (v28 / label
+                           :C (v34 / label~e.23))))
     :L (v5 / label~e.25)
     :H (v6 / label
            :A (v19 / label~e.26)
            :P (v20 / label~e.28)
            :A (v21 / label
-                   :R (v30 / label~e.29)
-                   :A (v31 / label
-                           :E (v37 / label~e.30)
-                           :E (v38 / label~e.31)
-                           :C (v39 / label~e.32))
-                   :A (v32 / label~e.33)
-                   :P (v33 / label~e.35)
-                   :A (v34 / label
-                           :E (v40 / label~e.36)
-                           :E (v41 / label~e.37)
-                           :C (v42 / label~e.38)
-                           :R (v43 / label~e.39)))))
+                   :R (v29 / label~e.29)
+                   :E (v30 / label~e.30)
+                   :E (v31 / label~e.31)
+                   :C (v32 / label~e.32)
+                   :E (v33 / label
+                           :A (v35 / label~e.33)
+                           :P (v36 / label~e.35)
+                           :A (v37 / label
+                                   :E (v39 / label~e.37)
+                                   :C (v40 / label~e.38))
+                           :A (v38 / label
+                                   :C v32
+                                   :R (v41 / label~e.39))))))

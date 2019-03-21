@@ -1,12 +1,11 @@
 # ::id 191666-0006
 # ::tok 4 ) The business is very unorganized .
-# ::alignments 0-1.1.3 2-1.1.4.1 3-1.1.4.2 5-1.1.6 6-1.1.7
+# ::alignments 0-1.1.3 3-1.1.4.2 5-1.1.6 6-1.1.7
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :G (v3 / label~e.0)
            :A (v4 / label
-                  :E (v7 / label~e.2)
-                  :C (v8 / label~e.3))
+                  :C (v7 / label~e.3))
            :D (v5 / label~e.5)
            :S (v6 / label~e.6)))

@@ -1,19 +1,18 @@
 # ::id 187266-0008
 # ::tok Treat yourself and go -- you will go back !
-# ::alignments 0-1.1.1 1-1.1.2 2-1.2 3-1.3.2 5-1.1.3 7-1.4.1 8-1.4.2
+# ::alignments 0-1.1.1 1-1.1.1 2-1.2 3-1.3.2 5-1.1.2 7-1.4.1 8-1.4.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :P (v6 / label~e.0)
-           :A (v7 / label~e.1)
-           :A (v8 / label~e.5))
+           :P (v6 / label~e.0,1)
+           :A (v7 / label~e.5))
     :L (v3 / label~e.2)
     :H (v4 / label
-           :A (v9 / label)
-           :P (v10 / label~e.3)
-           :A v8)
+           :A (v8 / label)
+           :P (v9 / label~e.3)
+           :A v7)
     :H (v5 / label
-           :P (v11 / label~e.7)
-           :D (v12 / label~e.8)
-           :A (v13 / label)
-           :A v8))
+           :P (v10 / label~e.7)
+           :D (v11 / label~e.8)
+           :A (v12 / label)
+           :A v7))

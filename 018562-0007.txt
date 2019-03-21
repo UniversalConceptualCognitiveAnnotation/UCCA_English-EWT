@@ -1,12 +1,12 @@
 # ::id 018562-0007
 # ::tok My grandfather passed away silently in his sleep , and my grandmother passed away after a short struggle with cancer .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.2 4-1.1.3 5-1.1.4.1 6-1.1.4.2 7-1.1.4.3 9-1.2 10-1.3.1.1 11-1.5.3 12-1.3.2 13-1.3.2 14-1.4 15-1.5.4.1 16-1.5.1 17-1.5.4.2 18-1.5.2.1 19-1.5.2.2
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.2 4-1.1.3 5-1.1.4.1 6-1.1.4.2 7-1.1.4.3 9-1.2 10-1.3.1.1 11-1.5.3 12-1.3.2 13-1.3.2 14-1.4 16-1.5.1 17-1.5.4.2 18-1.5.2.1 19-1.5.2.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v7 / label
-                  :E (v17 / label~e.0)
-                  :C (v18 / label~e.1))
+                  :A (v17 / label~e.0)
+                  :A (v18 / label~e.1))
            :P (v8 / label~e.2,3)
            :D (v9 / label~e.4)
            :A (v10 / label
@@ -16,8 +16,8 @@
     :L (v3 / label~e.9)
     :H (v4 / label
            :A (v11 / label
-                   :E (v22 / label~e.10)
-                   :C (v15 / label~e.11))
+                   :A (v22 / label~e.10)
+                   :A (v15 / label~e.11))
            :P (v12 / label~e.12,13))
     :L (v5 / label~e.14)
     :H (v6 / label
@@ -27,5 +27,4 @@
                    :C (v24 / label~e.19))
            :A v15
            :P (v16 / label
-                   :E (v25 / label~e.15)
-                   :C (v26 / label~e.17))))
+                   :C (v25 / label~e.17))))

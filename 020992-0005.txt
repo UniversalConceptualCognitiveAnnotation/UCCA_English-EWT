@@ -1,6 +1,6 @@
 # ::id 020992-0005
 # ::tok When they sound off , it is a true audio / visual experience .
-# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.2 5-1.3.2 7-1.3.4.1 8-1.3.1.1 9-1.3.1.2.1 11-1.3.1.2.2 12-1.3.4.2
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.2 5-1.3.3 8-1.3.1 9-1.3.2.1 11-1.3.2.2 12-1.3.5.2
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -8,12 +8,10 @@
            :A (v5 / label~e.1)
            :P (v6 / label~e.2,3))
     :H (v4 / label
-           :D (v7 / label
-                  :E (v10 / label~e.8)
-                  :C (v11 / label
-                          :C (v14 / label~e.9)
-                          :C (v15 / label~e.11)))
-           :A (v8 / label~e.5)
-           :P (v9 / label
-                  :E (v12 / label~e.7)
-                  :C (v13 / label~e.12))))
+           :D (v7 / label~e.8)
+           :D (v8 / label
+                  :C (v11 / label~e.9)
+                  :C (v12 / label~e.11))
+           :A (v9 / label~e.5)
+           :P (v10 / label
+                   :C (v13 / label~e.12))))
