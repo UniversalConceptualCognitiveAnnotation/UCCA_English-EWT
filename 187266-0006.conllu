@@ -1,17 +1,17 @@
 # format = ucca
 # sent_id = 187266-0006
 # text = Our friend is a world traveler and loves unpretentious dining experiences and inspired food .
-1	Our	_	Word	Word	_	2	E	2:E	_
-2	friend	_	Word	Word	_	0	C	0:C|8:A	_
+1	Our	_	Word	Word	_	6	A	6:A	_
+2	friend	_	Word	Word	_	1	A	1:A|8:A	_
 3	is	_	Word	Word	_	6	F	6:F	_
-4	a	_	Word	Word	_	6	E	6:E	_
-5	world	_	Word	Word	_	6	D	6:D	_
+4	a	_	Word	Word	_	6	F	6:F	_
+5	world	_	Word	Word	_	6	A	6:A	_
 6	traveler	_	Word	Word	_	0	H	0:H	_
 7	and	_	Word	Word	_	8	L	8:L	_
 8	loves	_	Word	Word	_	6	H	6:H	_
 9	unpretentious	_	Word	Word	_	10	D	10:D	_
 10	dining	_	Word	Word	_	8	A	8:A	_
-11	experiences	_	Word	Word	_	10	A	10:A	_
+11	experiences	_	Word	Word	_	10	E	10:E	_
 12	and	_	Word	Word	_	13	L	13:L	_
 13	inspired	_	Word	Word	_	10	H	10:H	_
 14	food	_	Word	Word	_	13	A	13:A	_

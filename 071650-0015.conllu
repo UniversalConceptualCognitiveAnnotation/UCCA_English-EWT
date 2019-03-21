@@ -1,15 +1,15 @@
 # format = ucca
 # sent_id = 071650-0015
 # text = There are better places on the Cape - FITNESS 500 !
-1	There	_	Word	Word	_	0	H	0:H	_
-2	are	_	Word	Word	_	1	F	1:F	_
-3	better	_	Word	Word	_	4	E	4:E	_
-4	places	_	Word	Word	_	1	A	1:A	_
+1	There	_	Word	Word	_	3	F	3:F	_
+2	are	_	Word	Word	_	3	F	3:F	_
+3	better	_	Word	Word	_	0	H	0:H	_
+4	places	_	Word	Word	_	3	A	3:A	_
 5	on	_	Word	Word	_	6	R	6:R	_
-6	the	_	Word	Word	_	4	E	4:E	_
+6	the	_	Word	Word	_	3	A	3:A	_
 7	Cape	_	Word	Word	_	6	Terminal	6:Terminal	_
-8	-	_	Punctuation	Punctuation	_	4	U	4:U	_
-9	FITNESS	_	Word	Word	_	4	E	4:E	_
+8	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+9	FITNESS	_	Word	Word	_	3	A	3:A	_
 10	500	_	Word	Word	_	9	Terminal	9:Terminal	_
-11	!	_	Punctuation	Punctuation	_	4	U	4:U	_
+11	!	_	Punctuation	Punctuation	_	3	U	3:U	_
 

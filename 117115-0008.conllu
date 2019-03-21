@@ -1,23 +1,23 @@
 # format = ucca
 # sent_id = 117115-0008
 # text = My next - door neighbor heard the noise and turned on a light , thankfully scaring the two miscreants away ( they even left their hammer behind ! ) .
-1	My	_	Word	Word	_	5	E	5:E	_
+1	My	_	Word	Word	_	6	A	6:A	_
 2	next	_	Word	Word	_	4	E	4:E	_
 3	-	_	Punctuation	Punctuation	_	4	U	4:U	_
-4	door	_	Word	Word	_	5	E	5:E	_
-5	neighbor	_	Word	Word	_	0	C	0:C|1:A|10:A	_
+4	door	_	Word	Word	_	1	A	1:A	_
+5	neighbor	_	Word	Word	_	1	A	1:A|10:A	_
 6	heard	_	Word	Word	_	0	H	0:H	_
-7	the	_	Word	Word	_	8	E	8:E	_
+7	the	_	Word	Word	_	8	F	8:F	_
 8	noise	_	Word	Word	_	6	A	6:A	_
 9	and	_	Word	Word	_	10	L	10:L	_
 10	turned	_	Word	Word	_	6	H	6:H	_
 11	on	_	Word	Word	_	10	D	10:D	_
-12	a	_	Word	Word	_	13	E	13:E	_
+12	a	_	Word	Word	_	13	F	13:F	_
 13	light	_	Word	Word	_	0	C	0:C|16:A	_
 14	,	_	Punctuation	Punctuation	_	16	U	16:U	_
 15	thankfully	_	Word	Word	_	16	G	16:G	_
 16	scaring	_	Word	Word	_	6	H	6:H	_
-17	the	_	Word	Word	_	19	E	19:E	_
+17	the	_	Word	Word	_	19	F	19:F	_
 18	two	_	Word	Word	_	19	Q	19:Q	_
 19	miscreants	_	Word	Word	_	16	A	16:A	_
 20	away	_	Word	Word	_	16	D	16:D	_

@@ -2,13 +2,13 @@
 # sent_id = 018562-0009
 # text = Thank you Mike for all your help professionally and personally .
 1	Thank	_	Word	Word	_	0	H	0:H	_
-2	you	_	Word	Word	_	1	A	1:A	_
+2	you	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	Mike	_	Word	Word	_	1	A	1:A	_
-4	for	_	Word	Word	_	7	L	7:L	_
+4	for	_	Word	Word	_	7	R	7:R	_
 5	all	_	Word	Word	_	7	D	7:D	_
 6	your	_	Word	Word	_	7	A	7:A	_
-7	help	_	Word	Word	_	1	H	1:H	_
-8	professionally	_	Word	Word	_	7	A	7:A	_
+7	help	_	Word	Word	_	1	A	1:A	_
+8	professionally	_	Word	Word	_	7	D	7:D	_
 9	and	_	Word	Word	_	8	N	8:N	_
 10	personally	_	Word	Word	_	8	C	8:C	_
 11	.	_	Punctuation	Punctuation	_	8	U	8:U	_

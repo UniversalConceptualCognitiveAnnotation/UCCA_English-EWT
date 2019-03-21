@@ -1,14 +1,14 @@
 # format = ucca
 # sent_id = 017345-0008
 # text = I left my number , or tried to anyway .
-1	I	_	Word	Word	_	2	A	2:A|7:A	_
+1	I	_	Word	Word	_	2	A	2:A|8:A	_
 2	left	_	Word	Word	_	0	H	0:H	_
 3	my	_	Word	Word	_	4	E	4:E	_
-4	number	_	Word	Word	_	2	A	2:A	_
+4	number	_	Word	Word	_	0	C	0:C|3:A|8:A	_
 5	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-6	or	_	Word	Word	_	7	L	7:L	_
-7	tried	_	Word	Word	_	2	H	2:H	_
-8	to	_	Word	Word	_	7	F	7:F	_
-9	anyway	_	Word	Word	_	7	G	7:G	_
-10	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	or	_	Word	Word	_	8	L	8:L	_
+7	tried	_	Word	Word	_	8	D	8:D	_
+8	to	_	Word	Word	_	2	H	2:H	_
+9	anyway	_	Word	Word	_	8	G	8:G	_
+10	.	_	Punctuation	Punctuation	_	8	U	8:U	_
 

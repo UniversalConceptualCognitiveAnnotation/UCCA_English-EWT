@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 018548-0005
 # text = also , you can call em ahead of time , and then go to pick up ur food , or have it delivered ** .
-1	also	_	Word	Word	_	15	L	15:L	_
+1	also	_	Word	Word	_	5	D	5:D	_
 2	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 3	you	_	Word	Word	_	5	A	5:A|15:A|23:A	_
-4	can	_	Word	Word	_	5	F	5:F	_
+4	can	_	Word	Word	_	5	D	5:D	_
 5	call	_	Word	Word	_	0	H	0:H	_
 6	em	_	Word	Word	_	5	A	5:A	_
 7	ahead	_	Word	Word	_	9	E	9:E	_

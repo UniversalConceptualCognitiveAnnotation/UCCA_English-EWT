@@ -2,7 +2,7 @@
 # sent_id = 187266-0005
 # text = I can tell you we were pleasantly surprised -- BT has taste memory and each time back the food was consistently delicious -- same dishes -- were consistent .
 1	I	_	Word	Word	_	3	A	3:A	_
-2	can	_	Word	Word	_	3	F	3:F	_
+2	can	_	Word	Word	_	3	D	3:D	_
 3	tell	_	Word	Word	_	0	H	0:H	_
 4	you	_	Word	Word	_	3	A	3:A	_
 5	we	_	Word	Word	_	8	A	8:A|17:A	_
@@ -12,13 +12,13 @@
 9	--	_	Punctuation	Punctuation	_	3	U	3:U	_
 10	BT	_	Word	Word	_	13	A	13:A	_
 11	has	_	Word	Word	_	13	F	13:F	_
-12	taste	_	Word	Word	_	13	E	13:E	_
+12	taste	_	Word	Word	_	13	A	13:A	_
 13	memory	_	Word	Word	_	3	H	3:H	_
 14	and	_	Word	Word	_	17	L	17:L	_
 15	each	_	Word	Word	_	17	L	17:L	_
 16	time	_	Word	Word	_	15	Terminal	15:Terminal	_
 17	back	_	Word	Word	_	3	H	3:H	_
-18	the	_	Word	Word	_	19	E	19:E	_
+18	the	_	Word	Word	_	19	F	19:F	_
 19	food	_	Word	Word	_	22	A	22:A	_
 20	was	_	Word	Word	_	22	F	22:F	_
 21	consistently	_	Word	Word	_	22	D	22:D	_
