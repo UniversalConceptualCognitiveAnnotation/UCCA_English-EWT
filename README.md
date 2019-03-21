@@ -1,15 +1,13 @@
 UCCA English Web Treebank Corpus
 ================================
-Version 0.2 (January 3, 2019)
+Version 0.9 (March 21, 2019)
 -----------------------------
 
-This bundle contains 638 passages from the reviews section of the English Web Treebank (LDC2012T13),
+This bundle contains 707 passages from the reviews section of the English Web Treebank (LDC2012T13),
 annotated according to the foundational layer of UCCA, v2.0. 
 The passages are given as xmls in the [UCCA format](https://github.com/UniversalConceptualCognitiveAnnotation/docs/blob/master/FORMAT.md).
-This corpus contains 46373 tokens over 2961 sentences, as tokenized and split according
+This corpus contains 52695 tokens over 3604 sentences, as tokenized and split according
 to the [Universal Dependencies English Web Treebank](http://github.com/UniversalDependencies/UD_English-EWT).
-Of the UCCA-annotated sentences, 1994 belong to the UD training set, 502 to the development set and
-465 to the test set.
 
 
 Files included
