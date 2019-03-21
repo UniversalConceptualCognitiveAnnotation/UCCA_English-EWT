@@ -1,0 +1,33 @@
+#BOS 211797-0001
+MUST	Word	--	Terminal	500
+READ	Word	--	Terminal	501
+-	Punctuation	--	Terminal	502
+Do	Word	--	Terminal	503
+not	Word	--	Terminal	504
+waste	Word	--	Terminal	505
+your	Word	--	Terminal	506
+time	Word	--	Terminal	507
+in	Word	--	Terminal	508
+this	Word	--	Terminal	509
+store	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	D	515
+#501	FN	--	P	515
+#502	PNCT	--	U	518
+#503	FN	--	F	517
+#504	FN	--	D	517
+#505	FN	--	P	517
+#506	FN	--	E	512
+#507	FN	--	C	512
+#508	FN	--	R	513
+#509	FN	--	E	513
+#510	FN	--	C	513
+#511	PNCT	--	U	513
+#512	FN	--	A	517
+#513	FN	--	A	517
+#514	FN	--	A	515
+#515	FN	--	H	518
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 211797-0001

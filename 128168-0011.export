@@ -14,7 +14,7 @@ is	Word	--	Terminal	511
 a	Word	--	Terminal	512
 shame	Word	--	Terminal	513
 .	Punctuation	--	Terminal	514
-#500	FN	--	E	515
+#500	FN	--	Q	515
 #501	FN	--	R	515
 #502	FN	--	C	515
 #503	FN	--	F	517
@@ -23,16 +23,17 @@ shame	Word	--	Terminal	513
 #506	FN	--	A	516
 #507	FN	--	P	516
 #508	FN	--	D	517
-#509	PNCT	--	U	520
-#510	FN	--	L	520
-#511	FN	--	A	519
-#512	FN	--	E	518
+#509	PNCT	--	U	521
+#510	FN	--	L	521
+#511	FN	--	F	520
+#512	FN	--	F	518
 #513	FN	--	C	518
 #514	PNCT	--	U	518
 #515	FN	--	A	517
 #516	FN	--	A	517
-#517	FN	--	H	520
-#518	FN	--	S	519
-#519	FN	--	H	520
-#520	FN	--	--	0
+#517	FN	--	H	521
+#518	FN	--	S	520
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
 #EOS 128168-0011
