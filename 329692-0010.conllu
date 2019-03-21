@@ -1,0 +1,20 @@
+# sent_id = 329692-0010
+1	As	as	ADP	IN	_	4	case	4:case	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
+3	yoga	yoga	NOUN	NN	Number=Sing	4	compound	4:compound	_
+4	studio	studio	NOUN	NN	Number=Sing	8	obl	8:obl:as	SpaceAfter=No
+5	,	,	PUNCT	,	_	8	punct	8:punct	_
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	8:nsubj	SpaceAfter=No
+7	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
+8	sure	sure	ADJ	JJ	Degree=Pos	0	root	0:root	_
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	12:nsubj	SpaceAfter=No
+10	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
+11	all	all	ADV	RB	_	12	advmod	12:advmod	_
+12	aware	aware	ADJ	JJ	Degree=Pos	8	ccomp	8:ccomp	_
+13	that	that	SCONJ	IN	_	16	mark	16:mark	_
+14	all	all	DET	DT	_	15	det	15:det	_
+15	actions	action	NOUN	NNS	Number=Plur	16	nsubj	16:nsubj	_
+16	generate	generate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	ccomp	12:ccomp	_
+17	karma	karma	NOUN	NN	Number=Sing	16	obj	16:obj	_
+18	…	.	PUNCT	.	_	8	punct	8:punct	_
+
