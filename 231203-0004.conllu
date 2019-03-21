@@ -1,0 +1,26 @@
+# sent_id = 231203-0004
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	8:nsubj	SpaceAfter=No
+4	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
+5	still	still	ADV	RB	_	8	advmod	8:advmod	_
+6	in	in	ADP	IN	_	8	case	8:case	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+8	mindset	mindset	NOUN	NN	Number=Sing	2	ccomp	2:ccomp	_
+9	from	from	SCONJ	IN	_	10	case	10:case	_
+10	when	when	ADV	WRB	PronType=Int	8	nmod	8:nmod:from	_
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	14:nsubj	_
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	cop	14:cop	_
+13	only	only	ADV	RB	_	14	advmod	14:advmod	_
+14	smokers	smoker	NOUN	NNS	Number=Plur	10	acl:relcl	10:acl:relcl	_
+15	sitting	sit	VERB	VBG	VerbForm=Ger	14	acl	14:acl	_
+16	around	around	ADV	RB	_	15	advmod	15:advmod	_
+17	and	and	CCONJ	CC	_	18	cc	18:cc	_
+18	drinking	drink	VERB	VBG	VerbForm=Ger	15	conj	14:acl|15:conj:and	SpaceAfter=No
+19	...	...	PUNCT	,	_	18	punct	18:punct	_
+20	not	not	ADV	RB	_	23	advmod	23:advmod	_
+21	in	in	ADP	IN	_	23	case	23:case	_
+22	any	any	DET	DT	_	23	det	23:det	_
+23	hurry	hurry	NOUN	NN	Number=Sing	18	obl	18:obl:in	SpaceAfter=No
+24	.	.	PUNCT	.	_	2	punct	2:punct	_
+

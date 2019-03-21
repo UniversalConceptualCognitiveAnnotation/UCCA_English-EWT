@@ -1,0 +1,28 @@
+# sent_id = 160073-0002
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+2	family	family	NOUN	NN	Number=Sing	5	nsubj	5:nsubj|14:nsubj	_
+3	and	and	CCONJ	CC	_	4	cc	4:cc	_
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	conj	2:conj:and|5:nsubj	_
+5	moved	move	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+6	to	to	ADP	IN	_	7	case	7:case	_
+7	San	San	PROPN	NNP	Number=Sing	5	obl	5:obl:to	_
+8	Antonio	Antonio	PROPN	NNP	Number=Sing	7	flat	7:flat	_
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	_
+10	year	year	NOUN	NN	Number=Sing	11	obl:npmod	11:obl:npmod	_
+11	ago	ago	ADV	RB	_	5	advmod	5:advmod	_
+12	and	and	CCONJ	CC	_	14	cc	14:cc	_
+13	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	14:aux	_
+14	tried	try	VERB	VBN	Tense=Past|VerbForm=Part	5	conj	5:conj:and	_
+15	almost	almost	ADV	RB	_	16	advmod	16:advmod	_
+16	all	all	DET	DT	_	14	obj	14:obj	_
+17	of	of	ADP	IN	_	20	case	20:case	_
+18	the	the	DET	DT	Definite=Def|PronType=Art	20	det	20:det	_
+19	Chinese	chinese	ADJ	JJ	Degree=Pos	20	amod	20:amod	_
+20	Restaurants	restaurant	NOUN	NNS	Number=Plur	16	nmod	16:nmod:of	_
+21	because	because	SCONJ	IN	_	23	mark	23:mark	_
+22	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	23	nsubj	23:nsubj	_
+23	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	advcl	14:advcl:because	_
+24	Chinese	chinese	ADJ	JJ	Degree=Pos	25	amod	25:amod	_
+25	food	food	NOUN	NN	Number=Sing	23	obj	23:obj	SpaceAfter=No
+26	.	.	PUNCT	.	_	5	punct	5:punct	_
+
