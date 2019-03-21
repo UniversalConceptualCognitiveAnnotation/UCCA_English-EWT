@@ -200,9 +200,9 @@
     <node ID="1.8" type="FN">
       <attributes />
       <extra remarks="*must be comforting" tree_id="57-4" />
-      <edge toID="1.10" type="A">
+      <edge toID="1.10" type="F">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
       </edge>
       <edge toID="1.11" type="D">
         <attributes />
@@ -255,10 +255,10 @@
     </node>
     <node ID="1.14" type="FN">
       <attributes />
-      <extra remarks="Nicole: not sure if I got this correctly... the participant seems very long..." tree_id="57-4-5" />
-      <edge toID="1.15" type="R">
+      <extra tree_id="57-4-5" />
+      <edge toID="1.15" type="F">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="R" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
       </edge>
       <edge toID="1.16" type="F">
         <attributes />

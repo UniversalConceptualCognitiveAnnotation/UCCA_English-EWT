@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="185045-0008">
-  <attributes annotationID="641" passageID="301" remarks="26192" userID="1" />
+  <attributes annotationID="4369" passageID="301" remarks="26192" userID="4" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -76,17 +76,17 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>
-      <edge toID="1.10" type="U">
+      <edge toID="1.9" type="U">
         <attributes />
         <category tag="U" />
       </edge>
     </node>
     <node ID="1.7" type="FN">
       <attributes />
-      <extra remarks="L: I'm not adding in a pArticipant because the his here, altough &quot;his&quot; is a possessive pronoun,  doesn't mean that he literally owns the bees. It's a manner of speech. " tree_id="10-3-1" />
-      <edge toID="1.9" type="S">
+      <extra tree_id="10-3-1" />
+      <edge toID="0.3" type="Terminal">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
+        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.8" type="FN">
@@ -97,15 +97,7 @@
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.9" type="FN">
-      <attributes />
-      <extra tree_id="10-3-1-1" />
-      <edge toID="0.3" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.10" type="PNCT">
+    <node ID="1.9" type="PNCT">
       <attributes />
       <edge toID="0.5" type="Terminal">
         <attributes />

@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="117115-0006">
-  <attributes annotationID="57" passageID="19" remarks="Test" userID="4" />
+  <attributes annotationID="4310" passageID="19" remarks="Test" userID="4" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -220,9 +220,9 @@
     <node ID="1.11" type="FN">
       <attributes />
       <extra tree_id="15-5" />
-      <edge toID="1.16" type="E">
+      <edge toID="1.16" type="F">
         <attributes />
-        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="E" />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="F" />
       </edge>
       <edge toID="1.17" type="C">
         <attributes />
@@ -236,9 +236,9 @@
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="R" />
       </edge>
-      <edge toID="1.14" type="E">
+      <edge toID="1.14" type="F">
         <attributes />
-        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="E" />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="F" />
       </edge>
       <edge toID="1.15" type="C">
         <attributes />
@@ -324,9 +324,9 @@
     <node ID="1.22" type="FN">
       <attributes />
       <extra tree_id="12-5" />
-      <edge toID="1.28" type="E">
+      <edge toID="1.28" type="F">
         <attributes />
-        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="E" />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="F" />
       </edge>
       <edge toID="1.29" type="C">
         <attributes />
@@ -340,9 +340,9 @@
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="R" />
       </edge>
-      <edge toID="1.25" type="E">
+      <edge toID="1.25" type="F">
         <attributes />
-        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="E" />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="F" />
       </edge>
       <edge toID="1.26" type="E">
         <attributes />

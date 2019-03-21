@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="010450-0001">
-  <attributes annotationID="54" passageID="16" remarks="Test" userID="4" />
+  <attributes annotationID="4309" passageID="16" remarks="Test" userID="4" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -104,9 +104,8 @@
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="A" />
       </edge>
-      <edge toID="1.20" type="E">
+      <edge toID="1.20" type="S">
         <attributes />
-        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="E" />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="S" />
       </edge>
       <edge toID="1.21" type="D">
@@ -121,9 +120,9 @@
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="A" />
       </edge>
-      <edge toID="1.7" type="F">
+      <edge toID="1.7" type="D">
         <attributes />
-        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="F" />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="D" />
       </edge>
       <edge toID="1.8" type="P">
         <attributes />
@@ -277,9 +276,9 @@
     <node ID="1.20" type="FN">
       <attributes />
       <extra tree_id="2-2" />
-      <edge toID="1.22" type="E">
+      <edge toID="1.22" type="F">
         <attributes />
-        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="E" />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="F" />
       </edge>
       <edge toID="1.23" type="E">
         <attributes />

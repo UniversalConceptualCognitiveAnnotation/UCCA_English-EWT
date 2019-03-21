@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="385281-0004">
-  <attributes annotationID="433" passageID="192" remarks="26085" userID="1" />
+  <attributes annotationID="4340" passageID="192" remarks="26085" userID="14" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -108,13 +108,17 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="D" />
       </edge>
-      <edge toID="1.9" type="P">
+      <edge toID="1.9" type="D">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="D" />
       </edge>
       <edge toID="1.10" type="A">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+      </edge>
+      <edge toID="1.11" type="P">
+        <attributes />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
       </edge>
       <edge toID="1.14" type="A">
         <attributes remote="True" />
@@ -147,11 +151,23 @@
     </node>
     <node ID="1.9" type="FN">
       <attributes />
-      <extra remarks="I don't fully agree with this...... I think what's more active is the pressuring component than the buying, but I don't know if it's possible to code this to reflect that" tree_id="19-5" />
-      <edge toID="1.11" type="C">
+      <extra tree_id="19-5" />
+      <edge toID="0.8" type="Terminal">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
+        <category tag="Terminal" />
       </edge>
+    </node>
+    <node ID="1.10" type="FN">
+      <attributes />
+      <extra tree_id="19-6" />
+      <edge toID="0.9" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.11" type="FN">
+      <attributes />
+      <extra tree_id="19-7" />
       <edge toID="1.12" type="F">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
@@ -165,25 +181,9 @@
         <category tag="U" />
       </edge>
     </node>
-    <node ID="1.10" type="FN">
-      <attributes />
-      <extra tree_id="19-6" />
-      <edge toID="0.9" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.11" type="FN">
-      <attributes />
-      <extra tree_id="19-5-1" />
-      <edge toID="0.8" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
     <node ID="1.12" type="FN">
       <attributes />
-      <extra tree_id="19-5-2" />
+      <extra tree_id="19-7-1" />
       <edge toID="0.10" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -191,7 +191,7 @@
     </node>
     <node ID="1.13" type="FN">
       <attributes />
-      <extra tree_id="19-5-3" />
+      <extra tree_id="19-7-2" />
       <edge toID="0.11" type="Terminal">
         <attributes />
         <category tag="Terminal" />

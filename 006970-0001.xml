@@ -128,7 +128,7 @@
         <attributes remote="True" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
-      <edge toID="1.21" type="U">
+      <edge toID="1.22" type="U">
         <attributes />
         <category tag="U" />
       </edge>
@@ -179,19 +179,18 @@
     </node>
     <node ID="1.11" type="FN">
       <attributes />
-      <extra remarks="Adi:&#10;the choice between:&#10;- a C scene, or&#10;- marking &quot;and&quot; as function" tree_id="1-1" />
-      <edge toID="1.18" type="S">
+      <extra tree_id="1-1" />
+      <edge toID="1.18" type="C">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>
-      <edge toID="1.19" type="F">
+      <edge toID="1.19" type="N">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" tag="N" />
       </edge>
-      <edge toID="1.20" type="A">
+      <edge toID="1.20" type="C">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>
     </node>
     <node ID="1.12" type="FN">
@@ -249,9 +248,10 @@
     <node ID="1.18" type="FN">
       <attributes />
       <extra tree_id="1-1-1" />
-      <edge toID="0.1" type="Terminal">
+      <edge toID="1.21" type="A">
         <attributes />
-        <category tag="Terminal" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
       </edge>
     </node>
     <node ID="1.19" type="FN">
@@ -270,7 +270,15 @@
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.21" type="PNCT">
+    <node ID="1.21" type="FN">
+      <attributes />
+      <extra tree_id="1-1-1-1" />
+      <edge toID="0.1" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.22" type="PNCT">
       <attributes />
       <edge toID="0.14" type="Terminal">
         <attributes />
