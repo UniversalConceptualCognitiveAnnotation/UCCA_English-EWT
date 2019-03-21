@@ -2692,7 +2692,7 @@
     </node>
     <node ID="1.105" type="FN">
       <attributes />
-      <extra remarks="Nicole: wondering if &quot;agree&quot; is a causative and would be D? Can't decide whether &quot;to be&quot; or &quot;on&quot; is the state here also..." tree_id="23-3" />
+      <extra tree_id="23-3" />
       <edge toID="1.106" type="F">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
@@ -5156,9 +5156,9 @@
     <node ID="1.336" type="FN">
       <attributes />
       <extra remarks="*must be comforting" tree_id="57-4" />
-      <edge toID="1.337" type="A">
+      <edge toID="1.337" type="F">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
       </edge>
       <edge toID="1.338" type="D">
         <attributes />
@@ -5211,10 +5211,10 @@
     </node>
     <node ID="1.341" type="FN">
       <attributes />
-      <extra remarks="Nicole: not sure if I got this correctly... the participant seems very long..." tree_id="57-4-5" />
-      <edge toID="1.342" type="R">
+      <extra tree_id="57-4-5" />
+      <edge toID="1.342" type="F">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="R" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
       </edge>
       <edge toID="1.343" type="F">
         <attributes />

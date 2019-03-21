@@ -665,7 +665,7 @@
     <node ID="0.221" type="Word">
       <attributes paragraph="1" paragraph_position="221" text="Taco" />
     </node>
-    <node ID="0.222" type="Punctuation">
+    <node ID="0.222" type="Word">
       <attributes paragraph="1" paragraph_position="222" text="&amp;" />
     </node>
     <node ID="0.223" type="Word">
@@ -3767,6 +3767,10 @@
     <node ID="1.267" type="FN">
       <attributes />
       <extra tree_id="36-3" />
+      <edge toID="0.222" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
       <edge toID="1.268" type="A">
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="A" />
@@ -3859,10 +3863,6 @@
         <attributes />
         <category tag="Terminal" />
       </edge>
-      <edge toID="1.314" type="U">
-        <attributes />
-        <category tag="U" />
-      </edge>
     </node>
     <node ID="1.274" type="FN">
       <attributes />
@@ -3883,7 +3883,7 @@
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="C" />
       </edge>
-      <edge toID="1.315" type="U">
+      <edge toID="1.314" type="U">
         <attributes />
         <category tag="U" />
       </edge>
@@ -4187,13 +4187,6 @@
       </edge>
     </node>
     <node ID="1.314" type="PNCT">
-      <attributes />
-      <edge toID="0.222" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.315" type="PNCT">
       <attributes />
       <edge toID="0.236" type="Terminal">
         <attributes />
