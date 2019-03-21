@@ -1,21 +1,21 @@
 # format = ucca
-1	I	_	Word	-	-	_	A	_	A*	_	_	_	_
-2	had	_	Word	-	+	_	_	_	_	_	_	_	_
-3	a	_	Word	-	-	_	_	E	_	_	_	_	_
-4	severe	_	Word	-	-	_	_	E	_	_	_	_	_
-5	phobia	_	Word	-	+	_	A	_	_	_	_	_	_
-6	of	_	Word	-	-	_	_	_	R	_	_	_	_
-7	attending	_	Word	-	+	_	_	E	_	_	_	_	_
-8	the	_	Word	-	-	_	_	_	_	E	_	_	_
-9	dentist	_	Word	-	+	_	_	_	A	_	_	_	_
-10	until	_	Word	-	-	_	L	_	_	_	_	_	_
-11	I	_	Word	-	-	_	_	_	_	_	A	A*	_
-12	met	_	Word	-	+	_	H	_	_	_	_	_	_
-13	and	_	Word	-	-	_	L	_	_	_	_	_	_
-14	was	_	Word	-	-	_	_	_	_	_	_	F	_
-15	treated	_	Word	-	+	_	H	_	_	_	_	_	_
-16	by	_	Word	-	-	_	_	_	_	_	_	_	R
-17	Dr	_	Word	-	-	_	_	_	_	_	_	_	E
-18	Nelson	_	Word	-	+	_	_	_	_	_	A*	_	_
-19	.	_	Punctuation	-	-	_	_	_	_	_	U	_	_
+1	I	_	Word	-	-	_	A	A*	_	_	_	_
+2	had	_	Word	-	-	_	F	_	_	_	_	_
+3	a	_	Word	-	-	_	F	_	_	_	_	_
+4	severe	_	Word	-	-	_	D	_	_	_	_	_
+5	phobia	_	Word	-	+	_	_	_	_	_	_	_
+6	of	_	Word	-	-	_	_	R	_	_	_	_
+7	attending	_	Word	-	+	_	A	_	_	_	_	_
+8	the	_	Word	-	-	_	_	_	F	_	_	_
+9	dentist	_	Word	-	+	_	_	A	_	_	_	_
+10	until	_	Word	-	-	_	L	_	_	_	_	_
+11	I	_	Word	-	-	_	_	_	_	A	A*	_
+12	met	_	Word	-	+	_	H	_	_	_	_	_
+13	and	_	Word	-	-	_	L	_	_	_	_	_
+14	was	_	Word	-	-	_	_	_	_	_	F	_
+15	treated	_	Word	-	+	_	H	_	_	_	_	_
+16	by	_	Word	-	-	_	_	_	_	_	_	R
+17	Dr	_	Word	-	-	_	_	_	_	_	_	E
+18	Nelson	_	Word	-	+	_	_	_	_	A*	_	_
+19	.	_	Punctuation	-	-	_	_	_	_	U	_	_
 
