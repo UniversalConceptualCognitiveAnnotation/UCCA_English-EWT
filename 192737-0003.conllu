@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 192737-0003
 # text = His knowledge and expertise help smooth the way with any planning application , ensuring compliance with the building regulations .
-1	His	_	Word	Word	_	2	A	2:A	_
+1	His	_	Word	Word	_	2	A	2:A|4:A	_
 2	knowledge	_	Word	Word	_	6	A	6:A	_
-3	and	_	Word	Word	_	2	N	2:N	_
-4	expertise	_	Word	Word	_	2	C	2:C	_
+3	and	_	Word	Word	_	4	L	4:L	_
+4	expertise	_	Word	Word	_	2	H	2:H	_
 5	help	_	Word	Word	_	6	D	6:D	_
 6	smooth	_	Word	Word	_	0	H	0:H	_
 7	the	_	Word	Word	_	6	Terminal	6:Terminal	_

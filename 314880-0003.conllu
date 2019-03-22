@@ -21,11 +21,11 @@
 18	hire	_	Word	Word	_	8	H	8:H	_
 19	more	_	Word	Word	_	20	D	20:D	_
 20	serious	_	Word	Word	_	21	E	21:E	_
-21	adults	_	Word	Word	_	0	C	0:C|20:A|24:A	_
+21	adults	_	Word	Word	_	0	C	0:C|20:A|24:A|26:A	_
 22	to	_	Word	Word	_	24	L	24:L	_
-23	help	_	Word	Word	_	24	D	24:D	_
+23	help	_	Word	Word	_	24	D	24:D|26:D	_
 24	serve	_	Word	Word	_	8	H	8:H	_
-25	/	_	Punctuation	Punctuation	_	24	U	24:U	_
-26	cook	_	Word	Word	_	24	C	24:C	_
-27	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+25	/	_	Punctuation	Punctuation	_	8	U	8:U	_
+26	cook	_	Word	Word	_	8	H	8:H	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
 

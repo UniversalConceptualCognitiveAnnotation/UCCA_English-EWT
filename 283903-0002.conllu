@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 283903-0002
 # text = quick in & out .
-1	quick	_	Word	Word	_	2	D	2:D	_
+1	quick	_	Word	Word	_	2	D	2:D|4:D	_
 2	in	_	Word	Word	_	0	H	0:H	_
-3	&	_	Word	Word	_	2	N	2:N	_
-4	out	_	Word	Word	_	2	C	2:C	_
-5	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+3	&	_	Word	Word	_	4	L	4:L	_
+4	out	_	Word	Word	_	2	H	2:H	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
 

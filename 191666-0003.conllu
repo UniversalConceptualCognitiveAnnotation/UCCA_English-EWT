@@ -1,12 +1,12 @@
 # format = ucca
 # sent_id = 191666-0003
 # text = 1 ) Service and manners were nonexistent .
-1	1	_	Word	Word	_	3	G	3:G	_
+1	1	_	Word	Word	_	3	G	3:G|5:G	_
 2	)	_	Punctuation	Punctuation	_	3	U	3:U	_
 3	Service	_	Word	Word	_	0	H	0:H	_
-4	and	_	Word	Word	_	3	N	3:N	_
-5	manners	_	Word	Word	_	3	C	3:C	_
+4	and	_	Word	Word	_	5	L	5:L	_
+5	manners	_	Word	Word	_	3	H	3:H	_
 6	were	_	Word	Word	_	3	F	3:F	_
-7	nonexistent	_	Word	Word	_	3	D	3:D	_
+7	nonexistent	_	Word	Word	_	3	D	3:D|5:D	_
 8	.	_	Punctuation	Punctuation	_	3	U	3:U	_
 

@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 169610-0003
 # text = Her flexibility and accessibility made for an easy closing .
-1	Her	_	Word	Word	_	2	A	2:A	_
+1	Her	_	Word	Word	_	2	A	2:A|4:A	_
 2	flexibility	_	Word	Word	_	9	A	9:A	_
-3	and	_	Word	Word	_	2	N	2:N	_
-4	accessibility	_	Word	Word	_	2	C	2:C	_
+3	and	_	Word	Word	_	4	L	4:L	_
+4	accessibility	_	Word	Word	_	2	H	2:H	_
 5	made	_	Word	Word	_	9	D	9:D	_
 6	for	_	Word	Word	_	5	Terminal	5:Terminal	_
 7	an	_	Word	Word	_	9	F	9:F	_

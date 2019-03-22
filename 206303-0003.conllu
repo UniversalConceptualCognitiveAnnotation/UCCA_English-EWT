@@ -1,12 +1,12 @@
 # format = ucca
 # sent_id = 206303-0003
 # text = Always professional and reliable , sessions are good fun and suitably challenging .
-1	Always	_	Word	Word	_	2	T	2:T	_
-2	professional	_	Word	Word	_	0	H	0:H	_
-3	and	_	Word	Word	_	2	N	2:N	_
-4	reliable	_	Word	Word	_	2	C	2:C	_
-5	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-6	sessions	_	Word	Word	_	2	H	2:H	_
+1	Always	_	Word	Word	_	2	T	2:T|4:T	_
+2	professional	_	Word	Word	_	6	H	6:H	_
+3	and	_	Word	Word	_	4	L	4:L	_
+4	reliable	_	Word	Word	_	6	H	6:H	_
+5	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	sessions	_	Word	Word	_	0	H	0:H	_
 7	are	_	Word	Word	_	6	F	6:F	_
 8	good	_	Word	Word	_	9	E	9:E	_
 9	fun	_	Word	Word	_	6	D	6:D	_

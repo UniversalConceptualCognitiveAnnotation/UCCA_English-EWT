@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 170650-0004
 # text = My fear and discomfort from dental work scared me !
-1	My	_	Word	Word	_	2	A	2:A	_
+1	My	_	Word	Word	_	2	A	2:A|4:A	_
 2	fear	_	Word	Word	_	8	A	8:A	_
-3	and	_	Word	Word	_	2	N	2:N	_
-4	discomfort	_	Word	Word	_	2	C	2:C	_
+3	and	_	Word	Word	_	4	L	4:L	_
+4	discomfort	_	Word	Word	_	2	H	2:H	_
 5	from	_	Word	Word	_	7	R	7:R	_
 6	dental	_	Word	Word	_	7	A	7:A	_
-7	work	_	Word	Word	_	2	A	2:A	_
+7	work	_	Word	Word	_	2	A	2:A|4:A	_
 8	scared	_	Word	Word	_	0	H	0:H	_
 9	me	_	Word	Word	_	8	A	8:A	_
 10	!	_	Punctuation	Punctuation	_	8	U	8:U	_

@@ -1,12 +1,12 @@
 # format = ucca
 # sent_id = 120992-0002
 # text = Stylish and contemporary , no matter your size or personality type .
-1	Stylish	_	Word	Word	_	0	H	0:H	_
-2	and	_	Word	Word	_	1	N	1:N	_
-3	contemporary	_	Word	Word	_	1	C	1:C	_
-4	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+1	Stylish	_	Word	Word	_	6	H	6:H	_
+2	and	_	Word	Word	_	3	L	3:L	_
+3	contemporary	_	Word	Word	_	6	H	6:H	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 5	no	_	Word	Word	_	6	D	6:D	_
-6	matter	_	Word	Word	_	1	H	1:H	_
+6	matter	_	Word	Word	_	0	H	0:H	_
 7	your	_	Word	Word	_	8	A	8:A|10:A	_
 8	size	_	Word	Word	_	6	A	6:A	_
 9	or	_	Word	Word	_	10	L	10:L	_

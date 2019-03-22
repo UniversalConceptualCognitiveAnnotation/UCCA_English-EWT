@@ -15,12 +15,12 @@
 12	recording	_	Word	Word	_	1	H	1:H	_
 13	of	_	Word	Word	_	14	R	14:R	_
 14	transactions	_	Word	Word	_	12	A	12:A	_
-15	like	_	Word	Word	_	16	R	16:R	_
+15	like	_	Word	Word	_	16	R	16:R|18:R|20:R	_
 16	sale	_	Word	Word	_	14	E	14:E	_
 17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
-18	purchase	_	Word	Word	_	16	C	16:C	_
-19	and	_	Word	Word	_	16	N	16:N	_
-20	returns	_	Word	Word	_	16	C	16:C	_
+18	purchase	_	Word	Word	_	16	H	16:H	_
+19	and	_	Word	Word	_	20	L	20:L	_
+20	returns	_	Word	Word	_	16	H	16:H	_
 21	was	_	Word	Word	_	23	F	23:F	_
 22	never	_	Word	Word	_	23	D	23:D	_
 23	easy	_	Word	Word	_	0	H	0:H	_

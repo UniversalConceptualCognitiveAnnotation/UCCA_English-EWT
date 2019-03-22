@@ -3,11 +3,11 @@
 # text = Antiques , Vintage , Contemporary & Modern Chandeliers .
 1	Antiques	_	Word	Word	_	0	H	0:H	_
 2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
-3	Vintage	_	Word	Word	_	1	C	1:C	_
+3	Vintage	_	Word	Word	_	1	H	1:H	_
 4	,	_	Punctuation	Punctuation	_	1	U	1:U	_
-5	Contemporary	_	Word	Word	_	1	C	1:C	_
-6	&	_	Word	Word	_	1	N	1:N	_
-7	Modern	_	Word	Word	_	1	C	1:C	_
-8	Chandeliers	_	Word	Word	_	1	A	1:A	_
+5	Contemporary	_	Word	Word	_	1	H	1:H	_
+6	&	_	Word	Word	_	7	L	7:L	_
+7	Modern	_	Word	Word	_	1	H	1:H	_
+8	Chandeliers	_	Word	Word	_	1	A	1:A|3:A|5:A|7:A	_
 9	.	_	Punctuation	Punctuation	_	1	U	1:U	_
 

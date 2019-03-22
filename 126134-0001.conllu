@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 126134-0001
 # text = Usually very quick and timely .
-1	Usually	_	Word	Word	_	3	T	3:T	_
-2	very	_	Word	Word	_	3	D	3:D	_
+1	Usually	_	Word	Word	_	3	T	3:T|5:T	_
+2	very	_	Word	Word	_	3	D	3:D|5:D	_
 3	quick	_	Word	Word	_	0	H	0:H	_
-4	and	_	Word	Word	_	3	N	3:N	_
-5	timely	_	Word	Word	_	3	C	3:C	_
-6	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+4	and	_	Word	Word	_	5	L	5:L	_
+5	timely	_	Word	Word	_	3	H	3:H	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
 

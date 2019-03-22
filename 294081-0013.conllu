@@ -28,11 +28,11 @@
 25	ANYTHING	_	Word	Word	_	24	A	24:A	_
 26	BECAUSE	_	Word	Word	_	31	L	31:L	_
 27	THE	_	Word	Word	_	28	F	28:F	_
-28	DOORS	_	Word	Word	_	31	A	31:A	_
+28	DOORS	_	Word	Word	_	31	A	31:A|33:A	_
 29	ARE	_	Word	Word	_	31	F	31:F	_
-30	ALWAYS	_	Word	Word	_	31	T	31:T	_
+30	ALWAYS	_	Word	Word	_	31	T	31:T|33:T	_
 31	OPENING	_	Word	Word	_	3	H	3:H	_
-32	AND	_	Word	Word	_	31	N	31:N	_
-33	CLOSING	_	Word	Word	_	31	C	31:C	_
-34	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+32	AND	_	Word	Word	_	33	L	33:L	_
+33	CLOSING	_	Word	Word	_	3	H	3:H	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
 

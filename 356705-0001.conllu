@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 356705-0001
 # text = You were extremely polite and professional .
-1	You	_	Word	Word	_	4	A	4:A	_
+1	You	_	Word	Word	_	4	A	4:A|6:A	_
 2	were	_	Word	Word	_	4	F	4:F	_
-3	extremely	_	Word	Word	_	4	D	4:D	_
+3	extremely	_	Word	Word	_	4	D	4:D|6:D	_
 4	polite	_	Word	Word	_	0	H	0:H	_
-5	and	_	Word	Word	_	4	N	4:N	_
-6	professional	_	Word	Word	_	4	C	4:C	_
-7	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+5	and	_	Word	Word	_	6	L	6:L	_
+6	professional	_	Word	Word	_	4	H	4:H	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
 
