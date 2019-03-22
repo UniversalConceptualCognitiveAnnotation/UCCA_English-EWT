@@ -33,7 +33,7 @@ for xml in xml/*; do
   python -m scripts.standard_to_text "sentences_by_ud/${doc_id}-"* -o txt 2>/dev/null || exit 1
   for sentence in "sentences_by_ud/${doc_id}-"*; do
     txt=${sentence#*/}
-    sed 's/^/^/' "txt/${txt%.*}.txt" | grep -qf- "ud/${doc_id}.txt" || rm -fv "${sentence}"
+    grep -qFxf- "ud/${doc_id}.txt" < "txt/${txt%.*}.txt" || rm -fv "${sentence}"
   done
 done
 echo
