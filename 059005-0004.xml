@@ -56,26 +56,26 @@
       <attributes />
       <edge toID="1.7" type="A">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+        <category tag="A" />
       </edge>
       <edge toID="1.8" type="F">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
+        <category tag="F" />
       </edge>
       <edge toID="1.9" type="S">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
+        <category tag="S" />
       </edge>
     </node>
     <node ID="1.5" type="FN">
       <attributes />
       <edge toID="1.6" type="S">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
+        <category tag="S" />
       </edge>
       <edge toID="1.7" type="A">
         <attributes remote="True" />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+        <category tag="A" />
       </edge>
       <edge toID="1.10" type="U">
         <attributes />

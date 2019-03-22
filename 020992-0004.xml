@@ -38,26 +38,26 @@
       <attributes />
       <edge toID="1.2" type="H">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="H" />
+        <category tag="H" />
       </edge>
     </node>
     <node ID="1.2" type="FN">
       <attributes />
       <edge toID="1.4" type="A">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+        <category tag="A" />
       </edge>
       <edge toID="1.5" type="S">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
+        <category tag="S" />
       </edge>
       <edge toID="1.6" type="D">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="D" />
+        <category tag="D" />
       </edge>
       <edge toID="1.7" type="A">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+        <category tag="A" />
       </edge>
     </node>
     <node ID="1.4" type="FN">
@@ -85,11 +85,11 @@
       <attributes />
       <edge toID="1.8" type="E">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
+        <category tag="E" />
       </edge>
       <edge toID="1.9" type="C">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
+        <category tag="C" />
       </edge>
       <edge toID="1.12" type="U">
         <attributes />
@@ -100,11 +100,11 @@
       <attributes />
       <edge toID="1.10" type="C">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
+        <category tag="C" />
       </edge>
       <edge toID="1.11" type="E">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
+        <category tag="E" />
       </edge>
     </node>
     <node ID="1.9" type="FN">
