@@ -1,0 +1,29 @@
+# sent_id = 326649-0007
+1	Midas	Midas	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
+2	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+4	most	most	ADV	RBS	_	6	advmod	6:advmod	_
+5	high	high	ADJ	JJ	Degree=Pos	6	compound	6:compound	_
+6	tech	tech	NOUN	NN	Number=Sing	7	amod	7:amod	_
+7	equipment	equipment	NOUN	NN	Number=Sing	2	obj	2:obj	_
+8	in	in	ADP	IN	_	9	case	9:case	_
+9	town	town	NOUN	NN	Number=Sing	7	nmod	7:nmod:in	_
+10	&	&	CCONJ	CC	_	12	cc	12:cc	_
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	12:nsubj	_
+12	guarantee	guarantee	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	2:conj	_
+13	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	12	obj	12:obj	_
+14	if	if	SCONJ	IN	_	16	mark	16:mark	_
+15	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	nsubj	16:nsubj	_
+16	told	tell	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	26	advcl	26:advcl:if	_
+17	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	16	obj	16:obj	_
+18	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	nsubj	20:nsubj	_
+19	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	cop	20:cop	_
+20	electrical	electrical	ADJ	JJ	Degree=Pos	16	ccomp	16:ccomp	_
+21	then	then	ADV	RB	PronType=Dem	26	advmod	26:advmod	_
+22	in	in	X	GW	_	23	goeswith	23:goeswith	_
+23	deed	deed	ADV	RB	_	26	advmod	26:advmod	_
+24	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	26	nsubj	26:nsubj	SpaceAfter=No
+25	s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	cop	26:cop	_
+26	electrical	electrical	ADJ	JJ	Degree=Pos	12	ccomp	12:ccomp	SpaceAfter=No
+27	!	!	PUNCT	.	_	2	punct	2:punct	_
+

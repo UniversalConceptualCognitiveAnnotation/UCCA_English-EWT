@@ -1,0 +1,13 @@
+# sent_id = 338429-0016
+1	Parking	parking	NOUN	NN	Number=Sing	2	compound	2:compound	_
+2	spaces	space	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj	_
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+4	just	just	ADV	RB	_	6	advmod	6:advmod	_
+5	big	big	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	enough	enough	ADJ	JJ	Degree=Pos	0	root	0:root	_
+7	for	for	ADP	IN	_	10	case	10:case	_
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	_
+9	Mini	Mini	PROPN	NNP	Number=Sing	10	compound	10:compound	_
+10	Cooper	Cooper	PROPN	NNP	Number=Sing	6	obl	6:obl:for	SpaceAfter=No
+11	.	.	PUNCT	.	_	6	punct	6:punct	_
+

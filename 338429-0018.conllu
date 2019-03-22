@@ -1,0 +1,15 @@
+# sent_id = 338429-0018
+1	If	if	SCONJ	IN	_	3	mark	3:mark	_
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+3	found	find	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	advcl	10:advcl:if	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
+5	spot	spot	NOUN	NN	Number=Sing	3	obj	3:obj	SpaceAfter=No
+6	,	,	PUNCT	,	_	10	punct	10:punct	_
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	_
+8	could	could	AUX	MD	VerbForm=Fin	10	aux	10:aux	SpaceAfter=No
+9	nt	not	PART	RB	_	10	advmod	10:advmod	_
+10	fit	fit	VERB	VB	VerbForm=Inf	0	root	0:root	_
+11	in	in	ADP	IN	_	12	case	12:case	_
+12	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	obl	10:obl:in	SpaceAfter=No
+13	.	.	PUNCT	.	_	10	punct	10:punct	_
+

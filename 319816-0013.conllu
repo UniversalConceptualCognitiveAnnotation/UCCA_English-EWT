@@ -1,0 +1,25 @@
+# sent_id = 319816-0013
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|9:nsubj	_
+2	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
+4	order	order	NOUN	NN	Number=Sing	2	obj	2:obj|5:nsubj:xsubj	_
+5	completed	complete	VERB	VBN	Tense=Past|VerbForm=Part	2	xcomp	2:xcomp	SpaceAfter=No
+6	,	,	PUNCT	,	_	9	punct	9:punct	_
+7	and	and	CCONJ	CC	_	9	cc	9:cc	_
+8	then	then	ADV	RB	PronType=Dem	9	advmod	9:advmod	_
+9	questioned	question	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
+11	technician	technician	NOUN	NN	Number=Sing	9	obj	9:obj	_
+12	since	since	SCONJ	IN	_	14	mark	14:mark	_
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	14:nsubj	_
+14	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	advcl	9:advcl:since	_
+15	out	out	ADV	RB	_	14	advmod	14:advmod	_
+16	about	about	ADV	RB	_	17	advmod	17:advmod	_
+17	$	$	SYM	$	_	14	obj	14:obj	SpaceAfter=No
+18	40	40	NUM	CD	NumType=Card	17	nummod	17:nummod	_
+19	less	less	ADJ	JJR	Degree=Cmp	17	advmod	17:advmod	_
+20	than	than	SCONJ	IN	_	22	mark	22:mark	_
+21	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	22	nsubj	22:nsubj	_
+22	expected	expect	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	19	advcl	19:advcl:than	SpaceAfter=No
+23	.	.	PUNCT	.	_	2	punct	2:punct	_
+

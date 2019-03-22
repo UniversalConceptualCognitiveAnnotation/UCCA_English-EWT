@@ -1,0 +1,14 @@
+# sent_id = 340848-0009
+1	Fantastic	fantastic	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
+2	food	food	NOUN	NN	Number=Sing	0	root	0:root	_
+3	served	serve	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	2:acl	_
+4	without	without	ADP	IN	_	5	case	5:case	_
+5	pretense	pretense	NOUN	NN	Number=Sing	3	obl	3:obl:without	SpaceAfter=No
+6	,	,	PUNCT	,	_	11	punct	11:punct	_
+7	very	very	ADV	RB	_	9	advmod	9:advmod	_
+8	reasonably	reasonably	ADV	RB	_	9	advmod	9:advmod	_
+9	priced	price	VERB	VBN	Tense=Past|VerbForm=Part	11	amod	11:amod	_
+10	wine	wine	NOUN	NN	Number=Sing	11	compound	11:compound	_
+11	selections	selection	NOUN	NNS	Number=Plur	2	conj	2:conj	SpaceAfter=No
+12	.	.	PUNCT	.	_	2	punct	2:punct	_
+

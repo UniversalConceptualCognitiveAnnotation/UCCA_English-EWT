@@ -1,0 +1,16 @@
+# sent_id = 121342-0010
+1	Hopefully	hopefully	ADV	RB	_	3	advmod	3:advmod	_
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
+3	spice	spice	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	things	thing	NOUN	NNS	Number=Plur	3	obj	3:obj	_
+5	up	up	ADP	RP	_	3	compound:prt	3:compound:prt	_
+6	or	or	CCONJ	CC	_	12	cc	12:cc	_
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	12:nsubj	_
+8	wo	will	AUX	MD	VerbForm=Fin	12	aux	12:aux	SpaceAfter=No
+9	nt	not	PART	RB	_	12	advmod	12:advmod	_
+10	be	be	AUX	VB	VerbForm=Inf	12	cop	12:cop	_
+11	in	in	ADP	IN	_	12	case	12:case	_
+12	business	business	NOUN	NN	Number=Sing	3	conj	3:conj:or	_
+13	long	long	ADV	RB	Degree=Pos	12	advmod	12:advmod	SpaceAfter=No
+14	.	.	PUNCT	.	_	3	punct	3:punct	_
+

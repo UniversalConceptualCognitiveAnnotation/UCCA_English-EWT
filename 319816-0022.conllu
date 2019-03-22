@@ -1,0 +1,27 @@
+# sent_id = 319816-0022
+1	Of	of	ADV	RB	_	7	advmod	7:advmod	_
+2	course	course	ADV	RB	_	1	fixed	1:fixed	SpaceAfter=No
+3	,	,	PUNCT	,	_	7	punct	7:punct	_
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	7:nsubj	_
+5	would	would	AUX	MD	VerbForm=Fin	7	aux	7:aux	_
+6	be	be	AUX	VB	VerbForm=Inf	7	aux	7:aux	_
+7	closing	close	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
+8	in	in	ADP	IN	_	10	case	10:case	_
+9	5	5	NUM	CD	NumType=Card	10	nummod	10:nummod	_
+10	minutes	minute	NOUN	NNS	Number=Plur	7	obl	7:obl:in	SpaceAfter=No
+11	,	,	PUNCT	,	_	7	punct	7:punct	_
+12	so	so	ADV	RB	_	15	advmod	15:advmod	_
+13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	15:nsubj|17:nsubj:xsubj|20:nsubj:xsubj	_
+14	would	would	AUX	MD	VerbForm=Fin	15	aux	15:aux	_
+15	have	have	VERB	VB	VerbForm=Inf	7	parataxis	7:parataxis	_
+16	to	to	PART	TO	_	17	mark	17:mark	_
+17	hurry	hurry	VERB	VB	VerbForm=Inf	15	xcomp	15:xcomp	_
+18	up	up	ADP	RP	_	17	compound:prt	17:compound:prt	_
+19	or	or	CCONJ	CC	_	20	cc	20:cc	_
+20	get	get	VERB	VB	VerbForm=Inf	17	conj	15:xcomp|17:conj:or	_
+21	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	obj	20:obj	_
+22	the	the	DET	DT	Definite=Def|PronType=Art	24	det	24:det	_
+23	next	next	ADJ	JJ	Degree=Pos	24	amod	24:amod	_
+24	day	day	NOUN	NN	Number=Sing	20	obl:tmod	20:obl:tmod	SpaceAfter=No
+25	.	.	PUNCT	.	_	7	punct	7:punct	_
+

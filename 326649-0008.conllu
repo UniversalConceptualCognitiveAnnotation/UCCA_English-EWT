@@ -1,0 +1,27 @@
+# sent_id = 326649-0008
+1	maybe	maybe	ADV	RB	_	4	advmod	4:advmod	_
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	4:nsubj|10:nsubj|20:nsubj	_
+3	should	should	AUX	MD	VerbForm=Fin	4	aux	4:aux	_
+4	understand	understand	VERB	VB	VerbForm=Inf	0	root	0:root	_
+5	how	how	ADV	WRB	PronType=Int	8	advmod	8:advmod	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	world	world	NOUN	NN	Number=Sing	8	nsubj	8:nsubj	_
+8	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	4:ccomp	_
+9	&	&	CCONJ	CC	_	10	cc	10:cc	_
+10	realize	realize	VERB	VB	VerbForm=Inf	4	conj	4:conj	_
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17	nsubj	17:nsubj	_
+12	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	cop	17:cop	_
+13	just	just	ADV	RB	_	17	advmod	17:advmod	_
+14	like	like	ADP	IN	_	17	case	17:case	_
+15	any	any	DET	DT	_	17	det	17:det	_
+16	other	other	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
+17	person	person	NOUN	NN	Number=Sing	10	ccomp	10:ccomp	_
+18	&	&	CCONJ	CC	_	20	cc	20:cc	_
+19	not	not	PART	RB	_	20	advmod	20:advmod	_
+20	put	put	VERB	VB	VerbForm=Inf	4	conj	4:conj	_
+21	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	20	obj	20:obj	_
+22	on	on	ADP	IN	_	24	case	24:case	_
+23	a	a	DET	DT	Definite=Ind|PronType=Art	24	det	24:det	_
+24	pedestal	pedestal	NOUN	NN	Number=Sing	20	obl	20:obl:on	SpaceAfter=No
+25	.	.	PUNCT	.	_	4	punct	4:punct	_
+

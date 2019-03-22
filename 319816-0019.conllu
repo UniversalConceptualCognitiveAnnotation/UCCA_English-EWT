@@ -1,0 +1,19 @@
+# sent_id = 319816-0019
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	promised	promise	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj:pass	6:nsubj:pass	SpaceAfter=No
+4	'd	would	AUX	MD	VerbForm=Fin	6	aux	6:aux	_
+5	be	be	AUX	VB	VerbForm=Inf	6	aux:pass	6:aux:pass	_
+6	done	do	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	ccomp	2:ccomp	_
+7	within	within	ADP	IN	_	9	case	9:case	_
+8	an	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
+9	hour	hour	NOUN	NN	Number=Sing	6	obl	6:obl:within	SpaceAfter=No
+10	,	,	PUNCT	,	_	2	punct	2:punct	_
+11	so	so	ADV	RB	_	13	advmod	13:advmod	_
+12	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	13:nsubj	_
+13	waited	wait	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	parataxis	2:parataxis	_
+14	in	in	ADP	IN	_	16	case	16:case	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
+16	lobby	lobby	NOUN	NN	Number=Sing	13	obl	13:obl:in	SpaceAfter=No
+17	.	.	PUNCT	.	_	2	punct	2:punct	_
+

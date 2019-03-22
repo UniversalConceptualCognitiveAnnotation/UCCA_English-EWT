@@ -1,0 +1,24 @@
+# sent_id = 319816-0026
+1	On	on	ADP	IN	_	2	case	2:case	_
+2	Monday	Monday	PROPN	NNP	Number=Sing	4	obl	4:obl:on	_
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+4	called	call	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+5	and	and	CCONJ	CC	_	13	cc	13:cc	_
+6	again	again	ADV	RB	_	13	advmod	13:advmod	_
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	expl	13:expl	_
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	13:cop	_
+9	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	13:det	_
+10	big	big	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
+11	to	to	NOUN	NN	Number=Sing	13	compound	13:compound	SpaceAfter=No
+12	-	-	PUNCT	HYPH	_	13	punct	13:punct	SpaceAfter=No
+13	do	do	NOUN	NN	Number=Sing	4	conj	4:conj:and	_
+14	to	to	PART	TO	_	15	mark	15:mark	_
+15	find	find	VERB	VB	VerbForm=Inf	13	csubj	13:csubj	_
+16	anyone	anyone	PRON	NN	Number=Sing	15	obj	15:obj|18:nsubj	_
+17	who	who	PRON	WP	PronType=Rel	18	nsubj	16:ref	_
+18	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	16	acl:relcl	16:acl:relcl	_
+19	anything	anything	PRON	NN	Number=Sing	18	obj	18:obj	_
+20	about	about	ADP	IN	_	21	case	21:case	_
+21	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	nmod	19:nmod:about	SpaceAfter=No
+22	.	.	PUNCT	.	_	4	punct	4:punct	_
+
