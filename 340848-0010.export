@@ -1,0 +1,38 @@
+#BOS 340848-0010
+A	Word	--	Terminal	500
+great	Word	--	Terminal	501
+place	Word	--	Terminal	502
+to	Word	--	Terminal	503
+go	Word	--	Terminal	504
+for	Word	--	Terminal	505
+dinner	Word	--	Terminal	506
+after	Word	--	Terminal	507
+a	Word	--	Terminal	508
+day	Word	--	Terminal	509
+of	Word	--	Terminal	510
+wine	Word	--	Terminal	511
+tasting	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	F	515
+#501	FN	--	S	514
+#502	FN	--	C	515	A*	514
+#503	FN	--	F	520
+#504	FN	--	D	520
+#505	FN	--	R	516
+#506	FN	--	C	516
+#507	FN	--	L	521
+#508	FN	--	F	517
+#509	FN	--	C	517
+#510	FN	--	R	518
+#511	FN	--	A	519
+#512	FN	--	C	518
+#513	PNCT	--	U	518
+#514	FN	--	E	515
+#515	FN	--	A	520
+#516	FN	--	P	520
+#517	FN	--	T	519
+#518	FN	--	P	519
+#519	FN	--	H	521
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 340848-0010

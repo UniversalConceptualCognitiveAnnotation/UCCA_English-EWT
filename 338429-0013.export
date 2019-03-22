@@ -1,0 +1,32 @@
+#BOS 338429-0013
+Short	Word	--	Terminal	500
+time	Word	--	Terminal	501
+later	Word	--	Terminal	502
+the	Word	--	Terminal	503
+guy	Word	--	Terminal	504
+would	Word	--	Terminal	505
+leave	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+then	Word	--	Terminal	508
+the	Word	--	Terminal	509
+girl	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	E	512
+#501	FN	--	C	512
+#502	FN	--	R	512
+#503	FN	--	F	513
+#504	FN	--	C	513
+#505	FN	--	F	514
+#506	FN	--	P	514	P*	516
+#507	PNCT	--	U	517
+#508	FN	--	L	517
+#509	FN	--	F	515
+#510	FN	--	C	515
+#511	PNCT	--	U	515
+#512	FN	--	L	517
+#513	FN	--	A	514
+#514	FN	--	H	517
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 338429-0013
