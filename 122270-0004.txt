@@ -1,0 +1,36 @@
+# ::id 122270-0004
+# ::tok Surgery visit timings were always made to suit me and not them and they gave me the feeling that I mattered and was important to them .
+# ::alignments 0-1.1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.3 5-1.1.4 7-1.1.6 8-1.1.7 9-1.1.8.1 10-1.1.8.2 11-1.1.8.3 12-1.2 13-1.3.1 15-1.3.3 17-1.3.2.3 18-1.3.4.1 19-1.3.4.2 20-1.3.4.3.1 21-1.3.4.3.2 23-1.3.4.3.3.2 24-1.3.4.4.1 25-1.3.4.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :A (v15 / label
+                          :P (v26 / label~e.0))
+                  :P (v16 / label~e.1)
+                  :T (v17 / label~e.2))
+           :T (v6 / label~e.4)
+           :D (v7 / label~e.5)
+           :P (v8 / label~e.7)
+           :A (v9 / label~e.8)
+           :A (v10 / label
+                   :R (v18 / label~e.9)
+                   :E (v19 / label~e.10)
+                   :C (v20 / label~e.11)))
+    :L (v3 / label~e.12)
+    :H (v4 / label
+           :A (v11 / label~e.13)
+           :P (v12 / label
+                   :C (v21 / label~e.17))
+           :A (v13 / label~e.15)
+           :A (v14 / label
+                   :R (v22 / label~e.18)
+                   :A (v23 / label~e.19)
+                   :S (v24 / label
+                           :C (v27 / label~e.20)
+                           :N (v28 / label~e.21)
+                           :C (v29 / label
+                                   :C (v32 / label~e.23)))
+                   :A (v25 / label
+                           :R (v30 / label~e.24)
+                           :C (v31 / label~e.25)))))
