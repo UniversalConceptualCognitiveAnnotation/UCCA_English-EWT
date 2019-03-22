@@ -1,6 +1,6 @@
 # ::id 193257-0003
 # ::tok I would not hesitate to use him again or refer him to my family or friends .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4 5-1.1.5.4.1 6-1.1.5.4.2 7-1.1.5.4.3 8-1.1.5.1 9-1.1.5.2.1 10-1.1.5.2.2 11-1.1.5.2.3.1 12-1.1.5.2.3.2 13-1.1.5.2.3.3.1 14-1.1.5.2.3.3.2 15-1.1.5.2.3.3.3
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4 5-1.1.5.4.1 6-1.1.5.4.2 7-1.1.5.4.3 8-1.1.5.1 9-1.1.5.2.1 10-1.1.5.2.2 11-1.1.5.2.3.2.1 12-1.1.5.2.3.2.2 13-1.1.5.2.3.2.3 14-1.1.5.2.3.1 15-1.1.5.2.3.3.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -14,12 +14,15 @@
                          :P (v11 / label~e.9)
                          :A (v12 / label~e.10)
                          :A (v13 / label
-                                 :R (v17 / label~e.11)
-                                 :A (v18 / label~e.12)
-                                 :S (v19 / label
-                                         :C (v20 / label~e.13)
-                                         :N (v21 / label~e.14)
-                                         :C (v22 / label~e.15)))
+                                 :L (v17 / label~e.14)
+                                 :H (v18 / label
+                                         :R (v20 / label~e.11)
+                                         :A (v21 / label~e.12)
+                                         :S (v22 / label~e.13))
+                                 :H (v19 / label
+                                         :S (v23 / label~e.15)
+                                         :R v20
+                                         :A v21))
                          :A v3)
                   :H (v10 / label
                           :P (v14 / label~e.5)

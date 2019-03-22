@@ -1,41 +1,42 @@
 # ::id 333243-0010
 # ::tok Last year , after all was said and done , I asked Rod whether my payment structure would leave me with no / little tax liability at the end of the year .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.2 4-1.3.2.2 6-1.3.1.1 7-1.3.1.2 8-1.3.1.3 10-1.1.2 11-1.1.3 12-1.1.4 13-1.1.5.1 14-1.1.5.2.1 15-1.1.5.2.2 16-1.1.5.2.3 18-1.1.5.4 19-1.1.5.5 20-1.1.5.6.1 21-1.1.5.6.2.1 23-1.1.5.6.2.2 24-1.1.5.6.3 25-1.1.5.6.4 26-1.1.5.6.5.1 28-1.1.5.6.5.3 29-1.1.5.6.5.4 31-1.1.5.6.5.6
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.2 4-1.4.1.2 6-1.4.3 7-1.3 8-1.5.1 10-1.1.2 11-1.1.3 12-1.1.4 13-1.1.5.1 14-1.1.5.2.1 15-1.1.5.2.2 16-1.1.5.2.3 18-1.1.5.4 19-1.1.5.5 20-1.1.5.6.1 21-1.1.5.6.2.1 23-1.1.5.6.2.2 24-1.1.5.6.3 25-1.1.5.6.4 26-1.1.5.6.5.1 28-1.1.5.6.5.3 29-1.1.5.6.5.4 31-1.1.5.6.5.6
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :T (v5 / label
-                  :E (v12 / label~e.0)
-                  :C (v13 / label~e.1))
-           :A (v6 / label~e.10)
-           :P (v7 / label~e.11)
-           :A (v8 / label~e.12)
-           :A (v9 / label
-                  :R (v14 / label~e.13)
-                  :A (v15 / label
-                          :A (v24 / label~e.14)
-                          :P (v25 / label~e.15)
-                          :D (v26 / label~e.16))
-                  :P (v16 / label~e.18)
-                  :A (v17 / label~e.19)
-                  :A (v18 / label
-                          :R (v27 / label~e.20)
-                          :D (v28 / label
-                                  :C (v32 / label~e.21)
-                                  :C (v33 / label~e.23))
-                          :A (v29 / label~e.24)
-                          :P (v30 / label~e.25)
-                          :T (v31 / label
-                                  :R (v34 / label~e.26)
-                                  :E (v35 / label~e.28)
-                                  :R (v36 / label~e.29)
-                                  :C (v37 / label~e.31)))))
-    :L (v3 / label~e.3)
-    :H (v4 / label
-           :P (v10 / label
-                   :C (v19 / label~e.6)
-                   :N (v20 / label~e.7)
-                   :C (v21 / label~e.8))
+           :T (v7 / label
+                  :E (v15 / label~e.0)
+                  :C (v16 / label~e.1))
+           :A (v8 / label~e.10)
+           :P (v9 / label~e.11)
+           :A (v10 / label~e.12)
            :A (v11 / label
+                   :R (v17 / label~e.13)
+                   :A (v18 / label
+                           :A (v24 / label~e.14)
+                           :P (v25 / label~e.15)
+                           :D (v26 / label~e.16))
+                   :P (v19 / label~e.18)
+                   :A (v20 / label~e.19)
+                   :A (v21 / label
+                           :R (v27 / label~e.20)
+                           :D (v28 / label
+                                   :C (v32 / label~e.21)
+                                   :C (v33 / label~e.23))
+                           :A (v29 / label~e.24)
+                           :P (v30 / label~e.25)
+                           :T (v31 / label
+                                   :R (v34 / label~e.26)
+                                   :E (v35 / label~e.28)
+                                   :R (v36 / label~e.29)
+                                   :C (v37 / label~e.31)))))
+    :L (v3 / label~e.3)
+    :L (v4 / label~e.7)
+    :H (v5 / label
+           :A (v12 / label
                    :C (v22 / label)
-                   :Q (v23 / label~e.4))))
+                   :Q (v23 / label~e.4))
+           :P (v13 / label~e.6))
+    :H (v6 / label
+           :P (v14 / label~e.8)
+           :A v12))

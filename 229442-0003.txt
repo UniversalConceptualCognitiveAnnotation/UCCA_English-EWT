@@ -1,6 +1,6 @@
 # ::id 229442-0003
 # ::tok While other may be ok waiting in line at Town Bagel we are happy with the quality and service we get at Family Bagels
-# ::alignments 0-1.1 1-1.2.1 2-1.2.2 4-1.2.4 5-1.2.5 6-1.2.6.1 7-1.2.6.2 8-1.2.7.1 9-1.2.7.2 10-1.2.7.2 11-1.3.1 13-1.3.3 14-1.3.4.5 16-1.3.4.1.2 17-1.3.4.1.3 18-1.3.4.1.4 19-1.3.4.2 20-1.3.4.3 21-1.3.4.4.1 22-1.3.4.4.2 23-1.3.4.4.2
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 4-1.2.4 5-1.2.5 6-1.2.6.1 7-1.2.6.2 8-1.2.7.1 9-1.2.7.2 10-1.2.7.2 11-1.3.1 13-1.3.3 14-1.3.4.2.1 16-1.3.4.2.2 17-1.3.4.1 18-1.3.4.3.1 19-1.3.4.2.3 20-1.3.4.2.4 21-1.3.4.2.5.1 22-1.3.4.2.5.2 23-1.3.4.2.5.2
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -19,13 +19,18 @@
            :A (v11 / label~e.11)
            :S (v12 / label~e.13)
            :A (v13 / label
-                   :P (v18 / label
-                           :C (v23 / label~e.16)
-                           :N (v24 / label~e.17)
-                           :C (v25 / label~e.18))
-                   :A (v19 / label~e.19)
-                   :D (v20 / label~e.20)
-                   :A (v21 / label
-                           :R (v26 / label~e.21)
-                           :C (v27 / label~e.22,23))
-                   :R (v22 / label~e.14))))
+                   :L (v18 / label~e.17)
+                   :H (v19 / label
+                           :R (v21 / label~e.14)
+                           :P (v22 / label~e.16)
+                           :A (v23 / label~e.19)
+                           :D (v24 / label~e.20)
+                           :A (v25 / label
+                                   :R (v27 / label~e.21)
+                                   :C (v28 / label~e.22,23)))
+                   :H (v20 / label
+                           :P (v26 / label~e.18)
+                           :R v21
+                           :A v23
+                           :D v24
+                           :A v25))))

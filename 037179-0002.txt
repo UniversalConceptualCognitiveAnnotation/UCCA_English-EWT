@@ -1,48 +1,49 @@
 # ::id 037179-0002
 # ::tok this kebab shop is one of the best around the meat is good and fresh and the chilly sauce is the best , keep them lovely kebabs coming and a happy new year to all the staff
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.3 5-1.1.4.1 7-1.1.4.3 8-1.1.5 10-1.2.1.2 12-1.2.3.1 13-1.2.3.2 14-1.2.3.3 15-1.3 17-1.4.1.2 18-1.4.1.3 21-1.4.3.2 23-1.5.2 24-1.5.3.1 25-1.5.3.2 26-1.5.3.3 27-1.5.4 28-1.6 30-1.7.2 31-1.7.1.2 32-1.7.1.3 33-1.7.3.1 34-1.7.3.2 36-1.7.3.3.2
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.3 5-1.1.4.1 7-1.1.4.3 8-1.1.5 10-1.8.1.2 12-1.8.3 13-1.2 14-1.9.1 15-1.3 17-1.4.1.2 18-1.4.1.3 21-1.4.3.2 23-1.5.2 24-1.5.3.1 25-1.5.3.2 26-1.5.3.3 27-1.5.4 28-1.6 30-1.7.2 31-1.7.1.2 32-1.7.1.3 33-1.7.3.1 34-1.7.3.2 36-1.7.3.3.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v9 / label
-                  :E (v24 / label~e.0)
-                  :E (v25 / label~e.1)
-                  :C (v26 / label~e.2))
-           :D (v10 / label~e.4)
-           :S (v11 / label
-                   :R (v27 / label~e.5)
-                   :C (v28 / label~e.7))
-           :A (v12 / label~e.8))
-    :H (v3 / label
-           :A (v13 / label
-                   :C (v29 / label~e.10))
-           :S (v14 / label
-                   :C (v30 / label~e.12)
-                   :N (v31 / label~e.13)
-                   :C (v32 / label~e.14)))
+           :A (v11 / label
+                   :E (v27 / label~e.0)
+                   :E (v28 / label~e.1)
+                   :C (v29 / label~e.2))
+           :D (v12 / label~e.4)
+           :S (v13 / label
+                   :R (v30 / label~e.5)
+                   :C (v31 / label~e.7))
+           :A (v14 / label~e.8))
+    :L (v3 / label~e.13)
     :L (v4 / label~e.15)
     :H (v5 / label
            :A (v15 / label
-                   :E (v33 / label~e.17)
-                   :C (v34 / label~e.18))
+                   :E (v32 / label~e.17)
+                   :C (v33 / label~e.18))
            :S (v16 / label
-                   :C (v35 / label~e.21)))
+                   :C (v34 / label~e.21)))
     :H (v6 / label
            :A (v17 / label)
            :D (v18 / label~e.23)
            :A (v19 / label
-                   :E (v36 / label~e.24)
-                   :E (v37 / label~e.25)
-                   :C (v38 / label~e.26))
+                   :E (v35 / label~e.24)
+                   :E (v36 / label~e.25)
+                   :C (v37 / label~e.26))
            :P (v20 / label~e.27))
     :L (v7 / label~e.28)
     :H (v8 / label
            :P (v21 / label
-                   :E (v39 / label~e.31)
-                   :C (v40 / label~e.32))
+                   :E (v38 / label~e.31)
+                   :C (v39 / label~e.32))
            :D (v22 / label~e.30)
            :A (v23 / label
-                   :R (v41 / label~e.33)
-                   :D (v42 / label~e.34)
-                   :S (v43 / label
-                           :C (v44 / label~e.36)))))
+                   :R (v40 / label~e.33)
+                   :D (v41 / label~e.34)
+                   :S (v42 / label
+                           :C (v44 / label~e.36))))
+    :H (v9 / label
+           :A (v24 / label
+                   :C (v43 / label~e.10))
+           :S (v25 / label~e.12))
+    :H (v10 / label
+            :S (v26 / label~e.14)
+            :A v24))

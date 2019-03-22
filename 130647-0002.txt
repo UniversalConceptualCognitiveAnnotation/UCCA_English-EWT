@@ -1,12 +1,14 @@
 # ::id 130647-0002
 # ::tok Very rude and unprofessional .
-# ::alignments 0-1.1.2 1-1.1.3.2 2-1.1.3.3 3-1.1.3.4
+# ::alignments 0-1.2.2 1-1.2.3 2-1.1 3-1.3.2
 # ::format ucca
 (v1 / label
-    :H (v2 / label
-           :A (v3 / label)
-           :D (v4 / label~e.0)
-           :S (v5 / label
-                  :C (v6 / label~e.1)
-                  :N (v7 / label~e.2)
-                  :C (v8 / label~e.3))))
+    :L (v2 / label~e.2)
+    :H (v3 / label
+           :A (v5 / label)
+           :D (v6 / label~e.0)
+           :S (v7 / label~e.1))
+    :H (v4 / label
+           :S (v8 / label~e.3)
+           :A v5
+           :D v6))
