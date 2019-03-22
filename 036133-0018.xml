@@ -136,7 +136,7 @@
         <attributes remote="True" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
-      <edge toID="1.22" type="U">
+      <edge toID="1.24" type="U">
         <attributes />
         <category tag="U" />
       </edge>
@@ -232,9 +232,17 @@
     <node ID="1.16" type="FN">
       <attributes />
       <extra tree_id="41-4-2" />
-      <edge toID="1.18" type="P">
+      <edge toID="1.19" type="H">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
+        <category tag="H" />
+      </edge>
+      <edge toID="1.20" type="H">
+        <attributes />
+        <category tag="H" />
+      </edge>
+      <edge toID="1.23" type="U">
+        <attributes />
+        <category tag="U" />
       </edge>
     </node>
     <node ID="1.17" type="FN">
@@ -245,31 +253,21 @@
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.18" type="FN">
-      <attributes />
-      <extra tree_id="41-4-2-1" />
-      <edge toID="1.19" type="C">
-        <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
-      </edge>
-      <edge toID="1.20" type="C">
-        <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
-      </edge>
-      <edge toID="1.21" type="U">
-        <attributes />
-        <category tag="U" />
-      </edge>
-    </node>
     <node ID="1.19" type="FN">
       <attributes />
-      <extra tree_id="41-4-2-1-1" />
-      <edge toID="0.5" type="Terminal">
+      <edge toID="1.22" type="P">
         <attributes />
-        <category tag="Terminal" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
       </edge>
     </node>
     <node ID="1.20" type="FN">
+      <attributes />
+      <edge toID="1.21" type="P">
+        <attributes />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
+      </edge>
+    </node>
+    <node ID="1.21" type="FN">
       <attributes />
       <extra tree_id="41-4-2-1-2" />
       <edge toID="0.7" type="Terminal">
@@ -277,14 +275,22 @@
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.21" type="PNCT">
+    <node ID="1.22" type="FN">
+      <attributes />
+      <extra tree_id="41-4-2-1-1" />
+      <edge toID="0.5" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.23" type="PNCT">
       <attributes />
       <edge toID="0.6" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.22" type="PNCT">
+    <node ID="1.24" type="PNCT">
       <attributes />
       <edge toID="0.15" type="Terminal">
         <attributes />
