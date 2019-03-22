@@ -5,14 +5,15 @@ fresh	Word	--	Terminal	502
 ,	Punctuation	--	Terminal	503
 delicious	Word	--	Terminal	504
 .	Punctuation	--	Terminal	505
-#500	FN	--	C	506
-#501	PNCT	--	U	506
-#502	FN	--	C	506
-#503	PNCT	--	U	506
-#504	FN	--	C	506
-#505	PNCT	--	U	506
-#506	FN	--	S	508
-#507	FN	--	A	508
-#508	FN	--	H	509
-#509	FN	--	--	0
+#500	FN	--	S	507
+#501	PNCT	--	U	510
+#502	FN	--	S	508
+#503	PNCT	--	U	510
+#504	FN	--	S	509
+#505	PNCT	--	U	509
+#506	FN	--	A	507	A*	508	A*	509
+#507	FN	--	H	510
+#508	FN	--	H	510
+#509	FN	--	H	510
+#510	FN	--	--	0
 #EOS 117893-0003

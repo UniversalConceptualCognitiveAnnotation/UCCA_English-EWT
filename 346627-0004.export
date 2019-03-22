@@ -22,11 +22,11 @@ to	Word	--	Terminal	518
 our	Word	--	Terminal	519
 needs	Word	--	Terminal	520
 !	Punctuation	--	Terminal	521
-#500	FN	--	A	523	A*	528
-#501	FN	--	C	522
-#502	FN	--	N	522
-#503	FN	--	C	522
-#504	FN	--	A	523
+#500	FN	--	A	522	A*	528	A*	523
+#501	FN	--	S	522
+#502	FN	--	L	530
+#503	FN	--	S	523
+#504	FN	--	A	522	A*	523
 #505	FN	--	L	530
 #506	FN	--	S	528
 #507	FN	--	R	527
@@ -44,7 +44,7 @@ needs	Word	--	Terminal	520
 #519	FN	--	A	526
 #520	FN	--	S	526
 #521	PNCT	--	U	526
-#522	FN	--	S	523
+#522	FN	--	H	530
 #523	FN	--	H	530
 #524	FN	--	P	527
 #525	FN	--	A	527

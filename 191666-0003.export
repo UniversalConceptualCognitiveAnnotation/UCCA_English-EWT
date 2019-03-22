@@ -7,15 +7,15 @@ manners	Word	--	Terminal	504
 were	Word	--	Terminal	505
 nonexistent	Word	--	Terminal	506
 .	Punctuation	--	Terminal	507
-#500	FN	--	G	509
-#501	PNCT	--	U	509
-#502	FN	--	C	508
-#503	FN	--	N	508
-#504	FN	--	C	508
-#505	FN	--	F	509
-#506	FN	--	D	509
-#507	PNCT	--	U	509
-#508	FN	--	S	509
+#500	FN	--	G	508	G*	509
+#501	PNCT	--	U	508
+#502	FN	--	S	508
+#503	FN	--	L	510
+#504	FN	--	S	509
+#505	FN	--	F	508
+#506	FN	--	D	508	D*	509
+#507	PNCT	--	U	508
+#508	FN	--	H	510
 #509	FN	--	H	510
 #510	FN	--	--	0
 #EOS 191666-0003

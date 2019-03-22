@@ -8,16 +8,18 @@ Contemporary	Word	--	Terminal	504
 Modern	Word	--	Terminal	506
 Chandeliers	Word	--	Terminal	507
 .	Punctuation	--	Terminal	508
-#500	FN	--	C	509
-#501	PNCT	--	U	509
-#502	FN	--	C	509
-#503	PNCT	--	U	509
-#504	FN	--	C	509
-#505	FN	--	N	509
-#506	FN	--	C	509
-#507	FN	--	A	510
-#508	PNCT	--	U	510
-#509	FN	--	S	510
-#510	FN	--	H	511
-#511	FN	--	--	0
+#500	FN	--	S	509
+#501	PNCT	--	U	513
+#502	FN	--	S	510
+#503	PNCT	--	U	513
+#504	FN	--	S	511
+#505	FN	--	L	513
+#506	FN	--	S	512
+#507	FN	--	A	509	A*	510	A*	511	A*	512
+#508	PNCT	--	U	509
+#509	FN	--	H	513
+#510	FN	--	H	513
+#511	FN	--	H	513
+#512	FN	--	H	513
+#513	FN	--	--	0
 #EOS 017235-0006

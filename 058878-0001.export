@@ -8,19 +8,19 @@ bar	Word	--	Terminal	505
 and	Word	--	Terminal	506
 grill	Word	--	Terminal	507
 .	Punctuation	--	Terminal	508
-#500	FN	--	C	509
-#501	FN	--	C	509
-#502	FN	--	A	511
-#503	FN	--	S	511
-#504	FN	--	E	512
-#505	FN	--	C	510
-#506	FN	--	N	510
-#507	FN	--	C	510
-#508	PNCT	--	U	510
-#509	FN	--	S	513
-#510	FN	--	C	512	A*	511
-#511	FN	--	E	512
-#512	FN	--	A	513
+#500	FN	--	S	512
+#501	FN	--	S	513
+#502	FN	--	A	510
+#503	FN	--	S	510
+#504	FN	--	E	511
+#505	FN	--	C	509
+#506	FN	--	N	509
+#507	FN	--	C	509
+#508	PNCT	--	U	509
+#509	FN	--	C	511	A*	510
+#510	FN	--	E	511
+#511	FN	--	A	512	A*	513
+#512	FN	--	H	514
 #513	FN	--	H	514
 #514	FN	--	--	0
 #EOS 058878-0001

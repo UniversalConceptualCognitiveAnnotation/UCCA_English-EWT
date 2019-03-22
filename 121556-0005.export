@@ -9,18 +9,19 @@ and	Word	--	Terminal	506
 a	Word	--	Terminal	507
 blowdry	Word	--	Terminal	508
 .	Punctuation	--	Terminal	509
-#500	FN	--	A	512
-#501	FN	--	F	512
-#502	FN	--	C	511
-#503	PNCT	--	U	511
-#504	FN	--	C	511
-#505	PNCT	--	U	511
-#506	FN	--	N	511
-#507	FN	--	F	510
-#508	FN	--	C	510
-#509	PNCT	--	U	510
-#510	FN	--	C	511
-#511	FN	--	P	512
-#512	FN	--	H	513
-#513	FN	--	--	0
+#500	FN	--	A	510	A*	511	A*	513
+#501	FN	--	F	510
+#502	FN	--	P	510
+#503	PNCT	--	U	514
+#504	FN	--	P	511
+#505	PNCT	--	U	514
+#506	FN	--	L	514
+#507	FN	--	F	512
+#508	FN	--	C	512
+#509	PNCT	--	U	512
+#510	FN	--	H	514
+#511	FN	--	H	514
+#512	FN	--	P	513
+#513	FN	--	H	514
+#514	FN	--	--	0
 #EOS 121556-0005

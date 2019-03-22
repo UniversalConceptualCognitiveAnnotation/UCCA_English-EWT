@@ -11,24 +11,24 @@ or	Word	--	Terminal	508
 personality	Word	--	Terminal	509
 type	Word	--	Terminal	510
 .	Punctuation	--	Terminal	511
-#500	FN	--	C	512
-#501	FN	--	N	512
-#502	FN	--	C	512
+#500	FN	--	S	517
+#501	FN	--	L	519
+#502	FN	--	S	518
 #503	PNCT	--	U	519
 #504	FN	--	D	516
 #505	FN	--	S	516
-#506	FN	--	A	514	A*	513
-#507	FN	--	S	514
-#508	FN	--	L	515
+#506	FN	--	A	512	A*	513
+#507	FN	--	S	512
+#508	FN	--	L	514
 #509	FN	--	S	513
 #510	FN	--	D	513
 #511	PNCT	--	U	513
-#512	FN	--	S	518
-#513	FN	--	H	515
-#514	FN	--	H	515
-#515	FN	--	A	516
+#512	FN	--	H	514
+#513	FN	--	H	514
+#514	FN	--	A	516
+#515	FN	--	A	517	A*	518
 #516	FN	--	H	519
-#517	FN	--	A	518
+#517	FN	--	H	519
 #518	FN	--	H	519
 #519	FN	--	--	0
 #EOS 120992-0002
