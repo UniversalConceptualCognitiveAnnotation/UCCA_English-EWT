@@ -199,9 +199,9 @@
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="H" />
       </edge>
-      <edge toID="1.40" type="H">
+      <edge toID="1.44" type="L">
         <attributes />
-        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="H" />
+        <category tag="L" />
       </edge>
       <edge toID="1.48" type="H">
         <attributes />
@@ -239,6 +239,14 @@
         <attributes />
         <category tag="U" />
       </edge>
+      <edge toID="1.70" type="U">
+        <attributes />
+        <category tag="U" />
+      </edge>
+      <edge toID="1.71" type="U">
+        <attributes />
+        <category tag="U" />
+      </edge>
       <edge toID="1.72" type="U">
         <attributes />
         <category tag="U" />
@@ -254,6 +262,18 @@
       <edge toID="1.75" type="U">
         <attributes />
         <category tag="U" />
+      </edge>
+      <edge toID="1.77" type="H">
+        <attributes />
+        <category tag="H" />
+      </edge>
+      <edge toID="1.78" type="H">
+        <attributes />
+        <category tag="H" />
+      </edge>
+      <edge toID="1.79" type="H">
+        <attributes />
+        <category tag="H" />
       </edge>
     </node>
     <node ID="1.2" type="FN">
@@ -644,46 +664,6 @@
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.40" type="FN">
-      <attributes />
-      <extra tree_id="7" />
-      <edge toID="1.29" type="A">
-        <attributes remote="True" />
-        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="A" />
-      </edge>
-      <edge toID="1.41" type="S">
-        <attributes Coordinated_Main_Rel.="True" />
-        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="S" />
-      </edge>
-    </node>
-    <node ID="1.41" type="FN">
-      <attributes />
-      <extra tree_id="7-2" />
-      <edge toID="1.42" type="C">
-        <attributes />
-        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="C" />
-      </edge>
-      <edge toID="1.43" type="C">
-        <attributes />
-        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="C" />
-      </edge>
-      <edge toID="1.44" type="N">
-        <attributes />
-        <category layer_name="UCCA's Foundational Layer v2" tag="N" />
-      </edge>
-      <edge toID="1.45" type="C">
-        <attributes />
-        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="C" />
-      </edge>
-      <edge toID="1.70" type="U">
-        <attributes />
-        <category tag="U" />
-      </edge>
-      <edge toID="1.71" type="U">
-        <attributes />
-        <category tag="U" />
-      </edge>
-    </node>
     <node ID="1.42" type="FN">
       <attributes />
       <extra tree_id="7-2-1" />
@@ -1007,6 +987,39 @@
       <edge toID="0.56" type="Terminal">
         <attributes />
         <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.77" type="FN">
+      <attributes />
+      <edge toID="1.29" type="A">
+        <attributes remote="True" />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="A" />
+      </edge>
+      <edge toID="1.42" type="S">
+        <attributes />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="S" />
+      </edge>
+    </node>
+    <node ID="1.78" type="FN">
+      <attributes />
+      <edge toID="1.29" type="A">
+        <attributes remote="True" />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="A" />
+      </edge>
+      <edge toID="1.43" type="S">
+        <attributes />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="S" />
+      </edge>
+    </node>
+    <node ID="1.79" type="FN">
+      <attributes />
+      <edge toID="1.29" type="A">
+        <attributes remote="True" />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="A" />
+      </edge>
+      <edge toID="1.45" type="S">
+        <attributes />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="S" />
       </edge>
     </node>
   </layer>

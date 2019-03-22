@@ -331,9 +331,9 @@
     <attributes />
     <node ID="1.1" type="FN">
       <attributes />
-      <edge toID="1.2" type="H">
+      <edge toID="1.5" type="L">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="H" />
+        <category tag="L" />
       </edge>
       <edge toID="1.7" type="L">
         <attributes />
@@ -435,29 +435,13 @@
         <attributes />
         <category tag="U" />
       </edge>
-    </node>
-    <node ID="1.2" type="FN">
-      <attributes />
-      <extra tree_id="1" />
-      <edge toID="1.3" type="S">
-        <attributes Coordinated_Main_Rel.="True" />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
-      </edge>
-    </node>
-    <node ID="1.3" type="FN">
-      <attributes />
-      <extra tree_id="1-1" />
-      <edge toID="1.4" type="C">
+      <edge toID="1.153" type="H">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
+        <category tag="H" />
       </edge>
-      <edge toID="1.5" type="N">
+      <edge toID="1.154" type="H">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="N" />
-      </edge>
-      <edge toID="1.6" type="C">
-        <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
+        <category tag="H" />
       </edge>
     </node>
     <node ID="1.4" type="FN">
@@ -1980,6 +1964,20 @@
       <edge toID="0.108" type="Terminal">
         <attributes />
         <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.153" type="FN">
+      <attributes />
+      <edge toID="1.4" type="S">
+        <attributes />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
+      </edge>
+    </node>
+    <node ID="1.154" type="FN">
+      <attributes />
+      <edge toID="1.6" type="S">
+        <attributes />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
       </edge>
     </node>
   </layer>
