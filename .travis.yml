@@ -5,7 +5,9 @@ python: 3.6
 cache:
   apt: true
   pip: true
-install: pip install -U ucca
+install:
+  - pip install -U ucca
+  - python -m spacy download en_core_web_md
 env:
   global:
     - SCRIPTS=https://raw.githubusercontent.com/UniversalConceptualCognitiveAnnotation/docs/master/scripts
