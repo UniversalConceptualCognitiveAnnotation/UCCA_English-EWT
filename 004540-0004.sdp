@@ -1,11 +1,11 @@
 # format = ucca
-1	They	_	Word	-	-	_	_	A
-2	have	_	Word	-	-	_	_	F
-3	been	_	Word	-	-	_	_	F
-4	100	_	Word	-	-	_	Q	_
-5	%	_	Word	-	+	_	_	D
-6	reliable	_	Word	-	+	_	_	_
-7	and	_	Word	-	-	_	_	N
-8	professional	_	Word	-	-	_	_	C
-9	.	_	Punctuation	-	-	_	_	U
+1	They	_	Word	-	-	_	_	A	A*
+2	have	_	Word	-	-	_	_	F	_
+3	been	_	Word	-	-	_	_	F	_
+4	100	_	Word	-	-	_	Q	_	_
+5	%	_	Word	-	+	_	_	D	D*
+6	reliable	_	Word	-	+	_	_	_	_
+7	and	_	Word	-	-	_	_	L	_
+8	professional	_	Word	-	+	_	_	H	_
+9	.	_	Punctuation	-	-	_	_	_	U
 

@@ -1,12 +1,12 @@
 # format = ucca
-1	I	_	Word	-	-	_	A	_
-2	got	_	Word	-	-	_	F	_
-3	highlights	_	Word	-	+	_	_	_
-4	,	_	Punctuation	-	-	_	U	_
-5	haircut	_	Word	-	-	_	C	_
-6	,	_	Punctuation	-	-	_	U	_
-7	and	_	Word	-	-	_	N	_
-8	a	_	Word	-	-	_	_	F
-9	blowdry	_	Word	-	+	_	C	_
-10	.	_	Punctuation	-	-	_	_	U
+1	I	_	Word	-	-	_	A	A*	A*
+2	got	_	Word	-	-	_	F	_	_
+3	highlights	_	Word	-	+	_	_	_	_
+4	,	_	Punctuation	-	-	_	U	_	_
+5	haircut	_	Word	-	+	_	H	_	_
+6	,	_	Punctuation	-	-	_	U	_	_
+7	and	_	Word	-	-	_	L	_	_
+8	a	_	Word	-	-	_	_	_	F
+9	blowdry	_	Word	-	+	_	H	_	_
+10	.	_	Punctuation	-	-	_	_	_	U
 

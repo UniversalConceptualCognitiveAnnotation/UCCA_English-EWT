@@ -1,11 +1,11 @@
 # format = ucca
-1	We	_	Word	-	-	_	A	_
-2	appreciated	_	Word	-	+	_	_	_
-3	her	_	Word	-	-	_	_	A
-4	patience	_	Word	-	+	_	A	_
-5	,	_	Punctuation	-	-	_	_	U
-6	knowledge	_	Word	-	-	_	_	C
-7	and	_	Word	-	-	_	_	N
-8	kindness	_	Word	-	-	_	_	C
-9	!	_	Punctuation	-	-	_	_	U
+1	We	_	Word	-	-	_	A	_	_	_
+2	appreciated	_	Word	-	+	_	_	_	_	_
+3	her	_	Word	-	-	_	_	A	A*	A*
+4	patience	_	Word	-	+	_	A	_	_	_
+5	,	_	Punctuation	-	-	_	_	U	_	_
+6	knowledge	_	Word	-	+	_	_	H	_	_
+7	and	_	Word	-	-	_	_	L	_	_
+8	kindness	_	Word	-	+	_	_	H	_	_
+9	!	_	Punctuation	-	-	_	_	_	_	U
 
