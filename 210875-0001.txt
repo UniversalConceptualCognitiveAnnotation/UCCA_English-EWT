@@ -1,0 +1,13 @@
+# ::id 210875-0001
+# ::tok Bulwark regarding service by Eric
+# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2 3-1.1.2.3.1 4-1.1.2.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :C (v3 / label~e.0)
+           :E (v4 / label
+                  :R (v5 / label~e.1)
+                  :P (v6 / label~e.2)
+                  :A (v7 / label
+                         :R (v8 / label~e.3)
+                         :C (v9 / label~e.4)))))

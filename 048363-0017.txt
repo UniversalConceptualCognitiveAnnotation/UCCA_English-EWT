@@ -1,0 +1,22 @@
+# ::id 048363-0017
+# ::tok Gerry , I ca n't thank you enough for helping me cope with my fear .
+# ::alignments 0-1.1.4 2-1.1.5 4-1.1.7 5-1.1.8 6-1.1.9 7-1.1.1 8-1.1.2.1 9-1.1.2.2 10-1.1.2.3 11-1.1.2.4 12-1.1.2.5.1 13-1.1.2.5.2 14-1.1.2.5.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.7)
+           :A (v4 / label
+                  :R (v10 / label~e.8)
+                  :D (v11 / label~e.9)
+                  :A (v12 / label~e.10)
+                  :P (v13 / label~e.11)
+                  :A (v14 / label
+                          :R (v15 / label~e.12)
+                          :A (v16 / label~e.13)
+                          :S (v17 / label~e.14))
+                  :A (v9 / label~e.6))
+           :G (v5 / label~e.0)
+           :A (v6 / label~e.2)
+           :D (v7 / label~e.4)
+           :P (v8 / label~e.5)
+           :A v9))

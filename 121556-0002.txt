@@ -1,0 +1,39 @@
+# ::id 121556-0002
+# ::tok I have lived in the UTC La Jolla area for many years , and I never new this salon was here until a friend reffered me to see Holly here .
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 5-1.1.4.3 6-1.1.4.3 7-1.1.4.3 8-1.1.4.4 9-1.1.5.1 10-1.1.5.2 11-1.1.5.3 13-1.2 14-1.3.1 15-1.3.2 16-1.3.3 17-1.3.4.1.1 18-1.3.4.1.2 20-1.3.4.3 21-1.4 23-1.5.1.1.2 24-1.5.2 25-1.5.3 26-1.6 27-1.7.1 28-1.7.2 29-1.7.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v9 / label~e.0)
+           :P (v10 / label~e.2)
+           :A (v11 / label
+                   :R (v23 / label~e.3)
+                   :C (v24 / label~e.5,6,7)
+                   :E (v25 / label~e.8))
+           :T (v12 / label
+                   :R (v26 / label~e.9)
+                   :Q (v27 / label~e.10)
+                   :C (v28 / label~e.11)))
+    :L (v3 / label~e.13)
+    :H (v4 / label
+           :A (v13 / label~e.14)
+           :D (v14 / label~e.15)
+           :P (v15 / label~e.16)
+           :A (v16 / label
+                   :A (v29 / label
+                           :E (v32 / label~e.17)
+                           :C (v33 / label~e.18))
+                   :S (v30 / label~e.20)))
+    :L (v5 / label~e.21)
+    :H (v6 / label
+           :A (v17 / label
+                   :A (v31 / label
+                           :C (v34 / label~e.23)))
+           :P (v18 / label~e.24)
+           :A (v19 / label~e.25))
+    :L (v7 / label~e.26)
+    :H (v8 / label
+           :P (v20 / label~e.27)
+           :A (v21 / label~e.28)
+           :A (v22 / label~e.29)
+           :A v19))

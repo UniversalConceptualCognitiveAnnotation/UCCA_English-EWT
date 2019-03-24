@@ -1,0 +1,35 @@
+# ::id 239035-0003
+# ::tok I go every other week for the shallac / gel manicure which is only $ 25 and it truly lasts 2 weeks !
+# ::alignments 0-1.1.2 1-1.1.3 2-1.1.4.1 3-1.1.4.2 4-1.1.4.3 5-1.2 7-1.3.2.1 9-1.3.2.2 10-1.5.5 11-1.4 13-1.5.3 14-1.5.4.1 15-1.5.4.1 16-1.6 17-1.7.1 18-1.7.2 19-1.7.3 20-1.7.4.1 21-1.7.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v9 / label)
+           :A (v10 / label~e.0)
+           :P (v11 / label~e.1)
+           :T (v12 / label
+                   :Q (v23 / label~e.2)
+                   :E (v24 / label~e.3)
+                   :C (v25 / label~e.4)))
+    :L (v3 / label~e.5)
+    :H (v4 / label
+           :P (v13 / label
+                   :C (v18 / label~e.10))
+           :A (v14 / label
+                   :C (v26 / label~e.7)
+                   :C (v27 / label~e.9)))
+    :L (v5 / label~e.11)
+    :H (v6 / label
+           :P (v15 / label)
+           :G (v16 / label~e.13)
+           :A (v17 / label
+                   :Q (v28 / label~e.14,15))
+           :A v18)
+    :L (v7 / label~e.16)
+    :H (v8 / label
+           :A (v19 / label~e.17)
+           :G (v20 / label~e.18)
+           :P (v21 / label~e.19)
+           :T (v22 / label
+                   :Q (v29 / label~e.20)
+                   :C (v30 / label~e.21))))

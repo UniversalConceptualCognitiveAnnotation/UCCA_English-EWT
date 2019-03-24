@@ -1,0 +1,10 @@
+# ::id 114941-0004
+# ::tok How much better does it get ?!
+# ::alignments 0-1.1.1 1-1.1.1 2-1.1.2 4-1.1.4 5-1.1.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :Q (v3 / label~e.0,1)
+           :S (v4 / label~e.2)
+           :A (v5 / label~e.4)
+           :D (v6 / label~e.5)))

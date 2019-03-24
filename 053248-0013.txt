@@ -1,0 +1,18 @@
+# ::id 053248-0013
+# ::tok Dessert was ... hmmm , that 's interesting , I do n't even remember dessert .
+# ::alignments 0-1.1.2 1-1.1.3 5-1.1.4.2.2 7-1.1.4.2.4 9-1.1.4.3.1 11-1.1.4.3.3 12-1.1.4.3.4 13-1.1.4.3.5 14-1.1.4.3.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :S (v4 / label~e.1)
+           :A (v5 / label
+                  :H (v6 / label
+                         :A (v8 / label~e.5)
+                         :S (v9 / label~e.7))
+                  :H (v7 / label
+                         :A (v10 / label~e.9)
+                         :D (v11 / label~e.11)
+                         :G (v12 / label~e.12)
+                         :P (v13 / label~e.13)
+                         :A (v14 / label~e.14)))))

@@ -1,0 +1,48 @@
+# ::id 364454-0004
+# ::tok Not only were my wife and I very pleased , but I also had the air duct quality tested professionally by the home inspector that I regularly use , before and after United Air Duct performed their work .
+# ::alignments 0-1.1 1-1.1 3-1.2.2.1.1 4-1.2.2.1.2 5-1.2.2.2 6-1.2.2.3 7-1.2.3 8-1.2.4 10-1.3 11-1.4.1 12-1.4.2 15-1.4.4.2.1 16-1.4.4.2.2 17-1.4.4.3 18-1.4.3.2 19-1.4.5 20-1.4.6.1.1 22-1.4.6.1.3 23-1.4.6.3.4 24-1.4.6.2 25-1.4.6.3.1 26-1.4.6.3.2 27-1.4.6.3.3 29-1.5.1 30-1.5.2 31-1.5.3 32-1.6.1 33-1.6.1 34-1.6.1 35-1.6.2 36-1.6.3 37-1.6.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0,1)
+    :H (v3 / label
+           :A (v8 / label
+                  :C (v24 / label
+                          :A (v33 / label~e.3)
+                          :S (v34 / label~e.4))
+                  :N (v25 / label~e.5)
+                  :C (v26 / label~e.6))
+           :D (v9 / label~e.7)
+           :S (v10 / label~e.8))
+    :L (v4 / label~e.10)
+    :H (v5 / label
+           :A (v11 / label~e.11)
+           :D (v12 / label~e.12)
+           :P (v13 / label
+                   :C (v27 / label~e.18))
+           :A (v14 / label
+                   :E (v28 / label
+                           :E (v35 / label~e.15)
+                           :C (v36 / label~e.16))
+                   :C (v29 / label~e.17))
+           :D (v15 / label~e.19)
+           :A (v16 / label
+                   :H (v30 / label
+                           :R (v37 / label~e.20)
+                           :P (v38 / label
+                                   :C (v43 / label~e.23))
+                           :A (v39 / label~e.22))
+                   :L (v31 / label~e.24)
+                   :H (v32 / label
+                           :A (v40 / label~e.25)
+                           :T (v41 / label~e.26)
+                           :P (v42 / label~e.27)
+                           :A v43)))
+    :L (v6 / label
+           :C (v17 / label~e.29)
+           :N (v18 / label~e.30)
+           :C (v19 / label~e.31))
+    :H (v7 / label
+           :A (v20 / label~e.32,33,34)
+           :D (v21 / label~e.35)
+           :A (v22 / label~e.36)
+           :P (v23 / label~e.37)))

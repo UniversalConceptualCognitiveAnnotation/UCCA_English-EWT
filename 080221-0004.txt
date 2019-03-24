@@ -1,0 +1,19 @@
+# ::id 080221-0004
+# ::tok Each of you should be proud of your massive contributions throughout the year !
+# ::alignments 0-1.1.1.1 2-1.1.1.3 3-1.1.2 5-1.1.4 6-1.1.5.5 7-1.1.5.1 8-1.1.5.2 9-1.1.5.3 10-1.1.5.4.1 12-1.1.5.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :Q (v7 / label~e.0)
+                  :C (v8 / label~e.2))
+           :D (v4 / label~e.3)
+           :S (v5 / label~e.5)
+           :A (v6 / label
+                  :A (v9 / label~e.7)
+                  :D (v10 / label~e.8)
+                  :P (v11 / label~e.9)
+                  :T (v12 / label
+                          :R (v14 / label~e.10)
+                          :C (v15 / label~e.12))
+                  :R (v13 / label~e.6))))

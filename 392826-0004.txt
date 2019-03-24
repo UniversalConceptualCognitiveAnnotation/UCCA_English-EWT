@@ -1,0 +1,17 @@
+# ::id 392826-0004
+# ::tok Pretty spendy for really not great quality
+# ::alignments 0-1.1.2 1-1.1.3 2-1.2 3-1.3.2.2 4-1.3.2.3 5-1.3.2.1 6-1.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :D (v6 / label~e.0)
+           :S (v7 / label~e.1))
+    :L (v3 / label~e.2)
+    :H (v4 / label
+           :A (v8 / label)
+           :D (v9 / label
+                  :C (v11 / label~e.5)
+                  :E (v12 / label~e.3)
+                  :E (v13 / label~e.4))
+           :S (v10 / label~e.6)))

@@ -1,0 +1,14 @@
+# ::id 160073-0001
+# ::tok Review on House of Joy Chinese Restaurant
+# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2 3-1.1.2.2 4-1.1.2.2 5-1.1.2.3.2 6-1.1.2.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label~e.0)
+           :A (v4 / label
+                  :R (v5 / label~e.1)
+                  :C (v6 / label~e.2,3,4)
+                  :E (v7 / label
+                         :A v6
+                         :S (v8 / label~e.5)
+                         :A (v9 / label~e.6)))))

@@ -1,0 +1,18 @@
+# ::id 247097-0001
+# ::tok Food Craving Gone and Weight Loss at Acupuncture Doctor
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.2 4-1.3.2 5-1.3.3 6-1.3.4.3 7-1.3.4.1 8-1.3.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :P (v6 / label~e.1)
+           :D (v7 / label~e.2))
+    :L (v3 / label~e.3)
+    :H (v4 / label
+           :A (v8 / label)
+           :A (v9 / label~e.4)
+           :P (v10 / label~e.5)
+           :A (v11 / label
+                   :P (v12 / label~e.7)
+                   :A (v13 / label~e.8)
+                   :R (v14 / label~e.6))))

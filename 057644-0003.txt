@@ -1,0 +1,13 @@
+# ::id 057644-0003
+# ::tok Dark , dark main room .
+# ::alignments 0-1.1.2 2-1.2.1 3-1.2.2.2 4-1.2.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :S (v5 / label~e.0))
+    :H (v3 / label
+           :S (v6 / label~e.2)
+           :A (v7 / label
+                  :E (v8 / label~e.3)
+                  :C (v9 / label~e.4))))

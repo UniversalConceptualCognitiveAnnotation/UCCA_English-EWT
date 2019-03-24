@@ -1,0 +1,39 @@
+# ::id 377347-0011
+# ::tok By the way , Salmagundi ( the store name ) means something like smorgasbord ; potpourri ; motley ; variety ; mixed bag ; miscellaneous assortment ; mixture , a variety of many kinds of things .
+# ::alignments 0-1.1 1-1.1 2-1.1 4-1.2.2.1 7-1.2.2.2.2.2 8-1.2.2.2.3 10-1.2.3 11-1.2.4.1 12-1.2.4.2 13-1.2.5.1 15-1.2.5.2 17-1.2.5.3 19-1.2.5.4 21-1.2.5.5.1 22-1.2.5.5.2 24-1.2.5.6.1 25-1.2.5.6.2 27-1.2.5.7 30-1.2.5.8.2 31-1.2.5.8.3.1 32-1.2.5.8.3.2.1 33-1.2.5.8.3.2.2 34-1.2.5.8.3.3 35-1.2.5.8.3.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0,1,2)
+    :H (v3 / label
+           :A (v4 / label
+                  :C (v8 / label~e.4)
+                  :E (v9 / label
+                         :A v8
+                         :A (v20 / label
+                                 :C (v28 / label~e.7))
+                         :S (v21 / label~e.8)))
+           :S (v5 / label~e.10)
+           :D (v6 / label
+                  :C (v10 / label~e.11)
+                  :R (v11 / label~e.12))
+           :A (v7 / label
+                  :C (v12 / label~e.13)
+                  :C (v13 / label~e.15)
+                  :C (v14 / label~e.17)
+                  :C (v15 / label~e.19)
+                  :C (v16 / label
+                          :E (v22 / label~e.21)
+                          :C (v23 / label~e.22))
+                  :C (v17 / label
+                          :E (v24 / label~e.24)
+                          :C (v25 / label~e.25))
+                  :C (v18 / label~e.27)
+                  :C (v19 / label
+                          :C (v26 / label~e.30)
+                          :E (v27 / label
+                                  :R (v29 / label~e.31)
+                                  :E (v30 / label
+                                          :Q (v33 / label~e.32)
+                                          :C (v34 / label~e.33))
+                                  :R (v31 / label~e.34)
+                                  :C (v32 / label~e.35))))))

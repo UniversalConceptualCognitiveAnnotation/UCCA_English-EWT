@@ -1,0 +1,26 @@
+# ::id 018548-0013
+# ::tok This was back between '05 and '09 and I do n't remember how many times we 've had it delivered .
+# ::alignments 2-1.1.4.1 3-1.1.4.2 4-1.1.4.3.1 5-1.1.4.3.2 6-1.1.4.3.3 7-1.2 8-1.3.2 10-1.3.4 11-1.3.5 12-1.3.1.1.1 13-1.3.1.1.1 14-1.3.1.1.2 15-1.3.1.2 18-1.3.1.5 19-1.3.1.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v5 / label)
+           :T (v6 / label
+                  :E (v11 / label~e.2)
+                  :E (v12 / label~e.3)
+                  :C (v13 / label
+                          :C (v18 / label~e.4)
+                          :N (v19 / label~e.5)
+                          :C (v20 / label~e.6))))
+    :L (v3 / label~e.7)
+    :H (v4 / label
+           :A (v7 / label
+                  :D (v14 / label
+                          :Q (v21 / label~e.12,13)
+                          :C (v22 / label~e.14))
+                  :A (v15 / label~e.15)
+                  :A (v16 / label~e.18)
+                  :P (v17 / label~e.19))
+           :A (v8 / label~e.8)
+           :D (v9 / label~e.10)
+           :P (v10 / label~e.11)))

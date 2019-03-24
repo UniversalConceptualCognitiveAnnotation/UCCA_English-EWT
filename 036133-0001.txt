@@ -1,0 +1,14 @@
+# ::id 036133-0001
+# ::tok Bit sketchy , sporadic delivery times
+# ::alignments 0-1.1.1 1-1.1.2 3-1.2.1 4-1.2.2.1 5-1.2.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v4 / label~e.0)
+           :S (v5 / label~e.1)
+           :A (v6 / label))
+    :H (v3 / label
+           :S (v7 / label~e.3)
+           :A (v8 / label
+                  :P (v9 / label~e.4)
+                  :T (v10 / label~e.5))))

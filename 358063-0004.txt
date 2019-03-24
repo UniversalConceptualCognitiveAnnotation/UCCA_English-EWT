@@ -1,0 +1,14 @@
+# ::id 358063-0004
+# ::tok Very efficient at treating chronic pain !
+# ::alignments 0-1.1.2.1 1-1.1.2.2 3-1.1.4 4-1.1.5.2 5-1.1.5.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :D (v4 / label
+                  :E (v7 / label~e.0)
+                  :C (v8 / label~e.1))
+           :P (v5 / label~e.3)
+           :A (v6 / label
+                  :D (v9 / label~e.4)
+                  :P (v10 / label~e.5))))

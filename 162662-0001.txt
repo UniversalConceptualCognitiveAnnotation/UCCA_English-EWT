@@ -1,0 +1,12 @@
+# ::id 162662-0001
+# ::tok Great place for embroidery .
+# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2.2 3-1.1.2.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label~e.0)
+           :A (v4 / label
+                  :C (v5 / label~e.1)
+                  :E (v6 / label
+                         :R (v7 / label~e.2)
+                         :P (v8 / label~e.3)))))

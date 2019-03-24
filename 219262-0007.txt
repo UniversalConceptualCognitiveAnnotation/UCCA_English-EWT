@@ -1,0 +1,10 @@
+# ::id 219262-0007
+# ::tok Absolutely a wonderful company .
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.0)
+           :A (v4 / label
+                  :C (v6 / label~e.3))
+           :S (v5 / label~e.2)))

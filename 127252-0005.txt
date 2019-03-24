@@ -1,0 +1,12 @@
+# ::id 127252-0005
+# ::tok They set out to exceed your expectations .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 4-1.1.4 5-1.1.5.3 6-1.1.5.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :D (v4 / label~e.1,2)
+           :P (v5 / label~e.4)
+           :A (v6 / label
+                  :S (v7 / label~e.6)
+                  :A (v8 / label~e.5))))

@@ -1,0 +1,29 @@
+# ::id 133981-0003
+# ::tok Our bathroom fan , one electric outlet and 2 leaky sinks have yet to be fixed .
+# ::alignments 0-1.1.2.1.2 1-1.1.2.2.1.1 2-1.1.2.2.1.2 4-1.1.2.2.2.1 5-1.1.2.2.2.2.2 6-1.1.2.2.2.3 7-1.1.2.2.3 8-1.1.2.2.4.1 9-1.1.2.2.4.2.2 10-1.1.2.2.4.3 12-1.1.4 15-1.1.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label
+                         :A (v7 / label
+                                :C (v9 / label
+                                       :E (v13 / label~e.1)
+                                       :C (v14 / label~e.2))
+                                :C (v10 / label
+                                        :Q (v15 / label~e.4)
+                                        :E (v16 / label
+                                                :A (v17 / label~e.6)
+                                                :S (v21 / label~e.5))
+                                        :C v17)
+                                :N (v11 / label~e.7)
+                                :C (v12 / label
+                                        :Q (v18 / label~e.8)
+                                        :E (v19 / label
+                                                :A (v20 / label~e.10)
+                                                :S (v22 / label~e.9))
+                                        :C v20))
+                         :S (v8 / label~e.0))
+                  :C v7)
+           :D (v4 / label~e.12)
+           :P (v5 / label~e.15)))

@@ -1,0 +1,16 @@
+# ::id 014764-0001
+# ::tok Daniel and his assistant both did a great job .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3.1 3-1.1.1.3.2 4-1.1.2 7-1.1.5 8-1.1.4.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v7 / label~e.0)
+                  :N (v8 / label~e.1)
+                  :C (v9 / label
+                         :A (v11 / label~e.2)
+                         :S (v12 / label~e.3)))
+           :D (v4 / label~e.4)
+           :P (v5 / label
+                  :C (v10 / label~e.8))
+           :D (v6 / label~e.7)))

@@ -1,0 +1,31 @@
+# ::id 319816-0011
+# ::tok I would not have gone back , but I could n't find the particular tire they 'd used in stock anywhere else .
+# ::alignments 0-1.1.1 2-1.1.3 4-1.1.5 5-1.1.6 7-1.2 8-1.3.5 9-1.3.6 10-1.3.7 11-1.3.1 13-1.3.2.2.2 14-1.3.2.3 15-1.3.2.4.2 17-1.3.2.4.4 18-1.3.3.1 19-1.3.3.2 20-1.3.4.1 21-1.3.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :D (v6 / label~e.2)
+           :P (v7 / label~e.4)
+           :D (v8 / label~e.5))
+    :L (v3 / label~e.7)
+    :H (v4 / label
+           :D (v9 / label~e.11)
+           :A (v10 / label
+                   :E (v16 / label
+                           :A (v17 / label~e.14)
+                           :S (v23 / label~e.13))
+                   :C v17
+                   :E (v18 / label
+                           :A v17
+                           :A (v24 / label~e.15)
+                           :P (v25 / label~e.17)))
+           :S (v11 / label
+                   :R (v19 / label~e.18)
+                   :C (v20 / label~e.19))
+           :A (v12 / label
+                   :C (v21 / label~e.20)
+                   :E (v22 / label~e.21))
+           :A (v13 / label~e.8)
+           :D (v14 / label~e.9)
+           :D (v15 / label~e.10)))

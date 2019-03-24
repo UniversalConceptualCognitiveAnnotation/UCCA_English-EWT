@@ -1,0 +1,62 @@
+# ::id 055207-0004
+# ::tok My vet even said it was not my fault it was the vet that did the surgery , So I would not recommend getting that program unless you have an extra hundred dollars or so for antibiotics and a vet visit .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3 4-1.1.4.1.1 6-1.1.4.1.3 7-1.1.4.1.4 8-1.1.4.1.5 9-1.1.4.2.1 12-1.1.4.2.3.1.2 13-1.1.4.2.3.2.1 16-1.1.4.2.3.2.3.2 18-1.2 19-1.3.1 20-1.3.2 21-1.3.3 22-1.3.4 23-1.3.5.2 24-1.3.5.3.1 25-1.3.5.3.2 26-1.4 27-1.5.4 28-1.5.1 30-1.5.2.1.2 31-1.5.2.1.3 32-1.5.2.2 33-1.5.2.1.4.1 34-1.5.2.1.4.2 35-1.5.3.1 36-1.5.3.2 37-1.5.3.3 39-1.5.3.4.1.1.2 40-1.5.3.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :A (v20 / label~e.0)
+                  :S (v21 / label~e.1))
+           :G (v8 / label~e.2)
+           :P (v9 / label~e.3)
+           :A (v10 / label
+                   :H (v22 / label
+                           :A (v33 / label~e.4)
+                           :D (v34 / label~e.6)
+                           :A (v35 / label~e.7)
+                           :P (v36 / label~e.8))
+                   :H (v23 / label
+                           :A (v37 / label~e.9)
+                           :A (v38 / label
+                                   :S (v46 / label
+                                           :C (v51 / label~e.12))
+                                   :A (v47 / label
+                                           :R (v52 / label~e.13)
+                                           :P (v53 / label
+                                                   :C (v55 / label~e.16))
+                                           :A v51))
+                           :P v36)))
+    :L (v3 / label~e.18)
+    :H (v4 / label
+           :A (v11 / label~e.19)
+           :D (v12 / label~e.20)
+           :D (v13 / label~e.21)
+           :P (v14 / label~e.22)
+           :A (v15 / label
+                   :A (v24 / label)
+                   :P (v25 / label~e.23)
+                   :A (v26 / label
+                           :E (v39 / label~e.24)
+                           :C (v40 / label~e.25))))
+    :L (v5 / label~e.26)
+    :H (v6 / label
+           :S (v16 / label~e.28)
+           :A (v17 / label
+                   :Q (v27 / label
+                           :E (v41 / label~e.30)
+                           :C (v42 / label~e.31)
+                           :E (v43 / label
+                                   :R (v48 / label~e.33)
+                                   :C (v49 / label~e.34)))
+                   :C (v28 / label~e.32))
+           :A (v18 / label
+                   :R (v29 / label~e.35)
+                   :C (v30 / label~e.36)
+                   :N (v31 / label~e.37)
+                   :C (v32 / label
+                           :A (v44 / label
+                                   :S (v50 / label
+                                           :C (v54 / label~e.39)))
+                           :P (v45 / label~e.40)
+                           :A (v19 / label~e.27)))
+           :A v19))

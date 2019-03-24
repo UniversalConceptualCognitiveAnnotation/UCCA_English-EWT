@@ -1,0 +1,9 @@
+# ::id 229480-0001
+# ::tok you 'll love it
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.2)
+           :A (v5 / label~e.3)))

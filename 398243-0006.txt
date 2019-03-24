@@ -1,0 +1,38 @@
+# ::id 398243-0006
+# ::tok He checked out what I needed to have done told me what needed be fixed before he did any work and did great repair work .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.3.3 6-1.1.3.4.3 8-1.1.3.4.5 9-1.2.1 10-1.2.2 11-1.2.3.1 12-1.2.3.2 14-1.2.3.3.2 15-1.3 16-1.4.1 18-1.4.3 19-1.4.4 20-1.5 22-1.6.1 23-1.6.2.1 24-1.6.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label~e.0)
+           :P (v9 / label~e.1,2)
+           :A (v10 / label
+                   :A (v19 / label~e.3)
+                   :A (v20 / label~e.4)
+                   :P (v21 / label~e.5)
+                   :A (v22 / label
+                           :A v19
+                           :A v20
+                           :R (v28 / label~e.6)
+                           :P (v29 / label~e.8))))
+    :H (v3 / label
+           :P (v11 / label~e.9)
+           :A (v12 / label~e.10)
+           :A (v13 / label
+                   :A (v23 / label~e.11)
+                   :D (v24 / label~e.12)
+                   :P (v25 / label
+                           :C (v30 / label~e.14)))
+           :A v8)
+    :L (v4 / label~e.15)
+    :H (v5 / label
+           :A (v14 / label~e.16)
+           :D (v15 / label~e.18)
+           :P (v16 / label~e.19))
+    :L (v6 / label~e.20)
+    :H (v7 / label
+           :D (v17 / label~e.22)
+           :P (v18 / label
+                   :E (v26 / label~e.23)
+                   :C (v27 / label~e.24))
+           :A v14))

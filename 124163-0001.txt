@@ -1,0 +1,15 @@
+# ::id 124163-0001
+# ::tok Cranmore Dental and Implant Clinic : I could not recommend Dr David Nelson enough .
+# ::alignments 0-1.1.4 1-1.1.4 2-1.1.4 3-1.1.4 4-1.1.4 6-1.1.5 7-1.1.6 8-1.1.7 9-1.1.8 10-1.1.9.1 11-1.1.9.2 12-1.1.9.2 13-1.1.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.13)
+           :A (v4 / label~e.0,1,2,3,4)
+           :A (v5 / label~e.6)
+           :D (v6 / label~e.7)
+           :D (v7 / label~e.8)
+           :P (v8 / label~e.9)
+           :A (v9 / label
+                  :E (v10 / label~e.10)
+                  :C (v11 / label~e.11,12))))

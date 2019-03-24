@@ -1,0 +1,14 @@
+# ::id 333672-0005
+# ::tok The paperwork was a very easy and smooth .
+# ::alignments 1-1.1.1.2 4-1.1.4.3.1 5-1.1.4.3.2 6-1.1.4.4 7-1.1.4.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label
+                  :C (v5 / label~e.1))
+           :D (v4 / label
+                  :C (v6 / label~e.7)
+                  :C (v7 / label
+                         :E (v9 / label~e.4)
+                         :C (v10 / label~e.5))
+                  :N (v8 / label~e.6))))

@@ -1,0 +1,9 @@
+# ::id 181696-0001
+# ::tok Winning Attorney !
+# ::alignments 0-1.1.1 1-1.1.2.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label~e.0)
+           :A (v4 / label
+                  :P (v5 / label~e.1))))

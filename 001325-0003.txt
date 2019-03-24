@@ -1,0 +1,14 @@
+# ::id 001325-0003
+# ::tok The best climbing club around .
+# ::alignments 1-1.1.2.2 2-1.1.3.1.2 3-1.1.3.2 4-1.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label
+                  :C (v6 / label~e.1))
+           :A (v4 / label
+                  :E (v7 / label
+                         :A (v8 / label~e.3)
+                         :P (v9 / label~e.2))
+                  :C v8)
+           :A (v5 / label~e.4)))

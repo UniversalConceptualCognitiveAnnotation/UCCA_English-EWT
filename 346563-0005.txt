@@ -1,0 +1,11 @@
+# ::id 346563-0005
+# ::tok My results were just AWFUL .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.4.2 4-1.1.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.1)
+           :D (v5 / label
+                  :E (v6 / label~e.3)
+                  :C (v7 / label~e.4))))
