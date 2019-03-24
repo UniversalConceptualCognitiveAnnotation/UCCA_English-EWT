@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 385281-0003
+# text = She deep conditioned my hair and took the time to style it properly .
+1	She	_	Word	Word	_	2	A	2:A|9:A|11:A	_
+2	deep	_	Word	Word	_	0	H	0:H	_
+3	conditioned	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	my	_	Word	Word	_	5	E	5:E	_
+5	hair	_	Word	Word	_	2	A	2:A	_
+6	and	_	Word	Word	_	9	L	9:L	_
+7	took	_	Word	Word	_	9	F	9:F	_
+8	the	_	Word	Word	_	9	F	9:F	_
+9	time	_	Word	Word	_	2	H	2:H	_
+10	to	_	Word	Word	_	11	L	11:L	_
+11	style	_	Word	Word	_	2	H	2:H	_
+12	it	_	Word	Word	_	11	A	11:A	_
+13	properly	_	Word	Word	_	11	D	11:D	_
+14	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

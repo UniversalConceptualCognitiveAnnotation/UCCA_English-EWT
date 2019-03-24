@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 084373-0003
+# text = We called few companies before we decide to hire them .
+1	We	_	Word	Word	_	2	A	2:A	_
+2	called	_	Word	Word	_	0	H	0:H	_
+3	few	_	Word	Word	_	4	E	4:E	_
+4	companies	_	Word	Word	_	2	A	2:A	_
+5	before	_	Word	Word	_	7	L	7:L	_
+6	we	_	Word	Word	_	7	A	7:A|9:A	_
+7	decide	_	Word	Word	_	2	H	2:H	_
+8	to	_	Word	Word	_	9	F	9:F	_
+9	hire	_	Word	Word	_	7	A	7:A	_
+10	them	_	Word	Word	_	9	A	9:A	_
+11	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

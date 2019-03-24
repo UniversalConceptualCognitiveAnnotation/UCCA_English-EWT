@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 045753-0001
+# text = Compare to last decade this University is gaining more prestige in International level
+1	Compare	_	Word	Word	_	4	L	4:L	_
+2	to	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	last	_	Word	Word	_	4	E	4:E	_
+4	decade	_	Word	Word	_	0	H	0:H	_
+5	this	_	Word	Word	_	6	E	6:E	_
+6	University	_	Word	Word	_	0	C	0:C|4:A	_
+7	is	_	Word	Word	_	10	F	10:F	_
+8	gaining	_	Word	Word	_	10	F	10:F	_
+9	more	_	Word	Word	_	10	D	10:D	_
+10	prestige	_	Word	Word	_	0	P	0:P|4:P	_
+11	in	_	Word	Word	_	13	R	13:R	_
+12	International	_	Word	Word	_	13	E	13:E	_
+13	level	_	Word	Word	_	10	A	10:A	_
+

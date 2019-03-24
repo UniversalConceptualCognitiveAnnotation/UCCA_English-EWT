@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 156460-0005
+# text = Quaint , lovely , small salon with BIG personality .
+1	Quaint	_	Word	Word	_	0	H	0:H	_
+2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	lovely	_	Word	Word	_	1	H	1:H	_
+4	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	small	_	Word	Word	_	1	H	1:H	_
+6	salon	_	Word	Word	_	5	A	5:A|1:A|3:A|9:A	_
+7	with	_	Word	Word	_	9	L	9:L	_
+8	BIG	_	Word	Word	_	9	D	9:D	_
+9	personality	_	Word	Word	_	1	H	1:H	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

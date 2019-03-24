@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 170650-0006
+# text = At the front door of his office , I nearly turned around .
+1	At	_	Word	Word	_	0	H	0:H	_
+2	the	_	Word	Word	_	4	F	4:F	_
+3	front	_	Word	Word	_	4	E	4:E	_
+4	door	_	Word	Word	_	1	A	1:A	_
+5	of	_	Word	Word	_	7	R	7:R	_
+6	his	_	Word	Word	_	7	E	7:E	_
+7	office	_	Word	Word	_	4	E	4:E	_
+8	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+9	I	_	Word	Word	_	11	A	11:A|1:A	_
+10	nearly	_	Word	Word	_	11	D	11:D	_
+11	turned	_	Word	Word	_	1	H	1:H	_
+12	around	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

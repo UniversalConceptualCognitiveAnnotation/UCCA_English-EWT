@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 022533-0004
+# text = He told us to stop by the salon and then he will tell us the price .
+1	He	_	Word	Word	_	2	A	2:A	_
+2	told	_	Word	Word	_	0	H	0:H	_
+3	us	_	Word	Word	_	2	A	2:A|5:A	_
+4	to	_	Word	Word	_	5	R	5:R	_
+5	stop	_	Word	Word	_	2	A	2:A	_
+6	by	_	Word	Word	_	5	D	5:D	_
+7	the	_	Word	Word	_	8	F	8:F	_
+8	salon	_	Word	Word	_	5	A	5:A	_
+9	and	_	Word	Word	_	13	L	13:L	_
+10	then	_	Word	Word	_	9	C	9:C	_
+11	he	_	Word	Word	_	13	A	13:A	_
+12	will	_	Word	Word	_	13	F	13:F	_
+13	tell	_	Word	Word	_	2	H	2:H	_
+14	us	_	Word	Word	_	13	A	13:A	_
+15	the	_	Word	Word	_	16	F	16:F	_
+16	price	_	Word	Word	_	13	A	13:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

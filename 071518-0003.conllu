@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 071518-0003
+# text = The dealer wanted $ 1300 to fix that and another $ 1500 to fix some other things .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	dealer	_	Word	Word	_	0	C	0:C|7:A|14:A	_
+3	wanted	_	Word	Word	_	0	H	0:H	_
+4	$	_	Word	Word	_	3	A	3:A	_
+5	1300	_	Word	Word	_	4	E	4:E	_
+6	to	_	Word	Word	_	7	F	7:F	_
+7	fix	_	Word	Word	_	4	E	4:E	_
+8	that	_	Word	Word	_	7	A	7:A	_
+9	and	_	Word	Word	_	4	N	4:N	_
+10	another	_	Word	Word	_	11	E	11:E	_
+11	$	_	Word	Word	_	4	C	4:C	_
+12	1500	_	Word	Word	_	11	E	11:E	_
+13	to	_	Word	Word	_	14	F	14:F	_
+14	fix	_	Word	Word	_	11	E	11:E	_
+15	some	_	Word	Word	_	17	E	17:E	_
+16	other	_	Word	Word	_	17	E	17:E	_
+17	things	_	Word	Word	_	14	A	14:A	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

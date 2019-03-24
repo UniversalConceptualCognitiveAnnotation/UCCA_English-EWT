@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 101972-0006
+# text = However , we waited and waited and in the mean time , saw 4 groups of people simply just paraded in without signing there names .
+1	However	_	Word	Word	_	13	L	13:L	_
+2	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	we	_	Word	Word	_	4	A	4:A|13:A	_
+4	waited	_	Word	Word	_	0	H	0:H	_
+5	and	_	Word	Word	_	6	N	6:N	_
+6	waited	_	Word	Word	_	4	D	4:D	_
+7	and	_	Word	Word	_	13	L	13:L	_
+8	in	_	Word	Word	_	13	L	13:L	_
+9	the	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	mean	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	time	_	Word	Word	_	8	Terminal	8:Terminal	_
+12	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+13	saw	_	Word	Word	_	4	H	4:H	_
+14	4	_	Word	Word	_	15	E	15:E	_
+15	groups	_	Word	Word	_	20	A	20:A	_
+16	of	_	Word	Word	_	17	R	17:R	_
+17	people	_	Word	Word	_	0	C	0:C|23:A	_
+18	simply	_	Word	Word	_	20	D	20:D	_
+19	just	_	Word	Word	_	20	D	20:D	_
+20	paraded	_	Word	Word	_	13	A	13:A	_
+21	in	_	Word	Word	_	20	D	20:D	_
+22	without	_	Word	Word	_	23	D	23:D	_
+23	signing	_	Word	Word	_	4	H	4:H	_
+24	there	_	Word	Word	_	25	E	25:E	_
+25	names	_	Word	Word	_	23	A	23:A	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

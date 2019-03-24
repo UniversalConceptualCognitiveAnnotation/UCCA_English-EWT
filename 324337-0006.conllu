@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 324337-0006
+# text = I prefer Advanced auto parts over this crappy place with the meanest people .
+1	I	_	Word	Word	_	2	A	2:A	_
+2	prefer	_	Word	Word	_	0	H	0:H	_
+3	Advanced	_	Word	Word	_	2	A	2:A	_
+4	auto	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	parts	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	over	_	Word	Word	_	9	R	9:R	_
+7	this	_	Word	Word	_	9	E	9:E	_
+8	crappy	_	Word	Word	_	9	E	9:E	_
+9	place	_	Word	Word	_	2	A	2:A	_
+10	with	_	Word	Word	_	13	R	13:R	_
+11	the	_	Word	Word	_	13	F	13:F	_
+12	meanest	_	Word	Word	_	13	E	13:E	_
+13	people	_	Word	Word	_	9	E	9:E	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

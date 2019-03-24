@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 360937-0004
+# text = All were awesome , & I had a Dogwood Grilled Cheese which was enjoyable with the fine beers .
+1	All	_	Word	Word	_	3	A	3:A	_
+2	were	_	Word	Word	_	3	F	3:F	_
+3	awesome	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	&	_	Word	Word	_	7	L	7:L	_
+6	I	_	Word	Word	_	7	A	7:A	_
+7	had	_	Word	Word	_	3	H	3:H	_
+8	a	_	Word	Word	_	9	F	9:F	_
+9	Dogwood	_	Word	Word	_	0	C	0:C|14:A	_
+10	Grilled	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Cheese	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	which	_	Word	Word	_	14	L	14:L	_
+13	was	_	Word	Word	_	14	F	14:F	_
+14	enjoyable	_	Word	Word	_	3	H	3:H	_
+15	with	_	Word	Word	_	18	R	18:R	_
+16	the	_	Word	Word	_	18	F	18:F	_
+17	fine	_	Word	Word	_	18	E	18:E	_
+18	beers	_	Word	Word	_	14	A	14:A	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

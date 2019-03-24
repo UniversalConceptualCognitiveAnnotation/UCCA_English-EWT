@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 239035-0003
+# text = I go every other week for the shallac / gel manicure which is only $ 25 and it truly lasts 2 weeks !
+1	I	_	Word	Word	_	2	A	2:A	_
+2	go	_	Word	Word	_	0	H	0:H	_
+3	every	_	Word	Word	_	5	E	5:E	_
+4	other	_	Word	Word	_	5	E	5:E	_
+5	week	_	Word	Word	_	2	D	2:D	_
+6	for	_	Word	Word	_	15	L	15:L	_
+7	the	_	Word	Word	_	11	F	11:F	_
+8	shallac	_	Word	Word	_	11	A	11:A	_
+9	/	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	gel	_	Word	Word	_	8	C	8:C	_
+11	manicure	_	Word	Word	_	0	C	0:C|15:A	_
+12	which	_	Word	Word	_	15	L	15:L	_
+13	is	_	Word	Word	_	15	F	15:F	_
+14	only	_	Word	Word	_	15	G	15:G	_
+15	$	_	Word	Word	_	2	H	2:H	_
+16	25	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	and	_	Word	Word	_	20	L	20:L	_
+18	it	_	Word	Word	_	20	A	20:A	_
+19	truly	_	Word	Word	_	20	G	20:G	_
+20	lasts	_	Word	Word	_	2	H	2:H	_
+21	2	_	Word	Word	_	22	E	22:E	_
+22	weeks	_	Word	Word	_	20	D	20:D	_
+23	!	_	Punctuation	Punctuation	_	22	U	22:U	_
+

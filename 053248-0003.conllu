@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 053248-0003
+# text = The truth is , in my and my dining partners ' experience , this is a fine little restaurant with some unique food .
+1	The	_	Word	Word	_	15	L	15:L	_
+2	truth	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	is	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+5	in	_	Word	Word	_	15	L	15:L	_
+6	my	_	Word	Word	_	12	A	12:A	_
+7	and	_	Word	Word	_	6	N	6:N	_
+8	my	_	Word	Word	_	10	A	10:A	_
+9	dining	_	Word	Word	_	10	A	10:A	_
+10	partners	_	Word	Word	_	6	C	6:C	_
+11	'	_	Punctuation	Punctuation	_	12	U	12:U	_
+12	experience	_	Word	Word	_	0	H	0:H	_
+13	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	this	_	Word	Word	_	15	A	15:A	_
+15	is	_	Word	Word	_	12	H	12:H	_
+16	a	_	Word	Word	_	19	F	19:F	_
+17	fine	_	Word	Word	_	19	E	19:E	_
+18	little	_	Word	Word	_	19	E	19:E	_
+19	restaurant	_	Word	Word	_	15	A	15:A	_
+20	with	_	Word	Word	_	19	R	19:R	_
+21	some	_	Word	Word	_	19	E	19:E	_
+22	unique	_	Word	Word	_	19	E	19:E	_
+23	food	_	Word	Word	_	19	C	19:C|22:A	_
+24	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

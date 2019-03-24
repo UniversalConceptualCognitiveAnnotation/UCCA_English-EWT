@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 081796-0005
+# text = The mark up is minimal considering that the clothing is hard to find and often shipped for Europe .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	mark	_	Word	Word	_	0	H	0:H	_
+3	up	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	is	_	Word	Word	_	2	F	2:F	_
+5	minimal	_	Word	Word	_	2	D	2:D	_
+6	considering	_	Word	Word	_	13	L	13:L	_
+7	that	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	the	_	Word	Word	_	9	F	9:F	_
+9	clothing	_	Word	Word	_	0	C	0:C|16:A	_
+10	is	_	Word	Word	_	13	F	13:F	_
+11	hard	_	Word	Word	_	13	D	13:D	_
+12	to	_	Word	Word	_	13	F	13:F	_
+13	find	_	Word	Word	_	2	H	2:H	_
+14	and	_	Word	Word	_	16	L	16:L	_
+15	often	_	Word	Word	_	16	D	16:D	_
+16	shipped	_	Word	Word	_	2	H	2:H	_
+17	for	_	Word	Word	_	18	R	18:R	_
+18	Europe	_	Word	Word	_	16	A	16:A	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

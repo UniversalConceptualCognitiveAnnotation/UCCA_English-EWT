@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 363873-0005
+# text = The pool was supposed to close at 10 and they would have people down there until 11:45 yelling , playing music and do who - knows - what in the dark corners of the pool .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	pool	_	Word	Word	_	6	A	6:A	_
+3	was	_	Word	Word	_	6	F	6:F	_
+4	supposed	_	Word	Word	_	6	D	6:D	_
+5	to	_	Word	Word	_	6	F	6:F	_
+6	close	_	Word	Word	_	0	H	0:H	_
+7	at	_	Word	Word	_	8	R	8:R	_
+8	10	_	Word	Word	_	6	D	6:D	_
+9	and	_	Word	Word	_	12	L	12:L	_
+10	they	_	Word	Word	_	12	A	12:A	_
+11	would	_	Word	Word	_	12	F	12:F	_
+12	have	_	Word	Word	_	6	H	6:H	_
+13	people	_	Word	Word	_	12	A	12:A|18:A|20:A|24:A	_
+14	down	_	Word	Word	_	15	R	15:R	_
+15	there	_	Word	Word	_	12	A	12:A	_
+16	until	_	Word	Word	_	17	R	17:R	_
+17	11:45	_	Word	Word	_	12	D	12:D	_
+18	yelling	_	Word	Word	_	6	H	6:H	_
+19	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+20	playing	_	Word	Word	_	6	H	6:H	_
+21	music	_	Word	Word	_	20	A	20:A	_
+22	and	_	Word	Word	_	24	L	24:L	_
+23	do	_	Word	Word	_	24	D	24:D	_
+24	who	_	Word	Word	_	6	H	6:H	_
+25	-	_	Punctuation	Punctuation	_	24	U	24:U	_
+26	knows	_	Word	Word	_	24	Terminal	24:Terminal	_
+27	-	_	Punctuation	Punctuation	_	24	U	24:U	_
+28	what	_	Word	Word	_	24	Terminal	24:Terminal	_
+29	in	_	Word	Word	_	32	R	32:R	_
+30	the	_	Word	Word	_	32	F	32:F	_
+31	dark	_	Word	Word	_	32	E	32:E	_
+32	corners	_	Word	Word	_	24	A	24:A	_
+33	of	_	Word	Word	_	35	R	35:R	_
+34	the	_	Word	Word	_	35	F	35:F	_
+35	pool	_	Word	Word	_	32	E	32:E	_
+36	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+

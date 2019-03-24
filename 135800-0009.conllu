@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 135800-0009
+# text = I found out they did not even drive the car , stated they looked at it before .
+1	I	_	Word	Word	_	2	A	2:A	_
+2	found	_	Word	Word	_	0	H	0:H	_
+3	out	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	they	_	Word	Word	_	8	A	8:A|12:A	_
+5	did	_	Word	Word	_	8	F	8:F	_
+6	not	_	Word	Word	_	8	D	8:D	_
+7	even	_	Word	Word	_	8	G	8:G	_
+8	drive	_	Word	Word	_	2	A	2:A	_
+9	the	_	Word	Word	_	10	F	10:F	_
+10	car	_	Word	Word	_	8	A	8:A	_
+11	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+12	stated	_	Word	Word	_	2	H	2:H	_
+13	they	_	Word	Word	_	14	A	14:A	_
+14	looked	_	Word	Word	_	12	A	12:A	_
+15	at	_	Word	Word	_	16	R	16:R	_
+16	it	_	Word	Word	_	14	A	14:A	_
+17	before	_	Word	Word	_	14	D	14:D	_
+18	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 036753-0012
+# text = Buy your kids somethin nice with my 2 k bucks .
+1	Buy	_	Word	Word	_	0	H	0:H	_
+2	your	_	Word	Word	_	1	A	1:A	_
+3	kids	_	Word	Word	_	2	A	2:A	_
+4	somethin	_	Word	Word	_	1	A	1:A	_
+5	nice	_	Word	Word	_	4	E	4:E	_
+6	with	_	Word	Word	_	9	R	9:R	_
+7	my	_	Word	Word	_	9	E	9:E	_
+8	2	_	Word	Word	_	9	E	9:E	_
+9	k	_	Word	Word	_	1	A	1:A	_
+10	bucks	_	Word	Word	_	9	C	9:C|7:A	_
+11	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

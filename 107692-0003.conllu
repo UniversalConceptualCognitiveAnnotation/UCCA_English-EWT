@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 107692-0003
+# text = A restaurant with this many patrons willing to stand in line just to order tacos must be good , right ?
+1	A	_	Word	Word	_	2	F	2:F	_
+2	restaurant	_	Word	Word	_	18	A	18:A	_
+3	with	_	Word	Word	_	2	R	2:R	_
+4	this	_	Word	Word	_	5	R	5:R	_
+5	many	_	Word	Word	_	2	E	2:E	_
+6	patrons	_	Word	Word	_	2	C	2:C|9:A|14:A	_
+7	willing	_	Word	Word	_	9	D	9:D	_
+8	to	_	Word	Word	_	9	F	9:F	_
+9	stand	_	Word	Word	_	2	E	2:E	_
+10	in	_	Word	Word	_	11	R	11:R	_
+11	line	_	Word	Word	_	9	A	9:A	_
+12	just	_	Word	Word	_	14	D	14:D	_
+13	to	_	Word	Word	_	14	F	14:F	_
+14	order	_	Word	Word	_	9	A	9:A	_
+15	tacos	_	Word	Word	_	14	A	14:A	_
+16	must	_	Word	Word	_	18	D	18:D	_
+17	be	_	Word	Word	_	18	F	18:F	_
+18	good	_	Word	Word	_	0	H	0:H	_
+19	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	right	_	Word	Word	_	18	G	18:G	_
+21	?	_	Punctuation	Punctuation	_	18	U	18:U	_
+
