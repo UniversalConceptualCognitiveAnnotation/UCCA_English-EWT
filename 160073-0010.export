@@ -1,0 +1,24 @@
+#BOS 160073-0010
+And	Word	--	Terminal	500
+every	Word	--	Terminal	501
+entree	Word	--	Terminal	502
+we	Word	--	Terminal	503
+have	Word	--	Terminal	504
+ordered	Word	--	Terminal	505
+is	Word	--	Terminal	506
+perfect	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	L	512
+#501	FN	--	E	510
+#502	FN	--	C	510	A*	509
+#503	FN	--	A	509
+#504	FN	--	F	509
+#505	FN	--	P	509
+#506	FN	--	F	511
+#507	FN	--	S	511
+#508	PNCT	--	U	511
+#509	FN	--	E	510
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 160073-0010

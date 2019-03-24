@@ -1,0 +1,32 @@
+#BOS 010433-0007
+Food	Word	--	Terminal	500
+was	Word	--	Terminal	501
+good	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+but	Word	--	Terminal	504
+service	Word	--	Terminal	505
+means	Word	--	Terminal	506
+a	Word	--	Terminal	507
+lot	Word	--	Terminal	508
+to	Word	--	Terminal	509
+me	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	A	512
+#501	FN	--	F	512
+#502	FN	--	S	512
+#503	PNCT	--	U	517
+#504	FN	--	L	517
+#505	FN	--	P	513
+#506	FN	--	S	516
+#507	FN	--	F	514
+#508	FN	--	C	514
+#509	FN	--	R	515
+#510	FN	--	C	515
+#511	PNCT	--	U	515
+#512	FN	--	H	517
+#513	FN	--	A	516
+#514	FN	--	D	516
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 010433-0007

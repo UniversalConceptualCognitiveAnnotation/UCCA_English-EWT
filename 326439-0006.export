@@ -1,0 +1,19 @@
+#BOS 326439-0006
+NICE	Word	--	Terminal	500
+SERVICE	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+AND	Word	--	Terminal	503
+EXCELLENT	Word	--	Terminal	504
+FOOD	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	D	507
+#501	FN	--	P	507
+#502	PNCT	--	U	509
+#503	FN	--	L	509
+#504	FN	--	S	508
+#505	FN	--	A	508
+#506	PNCT	--	U	508
+#507	FN	--	H	509
+#508	FN	--	H	509
+#509	FN	--	--	0
+#EOS 326439-0006

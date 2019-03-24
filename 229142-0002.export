@@ -1,0 +1,24 @@
+#BOS 229142-0002
+They	Word	--	Terminal	500
+were	Word	--	Terminal	501
+very	Word	--	Terminal	502
+professional	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+neat	Word	--	Terminal	505
+and	Word	--	Terminal	506
+clean	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	A	509	A*	510	A*	511
+#501	FN	--	F	509
+#502	FN	--	D	509	D*	510	D*	511
+#503	FN	--	S	509
+#504	PNCT	--	U	512
+#505	FN	--	S	510
+#506	FN	--	L	512
+#507	FN	--	S	511
+#508	PNCT	--	U	511
+#509	FN	--	H	512
+#510	FN	--	H	512
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 229142-0002

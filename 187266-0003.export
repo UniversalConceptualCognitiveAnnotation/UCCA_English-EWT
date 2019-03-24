@@ -1,0 +1,24 @@
+#BOS 187266-0003
+SHE	Word	--	Terminal	500
+KNOWS	Word	--	Terminal	501
+GREAT	Word	--	Terminal	502
+FOOD	Word	--	Terminal	503
+AND	Word	--	Terminal	504
+DINING	Word	--	Terminal	505
+EXPERIENCES	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	A	512
+#501	FN	--	S	512
+#502	FN	--	S	508
+#503	FN	--	A	508
+#504	FN	--	L	511
+#505	FN	--	C	509
+#506	FN	--	E	509
+#507	PNCT	--	U	509
+#508	FN	--	H	511
+#509	FN	--	P	510
+#510	FN	--	H	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 187266-0003

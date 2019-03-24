@@ -1,0 +1,35 @@
+#BOS 063549-0006
+If	Word	--	Terminal	500
+you	Word	--	Terminal	501
+want	Word	--	Terminal	502
+great	Word	--	Terminal	503
+food	Word	--	Terminal	504
+then	Word	--	Terminal	505
+L'espalier	Word	--	Terminal	506
+is	Word	--	Terminal	507
+the	Word	--	Terminal	508
+place	Word	--	Terminal	509
+to	Word	--	Terminal	510
+go	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	L	519
+#501	FN	--	A	517
+#502	FN	--	P	517
+#503	FN	--	S	513
+#504	FN	--	C	514	A*	513
+#505	FN	--	L	519
+#506	FN	--	A	518
+#507	FN	--	S	518
+#508	FN	--	F	516
+#509	FN	--	C	516	A*	515
+#510	FN	--	F	515
+#511	FN	--	P	515
+#512	PNCT	--	U	515
+#513	FN	--	E	514
+#514	FN	--	A	517
+#515	FN	--	E	516
+#516	FN	--	A	518
+#517	FN	--	H	519
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 063549-0006

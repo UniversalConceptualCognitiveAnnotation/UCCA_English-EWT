@@ -1,0 +1,28 @@
+#BOS 224906-0004
+BIG	Word	--	Terminal	500
+MISTAKE	Word	--	Terminal	501
+-	Punctuation	--	Terminal	502
+The	Word	--	Terminal	503
+food	Word	--	Terminal	504
+was	Word	--	Terminal	505
+tasteless	Word	--	Terminal	506
+and	Word	--	Terminal	507
+cold	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	D	514
+#501	FN	--	P	514
+#502	PNCT	--	U	515
+#503	FN	--	F	510
+#504	FN	--	C	510	A*	511
+#505	FN	--	F	512
+#506	FN	--	S	512
+#507	FN	--	L	515
+#508	FN	--	S	511
+#509	PNCT	--	U	511
+#510	FN	--	A	512
+#511	FN	--	H	515
+#512	FN	--	H	515
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 224906-0004

@@ -1,0 +1,57 @@
+#BOS 332105-0003
+He	Word	--	Terminal	500
+was	Word	--	Terminal	501
+prompt	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+knowledgable	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+friendly	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+clean	Word	--	Terminal	508
+and	Word	--	Terminal	509
+just	Word	--	Terminal	510
+an	Word	--	Terminal	511
+overall	Word	--	Terminal	512
+great	Word	--	Terminal	513
+guy	Word	--	Terminal	514
+who	Word	--	Terminal	515
+obviously	Word	--	Terminal	516
+cares	Word	--	Terminal	517
+about	Word	--	Terminal	518
+his	Word	--	Terminal	519
+business	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	A	522	A*	523	A*	524
+#501	FN	--	F	522
+#502	FN	--	S	522
+#503	PNCT	--	U	532
+#504	FN	--	S	523
+#505	PNCT	--	U	532
+#506	FN	--	S	531
+#507	PNCT	--	U	532
+#508	FN	--	S	524
+#509	FN	--	L	532
+#510	FN	--	D	526
+#511	FN	--	F	525
+#512	FN	--	D	526
+#513	FN	--	S	526
+#514	FN	--	C	525	A*	529
+#515	FN	--	L	532
+#516	FN	--	D	529
+#517	FN	--	P	529
+#518	FN	--	R	528
+#519	FN	--	S	527
+#520	FN	--	C	528	A*	527
+#521	PNCT	--	U	528
+#522	FN	--	H	532
+#523	FN	--	H	532
+#524	FN	--	H	532
+#525	FN	--	A	526
+#526	FN	--	H	532
+#527	FN	--	E	528
+#528	FN	--	A	529
+#529	FN	--	H	532
+#530	FN	--	A	531
+#531	FN	--	H	532
+#532	FN	--	--	0
+#EOS 332105-0003

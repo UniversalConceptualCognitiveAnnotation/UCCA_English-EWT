@@ -1,0 +1,37 @@
+#BOS 183518-0010
+Expect	Word	--	Terminal	500
+to	Word	--	Terminal	501
+pay	Word	--	Terminal	502
+full	Word	--	Terminal	503
+price	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+and	Word	--	Terminal	506
+the	Word	--	Terminal	507
+theatres	Word	--	Terminal	508
+themselves	Word	--	Terminal	509
+are	Word	--	Terminal	510
+on	Word	--	Terminal	511
+the	Word	--	Terminal	511
+small	Word	--	Terminal	511
+side	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	D	517
+#501	FN	--	R	513
+#502	FN	--	C	513
+#503	FN	--	D	517
+#504	FN	--	A	517
+#505	PNCT	--	U	518
+#506	FN	--	L	518
+#507	FN	--	F	514
+#508	FN	--	C	514
+#509	FN	--	E	514
+#510	FN	--	F	515
+#511	FN	--	S	515
+#512	PNCT	--	U	515
+#513	FN	--	P	517
+#514	FN	--	A	515
+#515	FN	--	H	518
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 183518-0010

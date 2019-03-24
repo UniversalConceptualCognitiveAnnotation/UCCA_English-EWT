@@ -1,0 +1,20 @@
+#BOS 330966-0002
+Service	Word	--	Terminal	500
+and	Word	--	Terminal	501
+Client	Word	--	Terminal	502
+base	Word	--	Terminal	503
+not	Word	--	Terminal	504
+ok	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	P	507
+#501	FN	--	L	510
+#502	FN	--	C	508
+#503	FN	--	C	508
+#504	FN	--	D	509	D*	507
+#505	FN	--	S	509	D*	507
+#506	PNCT	--	U	507
+#507	FN	--	H	510
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 330966-0002

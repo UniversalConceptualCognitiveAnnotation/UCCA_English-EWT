@@ -1,0 +1,16 @@
+#BOS 035932-0001
+Simple	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+Quick	Word	--	Terminal	502
+take	Word	--	Terminal	503
+away	Word	--	Terminal	503
+.	Punctuation	--	Terminal	504
+#500	FN	--	S	505
+#501	PNCT	--	U	507
+#502	FN	--	S	506
+#503	FN	--	A	505	A*	506
+#504	PNCT	--	U	505
+#505	FN	--	H	507
+#506	FN	--	H	507
+#507	FN	--	--	0
+#EOS 035932-0001

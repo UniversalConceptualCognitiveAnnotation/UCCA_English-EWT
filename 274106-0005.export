@@ -1,0 +1,31 @@
+#BOS 274106-0005
+Their	Word	--	Terminal	500
+Food	Word	--	Terminal	501
+was	Word	--	Terminal	502
+better	Word	--	Terminal	503
+then	Word	--	Terminal	504
+anything	Word	--	Terminal	505
+I	Word	--	Terminal	506
+had	Word	--	Terminal	507
+ever	Word	--	Terminal	508
+tasted	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	S	511
+#501	FN	--	C	512	A*	511
+#502	FN	--	F	513
+#503	FN	--	S	513	S*	516
+#504	FN	--	L	517
+#505	FN	--	C	515	A*	514
+#506	FN	--	A	514
+#507	FN	--	F	514
+#508	FN	--	D	514
+#509	FN	--	P	514
+#510	PNCT	--	U	514
+#511	FN	--	E	512
+#512	FN	--	A	513
+#513	FN	--	H	517
+#514	FN	--	E	515
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 274106-0005

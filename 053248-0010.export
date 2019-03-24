@@ -1,0 +1,29 @@
+#BOS 053248-0010
+Dinner	Word	--	Terminal	500
+was	Word	--	Terminal	501
+also	Word	--	Terminal	502
+an	Word	--	Terminal	503
+up	Word	--	Terminal	504
+-	Punctuation	--	Terminal	505
+and	Word	--	Terminal	506
+-	Punctuation	--	Terminal	507
+down	Word	--	Terminal	508
+experience	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	P	511
+#501	FN	--	F	514
+#502	FN	--	D	514
+#503	FN	--	F	512
+#504	FN	--	C	513
+#505	PNCT	--	U	513
+#506	FN	--	N	513
+#507	PNCT	--	U	513
+#508	FN	--	C	513
+#509	FN	--	C	512
+#510	PNCT	--	U	512
+#511	FN	--	A	514
+#512	FN	--	P	514
+#513	FN	--	D	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 053248-0010

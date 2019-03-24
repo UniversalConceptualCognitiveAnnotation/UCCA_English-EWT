@@ -1,0 +1,28 @@
+#BOS 263630-0008
+To	Word	--	Terminal	500
+add	Word	--	Terminal	500
+insult	Word	--	Terminal	500
+to	Word	--	Terminal	500
+injury	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+he	Word	--	Terminal	502
+refused	Word	--	Terminal	503
+to	Word	--	Terminal	504
+refund	Word	--	Terminal	505
+our	Word	--	Terminal	506
+money	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	L	512
+#501	PNCT	--	U	512
+#502	FN	--	A	511
+#503	FN	--	D	511
+#504	FN	--	F	511
+#505	FN	--	P	511
+#506	FN	--	S	509
+#507	FN	--	C	510	A*	509
+#508	PNCT	--	U	510
+#509	FN	--	E	510
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 263630-0008

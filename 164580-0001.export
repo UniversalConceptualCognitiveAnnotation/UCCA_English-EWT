@@ -1,0 +1,34 @@
+#BOS 164580-0001
+For	Word	--	Terminal	500
+cheap	Word	--	Terminal	501
+Chinese	Word	--	Terminal	502
+food	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+this	Word	--	Terminal	505
+is	Word	--	Terminal	506
+the	Word	--	Terminal	507
+place	Word	--	Terminal	508
+to	Word	--	Terminal	509
+go	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	L	519
+#501	FN	--	S	515
+#502	FN	--	S	512
+#503	FN	--	C	513	A*	512
+#504	PNCT	--	U	519
+#505	FN	--	A	518
+#506	FN	--	S	518
+#507	FN	--	F	514
+#508	FN	--	C	514
+#509	FN	--	F	517
+#510	FN	--	P	517
+#511	PNCT	--	U	517
+#512	FN	--	E	513
+#513	FN	--	A	515
+#514	FN	--	A	517
+#515	FN	--	H	519
+#516	FN	--	A	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 164580-0001
