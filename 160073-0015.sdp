@@ -1,0 +1,16 @@
+# format = ucca
+1	You	_	Word	-	-	_	_	A	A*	A*
+2	do	_	Word	-	-	_	_	F	_	_
+3	n't	_	Word	-	-	_	_	D	D*	_
+4	have	_	Word	-	+	_	_	D	_	_
+5	to	_	Word	-	-	_	Terminal	_	_	_
+6	sit	_	Word	-	+	_	_	_	_	_
+7	and	_	Word	-	-	_	_	L	_	_
+8	wait	_	Word	-	+	_	_	H	_	_
+9	around	_	Word	-	-	_	_	_	D	_
+10	forever	_	Word	-	-	_	_	D*	D	_
+11	like	_	Word	-	-	_	_	L	_	_
+12	most	_	Word	-	-	_	_	_	_	E
+13	places	_	Word	-	+	_	_	H	_	_
+14	!!	_	Punctuation	-	-	_	_	_	_	U
+

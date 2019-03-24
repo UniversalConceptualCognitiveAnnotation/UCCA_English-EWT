@@ -1,12 +1,12 @@
 # format = ucca
 1	I	_	Word	-	-	_	A	_
-2	am	_	Word	-	+	_	_	_
-3	a	_	Word	-	-	_	_	E
-4	preferred	_	Word	-	-	_	_	E
-5	provider	_	Word	-	+	_	A	_
+2	am	_	Word	-	-	_	F	_
+3	a	_	Word	-	-	_	F	_
+4	preferred	_	Word	-	-	_	D	_
+5	provider	_	Word	-	+	_	_	_
 6	with	_	Word	-	-	_	_	F
 7	most	_	Word	-	-	_	_	E
 8	insurance	_	Word	-	-	_	_	E
-9	companies	_	Word	-	-	_	_	C
+9	companies	_	Word	-	+	_	A	_
 10	.	_	Punctuation	-	-	_	_	U
 

@@ -1,40 +1,40 @@
 # format = ucca
-1	I	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_
-2	normally	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_
-3	do	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_
-4	n't	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_
-5	write	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-6	reviews	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_
-7	but	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_
-8	seeing	_	Word	-	+	_	_	_	G	_	_	_	_	_	_	_	_
-9	that	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_
-10	I	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_	_
-11	considered	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
-12	Dillards	_	Word	-	-	_	_	_	_	A	A*	_	_	_	_	_	_
-13	a	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
-14	distinguished	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
-15	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
-16	upscale	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_
-17	place	_	Word	-	+	_	_	_	_	_	A*	_	_	_	_	_	_
-18	to	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_
-19	shop	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_
-20	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
-21	this	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
-22	one	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
-23	wo	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_
-24	n't	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_
-25	be	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_
-26	getting	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_
-27	my	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_
-28	business	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
-29	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_
-30	nor	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	D*	_
-31	my	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
-32	family	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
-33	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
-34	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
-35	nor	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	D*
-36	my	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-37	co-workers	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
-38	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	I	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_
+2	normally	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_
+3	do	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_
+4	n't	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_
+5	write	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	reviews	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_
+7	but	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
+8	seeing	_	Word	-	+	_	_	_	G	_	_	_	_	_	_	_	_	_
+9	that	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+10	I	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_	_	_
+11	considered	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+12	Dillards	_	Word	-	-	_	_	_	_	A	A*	_	_	_	_	_	_	_
+13	a	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_
+14	distinguished	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_
+15	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_
+16	upscale	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_
+17	place	_	Word	-	+	_	_	_	_	A	A*	_	_	_	_	_	_	_
+18	to	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_
+19	shop	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_
+20	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+21	this	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_
+22	one	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_
+23	wo	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_
+24	n't	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_
+25	be	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_
+26	getting	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_
+27	my	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_
+28	business	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+29	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_
+30	nor	_	Word	-	-	_	_	_	_	_	_	_	_	_	N	_	_	_
+31	my	_	Word	-	+	_	_	_	_	_	_	_	_	_	C	_	_	_
+32	family	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_
+33	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_
+34	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_
+35	nor	_	Word	-	-	_	_	_	_	_	_	_	_	_	N	_	_	_
+36	my	_	Word	-	+	_	_	_	_	_	_	_	_	_	C	_	_	_
+37	co-workers	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A
+38	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

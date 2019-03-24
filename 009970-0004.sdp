@@ -1,11 +1,11 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_
-2	people	_	Word	-	+	_	_	A*	_	A*
+1	The	_	Word	-	-	_	F	_	_	_
+2	people	_	Word	-	+	_	_	_	A	A*
 3	working	_	Word	-	+	_	E	_	_	_
 4	their	_	Word	-	-	_	_	A	_	_
 5	are	_	Word	-	-	_	_	_	F	_
-6	also	_	Word	-	-	_	_	_	G	_
-7	extremely	_	Word	-	-	_	_	_	D	_
+6	also	_	Word	-	-	_	_	_	D	D*
+7	extremely	_	Word	-	-	_	_	_	D	D*
 8	polite	_	Word	-	+	_	_	_	_	_
 9	and	_	Word	-	-	_	_	_	L	_
 10	friendly	_	Word	-	+	_	_	_	H	_

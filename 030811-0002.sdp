@@ -6,7 +6,7 @@
 5	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
 6	she	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_
 7	does	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_
-8	an	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
+8	an	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_
 9	amazing	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_
 10	job	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
 11	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
@@ -14,7 +14,7 @@
 13	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
 14	love	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
 15	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
-16	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
+16	the	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_
 17	way	_	Word	-	+	_	_	_	_	_	D	_	_	_	_	_	_	_
 18	she	_	Word	-	-	_	_	_	_	_	A	_	A*	_	_	_	_	_
 19	cuts	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_
@@ -24,9 +24,9 @@
 23	extremely	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_
 24	thorough	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
 25	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
-26	cross	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
-27	checks	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
-28	her	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
+26	cross	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_	_
+27	checks	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+28	her	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_
 29	work	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_
 30	to	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
 31	make	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
