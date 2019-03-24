@@ -526,9 +526,9 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
-      <edge toID="1.11" type="T">
+      <edge toID="1.11" type="D">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="T" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="D" />
       </edge>
       <edge toID="1.12" type="P">
         <attributes />
@@ -691,9 +691,9 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
-      <edge toID="1.27" type="T">
+      <edge toID="1.27" type="D">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="T" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="D" />
       </edge>
     </node>
     <node ID="1.22" type="FN">
@@ -883,9 +883,9 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
       </edge>
-      <edge toID="1.43" type="Q">
+      <edge toID="1.43" type="E">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="Q" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
       </edge>
       <edge toID="1.45" type="R">
         <attributes />
@@ -939,9 +939,9 @@
     <node ID="1.48" type="FN">
       <attributes />
       <extra tree_id="8" />
-      <edge toID="1.49" type="T">
+      <edge toID="1.49" type="D">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="T" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="D" />
       </edge>
       <edge toID="1.53" type="A">
         <attributes />
@@ -1883,23 +1883,15 @@
     <node ID="1.137" type="FN">
       <attributes />
       <extra remarks="Adi:&#10;&quot;off&quot; represents 'discount', so I've made it centre" tree_id="23-5" />
-      <edge toID="1.138" type="E">
+      <edge toID="1.139" type="E">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
       </edge>
-      <edge toID="1.141" type="C">
+      <edge toID="1.140" type="C">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>
-    </node>
-    <node ID="1.138" type="FN">
-      <attributes />
-      <extra tree_id="23-5-1" />
-      <edge toID="1.139" type="Q">
-        <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="Q" />
-      </edge>
-      <edge toID="1.140" type="C">
+      <edge toID="1.141" type="C">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>

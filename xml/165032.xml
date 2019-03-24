@@ -265,9 +265,9 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
       </edge>
-      <edge toID="1.8" type="Q">
+      <edge toID="1.8" type="E">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="Q" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
       </edge>
       <edge toID="1.10" type="R">
         <attributes />
@@ -502,9 +502,9 @@
     <node ID="1.29" type="FN">
       <attributes />
       <extra remarks="Dotan: revise" tree_id="4-3" />
-      <edge toID="1.30" type="Q">
+      <edge toID="1.30" type="E">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="Q" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
       </edge>
       <edge toID="1.31" type="C">
         <attributes />
@@ -982,9 +982,9 @@
     <node ID="1.76" type="FN">
       <attributes />
       <extra tree_id="9-4" />
-      <edge toID="1.77" type="Q">
+      <edge toID="1.77" type="E">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="Q" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
       </edge>
       <edge toID="1.78" type="C">
         <attributes />

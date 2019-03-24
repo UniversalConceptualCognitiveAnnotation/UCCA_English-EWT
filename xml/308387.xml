@@ -936,9 +936,9 @@
     <node ID="1.63" type="FN">
       <attributes />
       <extra tree_id="13" />
-      <edge toID="1.64" type="T">
+      <edge toID="1.64" type="D">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="T" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="D" />
       </edge>
       <edge toID="1.67" type="F">
         <attributes />
@@ -1160,9 +1160,9 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="R" />
       </edge>
-      <edge toID="1.86" type="T">
+      <edge toID="1.86" type="D">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="T" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="D" />
       </edge>
       <edge toID="1.89" type="F">
         <attributes />

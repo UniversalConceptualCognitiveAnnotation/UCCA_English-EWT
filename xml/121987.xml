@@ -485,9 +485,9 @@
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" tag="A" />
       </edge>
-      <edge toID="1.12" type="T">
+      <edge toID="1.12" type="D">
         <attributes />
-        <category layer_name="UCCA's Foundational Layer v2" tag="T" />
+        <category layer_name="UCCA's Foundational Layer v2" tag="D" />
       </edge>
     </node>
     <node ID="1.9" type="FN">
@@ -521,9 +521,9 @@
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" tag="R" />
       </edge>
-      <edge toID="1.14" type="Q">
+      <edge toID="1.14" type="E">
         <attributes />
-        <category layer_name="UCCA's Foundational Layer v2" tag="Q" />
+        <category layer_name="UCCA's Foundational Layer v2" tag="E" />
       </edge>
       <edge toID="1.15" type="C">
         <attributes />
@@ -1190,9 +1190,9 @@
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" tag="R" />
       </edge>
-      <edge toID="1.85" type="T">
+      <edge toID="1.85" type="D">
         <attributes />
-        <category layer_name="UCCA's Foundational Layer v2" tag="T" />
+        <category layer_name="UCCA's Foundational Layer v2" tag="D" />
       </edge>
       <edge toID="1.88" type="F">
         <attributes />
@@ -1218,9 +1218,9 @@
     <node ID="1.85" type="FN">
       <attributes />
       <extra tree_id="11-1-6-3" />
-      <edge toID="1.86" type="Q">
+      <edge toID="1.86" type="E">
         <attributes />
-        <category layer_name="UCCA's Foundational Layer v2" tag="Q" />
+        <category layer_name="UCCA's Foundational Layer v2" tag="E" />
       </edge>
       <edge toID="1.87" type="C">
         <attributes />
@@ -1362,9 +1362,9 @@
     <node ID="1.100" type="FN">
       <attributes />
       <extra tree_id="12" />
-      <edge toID="1.101" type="T">
+      <edge toID="1.101" type="D">
         <attributes />
-        <category layer_name="UCCA's Foundational Layer v2" tag="T" />
+        <category layer_name="UCCA's Foundational Layer v2" tag="D" />
       </edge>
       <edge toID="1.102" type="A">
         <attributes />
@@ -1762,9 +1762,9 @@
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" tag="F" />
       </edge>
-      <edge toID="1.60" type="T">
+      <edge toID="1.60" type="D">
         <attributes />
-        <category layer_name="UCCA's Foundational Layer v2" tag="T" />
+        <category layer_name="UCCA's Foundational Layer v2" tag="D" />
       </edge>
       <edge toID="1.61" type="D">
         <attributes />
@@ -1781,9 +1781,9 @@
         <attributes remote="True" />
         <category layer_name="UCCA's Foundational Layer v2" tag="A" />
       </edge>
-      <edge toID="1.60" type="T">
+      <edge toID="1.60" type="D">
         <attributes remote="True" />
-        <category layer_name="UCCA's Foundational Layer v2" tag="T" />
+        <category layer_name="UCCA's Foundational Layer v2" tag="D" />
       </edge>
       <edge toID="1.61" type="D">
         <attributes remote="True" />

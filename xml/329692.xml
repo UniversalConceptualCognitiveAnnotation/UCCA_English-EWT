@@ -680,9 +680,9 @@
         <attributes />
         <category tag="A" />
       </edge>
-      <edge toID="1.4" type="T">
+      <edge toID="1.4" type="D">
         <attributes />
-        <category tag="T" />
+        <category tag="D" />
         <category tag="D" />
       </edge>
       <edge toID="1.5" type="P">
@@ -717,9 +717,9 @@
     </node>
     <node ID="1.7" type="FN">
       <attributes />
-      <edge toID="1.8" type="T">
+      <edge toID="1.8" type="D">
         <attributes />
-        <category tag="T" />
+        <category tag="D" />
       </edge>
       <edge toID="1.12" type="A">
         <attributes />
@@ -798,9 +798,9 @@
         <attributes />
         <category tag="R" />
       </edge>
-      <edge toID="1.17" type="T">
+      <edge toID="1.17" type="D">
         <attributes />
-        <category tag="T" />
+        <category tag="D" />
       </edge>
       <edge toID="1.22" type="P">
         <attributes />
@@ -944,9 +944,9 @@
         <attributes />
         <category tag="P" />
       </edge>
-      <edge toID="1.36" type="T">
+      <edge toID="1.36" type="D">
         <attributes />
-        <category tag="T" />
+        <category tag="D" />
       </edge>
     </node>
     <node ID="1.33" type="FN">
@@ -972,9 +972,9 @@
     </node>
     <node ID="1.36" type="FN">
       <attributes />
-      <edge toID="1.37" type="Q">
+      <edge toID="1.37" type="E">
         <attributes />
-        <category tag="Q" />
+        <category tag="E" />
       </edge>
       <edge toID="1.38" type="C">
         <attributes />
@@ -1015,9 +1015,9 @@
     </node>
     <node ID="1.41" type="FN">
       <attributes />
-      <edge toID="1.36" type="T">
+      <edge toID="1.36" type="D">
         <attributes remote="True" />
-        <category tag="T" />
+        <category tag="D" />
       </edge>
       <edge toID="1.42" type="A">
         <attributes />
@@ -1147,9 +1147,9 @@
         <attributes />
         <category tag="P" />
       </edge>
-      <edge toID="1.59" type="T">
+      <edge toID="1.59" type="D">
         <attributes />
-        <category tag="T" />
+        <category tag="D" />
       </edge>
     </node>
     <node ID="1.57" type="FN">
@@ -1288,9 +1288,9 @@
         <attributes />
         <category tag="C" />
       </edge>
-      <edge toID="1.74" type="Q">
+      <edge toID="1.74" type="E">
         <attributes />
-        <category tag="Q" />
+        <category tag="E" />
       </edge>
     </node>
     <node ID="1.73" type="FN">
@@ -1371,9 +1371,9 @@
         <attributes />
         <category tag="F" />
       </edge>
-      <edge toID="1.84" type="Q">
+      <edge toID="1.84" type="E">
         <attributes />
-        <category tag="Q" />
+        <category tag="E" />
       </edge>
       <edge toID="1.85" type="C">
         <attributes />
@@ -1830,9 +1830,9 @@
     </node>
     <node ID="1.136" type="FN">
       <attributes />
-      <edge toID="1.137" type="T">
+      <edge toID="1.137" type="D">
         <attributes />
-        <category tag="T" />
+        <category tag="D" />
       </edge>
       <edge toID="1.140" type="S">
         <attributes />
@@ -2245,9 +2245,9 @@
         <attributes />
         <category tag="C" />
       </edge>
-      <edge toID="1.190" type="Q">
+      <edge toID="1.190" type="E">
         <attributes />
-        <category tag="Q" />
+        <category tag="E" />
       </edge>
     </node>
     <node ID="1.188" type="FN">
@@ -2366,9 +2366,9 @@
     </node>
     <node ID="1.202" type="FN">
       <attributes />
-      <edge toID="1.203" type="T">
+      <edge toID="1.203" type="D">
         <attributes />
-        <category tag="T" />
+        <category tag="D" />
       </edge>
       <edge toID="1.204" type="A">
         <attributes />

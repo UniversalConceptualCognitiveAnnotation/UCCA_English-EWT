@@ -1259,23 +1259,15 @@
     <node ID="1.80" type="FN">
       <attributes />
       <extra tree_id="8-3-3-3-4" />
-      <edge toID="1.81" type="E">
+      <edge toID="1.82" type="E">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
       </edge>
-      <edge toID="1.84" type="C">
+      <edge toID="1.83" type="C">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>
-    </node>
-    <node ID="1.81" type="FN">
-      <attributes />
-      <extra tree_id="8-3-3-3-4-1" />
-      <edge toID="1.82" type="Q">
-        <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="Q" />
-      </edge>
-      <edge toID="1.83" type="C">
+      <edge toID="1.84" type="C">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>
