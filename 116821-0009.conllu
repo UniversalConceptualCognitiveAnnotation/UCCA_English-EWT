@@ -1,0 +1,11 @@
+# sent_id = 116821-0009
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	crushed	crush	VERB	VBN	Tense=Past|VerbForm=Part	6	amod	6:amod	_
+4	red	red	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	pepper	pepper	NOUN	NN	Number=Sing	6	compound	6:compound	_
+6	flakes	flake	NOUN	NNS	Number=Plur	2	obj	2:obj	_
+7	and	and	CCONJ	CC	_	8	cc	8:cc	_
+8	oregano	oregano	NOUN	NN	Number=Sing	6	conj	2:obj|6:conj:and	SpaceAfter=No
+9	.	.	PUNCT	.	_	2	punct	2:punct	_
+

@@ -1,0 +1,19 @@
+# sent_id = 023620-0003
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	whole	whole	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	experience	experience	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
+4	shows	show	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
+6	hotel	hotel	NOUN	NN	Number=Sing	4	obj	4:obj	_
+7	managed	manage	VERB	VBN	Tense=Past|VerbForm=Part	6	acl	6:acl	_
+8	by	by	SCONJ	IN	_	9	case	9:case	_
+9	what	what	PRON	WP	PronType=Int	7	obl	7:obl:by	_
+10	must	must	AUX	MD	VerbForm=Fin	16	aux	16:aux	_
+11	be	be	AUX	VB	VerbForm=Inf	16	cop	16:cop	_
+12	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	_
+13	2	2	NUM	CD	NumType=Card	14	nummod	14:nummod	_
+14	star	star	NOUN	NN	Number=Sing	15	compound	15:compound	_
+15	hotel	hotel	NOUN	NN	Number=Sing	16	compound	16:compound	_
+16	manager	manager	NOUN	NN	Number=Sing	9	acl:relcl	9:acl:relcl	SpaceAfter=No
+17	.	.	PUNCT	.	_	4	punct	4:punct	_
+

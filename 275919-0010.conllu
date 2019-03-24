@@ -1,0 +1,23 @@
+# sent_id = 275919-0010
+1	Billing	billing	NOUN	NN	Number=Sing	2	nsubj	2:nsubj	_
+2	takes	take	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	15	15	NUM	CD	NumType=Card	4	nummod	4:nummod	_
+4	minutes	minute	NOUN	NNS	Number=Plur	2	obj	2:obj	_
+5	and	and	CCONJ	CC	_	9	cc	9:cc	_
+6	back	back	ADJ	JJ	Degree=Pos	7	amod	7:amod	SpaceAfter=No
+7	office	office	NOUN	NN	Number=Sing	8	compound	8:compound	_
+8	jobs	job	NOUN	NNS	Number=Plur	9	nsubj	9:nsubj	_
+9	takes	take	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	2:conj:and	_
+10	1	1	NUM	CD	NumType=Card	11	nummod	11:nummod	_
+11	day	day	NOUN	NN	Number=Sing	13	nmod:poss	13:nmod:poss	SpaceAfter=No
+12	's	's	PART	POS	_	11	case	11:case	_
+13	training	training	NOUN	NN	Number=Sing	9	obj	9:obj	_
+14	How	how	ADV	WRB	PronType=Int	15	advmod	15:advmod	_
+15	fast	fast	ADJ	JJ	Degree=Pos	20	advmod	20:advmod	_
+16	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	18	nmod:poss	18:nmod:poss	_
+17	support	support	NOUN	NN	Number=Sing	18	compound	18:compound	_
+18	queries	query	NOUN	NNS	Number=Plur	20	nsubj:pass	20:nsubj:pass	_
+19	get	get	AUX	VB	VerbForm=Inf	20	aux:pass	20:aux:pass	_
+20	answered	answer	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	parataxis	2:parataxis	_
+21	?	?	PUNCT	.	_	2	punct	2:punct	_
+

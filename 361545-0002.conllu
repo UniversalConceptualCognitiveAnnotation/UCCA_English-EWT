@@ -1,0 +1,37 @@
+# sent_id = 361545-0002
+1	Outside	outside	ADV	RB	_	19	advmod	19:advmod	_
+2	of	of	SCONJ	IN	_	7	mark	7:mark	_
+3	parking	parking	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
+4	being	be	AUX	VBG	VerbForm=Ger	7	cop	7:cop	_
+5	at	at	ADP	IN	_	7	case	7:case	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
+7	premium	premium	NOUN	NN	Number=Sing	1	advcl	1:advcl:at	SpaceAfter=No
+8	,	,	PUNCT	,	_	7	punct	7:punct	_
+9	especially	especially	ADV	RB	_	12	advmod	12:advmod	_
+10	on	on	ADP	IN	_	12	case	12:case	_
+11	discount	discount	NOUN	NN	Number=Sing	12	compound	12:compound	_
+12	days	day	NOUN	NNS	Number=Plur	7	obl	7:obl:on	SpaceAfter=No
+13	,	,	PUNCT	,	_	19	punct	19:punct	_
+14	The	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
+15	Laundry	Laundry	PROPN	NNP	Number=Sing	16	compound	16:compound	_
+16	Tub	Tub	PROPN	NNP	Number=Sing	19	nsubj	19:nsubj	_
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	19:cop	_
+18	not	not	PART	RB	_	19	advmod	19:advmod	_
+19	filthy	filthy	ADJ	JJ	Degree=Pos	0	root	0:root	_
+20	and	and	CCONJ	CC	_	24	cc	24:cc	_
+21	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	24	nsubj	24:nsubj	SpaceAfter=No
+22	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	24:cop	_
+23	no	no	ADV	RB	_	24	advmod	24:advmod	_
+24	smaller	smaller	ADJ	JJR	Degree=Cmp	19	conj	19:conj:and	_
+25	than	than	ADP	IN	_	26	case	26:case	_
+26	any	any	DET	DT	_	24	obl	24:obl:than	_
+27	of	of	ADP	IN	_	30	case	30:case	_
+28	a	a	DET	DT	Definite=Ind|PronType=Art	30	det	30:det	_
+29	dozen	dozen	NOUN	NN	Number=Sing	30	compound	30:compound	_
+30	laundromats	laundromat	NOUN	NNS	Number=Plur	26	nmod	26:nmod:of	_
+31	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	34	nsubj	34:nsubj	SpaceAfter=No
+32	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	34	aux	34:aux	_
+33	been	be	AUX	VBN	Tense=Past|VerbForm=Part	34	cop	34:cop	_
+34	in	in	ADP	IN	_	30	acl:relcl	30:acl:relcl	SpaceAfter=No
+35	.	.	PUNCT	.	_	19	punct	19:punct	_
+

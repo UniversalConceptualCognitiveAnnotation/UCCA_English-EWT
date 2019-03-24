@@ -1,0 +1,21 @@
+# sent_id = 355325-0004
+1	Now	now	ADV	RB	_	11	advmod	11:advmod	_
+2	that	that	SCONJ	IN	_	4	mark	4:mark	_
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+4	live	live	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	ccomp	1:ccomp	_
+5	here	here	ADV	RB	PronType=Dem	4	advmod	4:advmod	SpaceAfter=No
+6	,	,	PUNCT	,	_	11	punct	11:punct	_
+7	this	this	PRON	DT	Number=Sing|PronType=Dem	11	nsubj	11:nsubj	_
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	11:cop	_
+9	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
+10	favorite	favorite	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	place	place	NOUN	NN	Number=Sing	0	root	0:root	_
+12	to	to	PART	TO	_	13	mark	13:mark	_
+13	grab	grab	VERB	VB	VerbForm=Inf	11	acl	11:acl:to	_
+14	flowers	flower	NOUN	NNS	Number=Plur	13	obj	13:obj	_
+15	for	for	ADP	IN	_	16	case	16:case	_
+16	friends	friend	NOUN	NNS	Number=Plur	14	nmod	14:nmod:for	_
+17	and	and	CCONJ	CC	_	18	cc	18:cc	_
+18	coworkers	coworker	NOUN	NNS	Number=Plur	16	conj	14:nmod:for|16:conj:and	SpaceAfter=No
+19	!	!	PUNCT	.	_	11	punct	11:punct	_
+

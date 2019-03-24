@@ -1,0 +1,31 @@
+# sent_id = 127252-0006
+1	Already	already	ADV	RB	_	4	advmod	4:advmod	_
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	SpaceAfter=No
+3	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
+4	considering	consider	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
+5	future	future	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	projects	project	NOUN	NNS	Number=Plur	4	obj	4:obj	SpaceAfter=No
+7	,	,	PUNCT	,	_	11	punct	11:punct	_
+8	and	and	CCONJ	CC	_	11	cc	11:cc	_
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	11:nsubj	_
+10	can	can	AUX	MD	VerbForm=Fin	11	aux	11:aux	_
+11	assure	assure	VERB	VB	VerbForm=Inf	4	conj	4:conj:and	_
+12	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	11	obj	11:obj	_
+13	that	that	SCONJ	IN	_	21	mark	21:mark	_
+14	for	for	ADP	IN	_	17	case	17:case	_
+15	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	17	nmod:poss	17:nmod:poss	_
+16	printing	printing	NOUN	NN	Number=Sing	17	compound	17:compound	_
+17	needs	need	NOUN	NNS	Number=Plur	21	obl	21:obl:for	_
+18	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	21	nsubj	21:nsubj	_
+19	will	will	AUX	MD	VerbForm=Fin	21	aux	21:aux	_
+20	be	be	AUX	VB	VerbForm=Inf	21	aux	21:aux	_
+21	choosing	choose	VERB	VBG	Tense=Pres|VerbForm=Part	11	ccomp	11:ccomp	_
+22	no	no	DET	DT	_	23	det	23:det	_
+23	other	other	ADJ	JJ	Degree=Pos	21	obj	21:obj	_
+24	than	than	ADP	IN	_	28	case	28:case	_
+25	Atlanta	Atlanta	PROPN	NNP	Number=Sing	28	compound	28:compound	_
+26	Paperback	Paperback	PROPN	NNP	Number=Sing	27	compound	27:compound	_
+27	Book	Book	PROPN	NNP	Number=Sing	28	compound	28:compound	_
+28	Printing	Printing	PROPN	NNP	Number=Sing	23	obl	23:obl:than	SpaceAfter=No
+29	.	.	PUNCT	.	_	4	punct	4:punct	_
+

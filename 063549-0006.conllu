@@ -1,0 +1,15 @@
+# sent_id = 063549-0006
+1	If	if	SCONJ	IN	_	3	mark	3:mark	_
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	3:nsubj	_
+3	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	advcl	10:advcl:if	_
+4	great	great	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	food	food	NOUN	NN	Number=Sing	3	obj	3:obj	_
+6	then	then	ADV	RB	PronType=Dem	10	advmod	10:advmod	_
+7	L'espalier	L'espalier	PROPN	NNP	Number=Sing	10	nsubj	10:nsubj	_
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+10	place	place	NOUN	NN	Number=Sing	0	root	0:root	_
+11	to	to	PART	TO	_	12	mark	12:mark	_
+12	go	go	VERB	VB	VerbForm=Inf	10	acl	10:acl:to	SpaceAfter=No
+13	.	.	PUNCT	.	_	10	punct	10:punct	_
+

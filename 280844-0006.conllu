@@ -1,0 +1,15 @@
+# sent_id = 280844-0006
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|9:nsubj	_
+2	worked	work	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	with	with	ADP	IN	_	4	case	4:case	_
+4	Andrew	Andrew	PROPN	NNP	Number=Sing	2	obl	2:obl:with	_
+5	for	for	ADP	IN	_	7	case	7:case	_
+6	2	2	NUM	CD	NumType=Card	7	nummod	7:nummod	_
+7	months	month	NOUN	NNS	Number=Plur	2	obl	2:obl:for	_
+8	and	and	CCONJ	CC	_	9	cc	9:cc	_
+9	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
+10	acupuncture	acupuncture	NOUN	NN	Number=Sing	9	obj	9:obj	_
+11	and	and	CCONJ	CC	_	12	cc	12:cc	_
+12	herbs	herb	NOUN	NNS	Number=Plur	10	conj	9:obj|10:conj:and	SpaceAfter=No
+13	.	.	PUNCT	.	_	2	punct	2:punct	_
+

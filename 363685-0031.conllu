@@ -1,0 +1,12 @@
+# sent_id = 363685-0031
+1	Do	do	AUX	VB	VerbForm=Inf	3	aux	3:aux	SpaceAfter=No
+2	n't	not	PART	RB	_	3	advmod	3:advmod	_
+3	get	get	VERB	VB	VerbForm=Inf	0	root	0:root	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	rooms	room	NOUN	NNS	Number=Plur	3	obj	3:obj	_
+6	off	off	ADP	IN	_	9	case	9:case	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+8	two	two	NUM	CD	NumType=Card	9	nummod	9:nummod	_
+9	kitchens	kitchen	NOUN	NNS	Number=Plur	5	nmod	5:nmod:off	SpaceAfter=No
+10	.	.	PUNCT	.	_	3	punct	3:punct	_
+

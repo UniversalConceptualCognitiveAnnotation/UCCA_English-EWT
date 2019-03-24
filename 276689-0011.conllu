@@ -1,0 +1,13 @@
+# sent_id = 276689-0011
+1	Other	other	ADJ	JJ	Degree=Pos	3	advmod	3:advmod	_
+2	than	than	ADP	IN	_	3	case	3:case	_
+3	that	that	PRON	DT	Number=Sing|PronType=Dem	7	obl	7:obl:than	SpaceAfter=No
+4	,	,	PUNCT	,	_	7	punct	7:punct	_
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj|8:nsubj:xsubj	_
+6	would	would	AUX	MD	VerbForm=Fin	7	aux	7:aux	_
+7	recommend	recommend	VERB	VB	VerbForm=Inf	0	root	0:root	_
+8	living	live	VERB	VBG	VerbForm=Ger	7	xcomp	7:xcomp	_
+9	here	here	ADV	RB	PronType=Dem	8	advmod	8:advmod	SpaceAfter=No
+10	.	.	PUNCT	.	_	7	punct	7:punct	_
+11	:)	:)	SYM	NFP	_	7	discourse	7:discourse	_
+

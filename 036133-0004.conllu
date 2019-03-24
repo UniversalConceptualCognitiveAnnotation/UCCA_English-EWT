@@ -1,0 +1,14 @@
+# sent_id = 036133-0004
+1	Because	because	SCONJ	IN	_	3	mark	3:mark	_
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
+3	cut	cut	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	iobj	3:iobj	_
+5	good	good	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	deals	deal	NOUN	NNS	Number=Plur	3	obj	3:obj	_
+7	if	if	SCONJ	IN	_	9	mark	9:mark	_
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	_
+9	paid	pay	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	advcl	3:advcl:if	_
+10	in	in	ADP	IN	_	11	case	11:case	_
+11	cash	cash	NOUN	NN	Number=Sing	9	obl	9:obl:in	SpaceAfter=No
+12	.	.	PUNCT	.	_	3	punct	3:punct	_
+

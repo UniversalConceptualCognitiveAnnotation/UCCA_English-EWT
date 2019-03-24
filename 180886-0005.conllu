@@ -1,0 +1,19 @@
+# sent_id = 180886-0005
+1	Coming	come	VERB	VBG	VerbForm=Ger	16	advcl	16:advcl	_
+2	from	from	ADP	IN	_	4	case	4:case	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
+4	person	person	NOUN	NN	Number=Sing	1	obl	1:obl:from|6:nsubj	_
+5	who	who	PRON	WP	PronType=Rel	6	nsubj	4:ref	_
+6	hates	hate	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	4:acl:relcl	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+8	dentist	dentist	NOUN	NN	Number=Sing	6	obj	6:obj	_
+9	in	in	ADP	IN	_	10	case	10:case	_
+10	general	general	ADJ	JJ	Degree=Pos	6	obl	6:obl:in	SpaceAfter=No
+11	,	,	PUNCT	,	_	16	punct	16:punct	_
+12	Dr.	Dr.	PROPN	NNP	Number=Sing	16	nsubj	16:nsubj	_
+13	Taylor	Taylor	PROPN	NNP	Number=Sing	12	flat	12:flat	_
+14	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	cop	16:cop	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
+16	best	best	ADJ	JJS	Degree=Sup	0	root	0:root	SpaceAfter=No
+17	!	!	PUNCT	.	_	16	punct	16:punct	_
+

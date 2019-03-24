@@ -1,0 +1,20 @@
+# sent_id = 365154-0004
+1	After	after	ADP	IN	_	3	case	3:case	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+3	way	way	NOUN	NN	Number=Sing	17	obl	17:obl:after	_
+4	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
+5	spoke	speak	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	acl:relcl	3:acl:relcl	_
+6	to	to	ADP	IN	_	7	case	7:case	_
+7	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obl	5:obl:to	_
+8	on	on	ADP	IN	_	11	case	11:case	_
+9	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
+10	last	last	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	visit	visit	NOUN	NN	Number=Sing	5	obl	5:obl:on	SpaceAfter=No
+12	,	,	PUNCT	,	_	17	punct	17:punct	_
+13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	17:nsubj	_
+14	will	will	AUX	MD	VerbForm=Fin	17	aux	17:aux	_
+15	not	not	PART	RB	_	17	advmod	17:advmod	_
+16	be	be	AUX	VB	VerbForm=Inf	17	aux	17:aux	_
+17	returning	return	VERB	VBG	VerbForm=Ger	0	root	0:root	SpaceAfter=No
+18	!!	!!	PUNCT	.	_	17	punct	17:punct	_
+

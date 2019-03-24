@@ -1,0 +1,18 @@
+# newdoc id = 118679
+# sent_id = 118679-0001
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj|5:nsubj:xsubj	_
+2	really	really	ADV	RB	_	3	advmod	3:advmod	_
+3	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	to	to	PART	TO	_	5	mark	5:mark	_
+5	like	like	VERB	VB	VerbForm=Inf	3	xcomp	3:xcomp	_
+6	this	this	DET	DT	Number=Sing|PronType=Dem	7	det	7:det	_
+7	place	place	NOUN	NN	Number=Sing	5	obj	5:obj	_
+8	since	since	SCONJ	IN	_	10	mark	10:mark	_
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	_
+10	work	work	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	advcl	3:advcl:since	_
+11	right	right	ADV	RB	_	14	advmod	14:advmod	_
+12	around	around	ADP	IN	_	14	case	14:case	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
+14	corner	corner	NOUN	NN	Number=Sing	10	obl	10:obl:around	SpaceAfter=No
+15	.	.	PUNCT	.	_	3	punct	3:punct	_
+

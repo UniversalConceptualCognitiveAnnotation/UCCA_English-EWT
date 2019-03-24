@@ -1,0 +1,17 @@
+# sent_id = 371300-0006
+1	Oh	oh	INTJ	UH	_	12	discourse	12:discourse	SpaceAfter=No
+2	,	,	PUNCT	,	_	8	punct	8:punct	_
+3	and	and	CCONJ	CC	_	14	cc	14:cc	_
+4	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	_
+5	liquor	liquor	NOUN	NN	Number=Sing	6	compound	6:compound	_
+6	license	license	NOUN	NN	Number=Sing	8	nsubj	8:nsubj	_
+7	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	8:cop	_
+8	expired	expired	ADJ	JJ	Degree=Pos	0	root	0:root	_
+9	so	so	ADV	RB	_	12	advmod	12:advmod	_
+10	no	no	DET	DT	_	12	det	12:det	_
+11	Bloody	bloody	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
+12	Mary	mary	NOUN	NN	Number=Sing	8	parataxis	8:parataxis	_
+13	or	or	CCONJ	CC	_	14	cc	14:cc	_
+14	Mimosas	mimosa	NOUN	NNS	Number=Plur	12	conj	12:conj:or	SpaceAfter=No
+15	.	.	PUNCT	.	_	12	punct	12:punct	_
+

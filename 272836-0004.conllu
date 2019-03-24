@@ -1,0 +1,26 @@
+# sent_id = 272836-0004
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	4:expl	SpaceAfter=No
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
+3	really	really	ADV	RB	_	4	advmod	4:advmod	_
+4	cool	cool	ADJ	JJ	Degree=Pos	0	root	0:root	_
+5	that	that	SCONJ	IN	_	11	mark	11:mark	_
+6	so	so	ADV	RB	_	7	advmod	7:advmod	_
+7	many	many	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
+8	local	local	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
+9	businesses	business	NOUN	NNS	Number=Plur	11	nsubj:pass	11:nsubj:pass	_
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux:pass	11:aux:pass	_
+11	found	find	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	csubj	4:csubj	_
+12	so	so	ADV	RB	_	13	advmod	13:advmod	_
+13	quickly	quickly	ADV	RB	_	11	advmod	11:advmod	_
+14	in	in	ADP	IN	_	16	case	16:case	_
+15	one	one	NUM	CD	NumType=Card	16	nummod	16:nummod	_
+16	place	place	NOUN	NN	Number=Sing	11	obl	11:obl:in	_
+17	and	and	CCONJ	CC	_	19	cc	19:cc	_
+18	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	19:nsubj|21:nsubj:xsubj	_
+19	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	4:conj:and	_
+20	to	to	PART	TO	_	21	mark	21:mark	_
+21	spread	spread	VERB	VB	VerbForm=Inf	19	xcomp	19:xcomp	_
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	23:det	_
+23	word	word	NOUN	NN	Number=Sing	21	obj	21:obj	SpaceAfter=No
+24	.	.	PUNCT	.	_	4	punct	4:punct	_
+

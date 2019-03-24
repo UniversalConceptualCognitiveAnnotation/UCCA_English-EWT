@@ -1,0 +1,16 @@
+# sent_id = 118718-0005
+1	Dr.	Dr.	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj|9:nsubj	_
+2	Wallen	Wallen	PROPN	NNP	Number=Sing	1	flat	1:flat	_
+3	explained	explain	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	procedure	procedure	NOUN	NN	Number=Sing	3	obj	3:obj	_
+6	in	in	ADP	IN	_	7	case	7:case	_
+7	detail	detail	NOUN	NN	Number=Sing	3	obl	3:obl:in	_
+8	and	and	CCONJ	CC	_	9	cc	9:cc	_
+9	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	3:conj:and	_
+10	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
+11	time	time	NOUN	NN	Number=Sing	9	obj	9:obj	_
+12	with	with	ADP	IN	_	13	case	13:case	_
+13	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	obl	9:obl:with	SpaceAfter=No
+14	.	.	PUNCT	.	_	3	punct	3:punct	_
+

@@ -1,0 +1,18 @@
+# sent_id = 185045-0007
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	highly	highly	ADV	RB	_	3	advmod	3:advmod	_
+3	recommend	recommend	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	Joe	Joe	PROPN	NNP	Number=Sing	3	obj	3:obj	_
+5	and	and	CCONJ	CC	_	9	cc	9:cc	_
+6	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
+7	wasp	wasp	NOUN	NN	Number=Sing	8	compound	8:compound	_
+8	removal	removal	NOUN	NN	Number=Sing	9	compound	9:compound	_
+9	service	service	NOUN	NN	Number=Sing	4	conj	3:obj|4:conj:and	_
+10	to	to	ADP	IN	_	13	case	13:case	_
+11	individual	individual	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
+12	home	home	NOUN	NN	Number=Sing	13	compound	13:compound	_
+13	owners	owner	NOUN	NNS	Number=Plur	3	obl	3:obl:to	_
+14	and	and	CCONJ	CC	_	15	cc	15:cc	_
+15	condos	condo	NOUN	NNS	Number=Plur	13	conj	3:obl:to|13:conj:and	SpaceAfter=No
+16	.	.	PUNCT	.	_	3	punct	3:punct	_
+

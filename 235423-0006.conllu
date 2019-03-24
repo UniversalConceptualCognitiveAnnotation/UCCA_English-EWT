@@ -1,0 +1,25 @@
+# sent_id = 235423-0006
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	3:nsubj|8:nsubj:xsubj|11:nsubj|13:nsubj:xsubj	_
+2	also	also	ADV	RB	_	3	advmod	3:advmod	_
+3	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+5	friend	friend	NOUN	NN	Number=Sing	7	nmod:poss	7:nmod:poss	SpaceAfter=No
+6	s	's	PART	POS	_	5	case	5:case	_
+7	order	order	NOUN	NN	Number=Sing	8	obj	8:obj	_
+8	mixed	mix	VERB	VBN	Tense=Past|VerbForm=Part	3	xcomp	3:xcomp	_
+9	up	up	ADP	RP	_	8	compound:prt	8:compound:prt	_
+10	and	and	CCONJ	CC	_	11	cc	11:cc	_
+11	wanted	want	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	3:conj:and	_
+12	to	to	PART	TO	_	13	mark	13:mark	_
+13	charger	charger	VERB	VB	VerbForm=Inf	11	xcomp	11:xcomp	_
+14	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	iobj	13:iobj	_
+15	$	$	SYM	$	_	17	obl:npmod	17:obl:npmod	SpaceAfter=No
+16	10	10	NUM	CD	NumType=Card	15	nummod	15:nummod	_
+17	more	more	ADJ	JJR	Degree=Cmp	13	obj	13:obj	_
+18	than	than	SCONJ	IN	_	19	case	19:case	_
+19	what	what	PRON	WP	PronType=Int	17	obl	17:obl:than	_
+20	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	22	nsubj	22:nsubj	_
+21	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	22	aux	22:aux	_
+22	wanted	want	VERB	VBN	Tense=Past|VerbForm=Part	19	acl:relcl	19:acl:relcl	SpaceAfter=No
+23	.	.	PUNCT	.	_	3	punct	3:punct	_
+

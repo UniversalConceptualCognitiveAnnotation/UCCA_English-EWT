@@ -1,0 +1,19 @@
+# sent_id = 196219-0005
+1	IF	if	SCONJ	IN	_	3	mark	3:mark	_
+2	YOU	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	3:nsubj	_
+3	WANT	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	advcl	13:advcl:if	_
+4	A	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
+5	STEAK	steak	NOUN	NN	Number=Sing	3	obj	3:obj	SpaceAfter=No
+6	,	,	PUNCT	,	_	13	punct	13:punct	_
+7	WELL	well	INTJ	UH	_	13	discourse	13:discourse	SpaceAfter=No
+8	,	,	PUNCT	,	_	13	punct	13:punct	_
+9	THIS	this	PRON	DT	Number=Sing|PronType=Dem	13	nsubj	13:nsubj	_
+10	IS	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	13:cop	_
+11	NOT	not	PART	RB	_	13	advmod	13:advmod	_
+12	THE	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
+13	BEST	best	ADJ	JJS	Degree=Sup	0	root	0:root	_
+14	IN	in	ADP	IN	_	16	case	16:case	_
+15	GREEN	GREEN	PROPN	NNP	Number=Sing	16	compound	16:compound	_
+16	BAY	BAY	PROPN	NNP	Number=Sing	13	obl	13:obl:in	SpaceAfter=No
+17	.	.	PUNCT	.	_	13	punct	13:punct	_
+

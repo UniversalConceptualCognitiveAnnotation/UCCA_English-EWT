@@ -1,0 +1,24 @@
+# sent_id = 127157-0004
+1	One	one	NUM	CD	NumType=Card	2	nummod	2:nummod	_
+2	guy	guy	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
+5	little	little	NOUN	NN	Number=Sing	6	obl:npmod	6:obl:npmod	_
+6	surley	surley	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
+7	,	,	PUNCT	,	_	10	punct	10:punct	_
+8	but	but	CCONJ	CC	_	10	cc	10:cc	_
+9	who	who	PRON	WP	PronType=Int	10	nsubj	10:nsubj	_
+10	gives	give	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	6:conj:but	_
+11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	_
+12	crap	crap	NOUN	NN	Number=Sing	10	obj	10:obj	_
+13	as	as	ADV	RB	_	14	advmod	14:advmod	_
+14	long	long	ADV	RB	Degree=Pos	10	advmod	10:advmod	_
+15	as	as	SCONJ	IN	_	21	mark	21:mark	_
+16	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	17	nmod:poss	17:nmod:poss	_
+17	car	car	NOUN	NN	Number=Sing	19	nmod:poss	19:nmod:poss	SpaceAfter=No
+18	's	's	PART	POS	_	17	case	17:case	_
+19	work	work	NOUN	NN	Number=Sing	21	nsubj	21:nsubj	_
+20	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	21:cop	_
+21	outstanding	outstanding	ADJ	JJ	Degree=Pos	13	advcl	13:advcl:as	SpaceAfter=No
+22	.	.	PUNCT	.	_	6	punct	6:punct	_
+

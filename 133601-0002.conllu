@@ -1,0 +1,12 @@
+# sent_id = 133601-0002
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	3:nsubj|5:nsubj|7:nsubj|9:nsubj	_
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
+3	knowledgeable	knowledgeable	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
+4	,	,	PUNCT	,	_	5	punct	5:punct	_
+5	professional	professional	ADJ	JJ	Degree=Pos	3	conj	3:conj:and	SpaceAfter=No
+6	,	,	PUNCT	,	_	7	punct	7:punct	_
+7	gentel	gentel	ADJ	JJ	Degree=Pos	3	conj	3:conj:and	_
+8	and	and	CCONJ	CC	_	9	cc	9:cc	_
+9	kind	kind	ADJ	JJ	Degree=Pos	3	conj	3:conj:and	SpaceAfter=No
+10	.	.	PUNCT	.	_	3	punct	3:punct	_
+

@@ -1,0 +1,15 @@
+# sent_id = 317594-0006
+1	Either	either	CCONJ	CC	_	3	cc:preconj	3:cc:preconj	_
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+3	suck	suck	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	at	at	ADP	IN	_	7	case	7:case	_
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
+6	own	own	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
+7	style	style	NOUN	NN	Number=Sing	3	obl	3:obl:at	_
+8	or	or	CCONJ	CC	_	12	cc	12:cc	_
+9	Janice	Janice	PROPN	NNP	Number=Sing	12	nsubj	12:nsubj	_
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
+11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	_
+12	genius	genius	NOUN	NN	Number=Sing	3	conj	3:conj:or	SpaceAfter=No
+13	.	.	PUNCT	.	_	3	punct	3:punct	_
+

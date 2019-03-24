@@ -1,0 +1,23 @@
+# sent_id = 039856-0004
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	talk	talk	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	down	down	ADV	RP	_	2	compound:prt	2:compound:prt	_
+4	to	to	ADP	IN	_	5	case	5:case	_
+5	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obl	2:obl:to	_
+6	like	like	SCONJ	IN	_	10	mark	10:mark	_
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	10:nsubj	_
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
+9	supreme	supreme	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
+10	beings	being	NOUN	NNS	Number=Plur	2	advcl	2:advcl:like	SpaceAfter=No
+11	,	,	PUNCT	,	_	2	punct	2:punct	_
+12	if	if	SCONJ	IN	_	14	mark	14:mark	_
+13	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	14:nsubj	_
+14	hate	hate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	advcl	20:advcl:if	_
+15	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	16	nmod:poss	16:nmod:poss	_
+16	job	job	NOUN	NN	Number=Sing	14	obj	14:obj	_
+17	so	so	ADV	RB	_	18	advmod	18:advmod	_
+18	much	much	ADV	RB	_	14	advmod	14:advmod	_
+19	then	then	ADV	RB	PronType=Dem	20	advmod	20:advmod	_
+20	quit	quit	VERB	VB	Mood=Imp|VerbForm=Fin	2	parataxis	2:parataxis	SpaceAfter=No
+21	!!	!!	PUNCT	.	_	2	punct	2:punct	_
+

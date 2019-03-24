@@ -1,0 +1,9 @@
+# sent_id = 371492-0004
+1	Both	both	CCONJ	CC	_	2	cc:preconj	2:cc:preconj	_
+2	Tina	Tina	PROPN	NNP	Number=Sing	6	nsubj	6:nsubj	_
+3	and	and	CCONJ	CC	_	4	cc	4:cc	_
+4	Vicky	Vicky	PROPN	NNP	Number=Sing	2	conj	2:conj:and|6:nsubj	_
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+6	excellent	excellent	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
+7	.	.	PUNCT	.	_	6	punct	6:punct	_
+

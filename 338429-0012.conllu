@@ -1,0 +1,19 @@
+# sent_id = 338429-0012
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	2:det	_
+2	girl	girl	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
+3	would	would	AUX	MD	VerbForm=Fin	4	aux	4:aux	_
+4	show	show	VERB	VB	VerbForm=Inf	0	root	0:root	_
+5	up	up	ADP	RP	_	4	compound:prt	4:compound:prt	SpaceAfter=No
+6	,	,	PUNCT	,	_	15	punct	15:punct	_
+7	then	then	ADV	RB	PronType=Dem	15	advmod	15:advmod	_
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
+9	guy	guy	NOUN	NN	Number=Sing	15	nsubj	15:nsubj	_
+10	in	in	ADP	IN	_	13	case	13:case	_
+11	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	13:det	_
+12	nice	nice	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
+13	car	car	NOUN	NN	Number=Sing	9	nmod	9:nmod:in	_
+14	would	would	AUX	MD	VerbForm=Fin	15	aux	15:aux	_
+15	show	show	VERB	VB	VerbForm=Inf	4	conj	4:conj	_
+16	up	up	ADP	RP	_	15	compound:prt	15:compound:prt	SpaceAfter=No
+17	.	.	PUNCT	.	_	4	punct	4:punct	_
+

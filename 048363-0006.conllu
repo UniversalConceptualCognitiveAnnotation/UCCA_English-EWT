@@ -1,0 +1,20 @@
+# sent_id = 048363-0006
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	called	call	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
+4	school	school	NOUN	NN	Number=Sing	2	obj	2:obj	_
+5	most	most	ADV	RBS	_	6	advmod	6:advmod	_
+6	probably	probably	ADV	RB	_	2	advmod	2:advmod	_
+7	10	10	NUM	CD	NumType=Card	8	nummod	8:nummod	_
+8	times	time	NOUN	NNS	Number=Plur	2	obl:tmod	2:obl:tmod	_
+9	before	before	SCONJ	IN	_	12	mark	12:mark	_
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	12:nsubj	_
+11	finally	finally	ADV	RB	_	12	advmod	12:advmod	_
+12	enrolled	enrol	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	advcl	2:advcl:before	_
+13	in	in	ADP	IN	_	17	case	17:case	_
+14	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	17:det	_
+15	20	20	NUM	CD	NumType=Card	16	nummod	16:nummod	_
+16	hour	hour	NOUN	NN	Number=Sing	17	compound	17:compound	_
+17	package	package	NOUN	NN	Number=Sing	12	obl	12:obl:in	SpaceAfter=No
+18	.	.	PUNCT	.	_	2	punct	2:punct	_
+

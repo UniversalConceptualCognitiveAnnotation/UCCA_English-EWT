@@ -1,0 +1,15 @@
+# sent_id = 338429-0002
+1	Myself	myself	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	6	nmod:poss	6:nmod:poss	_
+2	and	and	CCONJ	CC	_	4	cc	4:cc	_
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+4	fiance	fiance	NOUN	NN	Number=Sing	1	conj	1:conj:and|6:nmod:poss	SpaceAfter=No
+5	's	's	PART	POS	_	1	case	1:case	_
+6	identity	identity	NOUN	NN	Number=Sing	8	nsubj:pass	8:nsubj:pass	_
+7	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux:pass	8:aux:pass	_
+8	stolen	steal	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+9	from	from	ADP	IN	_	12	case	12:case	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
+11	office	office	NOUN	NN	Number=Sing	12	compound	12:compound	_
+12	staff	staff	NOUN	NN	Number=Sing	8	obl	8:obl:from	SpaceAfter=No
+13	.	.	PUNCT	.	_	8	punct	8:punct	_
+

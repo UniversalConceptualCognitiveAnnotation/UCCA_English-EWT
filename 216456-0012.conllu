@@ -1,0 +1,32 @@
+# sent_id = 216456-0012
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
+3	sure	sure	ADJ	JJ	Degree=Pos	0	root	0:root	_
+4	this	this	PRON	DT	Number=Sing|PronType=Dem	8	nsubj	8:nsubj	_
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	8:det	_
+7	good	good	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
+8	place	place	NOUN	NN	Number=Sing	3	ccomp	3:ccomp	_
+9	to	to	PART	TO	_	10	mark	10:mark	_
+10	stay	stay	VERB	VB	VerbForm=Inf	8	acl	8:acl:to	_
+11	from	from	SCONJ	IN	_	12	mark	12:mark	_
+12	reading	read	VERB	VBG	VerbForm=Ger	3	advcl	3:advcl:from	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	15	det	15:det	_
+14	other	other	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
+15	reviews	review	NOUN	NNS	Number=Plur	12	obj	12:obj	SpaceAfter=No
+16	,	,	PUNCT	,	_	29	punct	29:punct	_
+17	but	but	CCONJ	CC	_	29	cc	29:cc	_
+18	if	if	SCONJ	IN	_	21	mark	21:mark	_
+19	something	something	PRON	NN	Number=Sing	21	nsubj	21:nsubj	_
+20	unexpected	unexpected	ADJ	JJ	Degree=Pos	19	amod	19:amod	_
+21	happens	happen	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	advcl	29:advcl:if	_
+22	in	in	ADP	IN	_	24	case	24:case	_
+23	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	24	nmod:poss	24:nmod:poss	_
+24	life	life	NOUN	NN	Number=Sing	21	obl	21:obl:in	SpaceAfter=No
+25	,	,	PUNCT	,	_	29	punct	29:punct	_
+26	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	29	nsubj	29:nsubj	_
+27	will	will	AUX	MD	VerbForm=Fin	29	aux	29:aux	_
+28	not	not	PART	RB	_	29	advmod	29:advmod	_
+29	care	care	VERB	VB	VerbForm=Inf	3	conj	3:conj:but	SpaceAfter=No
+30	.	.	PUNCT	.	_	3	punct	3:punct	_
+

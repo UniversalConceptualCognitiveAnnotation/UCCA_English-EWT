@@ -1,0 +1,18 @@
+# sent_id = 235423-0008
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	aux	3:aux	_
+3	standing	stand	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
+4	in	in	ADP	IN	_	6	case	6:case	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+6	store	store	NOUN	NN	Number=Sing	3	obl	3:obl:in	_
+7	for	for	ADP	IN	_	9	case	9:case	_
+8	20	20	NUM	CD	NumType=Card	9	nummod	9:nummod	SpaceAfter=No
+9	minutes	minute	NOUN	NNS	Number=Plur	3	obl	3:obl:for	_
+10	to	to	PART	TO	_	12	mark	12:mark	_
+11	simply	simply	ADV	RB	_	12	advmod	12:advmod	_
+12	pick	pick	VERB	VB	VerbForm=Inf	3	advcl	3:advcl:to	_
+13	up	up	ADP	RP	_	12	compound:prt	12:compound:prt	_
+14	an	a	DET	DT	Definite=Ind|PronType=Art	15	det	15:det	_
+15	order	order	NOUN	NN	Number=Sing	12	obj	12:obj	SpaceAfter=No
+16	.	.	PUNCT	.	_	3	punct	3:punct	_
+

@@ -1,0 +1,13 @@
+# sent_id = 127157-0003
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+4	best	best	ADJ	JJS	Degree=Sup	5	amod	5:amod	_
+5	prices	price	NOUN	NNS	Number=Plur	2	obj	2:obj	_
+6	locally	locally	ADV	RB	_	5	advmod	5:advmod	_
+7	and	and	CCONJ	CC	_	10	cc	10:cc	_
+8	good	good	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
+9	customer	customer	NOUN	NN	Number=Sing	10	compound	10:compound	_
+10	service	service	NOUN	NN	Number=Sing	5	conj	2:obj|5:conj:and	SpaceAfter=No
+11	.	.	PUNCT	.	_	2	punct	2:punct	_
+

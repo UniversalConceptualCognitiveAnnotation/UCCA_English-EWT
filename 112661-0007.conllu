@@ -1,0 +1,22 @@
+# sent_id = 112661-0007
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	also	also	ADV	RB	_	3	advmod	3:advmod	_
+3	ordered	order	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+5	Neptune	Neptune	PROPN	NNP	Number=Sing	6	compound	6:compound	_
+6	Platter	platter	NOUN	NN	Number=Sing	3	obj	3:obj|9:nsubj	_
+7	which	which	PRON	WDT	PronType=Rel	9	nsubj	6:ref	_
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	9:cop	_
+9	awesome	awesome	ADJ	JJ	Degree=Pos	6	acl:relcl	6:acl:relcl	SpaceAfter=No
+10	...	...	PUNCT	,	_	3	punct	3:punct	_
+11	so	so	ADV	RB	_	14	advmod	14:advmod	_
+12	this	this	DET	DT	Number=Sing|PronType=Dem	13	det	13:det	_
+13	place	place	NOUN	NN	Number=Sing	14	nsubj	14:nsubj	_
+14	gets	get	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	3:parataxis	_
+15	5	5	NUM	CD	NumType=Card	19	compound	19:compound	_
+16	out	out	ADP	IN	_	18	case	18:case	_
+17	of	of	ADP	IN	_	18	case	18:case	_
+18	5	5	NUM	CD	NumType=Card	15	nmod	15:nmod:of	_
+19	stars	star	NOUN	NNS	Number=Plur	14	obj	14:obj	SpaceAfter=No
+20	.	.	PUNCT	.	_	3	punct	3:punct	_
+

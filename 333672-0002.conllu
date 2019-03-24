@@ -1,0 +1,10 @@
+# sent_id = 333672-0002
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	purchased	purchase	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
+4	nissan	nissan	PROPN	NNP	Number=Sing	2	obj	2:obj	_
+5	from	from	ADP	IN	_	7	case	7:case	_
+6	this	this	DET	DT	Number=Sing|PronType=Dem	7	det	7:det	_
+7	dealship	dealship	NOUN	NN	Number=Sing	2	obl	2:obl:from	SpaceAfter=No
+8	.	.	PUNCT	.	_	2	punct	2:punct	_
+

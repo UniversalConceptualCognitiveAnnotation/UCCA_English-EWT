@@ -1,0 +1,23 @@
+# sent_id = 020992-0007
+1	After	after	SCONJ	IN	_	2	mark	2:mark	_
+2	checking	check	VERB	VBG	VerbForm=Ger	14	advcl	14:advcl:after	_
+3	for	for	ADP	IN	_	4	case	4:case	_
+4	signs	sign	NOUN	NNS	Number=Plur	2	obl	2:obl:for	_
+5	of	of	ADP	IN	_	6	case	6:case	_
+6	fire	fire	NOUN	NN	Number=Sing	4	nmod	4:nmod:of	_
+7	or	or	CCONJ	CC	_	8	cc	8:cc	_
+8	smoke	smoke	NOUN	NN	Number=Sing	6	conj	4:nmod:of|6:conj:or	_
+9	and	and	CCONJ	CC	_	10	cc	10:cc	_
+10	seeing	see	VERB	VBG	VerbForm=Ger	2	conj	2:conj:and|14:advcl:after	_
+11	none	none	NOUN	NN	Number=Sing	10	obj	10:obj	SpaceAfter=No
+12	,	,	PUNCT	,	_	14	punct	14:punct	_
+13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	14:nsubj|17:nsubj:xsubj|20:nsubj:xsubj	_
+14	decided	decide	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+15	to	to	PART	TO	_	17	mark	17:mark	_
+16	just	just	ADV	RB	_	17	advmod	17:advmod	_
+17	pack	pack	VERB	VB	VerbForm=Inf	14	xcomp	14:xcomp	_
+18	up	up	ADP	RP	_	17	compound:prt	17:compound:prt	_
+19	and	and	CCONJ	CC	_	20	cc	20:cc	_
+20	leave	leave	VERB	VB	VerbForm=Inf	17	conj	14:xcomp|17:conj:and	SpaceAfter=No
+21	.	.	PUNCT	.	_	14	punct	14:punct	_
+

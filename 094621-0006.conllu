@@ -1,0 +1,13 @@
+# sent_id = 094621-0006
+1	Seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	to	to	ADP	IN	_	3	case	3:case	_
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obl	1:obl:to	_
+4	like	like	SCONJ	IN	_	6	mark	6:mark	_
+5	A&E	A&E	PROPN	NNP	Number=Sing	6	nsubj	6:nsubj	_
+6	charges	charge	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	1:advcl:like	_
+7	way	way	ADV	RB	_	8	advmod	8:advmod	_
+8	more	more	ADJ	JJR	Degree=Cmp	6	obj	6:obj	_
+9	than	than	SCONJ	IN	_	10	mark	10:mark	_
+10	necessary	necessary	ADJ	JJ	Degree=Pos	8	advcl	8:advcl:than	SpaceAfter=No
+11	!	!	PUNCT	.	_	1	punct	1:punct	_
+

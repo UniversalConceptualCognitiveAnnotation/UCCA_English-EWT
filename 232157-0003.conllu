@@ -1,0 +1,37 @@
+# sent_id = 232157-0003
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
+4	great	great	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	deal	deal	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
+6	--	--	PUNCT	,	_	5	punct	5:punct	SpaceAfter=No
+7	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	8:nsubj	_
+8	paid	pay	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	parataxis	5:parataxis	_
+9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	_
+10	certain	certain	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	amount	amount	NOUN	NN	Number=Sing	8	obj	8:obj	_
+12	per	per	ADP	IN	_	13	case	13:case	_
+13	person	person	NOUN	NN	Number=Sing	11	nmod	11:nmod:per	SpaceAfter=No
+14	,	,	PUNCT	,	_	20	punct	20:punct	_
+15	and	and	CCONJ	CC	_	20	cc	20:cc	_
+16	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	17	nmod:poss	17:nmod:poss	_
+17	husband	husband	NOUN	NN	Number=Sing	20	nsubj	20:nsubj	_
+18	and	and	CCONJ	CC	_	19	cc	19:cc	_
+19	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	conj	17:conj:and|20:nsubj	_
+20	chose	choose	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	conj	5:conj:and	_
+21	4	4	NUM	CD	NumType=Card	22	nummod	22:nummod	_
+22	types	type	NOUN	NNS	Number=Plur	20	obj	20:obj	_
+23	of	of	ADP	IN	_	24	case	24:case	_
+24	pizza	pizza	NOUN	NN	Number=Sing	22	nmod	22:nmod:of	_
+25	and	and	CCONJ	CC	_	28	cc	28:cc	_
+26	the	the	DET	DT	Definite=Def|PronType=Art	27	det	27:det	_
+27	servers	server	NOUN	NNS	Number=Plur	28	nsubj	28:nsubj	_
+28	brought	bring	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	conj	5:conj:and	_
+29	out	out	ADV	RB	_	28	advmod	28:advmod	_
+30	as	as	ADV	RB	_	31	advmod	31:advmod	_
+31	much	much	ADJ	JJ	Degree=Pos	28	obj	28:obj	_
+32	as	as	SCONJ	IN	_	34	mark	34:mark	_
+33	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	34	nsubj	34:nsubj	_
+34	wanted	want	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	31	advcl	31:advcl:as	SpaceAfter=No
+35	.	.	PUNCT	.	_	5	punct	5:punct	_
+

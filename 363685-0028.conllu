@@ -1,0 +1,13 @@
+# sent_id = 363685-0028
+1	Bath	bath	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	3:cop	_
+3	clean	clean	ADJ	JJ	Degree=Pos	0	root	0:root	_
+4	except	except	ADP	IN	_	6	case	6:case	_
+5	shower	shower	NOUN	NN	Number=Sing	6	compound	6:compound	_
+6	stall	stall	NOUN	NN	Number=Sing	3	obl	3:obl:except|8:nsubj	_
+7	which	which	PRON	WDT	PronType=Rel	8	nsubj	6:ref	_
+8	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	acl:relcl	6:acl:relcl	_
+9	mildew	mildew	NOUN	NN	Number=Sing	10	compound	10:compound	_
+10	problems	problem	NOUN	NNS	Number=Plur	8	obj	8:obj	SpaceAfter=No
+11	.	.	PUNCT	.	_	3	punct	3:punct	_
+

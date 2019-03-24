@@ -1,0 +1,21 @@
+# sent_id = 018548-0009
+1	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	that	that	DET	DT	Number=Sing|PronType=Dem	5	det	5:det	_
+4	whole	whole	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	thing	thing	NOUN	NN	Number=Sing	2	obj	2:obj	_
+6	where	where	ADV	WRB	PronType=Rel	8	advmod	8:advmod	_
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	8:nsubj	_
+8	sandwich	sandwich	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	acl:relcl	5:acl:relcl	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+10	pepperoni	pepperoni	NOUN	NN	Number=Sing	8	obj	8:obj	_
+11	between	between	ADP	IN	_	12	case	12:case	_
+12	layers	layer	NOUN	NNS	Number=Plur	8	obl	8:obl:between	_
+13	of	of	ADP	IN	_	14	case	14:case	_
+14	cheese	cheese	NOUN	NN	Number=Sing	12	nmod	12:nmod:of	_
+15	for	for	ADP	IN	_	17	case	17:case	_
+16	+	+	SYM	SYM	_	17	advmod	17:advmod	SpaceAfter=No
+17	32	32	NUM	CD	NumType=Card	8	obl	8:obl:for	_
+18	delicious	delicious	ADJ	JJ	Degree=Pos	17	amod	17:amod	SpaceAfter=No
+19	.	.	PUNCT	.	_	2	punct	2:punct	_
+

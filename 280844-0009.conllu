@@ -1,0 +1,16 @@
+# sent_id = 280844-0009
+1	(	(	PUNCT	-LRB-	_	7	punct	7:punct	SpaceAfter=No
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	_
+3	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
+4	also	also	ADV	RB	_	7	advmod	7:advmod	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
+6	little	little	ADJ	JJ	Degree=Pos	7	obl:npmod	7:obl:npmod	_
+7	suspicious	suspicious	ADJ	JJ	Degree=Pos	0	root	0:root	_
+8	of	of	ADP	IN	_	12	case	12:case	_
+9	all	all	DET	PDT	_	12	det:predet	12:det:predet	_
+10	these	these	DET	DT	Number=Plur|PronType=Dem	12	det	12:det	_
+11	glowing	glow	VERB	VBG	VerbForm=Ger	12	amod	12:amod	_
+12	reviews	review	NOUN	NNS	Number=Plur	7	obl	7:obl:of	SpaceAfter=No
+13	...	...	PUNCT	,	_	7	punct	7:punct	SpaceAfter=No
+14	)	)	PUNCT	-RRB-	_	7	punct	7:punct	_
+

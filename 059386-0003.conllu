@@ -1,0 +1,34 @@
+# sent_id = 059386-0003
+1	Wait	wait	NOUN	NN	Number=Sing	2	compound	2:compound	_
+2	staff	staff	NOUN	NN	Number=Sing	5	nsubj	5:nsubj|7:nsubj:xsubj|31:nsubj	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+4	always	always	ADV	RB	_	5	advmod	5:advmod	_
+5	ready	ready	ADJ	JJ	Degree=Pos	0	root	0:root	_
+6	to	to	PART	TO	_	7	mark	7:mark	_
+7	help	help	VERB	VB	VerbForm=Inf	5	xcomp	5:xcomp	_
+8	if	if	SCONJ	IN	_	12	mark	12:mark	_
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	12:nsubj	_
+10	ca	can	AUX	MD	VerbForm=Fin	12	aux	12:aux	SpaceAfter=No
+11	n't	not	PART	RB	_	12	advmod	12:advmod	_
+12	decide	decide	VERB	VB	VerbForm=Inf	7	advcl	7:advcl:if|15:nsubj	_
+13	(	(	PUNCT	-LRB-	_	15	punct	15:punct	SpaceAfter=No
+14	which	which	PRON	WDT	PronType=Rel	15	nsubj	12:ref	_
+15	happens	happen	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	12:acl:relcl	_
+16	every	every	DET	DT	_	17	det	17:det	_
+17	time	time	NOUN	NN	Number=Sing	15	obl:tmod	15:obl:tmod	_
+18	for	for	ADP	IN	_	19	case	19:case	_
+19	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	15	obl	15:obl:for	_
+20	d	due	ADP	IN	Abbr=Yes	25	case	25:case	SpaceAfter=No
+21	/	/	PUNCT	HYPH	_	20	fixed	20:fixed	SpaceAfter=No
+22	t	to	ADP	IN	Abbr=Yes	20	fixed	20:fixed	_
+23	the	the	DET	DT	Definite=Def|PronType=Art	25	det	25:det	_
+24	huge	huge	ADJ	JJ	Degree=Pos	25	amod	25:amod	_
+25	menu	menu	NOUN	NN	Number=Sing	15	obl	15:obl:due_to	_
+26	of	of	ADP	IN	_	27	case	27:case	_
+27	rolls	roll	NOUN	NNS	Number=Plur	25	nmod	25:nmod:of	SpaceAfter=No
+28	)	)	PUNCT	-RRB-	_	15	punct	15:punct	_
+29	and	and	CCONJ	CC	_	31	cc	31:cc	_
+30	always	always	ADV	RB	_	31	advmod	31:advmod	_
+31	courteous	courteous	ADJ	JJ	Degree=Pos	5	conj	5:conj:and	SpaceAfter=No
+32	!	!	PUNCT	.	_	5	punct	5:punct	_
+

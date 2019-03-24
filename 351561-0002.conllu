@@ -1,0 +1,31 @@
+# sent_id = 351561-0002
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	called	call	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	dominos	dominos	PROPN	NNP	Number=Sing	2	obj	2:obj	_
+4	tonight	tonight	NOUN	NN	Number=Sing	2	obl:tmod	2:obl:tmod	SpaceAfter=No
+5	,	,	PUNCT	,	_	7	punct	7:punct	_
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	7:nsubj	_
+7	rang	ring	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
+8	forever	forever	ADV	RB	_	7	advmod	7:advmod	SpaceAfter=No
+9	,	,	PUNCT	,	_	12	punct	12:punct	_
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj:pass	12:nsubj:pass	_
+11	get	get	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	aux:pass	12:aux:pass	_
+12	put	put	VERB	VBN	Tense=Past|VerbForm=Part	2	conj	2:conj:and	_
+13	on	on	ADP	IN	_	14	case	14:case	_
+14	hold	hold	NOUN	NN	Number=Sing	12	obl	12:obl:on	_
+15	twice	twice	ADV	RB	NumType=Mult	12	advmod	12:advmod	_
+16	without	without	SCONJ	IN	_	17	mark	17:mark	_
+17	saying	say	VERB	VBG	VerbForm=Ger	12	advcl	12:advcl:without	_
+18	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	19:det	_
+19	word	word	NOUN	NN	Number=Sing	17	obj	17:obj	_
+20	and	and	CCONJ	CC	_	23	cc	23:cc	_
+21	FINALLY	finally	ADV	RB	_	23	advmod	23:advmod	_
+22	someone	someone	PRON	NN	Number=Sing	23	nsubj	23:nsubj	_
+23	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	2:conj:and	SpaceAfter=No
+24	,	,	PUNCT	,	_	23	punct	23:punct	_
+25	MAY	may	AUX	MD	VerbForm=Fin	27	aux	27:aux	_
+26	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	27	nsubj	27:nsubj	_
+27	HELP	help	VERB	VB	VerbForm=Inf	23	ccomp	23:ccomp	_
+28	YOU	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	27	obj	27:obj	SpaceAfter=No
+29	?	?	PUNCT	.	_	2	punct	2:punct	_
+

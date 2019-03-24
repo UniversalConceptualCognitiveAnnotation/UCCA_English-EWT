@@ -1,0 +1,22 @@
+# sent_id = 156953-0003
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|10:nsubj	_
+2	go	go	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	to	to	ADP	IN	_	4	case	4:case	_
+4	school	school	NOUN	NN	Number=Sing	2	obl	2:obl:to	_
+5	in	in	ADP	IN	_	7	case	7:case	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	area	area	NOUN	NN	Number=Sing	2	obl	2:obl:in	_
+8	and	and	CCONJ	CC	_	10	cc	10:cc	_
+9	usually	usually	ADV	RB	_	10	advmod	10:advmod	_
+10	wait	wait	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	2:conj:and	_
+11	until	until	SCONJ	IN	_	13	mark	13:mark	_
+12	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	13:nsubj	_
+13	go	go	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	advcl	10:advcl:until	_
+14	home	home	ADV	RB	_	13	advmod	13:advmod	_
+15	to	to	PART	TO	_	16	mark	16:mark	_
+16	get	get	VERB	VB	VerbForm=Inf	10	advcl	10:advcl:to	_
+17	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	18	nmod:poss	18:nmod:poss	_
+18	hair	hair	NOUN	NN	Number=Sing	16	obj	16:obj|19:nsubj:xsubj	_
+19	cut	cut	VERB	VBN	Tense=Past|VerbForm=Part	16	xcomp	16:xcomp	SpaceAfter=No
+20	.	.	PUNCT	.	_	2	punct	2:punct	_
+

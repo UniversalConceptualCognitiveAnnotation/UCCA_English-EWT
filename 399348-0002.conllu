@@ -1,0 +1,20 @@
+# sent_id = 399348-0002
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	staff	staff	NOUN	NN	Number=Sing	5	nsubj	5:nsubj|8:nsubj	_
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
+4	very	very	ADV	RB	_	5	advmod	5:advmod	_
+5	helpful	helpful	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
+6	,	,	PUNCT	,	_	8	punct	8:punct	_
+7	and	and	CCONJ	CC	_	8	cc	8:cc	_
+8	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	conj	5:conj:and	_
+9	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	8	iobj	8:iobj	_
+10	good	good	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	advice	advice	NOUN	NN	Number=Sing	8	obj	8:obj	_
+12	on	on	ADP	IN	_	17	case	17:case	_
+13	day	day	NOUN	NN	Number=Sing	16	compound	16:compound	_
+14	and	and	CCONJ	CC	_	15	cc	15:cc	_
+15	night	night	NOUN	NN	Number=Sing	13	conj	13:conj:and|16:compound	_
+16	time	time	NOUN	NN	Number=Sing	17	compound	17:compound	_
+17	activities	activity	NOUN	NNS	Number=Plur	11	nmod	11:nmod:on	SpaceAfter=No
+18	.	.	PUNCT	.	_	5	punct	5:punct	_
+

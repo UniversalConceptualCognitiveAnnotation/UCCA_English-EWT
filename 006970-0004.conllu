@@ -1,0 +1,18 @@
+# sent_id = 006970-0004
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	called	call	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+4	next	next	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	morning	morning	NOUN	NN	Number=Sing	2	obl:tmod	2:obl:tmod	_
+6	to	to	PART	TO	_	7	mark	7:mark	_
+7	let	let	VERB	VB	VerbForm=Inf	2	advcl	2:advcl:to	_
+8	then	then	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	obj	7:obj|9:nsubj:xsubj	_
+9	know	know	VERB	VB	VerbForm=Inf	7	xcomp	7:xcomp	_
+10	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
+11	wife	wife	NOUN	NN	Number=Sing	14	nsubj	14:nsubj	_
+12	would	would	AUX	MD	VerbForm=Fin	14	aux	14:aux	_
+13	be	be	AUX	VB	VerbForm=Inf	14	aux	14:aux	_
+14	driving	drive	VERB	VBG	Tense=Pres|VerbForm=Part	9	ccomp	9:ccomp	_
+15	in	in	ADV	RB	_	14	advmod	14:advmod	SpaceAfter=No
+16	.	.	PUNCT	.	_	2	punct	2:punct	_
+

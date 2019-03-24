@@ -1,0 +1,22 @@
+# sent_id = 363685-0027
+1	Room	room	NOUN	NN	Number=Sing	3	nsubj	3:nsubj|6:nsubj	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	3:cop	_
+3	clean	clean	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
+4	,	,	PUNCT	,	_	6	punct	6:punct	_
+5	but	but	CCONJ	CC	_	6	cc	6:cc	_
+6	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	3:conj:but	_
+7	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	15:det	_
+8	weird	weird	ADJ	JJ	Degree=Pos	15	amod	15:amod	SpaceAfter=No
+9	,	,	PUNCT	,	_	15	punct	15:punct	_
+10	dated	dated	ADJ	JJ	Degree=Pos	15	amod	15:amod	SpaceAfter=No
+11	,	,	PUNCT	,	_	15	punct	15:punct	_
+12	sink	sink	NOUN	NN	Number=Sing	14	compound	14:compound	SpaceAfter=No
+13	/	/	PUNCT	,	_	14	punct	14:punct	SpaceAfter=No
+14	stove	stove	NOUN	NN	Number=Sing	15	compound	15:compound	_
+15	combo	combo	NOUN	NN	Number=Sing	6	obj	6:obj|19:nsubj	_
+16	that	that	PRON	WDT	PronType=Rel	19	nsubj	15:ref	_
+17	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	19	aux	19:aux	SpaceAfter=No
+18	n't	not	PART	RB	_	19	advmod	19:advmod	_
+19	work	work	VERB	VB	VerbForm=Inf	15	acl:relcl	15:acl:relcl	SpaceAfter=No
+20	.	.	PUNCT	.	_	3	punct	3:punct	_
+

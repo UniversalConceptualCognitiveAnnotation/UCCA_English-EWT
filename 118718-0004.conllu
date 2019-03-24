@@ -1,0 +1,20 @@
+# sent_id = 118718-0004
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	3:nsubj|8:nsubj	_
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	cop	3:cop	_
+3	accomdating	accommodating	ADJ	JJ	Degree=Pos|Typo=Yes	0	root	0:root	_
+4	with	with	ADP	IN	_	6	case	6:case	_
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	_
+6	scheduled	schedule	NOUN	NN	Number=Sing|Typo=Yes	3	obl	3:obl:with	_
+7	and	and	CCONJ	CC	_	8	cc	8:cc	_
+8	work	work	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	3:conj:and	_
+9	with	with	ADP	IN	_	11	case	11:case	_
+10	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
+11	insurance	insurance	NOUN	NN	Number=Sing	8	obl	8:obl:with	_
+12	to	to	PART	TO	_	13	mark	13:mark	_
+13	get	get	VERB	VB	VerbForm=Inf	8	advcl	8:advcl:to	_
+14	payment	payment	NOUN	NN	Number=Sing	13	obj	13:obj	_
+15	for	for	ADP	IN	_	17	case	17:case	_
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
+17	surgery	surgery	NOUN	NN	Number=Sing	14	nmod	14:nmod:for	SpaceAfter=No
+18	.	.	PUNCT	.	_	3	punct	3:punct	_
+

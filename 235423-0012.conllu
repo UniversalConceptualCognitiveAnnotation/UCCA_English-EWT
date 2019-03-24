@@ -1,0 +1,35 @@
+# sent_id = 235423-0012
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	SpaceAfter=No
+3	nt	not	PART	RB	_	4	advmod	4:advmod	_
+4	know	know	VERB	VB	VerbForm=Inf	0	root	0:root	_
+5	how	how	ADV	WRB	PronType=Int	8	advmod	8:advmod	_
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	expl	8:expl	_
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
+8	possible	possible	ADJ	JJ	Degree=Pos	4	ccomp	4:ccomp	_
+9	to	to	PART	TO	_	10	mark	10:mark	_
+10	make	make	VERB	VB	VerbForm=Inf	8	csubj	8:csubj	_
+11	orange	orange	NOUN	NN	Number=Sing	12	compound	12:compound	_
+12	chicken	chicken	NOUN	NN	Number=Sing	10	obj	10:obj|25:nsubj:xsubj|27:nsubj:xsubj	SpaceAfter=No
+13	,	,	PUNCT	,	_	15	punct	15:punct	_
+14	sesame	sesame	NOUN	NN	Number=Sing	15	compound	15:compound	_
+15	chicken	chicken	NOUN	NN	Number=Sing	12	conj	10:obj|12:conj:and|25:nsubj:xsubj|27:nsubj:xsubj	_
+16	and	and	CCONJ	CC	_	19	cc	19:cc	_
+17	kung	kung	NOUN	NN	Number=Sing	18	compound	18:compound	_
+18	pao	pao	NOUN	NN	Number=Sing	19	compound	19:compound	_
+19	chicken	chicken	NOUN	NN	Number=Sing	12	conj	10:obj|12:conj:and|25:nsubj:xsubj|27:nsubj:xsubj	_
+20	as	as	ADV	RB	_	24	cc	24:cc	_
+21	well	well	ADV	RB	Degree=Pos	20	fixed	20:fixed	_
+22	as	as	ADP	IN	_	20	fixed	20:fixed	_
+23	cheese	cheese	NOUN	NN	Number=Sing	24	compound	24:compound	_
+24	puffs	puff	NOUN	NNS	Number=Plur	12	conj	10:obj|12:conj:as_well_as|25:nsubj:xsubj|27:nsubj:xsubj	_
+25	taste	taste	VERB	VB	VerbForm=Inf	10	xcomp	10:xcomp	_
+26	THAT	that	ADV	RB	_	27	advmod	27:advmod	_
+27	bad	bad	ADJ	JJ	Degree=Pos	25	xcomp	25:xcomp	_
+28	but	but	CCONJ	CC	_	31	cc	31:cc	_
+29	China	China	PROPN	NNP	Number=Sing	30	compound	30:compound	_
+30	Delight	Delight	PROPN	NNP	Number=Sing	31	nsubj	31:nsubj	_
+31	accomplished	accomplish	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	4:conj:but	_
+32	that	that	PRON	DT	Number=Sing|PronType=Dem	31	obj	31:obj	SpaceAfter=No
+33	.	.	PUNCT	.	_	4	punct	4:punct	_
+

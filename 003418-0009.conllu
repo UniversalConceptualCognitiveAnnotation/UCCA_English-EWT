@@ -1,0 +1,37 @@
+# sent_id = 003418-0009
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj|6:nsubj:xsubj	_
+2	eventually	eventually	ADV	RB	_	3	advmod	3:advmod	_
+3	decided	decide	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	to	to	PART	TO	_	6	mark	6:mark	_
+5	just	just	ADV	RB	_	6	advmod	6:advmod	_
+6	pay	pay	VERB	VB	VerbForm=Inf	3	xcomp	3:xcomp	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+8	balance	balance	NOUN	NN	Number=Sing	6	obj	6:obj	_
+9	even	even	ADV	RB	_	16	advmod	16:advmod	_
+10	though	though	SCONJ	IN	_	16	mark	16:mark	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
+12	doctor	doctor	NOUN	NN	Number=Sing	16	nsubj:pass	16:nsubj:pass	_
+13	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	16:aux	_
+14	already	already	ADV	RB	_	16	advmod	16:advmod	_
+15	been	be	AUX	VBN	Tense=Past|VerbForm=Part	16	aux:pass	16:aux:pass	_
+16	paid	pay	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	advcl	6:advcl:though	SpaceAfter=No
+17	,	,	PUNCT	,	_	24	punct	24:punct	_
+18	but	but	CCONJ	CC	_	24	cc	24:cc	_
+19	now	now	ADV	RB	_	24	advmod	24:advmod	_
+20	the	the	DET	DT	Definite=Def|PronType=Art	22	det	22:det	_
+21	collection	collection	NOUN	NN	Number=Sing	22	compound	22:compound	_
+22	agency	agency	NOUN	NN	Number=Sing	24	nsubj	24:nsubj|26:nsubj:xsubj	_
+23	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux	24:aux	_
+24	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	3	conj	3:conj:but	_
+25	to	to	PART	TO	_	26	mark	26:mark	_
+26	say	say	VERB	VB	VerbForm=Inf	24	xcomp	24:xcomp	_
+27	another	another	DET	DT	_	28	det	28:det	_
+28	reversal	reversal	NOUN	NN	Number=Sing	33	nsubj	33:nsubj	_
+29	of	of	ADP	IN	_	30	case	30:case	_
+30	$	$	SYM	$	_	28	nmod	28:nmod:of	SpaceAfter=No
+31	160.00	160.00	NUM	CD	NumType=Card	30	nummod	30:nummod	_
+32	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	aux	33:aux	_
+33	come	come	VERB	VBN	Tense=Past|VerbForm=Part	26	ccomp	26:ccomp	_
+34	through	through	ADV	RB	_	33	advmod	33:advmod	SpaceAfter=No
+35	.	.	PUNCT	.	_	3	punct	3:punct	_
+

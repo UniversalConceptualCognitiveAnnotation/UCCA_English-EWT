@@ -1,0 +1,17 @@
+# sent_id = 385281-0005
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	SpaceAfter=No
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
+4	cute	cute	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	place	place	NOUN	NN	Number=Sing	0	root	0:root	_
+6	with	with	ADP	IN	_	14	case	14:case	_
+7	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	_
+8	really	really	ADV	RB	_	14	advmod	14:advmod	_
+9	friendly	friendly	ADJ	JJ	Degree=Pos	14	amod	14:amod	SpaceAfter=No
+10	,	,	PUNCT	,	_	14	punct	14:punct	_
+11	laid	laid	ADJ	JJ	Degree=Pos	13	amod	13:amod	SpaceAfter=No
+12	-	-	PUNCT	HYPH	_	13	punct	13:punct	SpaceAfter=No
+13	back	back	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
+14	atmosphere	atmosphere	NOUN	NN	Number=Sing	5	nmod	5:nmod:with	SpaceAfter=No
+15	.	.	PUNCT	.	_	5	punct	5:punct	_
+

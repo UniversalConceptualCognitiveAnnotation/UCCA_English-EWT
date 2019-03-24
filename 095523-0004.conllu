@@ -1,0 +1,20 @@
+# sent_id = 095523-0004
+1	Since	since	SCONJ	IN	_	6	mark	6:mark	_
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	SpaceAfter=No
+3	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+4	usually	usually	ADV	RB	_	6	advmod	6:advmod	_
+5	at	at	ADP	IN	_	6	case	6:case	_
+6	work	work	NOUN	NN	Number=Sing	10	advcl	10:advcl:at	_
+7	late	late	ADV	RB	Degree=Pos	6	advmod	6:advmod	_
+8	Deb	Deb	PROPN	NNP	Number=Sing	10	nsubj	10:nsubj	_
+9	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	10:aux	_
+10	stayed	stay	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+11	around	around	ADV	RB	_	10	advmod	10:advmod	_
+12	to	to	PART	TO	_	13	mark	13:mark	_
+13	help	help	VERB	VB	VerbForm=Inf	10	advcl	10:advcl:to	_
+14	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	obj	13:obj	_
+15	out	out	ADP	RP	_	13	compound:prt	13:compound:prt	_
+16	when	when	ADV	WRB	PronType=Int	17	mark	17:mark	_
+17	needed	need	VERB	VBN	Tense=Past|VerbForm=Part	13	advcl	13:advcl:when	SpaceAfter=No
+18	.	.	PUNCT	.	_	10	punct	10:punct	_
+

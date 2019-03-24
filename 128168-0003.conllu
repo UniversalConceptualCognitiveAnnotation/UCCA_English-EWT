@@ -1,0 +1,20 @@
+# sent_id = 128168-0003
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	4:cop	_
+3	very	very	ADV	RB	_	4	advmod	4:advmod	_
+4	excited	excited	ADJ	JJ	Degree=Pos	0	root	0:root	_
+5	that	that	SCONJ	IN	_	9	mark	9:mark	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
+7	salon	salon	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	_
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux	9:aux	_
+9	opening	open	VERB	VBG	VerbForm=Ger	4	ccomp	4:ccomp	_
+10	in	in	ADP	IN	_	11	case	11:case	_
+11	Lewiston	Lewiston	PROPN	NNP	Number=Sing	9	obl	9:obl:in	SpaceAfter=No
+12	,	,	PUNCT	,	_	4	punct	4:punct	_
+13	as	as	SCONJ	IN	_	15	mark	15:mark	_
+14	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	15:nsubj	_
+15	live	live	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	advcl	4:advcl:as	_
+16	in	in	ADP	IN	_	17	case	17:case	_
+17	Youngstown	Youngstown	PROPN	NNP	Number=Sing	15	obl	15:obl:in	SpaceAfter=No
+18	.	.	PUNCT	.	_	4	punct	4:punct	_
+

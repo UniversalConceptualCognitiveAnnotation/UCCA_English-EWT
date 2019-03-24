@@ -1,0 +1,16 @@
+# sent_id = 018465-0011
+1	$	$	SYM	$	_	3	obl:npmod	3:obl:npmod	SpaceAfter=No
+2	400	400	NUM	CD	NumType=Card	1	nummod	1:nummod	_
+3	later	later	ADV	RBR	Degree=Cmp	6	advmod	6:advmod	_
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+5	jaw	jaw	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
+6	dropped	drop	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+7	when	when	ADV	WRB	PronType=Int	10	mark	10:mark	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+9	receptionist	receptionist	NOUN	NN	Number=Sing	10	nsubj	10:nsubj	_
+10	told	tell	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	advcl	6:advcl:when	_
+11	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	10	iobj	10:iobj	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
+13	total	total	NOUN	NN	Number=Sing	10	obj	10:obj	SpaceAfter=No
+14	.	.	PUNCT	.	_	6	punct	6:punct	_
+

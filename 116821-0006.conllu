@@ -1,0 +1,16 @@
+# sent_id = 116821-0006
+1	Well	well	INTJ	UH	_	4	discourse	4:discourse	_
+2	then	then	ADV	RB	PronType=Dem	4	advmod	4:advmod	_
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj|12:nsubj	_
+4	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+5	on	on	ADP	IN	_	7	case	7:case	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
+7	trip	trip	NOUN	NN	Number=Sing	4	obl	4:obl:on	_
+8	to	to	ADP	IN	_	9	case	9:case	_
+9	Glasgow	Glasgow	PROPN	NNP	Number=Sing	7	nmod	7:nmod:to	_
+10	and	and	CCONJ	CC	_	12	cc	12:cc	_
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	12	aux	12:aux	_
+12	walking	walk	VERB	VBG	Tense=Pres|VerbForm=Part	4	conj	4:conj:and	_
+13	around	around	ADV	RB	_	12	advmod	12:advmod	SpaceAfter=No
+14	.	.	PUNCT	.	_	4	punct	4:punct	_
+

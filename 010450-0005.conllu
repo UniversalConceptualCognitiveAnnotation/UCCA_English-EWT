@@ -1,0 +1,9 @@
+# sent_id = 010450-0005
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+2	only	only	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	complaint	complaint	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+6	QUESO	queso	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
+7	.	.	PUNCT	.	_	6	punct	6:punct	_
+

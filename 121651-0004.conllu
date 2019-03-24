@@ -1,0 +1,16 @@
+# sent_id = 121651-0004
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	also	also	ADV	RB	_	3	advmod	3:advmod	_
+3	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	way	way	NOUN	NN	Number=Sing	3	obj	3:obj|8:advmod	_
+6	that	that	ADV	WRB	PronType=Rel	8	advmod	5:ref	_
+7	Ray	Ray	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj	_
+8	checked	check	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	acl:relcl	5:acl:relcl	_
+9	on	on	ADP	IN	_	11	case	11:case	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
+11	job	job	NOUN	NN	Number=Sing	8	obl	8:obl:on	_
+12	every	every	DET	DT	_	13	det	13:det	SpaceAfter=No
+13	day	day	NOUN	NN	Number=Sing	8	obl:tmod	8:obl:tmod	SpaceAfter=No
+14	.	.	PUNCT	.	_	3	punct	3:punct	_
+

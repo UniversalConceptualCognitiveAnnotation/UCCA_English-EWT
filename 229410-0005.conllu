@@ -1,0 +1,28 @@
+# sent_id = 229410-0005
+1	However	however	ADV	RB	_	23	advmod	23:advmod	SpaceAfter=No
+2	,	,	PUNCT	,	_	23	punct	23:punct	_
+3	after	after	SCONJ	IN	_	4	mark	4:mark	_
+4	giving	give	VERB	VBG	VerbForm=Ger	23	advcl	23:advcl:after	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	13:det	_
+6	required	require	VERB	VBN	Tense=Past|VerbForm=Part	13	amod	13:amod	_
+7	$	$	SYM	$	_	13	compound	13:compound	SpaceAfter=No
+8	500.00	500.00	NUM	CD	NumType=Card	7	nummod	7:nummod	_
+9	(	(	PUNCT	-LRB-	_	13	punct	13:punct	SpaceAfter=No
+10	NON	non	X	AFX	_	11	advmod	11:advmod	_
+11	REFUNDABLE	refundable	ADJ	JJ	Degree=Pos	13	amod	13:amod	SpaceAfter=No
+12	)	)	PUNCT	-RRB-	_	13	punct	13:punct	_
+13	deposit	deposit	NOUN	NN	Number=Sing	4	obj	4:obj	_
+14	before	before	SCONJ	IN	_	15	mark	15:mark	_
+15	seeing	see	VERB	VBG	VerbForm=Ger	4	advcl	4:advcl:before	_
+16	any	any	DET	DT	_	17	det	17:det	_
+17	plans	plan	NOUN	NNS	Number=Plur	15	obj	15:obj	_
+18	or	or	CCONJ	CC	_	19	cc	19:cc	_
+19	ideas	idea	NOUN	NNS	Number=Plur	17	conj	15:obj|17:conj:or	SpaceAfter=No
+20	,	,	PUNCT	,	_	23	punct	23:punct	_
+21	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	23	nsubj	23:nsubj	_
+22	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	cop	23:cop	_
+23	sorry	sorry	ADJ	JJ	Degree=Pos	0	root	0:root	_
+24	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	25	nsubj	25:nsubj	_
+25	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	23	ccomp	23:ccomp	SpaceAfter=No
+26	.	.	PUNCT	.	_	23	punct	23:punct	_
+

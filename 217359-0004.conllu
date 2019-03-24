@@ -1,0 +1,13 @@
+# sent_id = 217359-0004
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
+2	will	will	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
+3	make	make	VERB	VB	VerbForm=Inf	0	root	0:root	_
+4	every	every	DET	DT	_	5	det	5:det	_
+5	attempt	attempt	NOUN	NN	Number=Sing	3	obj	3:obj	_
+6	to	to	PART	TO	_	7	mark	7:mark	_
+7	misinform	misinform	VERB	VB	VerbForm=Inf	5	acl	5:acl:to	_
+8	and	and	CCONJ	CC	_	9	cc	9:cc	_
+9	misrepresent	misrepresent	VERB	VB	VerbForm=Inf	7	conj	5:acl:to|7:conj:and	_
+10	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	9	obj	9:obj	_
+11	.	.	PUNCT	.	_	3	punct	3:punct	_
+

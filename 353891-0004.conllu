@@ -1,0 +1,21 @@
+# sent_id = 353891-0004
+1	Also	also	ADV	RB	_	3	advmod	3:advmod	_
+2	very	very	ADV	RB	_	3	advmod	3:advmod	_
+3	friendly	friendly	ADJ	JJ	Degree=Pos	0	root	0:root	_
+4	and	and	CCONJ	CC	_	18	cc	18:cc	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+6	stylists	stylist	NOUN	NNS	Number=Plur	18	nsubj	18:nsubj	_
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	cop	18:cop	_
+8	not	not	PART	RB	_	18	advmod	18:advmod	_
+9	in	in	ADP	IN	_	18	case	18:case	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
+11	"	"	PUNCT	``	_	13	punct	13:punct	SpaceAfter=No
+12	been	be	AUX	VBN	Tense=Past|VerbForm=Part	13	cop	13:cop	_
+13	there	there	ADV	RB	PronType=Dem	18	compound	18:compound	SpaceAfter=No
+14	/	/	X	XX	_	15	cc	15:cc	SpaceAfter=No
+15	done	do	VERB	VBN	Tense=Past|VerbForm=Part	13	conj	13:conj|18:compound	_
+16	that	that	PRON	DT	Number=Sing|PronType=Dem	15	obj	15:obj	SpaceAfter=No
+17	"	"	PUNCT	''	_	13	punct	13:punct	_
+18	mood	mood	NOUN	NN	Number=Sing	3	conj	3:conj:and	SpaceAfter=No
+19	!	!	PUNCT	.	_	3	punct	3:punct	_
+
