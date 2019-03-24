@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="294081-0001">
-  <attributes />
+  <attributes annotationID="2960" passageID="509" remarks="26400" userID="4" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -26,22 +26,24 @@
       <attributes />
       <edge toID="1.2" type="H">
         <attributes />
-        <category tag="H" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="H" />
       </edge>
     </node>
     <node ID="1.2" type="FN">
       <attributes />
+      <extra tree_id="1" />
       <edge toID="1.3" type="P">
         <attributes />
-        <category tag="P" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
       </edge>
       <edge toID="1.4" type="A">
         <attributes />
-        <category tag="A" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
     </node>
     <node ID="1.3" type="FN">
       <attributes />
+      <extra tree_id="1-1" />
       <edge toID="0.1" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -49,17 +51,19 @@
     </node>
     <node ID="1.4" type="FN">
       <attributes />
+      <extra tree_id="1-2" />
       <edge toID="1.5" type="R">
         <attributes />
-        <category tag="R" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="R" />
       </edge>
       <edge toID="1.6" type="C">
         <attributes />
-        <category tag="C" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>
     </node>
     <node ID="1.5" type="FN">
       <attributes />
+      <extra tree_id="1-2-1" />
       <edge toID="0.2" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -67,6 +71,7 @@
     </node>
     <node ID="1.6" type="FN">
       <attributes />
+      <extra tree_id="1-2-2" />
       <edge toID="0.3" type="Terminal">
         <attributes />
         <category tag="Terminal" />
