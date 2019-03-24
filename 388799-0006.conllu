@@ -1,0 +1,15 @@
+# sent_id = 388799-0006
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	will	will	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
+3	sum	sum	VERB	VB	VerbForm=Inf	0	root	0:root	_
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	3:obj	_
+5	up	up	ADP	RP	_	3	compound:prt	3:compound:prt	_
+6	with	with	ADP	IN	_	10	mark	10:mark	SpaceAfter=No
+7	,	,	PUNCT	,	_	10	punct	10:punct	_
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	_
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	10:cop	_
+10	worth	worth	ADJ	JJ	Degree=Pos	3	advcl	3:advcl:with	_
+11	every	every	DET	DT	_	12	det	12:det	_
+12	penny	penny	NOUN	NN	Number=Sing	10	obj	10:obj	SpaceAfter=No
+13	!	!	PUNCT	.	_	3	punct	3:punct	_
+

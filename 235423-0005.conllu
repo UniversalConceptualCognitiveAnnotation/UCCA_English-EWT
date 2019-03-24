@@ -1,0 +1,16 @@
+# sent_id = 235423-0005
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	helped	help	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	about	about	ADV	RB	_	4	advmod	4:advmod	_
+4	three	three	NUM	CD	NumType=Card	6	nummod	6:nummod	_
+5	other	other	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	people	people	NOUN	NNS	Number=Plur	2	obj	2:obj	_
+7	before	before	SCONJ	IN	_	9	mark	9:mark	_
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	9:nsubj|11:nsubj:xsubj	_
+9	offered	offer	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	advcl	2:advcl:before	_
+10	to	to	PART	TO	_	11	mark	11:mark	_
+11	help	help	VERB	VB	VerbForm=Inf	9	xcomp	9:xcomp	_
+12	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	11:obj	_
+13	again	again	ADV	RB	_	11	advmod	11:advmod	SpaceAfter=No
+14	.	.	PUNCT	.	_	2	punct	2:punct	_
+

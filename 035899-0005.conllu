@@ -1,0 +1,37 @@
+# sent_id = 035899-0005
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
+3	since	since	ADV	RB	_	4	advmod	4:advmod	_
+4	moved	move	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+5	slightly	slightly	ADV	RB	_	6	advmod	6:advmod	_
+6	further	further	ADV	RBR	Degree=Cmp	4	advmod	4:advmod	_
+7	away	away	ADV	RB	_	6	advmod	6:advmod	_
+8	from	from	ADP	IN	_	10	case	10:case	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+10	centre	centre	NOUN	NN	Number=Sing	6	obl	6:obl:from	_
+11	but	but	CCONJ	CC	_	14	cc	14:cc	_
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	14:nsubj	SpaceAfter=No
+13	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	14:cop	_
+14	worth	worth	ADJ	JJ	Degree=Pos	4	conj	4:conj:but	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
+16	extra	extra	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
+17	travel	travel	NOUN	NN	Number=Sing	14	obj	14:obj	SpaceAfter=No
+18	,	,	PUNCT	,	_	14	punct	14:punct	_
+19	as	as	SCONJ	IN	_	23	mark	23:mark	_
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	_
+21	care	care	NOUN	NN	Number=Sing	23	nsubj	23:nsubj	_
+22	provided	provide	VERB	VBN	Tense=Past|VerbForm=Part	21	acl	21:acl	_
+23	exceeds	exceed	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	14:advcl:as	_
+24	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	25	nmod:poss	25:nmod:poss	_
+25	expectations	expectation	NOUN	NNS	Number=Plur	23	obj	23:obj	SpaceAfter=No
+26	...	...	PUNCT	,	_	14	punct	14:punct	_
+27	especially	especially	ADV	RB	_	33	advmod	33:advmod	_
+28	after	after	ADP	IN	_	33	case	33:case	_
+29	a	a	DET	DT	Definite=Ind|PronType=Art	33	det	33:det	_
+30	few	few	ADJ	JJ	Degree=Pos	33	amod	33:amod	_
+31	horrendous	horrendous	ADJ	JJ	Degree=Pos	33	amod	33:amod	_
+32	daycare	daycare	NOUN	NN	Number=Sing	33	compound	33:compound	_
+33	experiences	experience	NOUN	NNS	Number=Plur	14	obl	14:obl:after	_
+34	elsewhere	elsewhere	ADV	RB	_	33	advmod	33:advmod	SpaceAfter=No
+35	.	.	PUNCT	.	_	4	punct	4:punct	_
+

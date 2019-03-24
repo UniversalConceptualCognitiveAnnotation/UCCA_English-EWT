@@ -1,0 +1,26 @@
+# sent_id = 053248-0003
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	truth	truth	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
+4	,	,	PUNCT	,	_	3	punct	3:punct	_
+5	in	in	ADP	IN	_	12	case	12:case	_
+6	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	_
+7	and	and	CCONJ	CC	_	10	cc	10:cc	_
+8	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	10:nmod:poss	_
+9	dining	dining	NOUN	NN	Number=Sing	10	compound	10:compound	_
+10	partners	partner	NOUN	NNS	Number=Plur	6	conj	6:conj:and|12:nmod:poss	SpaceAfter=No
+11	'	's	PART	POS	_	10	case	10:case	_
+12	experience	experience	NOUN	NN	Number=Sing	3	obl	3:obl:in	SpaceAfter=No
+13	,	,	PUNCT	,	_	3	punct	3:punct	_
+14	this	this	PRON	DT	Number=Sing|PronType=Dem	19	nsubj	19:nsubj	_
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	19:cop	_
+16	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	19:det	_
+17	fine	fine	ADJ	JJ	Degree=Pos	19	amod	19:amod	_
+18	little	little	ADJ	JJ	Degree=Pos	19	amod	19:amod	_
+19	restaurant	restaurant	NOUN	NN	Number=Sing	3	ccomp	3:ccomp	_
+20	with	with	ADP	IN	_	23	case	23:case	_
+21	some	some	DET	DT	_	23	det	23:det	_
+22	unique	unique	ADJ	JJ	Degree=Pos	23	amod	23:amod	_
+23	food	food	NOUN	NN	Number=Sing	19	nmod	19:nmod:with	SpaceAfter=No
+24	.	.	PUNCT	.	_	3	punct	3:punct	_
+

@@ -1,0 +1,29 @@
+# newdoc id = 085980
+# sent_id = 085980-0001
+1	After	after	SCONJ	IN	_	3	mark	3:mark	_
+2	recently	recently	ADV	RB	_	3	advmod	3:advmod	_
+3	relocating	relocate	VERB	VBG	VerbForm=Ger	10	advcl	10:advcl:after	_
+4	to	to	ADP	IN	_	6	case	6:case	_
+5	South	South	PROPN	NNP	Number=Sing	6	compound	6:compound	_
+6	Bend	Bend	PROPN	NNP	Number=Sing	3	obl	3:obl:to	SpaceAfter=No
+7	,	,	PUNCT	,	_	10	punct	10:punct	_
+8	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	10:nsubj	_
+9	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	aux	10:aux	_
+10	looking	look	VERB	VBG	VerbForm=Ger	0	root	0:root	_
+11	for	for	ADP	IN	_	19	case	19:case	_
+12	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	19:det	_
+13	delicious	delicious	ADJ	JJ	Degree=Pos	19	amod	19:amod	SpaceAfter=No
+14	,	,	PUNCT	,	_	15	punct	15:punct	_
+15	fun	fun	ADJ	JJ	Degree=Pos	13	conj	13:conj:yet|19:amod	SpaceAfter=No
+16	,	,	PUNCT	,	_	18	punct	18:punct	_
+17	yet	yet	CCONJ	CC	_	18	cc	18:cc	_
+18	elegant	elegant	ADJ	JJ	Degree=Pos	13	conj	13:conj:yet|19:amod	_
+19	establishment	establishment	NOUN	NN	Number=Sing	10	obl	10:obl:for	_
+20	for	for	ADP	IN	_	25	case	25:case	_
+21	New	New	PROPN	NNP	Number=Sing	22	compound	22:compound	_
+22	Year	Year	PROPN	NNP	Number=Sing	24	nmod:poss	24:nmod:poss	SpaceAfter=No
+23	s	's	PART	POS	_	22	case	22:case	_
+24	Eve	Eve	PROPN	NNP	Number=Sing	25	compound	25:compound	_
+25	dinner	dinner	NOUN	NN	Number=Sing	10	obl	10:obl:for	SpaceAfter=No
+26	.	.	PUNCT	.	_	10	punct	10:punct	_
+

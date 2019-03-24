@@ -1,0 +1,15 @@
+# sent_id = 385281-0008
+1	And	and	CCONJ	CC	_	3	cc	3:cc	_
+2	students	student	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
+3	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	$	$	SYM	$	_	3	obj	3:obj	SpaceAfter=No
+5	5	5	NUM	CD	NumType=Card	4	nummod	4:nummod	_
+6	off	off	ADV	RB	_	3	advmod	3:advmod	SpaceAfter=No
+7	,	,	PUNCT	,	_	3	punct	3:punct	_
+8	ca	can	AUX	MD	VerbForm=Fin	10	aux	10:aux	SpaceAfter=No
+9	n't	not	PART	RB	_	10	advmod	10:advmod	_
+10	argue	argue	VERB	VB	VerbForm=Inf	3	parataxis	3:parataxis	_
+11	with	with	ADP	IN	_	12	case	12:case	_
+12	that	that	PRON	DT	Number=Sing|PronType=Dem	10	obl	10:obl:with	SpaceAfter=No
+13	.	.	PUNCT	.	_	3	punct	3:punct	_
+

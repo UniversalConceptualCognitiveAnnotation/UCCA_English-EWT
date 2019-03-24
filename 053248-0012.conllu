@@ -1,0 +1,28 @@
+# sent_id = 053248-0012
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	duck	duck	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	7:cop	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
+5	65	65	NUM	CD	NumType=Card	6	nummod	6:nummod	SpaceAfter=No
+6	%	%	SYM	NN	Number=Sing	7	compound	7:compound	_
+7	glob	glob	NOUN	NN	Number=Sing	0	root	0:root	_
+8	of	of	ADP	IN	_	10	case	10:case	_
+9	chewy	chewy	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
+10	fat	fat	NOUN	NN	Number=Sing	7	nmod	7:nmod:of	_
+11	with	with	ADP	IN	_	13	case	13:case	_
+12	no	no	DET	DT	_	13	det	13:det	_
+13	resemblance	resemblance	NOUN	NN	Number=Sing	7	nmod	7:nmod:with	_
+14	to	to	ADP	IN	_	19	case	19:case	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
+16	juicy	juicy	ADJ	JJ	Degree=Pos	19	amod	19:amod	SpaceAfter=No
+17	,	,	PUNCT	,	_	19	punct	19:punct	_
+18	crispy	crispy	ADJ	JJ	Degree=Pos	19	amod	19:amod	_
+19	delicacy	delicacy	NOUN	NN	Number=Sing	13	nmod	13:nmod:to	_
+20	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	22	nsubj	22:nsubj	_
+21	usually	usually	ADV	RB	_	22	advmod	22:advmod	_
+22	represents	represent	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl:relcl	19:acl:relcl	_
+23	at	at	ADP	IN	_	25	case	25:case	_
+24	other	other	ADJ	JJ	Degree=Pos	25	amod	25:amod	_
+25	establishments	establishment	NOUN	NNS	Number=Plur	22	obl	22:obl:at	SpaceAfter=No
+26	.	.	PUNCT	.	_	7	punct	7:punct	_
+

@@ -1,0 +1,33 @@
+# sent_id = 319816-0021
+1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	3:det	_
+2	few	few	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	minutes	minute	NOUN	NNS	Number=Plur	6	obl:npmod	6:obl:npmod	_
+4	after	after	SCONJ	IN	_	6	mark	6:mark	_
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
+6	left	leave	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	advcl	10:advcl:after	SpaceAfter=No
+7	,	,	PUNCT	,	_	10	punct	10:punct	_
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj:pass	10:nsubj:pass|12:nsubj:pass	_
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	10	aux:pass	10:aux:pass	_
+10	called	call	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+11	and	and	CCONJ	CC	_	12	cc	12:cc	_
+12	informed	inform	VERB	VBN	Tense=Past|VerbForm=Part	10	conj	10:conj:and	_
+13	that	that	SCONJ	IN	_	17	mark	17:mark	_
+14	"	"	PUNCT	``	_	15	punct	15:punct	SpaceAfter=No
+15	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	17:nsubj	SpaceAfter=No
+16	"	"	PUNCT	''	_	15	punct	15:punct	_
+17	left	leave	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12	ccomp	12:ccomp	_
+18	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	20	nmod:poss	20:nmod:poss	_
+19	wheel	wheel	NOUN	NN	Number=Sing	20	compound	20:compound	_
+20	lock	lock	NOUN	NN	Number=Sing	17	obj	17:obj|26:obj	_
+21	(	(	PUNCT	-LRB-	_	26	punct	26:punct	SpaceAfter=No
+22	which	which	PRON	WDT	PronType=Rel	26	obj	20:ref	_
+23	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	26	nsubj	26:nsubj	_
+24	should	should	AUX	MD	VerbForm=Fin	26	aux	26:aux	_
+25	have	have	AUX	VB	VerbForm=Inf	26	aux	26:aux	_
+26	left	leave	VERB	VBN	Tense=Past|VerbForm=Part	20	acl:relcl	20:acl:relcl	_
+27	in	in	ADP	IN	_	29	case	29:case	_
+28	the	the	DET	DT	Definite=Def|PronType=Art	29	det	29:det	_
+29	car	car	NOUN	NN	Number=Sing	26	obl	26:obl:in	SpaceAfter=No
+30	)	)	PUNCT	-RRB-	_	26	punct	26:punct	SpaceAfter=No
+31	.	.	PUNCT	.	_	10	punct	10:punct	_
+

@@ -1,0 +1,31 @@
+# sent_id = 314974-0002
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+2	family	family	NOUN	NN	Number=Sing	3	nsubj	3:nsubj|4:nsubj:xsubj	_
+3	loves	love	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	coming	come	VERB	VBG	VerbForm=Ger	3	xcomp	3:xcomp	_
+5	to	to	ADP	IN	_	7	case	7:case	_
+6	Endo	Endo	PROPN	NNP	Number=Sing	7	compound	7:compound	_
+7	Sushi	Sushi	PROPN	NNP	Number=Sing	4	obl	4:obl:to	SpaceAfter=No
+8	.	.	PUNCT	.	_	3	punct	3:punct	SpaceAfter=No
+9	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	12:nsubj	_
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
+11	very	very	ADV	RB	_	12	advmod	12:advmod	_
+12	nice	nice	ADJ	JJ	Degree=Pos	3	parataxis	3:parataxis	SpaceAfter=No
+13	,	,	PUNCT	,	_	17	punct	17:punct	_
+14	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	nsubj	17:nsubj	_
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	17:cop	_
+16	never	never	ADV	RB	_	17	advmod	17:advmod	_
+17	crowded	crowded	ADJ	JJ	Degree=Pos	12	conj	12:conj:and	SpaceAfter=No
+18	,	,	PUNCT	,	_	23	punct	23:punct	_
+19	and	and	CCONJ	CC	_	23	cc	23:cc	_
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	_
+21	food	food	NOUN	NN	Number=Sing	23	nsubj	23:nsubj|26:nsubj	_
+22	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	23:cop	_
+23	wonderful	wonderful	ADJ	JJ	Degree=Pos	12	conj	12:conj:and	SpaceAfter=No
+24	,	,	PUNCT	,	_	26	punct	26:punct	_
+25	very	very	ADV	RB	_	26	advmod	26:advmod	_
+26	delicious	delicious	ADJ	JJ	Degree=Pos	23	conj	23:conj	_
+27	and	and	CCONJ	CC	_	28	cc	28:cc	_
+28	fresh	fresh	ADJ	JJ	Degree=Pos	26	conj	26:conj:and	SpaceAfter=No
+29	!	!	PUNCT	.	_	12	punct	12:punct	_
+

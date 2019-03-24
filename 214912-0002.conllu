@@ -1,0 +1,13 @@
+# sent_id = 214912-0002
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	3	3	NUM	CD	NumType=Card	4	nummod	4:nummod	_
+4	children	child	NOUN	NNS	Number=Plur	2	obj	2:obj	_
+5	there	there	ADV	RB	PronType=Dem	4	advmod	4:advmod	_
+6	and	and	CCONJ	CC	_	10	cc	10:cc	_
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	10:nsubj	_
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+10	Best	best	ADJ	JJS	Degree=Sup	2	conj	2:conj:and	SpaceAfter=No
+11	.	.	PUNCT	.	_	2	punct	2:punct	_
+

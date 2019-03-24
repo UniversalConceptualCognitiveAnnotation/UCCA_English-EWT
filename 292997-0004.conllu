@@ -1,0 +1,25 @@
+# sent_id = 292997-0004
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	highly	highly	ADV	RB	_	3	advmod	3:advmod	_
+3	recommend	recommend	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+5	four	four	NUM	CD	NumType=Card	7	nummod	7:nummod	SpaceAfter=No
+6	-	-	PUNCT	HYPH	_	7	punct	7:punct	SpaceAfter=No
+7	course	course	NOUN	NN	Number=Sing	9	compound	9:compound	_
+8	tasting	tasting	NOUN	NN	Number=Sing	9	compound	9:compound	_
+9	menu	menu	NOUN	NN	Number=Sing	3	obj	3:obj|12:nsubj	SpaceAfter=No
+10	,	,	PUNCT	,	_	9	punct	9:punct	_
+11	which	which	PRON	WDT	PronType=Rel	12	nsubj	9:ref	_
+12	gives	give	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	9:acl:relcl	_
+13	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	12	iobj	12:iobj	_
+14	plenty	plenty	NOUN	NN	Number=Sing	12	obj	12:obj	_
+15	of	of	ADP	IN	_	16	case	16:case	_
+16	range	range	NOUN	NN	Number=Sing	14	nmod	14:nmod:of	_
+17	and	and	CCONJ	CC	_	18	cc	18:cc	_
+18	food	food	NOUN	NN	Number=Sing	16	conj	14:nmod:of|16:conj:and	_
+19	to	to	PART	TO	_	20	mark	20:mark	_
+20	satisfy	satisfy	VERB	VB	VerbForm=Inf	18	acl	18:acl:to	_
+21	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	22	nmod:poss	22:nmod:poss	_
+22	appetite	appetite	NOUN	NN	Number=Sing	20	obj	20:obj	SpaceAfter=No
+23	.	.	PUNCT	.	_	3	punct	3:punct	_
+

@@ -1,0 +1,19 @@
+# sent_id = 399348-0004
+1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	3:det	_
+2	great	great	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	breakfast	breakfast	NOUN	NN	Number=Sing	0	root	6:nsubj:pass	_
+4	which	which	PRON	WDT	PronType=Rel	6	nsubj:pass	3:ref	_
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	6:aux:pass	_
+6	included	include	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	acl:relcl	3:acl:relcl	_
+7	every	every	DET	DT	_	8	det	8:det	_
+8	morning	morning	NOUN	NN	Number=Sing	3	nmod:tmod	3:nmod:tmod	_
+9	until	until	ADP	IN	_	11	case	11:case	_
+10	9:30	9:30	NUM	CD	NumType=Card	11	nummod	11:nummod	SpaceAfter=No
+11	am	am	NOUN	NN	Number=Sing	3	nmod	3:nmod:until	SpaceAfter=No
+12	;	;	PUNCT	,	_	16	punct	16:punct	_
+13	yummy	yummy	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
+14	fresh	fresh	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
+15	Parisian	parisian	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
+16	croissants	croissant	NOUN	NNS	Number=Plur	3	appos	3:appos	SpaceAfter=No
+17	.	.	PUNCT	.	_	16	punct	16:punct	_
+

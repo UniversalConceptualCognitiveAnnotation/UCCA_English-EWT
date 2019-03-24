@@ -1,0 +1,30 @@
+# sent_id = 020992-0010
+1	This	this	DET	DT	Number=Sing|PronType=Dem	3	det	3:det	_
+2	little	little	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	drip	drip	NOUN	NN	Number=Sing	4	nsubj	4:nsubj|11:nsubj|13:nsubj:xsubj	_
+4	offered	offer	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+5	no	no	DET	DT	_	6	det	6:det	_
+6	apologies	apology	NOUN	NNS	Number=Plur	4	obj	4:obj	_
+7	whatsoever	whatsoever	ADV	RB	_	6	advmod	6:advmod	SpaceAfter=No
+8	,	,	PUNCT	,	_	11	punct	11:punct	_
+9	and	and	CCONJ	CC	_	11	cc	11:cc	_
+10	even	even	ADV	RB	_	11	advmod	11:advmod	_
+11	refused	refuse	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	4:conj:and	_
+12	to	to	PART	TO	_	13	mark	13:mark	_
+13	give	give	VERB	VB	VerbForm=Inf	11	xcomp	11:xcomp	_
+14	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	iobj	13:iobj	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
+16	name	name	NOUN	NN	Number=Sing	13	obj	13:obj	_
+17	of	of	ADP	IN	_	19	case	19:case	_
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
+19	manager	manager	NOUN	NN	Number=Sing	16	nmod	16:nmod:of	_
+20	until	until	SCONJ	IN	_	22	mark	22:mark	_
+21	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	22	nsubj	22:nsubj	_
+22	pressed	press	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	advcl	11:advcl:until	_
+23	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj	22:obj	_
+24	for	for	ADP	IN	_	25	case	25:case	_
+25	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	22	obl	22:obl:for	_
+26	3	3	NUM	CD	NumType=Card	27	nummod	27:nummod	_
+27	times	time	NOUN	NNS	Number=Plur	22	obl:tmod	22:obl:tmod	SpaceAfter=No
+28	.	.	PUNCT	.	_	4	punct	4:punct	_
+

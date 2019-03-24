@@ -1,0 +1,18 @@
+# newdoc id = 124163
+# sent_id = 124163-0001
+1	Cranmore	Cranmore	PROPN	NNP	Number=Sing	5	compound	5:compound	_
+2	Dental	Dental	PROPN	NNP	Number=Sing	5	compound	5:compound	_
+3	and	and	CCONJ	CC	_	4	cc	4:cc	_
+4	Implant	Implant	PROPN	NNP	Number=Sing	2	conj	2:conj:and|5:compound	_
+5	Clinic	Clinic	PROPN	NNP	Number=Sing	0	root	0:root	_
+6	:	:	PUNCT	:	_	5	punct	5:punct	_
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	_
+8	could	could	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
+9	not	not	PART	RB	_	10	advmod	10:advmod	_
+10	recommend	recommend	VERB	VB	VerbForm=Inf	5	parataxis	5:parataxis	_
+11	Dr	Dr	PROPN	NNP	Number=Sing	10	obj	10:obj	_
+12	David	David	PROPN	NNP	Number=Sing	11	flat	11:flat	_
+13	Nelson	Nelson	PROPN	NNP	Number=Sing	11	flat	11:flat	_
+14	enough	enough	ADV	RB	_	10	advmod	10:advmod	SpaceAfter=No
+15	.	.	PUNCT	.	_	5	punct	5:punct	_
+

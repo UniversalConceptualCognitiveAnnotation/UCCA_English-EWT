@@ -1,0 +1,26 @@
+# sent_id = 281976-0005
+1	Then	then	ADV	RB	PronType=Dem	4	advmod	4:advmod	SpaceAfter=No
+2	,	,	PUNCT	,	_	4	punct	4:punct	_
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
+4	sold	sell	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+5	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	iobj	4:iobj	_
+6	overpriced	overpriced	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
+7	stuffs	stuff	NOUN	NNS	Number=Plur	4	obj	4:obj	SpaceAfter=No
+8	,	,	PUNCT	,	_	7	punct	7:punct	_
+9	such	such	ADJ	JJ	Degree=Pos	13	case	13:case	_
+10	as	as	ADP	IN	_	9	fixed	9:fixed	_
+11	oil	oil	NOUN	NN	Number=Sing	12	compound	12:compound	_
+12	tank	tank	NOUN	NN	Number=Sing	13	compound	13:compound	_
+13	cap	cap	NOUN	NN	Number=Sing	7	nmod	7:nmod:such_as	SpaceAfter=No
+14	,	,	PUNCT	,	_	4	punct	4:punct	_
+15	so	so	SCONJ	IN	_	20	mark	20:mark	_
+16	that	that	SCONJ	IN	_	15	fixed	15:fixed	_
+17	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	18	nmod:poss	18:nmod:poss	_
+18	car	car	NOUN	NN	Number=Sing	20	nsubj	20:nsubj	_
+19	can	can	AUX	MD	VerbForm=Fin	20	aux	20:aux	_
+20	pass	pass	VERB	VB	VerbForm=Inf	4	advcl	4:advcl:so_that	_
+21	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	obj	20:obj	_
+22	right	right	ADV	RB	_	23	advmod	23:advmod	_
+23	away	away	ADV	RB	_	20	advmod	20:advmod	SpaceAfter=No
+24	.	.	PUNCT	.	_	4	punct	4:punct	_
+

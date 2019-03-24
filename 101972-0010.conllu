@@ -1,0 +1,17 @@
+# sent_id = 101972-0010
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+2	could	could	AUX	MD	VerbForm=Fin	4	aux	4:aux	_
+3	only	only	ADV	RB	_	4	advmod	4:advmod	_
+4	take	take	VERB	VB	VerbForm=Inf	0	root	0:root	_
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	4:expl	_
+6	as	as	SCONJ	IN	_	9	mark	9:mark	_
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	9:nsubj	_
+8	would	would	AUX	MD	VerbForm=Fin	9	aux	9:aux	_
+9	seat	seat	VERB	VB	VerbForm=Inf	4	advcl	4:advcl:as	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
+11	people	people	NOUN	NNS	Number=Plur	9	obj	9:obj	_
+12	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	13:nsubj	_
+13	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	acl:relcl	11:acl:relcl	_
+14	first	first	ADV	RB	_	9	advmod	9:advmod	SpaceAfter=No
+15	.	.	PUNCT	.	_	4	punct	4:punct	_
+

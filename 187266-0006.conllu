@@ -1,0 +1,17 @@
+# sent_id = 187266-0006
+1	Our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+2	friend	friend	NOUN	NN	Number=Sing	6	nsubj	6:nsubj|8:nsubj	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
+5	world	world	NOUN	NN	Number=Sing	6	compound	6:compound	_
+6	traveler	traveler	NOUN	NN	Number=Sing	0	root	0:root	_
+7	and	and	CCONJ	CC	_	8	cc	8:cc	_
+8	loves	love	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	6:conj:and	_
+9	unpretentious	unpretentious	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+10	dining	dining	NOUN	NN	Number=Sing	11	compound	11:compound	_
+11	experiences	experience	NOUN	NNS	Number=Plur	8	obj	8:obj	_
+12	and	and	CCONJ	CC	_	14	cc	14:cc	_
+13	inspired	inspired	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
+14	food	food	NOUN	NN	Number=Sing	11	conj	8:obj|11:conj:and	SpaceAfter=No
+15	.	.	PUNCT	.	_	6	punct	6:punct	_
+

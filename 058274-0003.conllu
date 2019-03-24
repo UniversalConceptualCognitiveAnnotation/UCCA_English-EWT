@@ -1,0 +1,16 @@
+# sent_id = 058274-0003
+1	Atmosphere	atmosphere	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
+3	always	always	ADV	RB	_	4	advmod	4:advmod	_
+4	fun	fun	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
+5	,	,	PUNCT	,	_	4	punct	4:punct	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	assortment	assortment	NOUN	NN	Number=Sing	10	nsubj	10:nsubj	_
+8	of	of	ADP	IN	_	9	case	9:case	_
+9	customers	customer	NOUN	NNS	Number=Plur	7	nmod	7:nmod:of	_
+10	adds	add	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	4:parataxis	_
+11	entertainment	entertainment	NOUN	NN	Number=Sing	10	obj	10:obj	_
+12	to	to	ADP	IN	_	14	case	14:case	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
+14	meal	meal	NOUN	NN	Number=Sing	10	obl	10:obl:to	_
+

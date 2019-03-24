@@ -1,0 +1,20 @@
+# sent_id = 118668-0004
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	setting	setting	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	feels	feel	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	like	like	ADP	IN	_	7	case	7:case	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
+6	Sushi	sushi	NOUN	NN	Number=Sing	7	compound	7:compound	_
+7	bar	bar	NOUN	NN	Number=Sing	3	obl	3:obl:like	_
+8	in	in	ADP	IN	_	9	case	9:case	_
+9	NYC	NYC	PROPN	NNP	Number=Sing	7	nmod	7:nmod:in	SpaceAfter=No
+10	;	;	PUNCT	,	_	11	punct	11:punct	_
+11	small	small	ADJ	JJ	Degree=Pos	3	parataxis	3:parataxis	SpaceAfter=No
+12	,	,	PUNCT	,	_	13	punct	13:punct	_
+13	cozy	cozy	ADJ	JJ	Degree=Pos	11	conj	11:conj:but	SpaceAfter=No
+14	,	,	PUNCT	,	_	17	punct	17:punct	_
+15	but	but	CCONJ	CC	_	17	cc	17:cc	_
+16	with	with	ADP	IN	_	17	case	17:case	_
+17	flair	flair	NOUN	NN	Number=Sing	11	conj	11:conj:but	SpaceAfter=No
+18	.	.	PUNCT	.	_	11	punct	11:punct	_
+

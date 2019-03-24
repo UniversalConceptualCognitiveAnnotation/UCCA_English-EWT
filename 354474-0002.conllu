@@ -1,0 +1,17 @@
+# sent_id = 354474-0002
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	people	people	NOUN	NNS	Number=Plur	9	nsubj	9:nsubj|11:nsubj	_
+3	at	at	ADP	IN	_	6	case	6:case	_
+4	Gulf	Gulf	PROPN	NNP	Number=Sing	5	compound	5:compound	_
+5	Coast	Coast	PROPN	NNP	Number=Sing	6	compound	6:compound	_
+6	Siding	Siding	PROPN	NNP	Number=Sing	2	nmod	2:nmod:at	_
+7	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	cop	9:cop	_
+8	very	very	ADV	RB	_	9	advmod	9:advmod	_
+9	easy	easy	ADJ	JJ	Degree=Pos	0	root	0:root	_
+10	and	and	CCONJ	CC	_	11	cc	11:cc	_
+11	clear	clear	ADJ	JJ	Degree=Pos	9	conj	9:conj:and	_
+12	to	to	PART	TO	_	13	mark	13:mark	_
+13	work	work	VERB	VB	VerbForm=Inf	9	advcl	9:advcl:to	_
+14	with	with	ADP	IN	_	13	obl	13:obl	SpaceAfter=No
+15	.	.	PUNCT	.	_	9	punct	9:punct	_
+

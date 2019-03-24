@@ -1,0 +1,22 @@
+# sent_id = 238839-0005
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj|13:nsubj|18:nsubj	_
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
+3	eaten	eat	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+4	here	here	ADV	RB	PronType=Dem	3	advmod	3:advmod	_
+5	twice	twice	ADV	RB	NumType=Mult	3	advmod	3:advmod	_
+6	in	in	ADP	IN	_	9	case	9:case	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+8	past	past	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
+9	year	year	NOUN	NN	Number=Sing	3	obl	3:obl:in	_
+10	and	and	CCONJ	CC	_	13	cc	13:cc	_
+11	will	will	AUX	MD	VerbForm=Fin	13	aux	13:aux	_
+12	not	not	PART	RB	_	13	advmod	13:advmod	_
+13	go	go	VERB	VB	VerbForm=Inf	3	conj	3:conj:and	_
+14	back	back	ADV	RB	_	13	advmod	13:advmod	_
+15	and	and	CCONJ	CC	_	18	cc	18:cc	_
+16	can	can	AUX	MD	VerbForm=Fin	18	aux	18:aux	SpaceAfter=No
+17	not	not	PART	RB	_	18	advmod	18:advmod	_
+18	recommend	recommend	VERB	VB	VerbForm=Inf	3	conj	3:conj:and	_
+19	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	obj	18:obj	SpaceAfter=No
+20	.	.	PUNCT	.	_	3	punct	3:punct	_
+

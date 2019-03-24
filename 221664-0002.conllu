@@ -1,0 +1,22 @@
+# sent_id = 221664-0002
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	brought	bring	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
+4	car	car	NOUN	NN	Number=Sing	2	obj	2:obj	_
+5	in	in	ADV	RB	_	2	advmod	2:advmod	_
+6	to	to	PART	TO	_	7	mark	7:mark	_
+7	have	have	VERB	VB	VerbForm=Inf	2	advcl	2:advcl:to	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
+9	"	"	PUNCT	``	_	10	punct	10:punct	SpaceAfter=No
+10	check	check	VERB	VB	Mood=Imp|VerbForm=Fin	13	compound	13:compound	_
+11	engine	engine	NOUN	NN	Number=Sing	10	obj	10:obj	SpaceAfter=No
+12	"	"	PUNCT	''	_	10	punct	10:punct	_
+13	light	light	NOUN	NN	Number=Sing	7	obj	7:obj|14:nsubj:xsubj	_
+14	diagnosed	diagnose	VERB	VBN	Tense=Past|VerbForm=Part	7	xcomp	7:xcomp	_
+15	back	back	ADV	RB	_	17	advmod	17:advmod	_
+16	in	in	ADP	IN	_	17	case	17:case	_
+17	March	March	PROPN	NNP	Number=Sing	2	obl	2:obl:in	_
+18	of	of	ADP	IN	_	19	case	19:case	_
+19	2010	2010	NUM	CD	NumType=Card	17	nmod	17:nmod:of	SpaceAfter=No
+20	.	.	PUNCT	.	_	2	punct	2:punct	_
+

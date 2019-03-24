@@ -1,0 +1,20 @@
+# sent_id = 363685-0007
+1	In	in	ADP	IN	_	3	case	3:case	_
+2	other	other	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	words	word	NOUN	NNS	Number=Plur	8	obl	8:obl:in	SpaceAfter=No
+4	,	,	PUNCT	,	_	8	punct	8:punct	_
+5	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
+6	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	8:aux	_
+7	not	not	PART	RB	_	8	advmod	8:advmod	_
+8	help	help	VERB	VB	VerbForm=Inf	0	root	0:root	_
+9	with	with	ADP	IN	_	10	case	10:case	_
+10	suitcases	suitcase	NOUN	NNS	Number=Plur	8	obl	8:obl:with	SpaceAfter=No
+11	,	,	PUNCT	,	_	14	punct	14:punct	_
+12	but	but	CCONJ	CC	_	14	cc	14:cc	_
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	14:nsubj	_
+14	promise	promise	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	conj	8:conj:but	_
+15	totes	tote	NOUN	NNS	Number=Plur	14	obj	14:obj	_
+16	to	to	PART	TO	_	17	mark	17:mark	_
+17	help	help	VERB	VB	VerbForm=Inf	15	acl	15:acl:to	SpaceAfter=No
+18	.	.	PUNCT	.	_	8	punct	8:punct	_
+

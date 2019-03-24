@@ -1,0 +1,16 @@
+# sent_id = 274106-0002
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj|10:nsubj	_
+2	just	just	ADV	RB	_	3	advmod	3:advmod	_
+3	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	back	back	ADV	RB	_	3	advmod	3:advmod	_
+5	from	from	ADP	IN	_	6	case	6:case	_
+6	france	france	PROPN	NNP	Number=Sing	4	obl	4:obl:from	_
+7	yesterday	yesterday	NOUN	NN	Number=Sing	3	obl:tmod	3:obl:tmod	_
+8	and	and	CCONJ	CC	_	10	cc	10:cc	_
+9	just	just	ADV	RB	_	10	advmod	10:advmod	_
+10	missed	miss	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	3:conj:and	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
+12	food	food	NOUN	NN	Number=Sing	10	obj	10:obj	_
+13	already	already	ADV	RB	_	10	advmod	10:advmod	SpaceAfter=No
+14	!	!	PUNCT	.	_	3	punct	3:punct	_
+

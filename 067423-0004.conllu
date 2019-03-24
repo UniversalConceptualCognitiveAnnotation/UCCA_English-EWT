@@ -1,0 +1,11 @@
+# sent_id = 067423-0004
+1	Everyone	everyone	PRON	NN	Number=Sing	6	nsubj	6:nsubj|8:nsubj	_
+2	on	on	ADP	IN	_	3	case	3:case	_
+3	staff	staff	NOUN	NN	Number=Sing	1	nmod	1:nmod:on	_
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+5	very	very	ADV	RB	_	6	advmod	6:advmod	_
+6	professional	professional	ADJ	JJ	Degree=Pos	0	root	0:root	_
+7	and	and	CCONJ	CC	_	8	cc	8:cc	_
+8	friendly	friendly	ADJ	JJ	Degree=Pos	6	conj	6:conj:and	SpaceAfter=No
+9	.	.	PUNCT	.	_	6	punct	6:punct	_
+

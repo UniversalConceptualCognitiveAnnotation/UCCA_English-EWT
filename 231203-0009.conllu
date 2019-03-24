@@ -1,0 +1,16 @@
+# sent_id = 231203-0009
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	3:nsubj|5:nsubj:xsubj	_
+2	just	just	ADV	RB	_	3	advmod	3:advmod	_
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	to	to	PART	TO	_	5	mark	5:mark	_
+5	know	know	VERB	VB	VerbForm=Inf	3	xcomp	3:xcomp	_
+6	what	what	PRON	WP	PronType=Int	9	obl	9:obl:into	_
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	9:nsubj	SpaceAfter=No
+8	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
+9	getting	get	VERB	VBG	Tense=Pres|VerbForm=Part	5	ccomp	5:ccomp	_
+10	into	into	ADP	IN	_	6	case	6:case	_
+11	when	when	ADV	WRB	PronType=Int	13	mark	13:mark	_
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	13:nsubj	_
+13	go	go	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	advcl	9:advcl:when	SpaceAfter=No
+14	.	.	PUNCT	.	_	3	punct	3:punct	_
+

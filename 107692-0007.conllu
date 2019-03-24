@@ -1,0 +1,17 @@
+# sent_id = 107692-0007
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
+3	gotten	get	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+4	better	better	ADJ	JJR	Degree=Cmp	5	amod	5:amod	_
+5	results	result	NOUN	NNS	Number=Plur	3	obj	3:obj|6:nsubj:xsubj	_
+6	talking	talk	VERB	VBG	VerbForm=Ger	3	xcomp	3:xcomp	_
+7	to	to	ADP	IN	_	10	case	10:case	_
+8	COMCAST	COMCAST	PROPN	NNP	Number=Sing	10	compound	10:compound	_
+9	customer	customer	NOUN	NN	Number=Sing	10	compound	10:compound	_
+10	service	service	NOUN	NN	Number=Sing	6	obl	6:obl:to	_
+11	than	than	ADP	IN	_	14	case	14:case	_
+12	with	with	ADP	IN	_	14	case	14:case	_
+13	these	these	DET	DT	Number=Plur|PronType=Dem	14	det	14:det	_
+14	folks	folk	NOUN	NNS	Number=Plur	4	obl	4:obl:with	SpaceAfter=No
+15	.	.	PUNCT	.	_	3	punct	3:punct	_
+

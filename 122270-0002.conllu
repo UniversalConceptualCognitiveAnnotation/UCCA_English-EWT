@@ -1,0 +1,22 @@
+# sent_id = 122270-0002
+1	After	after	SCONJ	IN	_	4	mark	4:mark	_
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+3	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	4:aux	_
+4	chosen	choose	VERB	VBN	Tense=Past|VerbForm=Part	10	advcl	10:advcl:after	_
+5	The	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+6	Fountain	Fountain	PROPN	NNP	Number=Sing	8	compound	8:compound	_
+7	Dental	Dental	PROPN	NNP	Number=Sing	8	compound	8:compound	_
+8	Practice	Practice	PROPN	NNP	Number=Sing	4	obj	4:obj	_
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	10:nsubj	_
+10	provided	provide	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+11	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	15:det	_
+12	slick	slick	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
+13	and	and	CCONJ	CC	_	14	cc	14:cc	_
+14	professional	professional	ADJ	JJ	Degree=Pos	12	conj	12:conj:and|15:amod	_
+15	service	service	NOUN	NN	Number=Sing	10	obj	10:obj	_
+16	from	from	ADP	IN	_	17	case	17:case	_
+17	start	start	NOUN	NN	Number=Sing	10	obl	10:obl:from	_
+18	to	to	ADP	IN	_	19	case	19:case	_
+19	finish	finish	NOUN	NN	Number=Sing	17	nmod	17:nmod:to	SpaceAfter=No
+20	.	.	PUNCT	.	_	10	punct	10:punct	_
+

@@ -1,0 +1,21 @@
+# sent_id = 122882-0006
+1	$	$	SYM	$	_	0	root	0:root	SpaceAfter=No
+2	80	80	NUM	CD	NumType=Card	1	nummod	1:nummod	_
+3	for	for	ADP	IN	_	5	case	5:case	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
+5	dish	dish	NOUN	NN	Number=Sing	1	nmod	1:nmod:for|7:nsubj|15:nsubj	_
+6	that	that	PRON	WDT	PronType=Rel	7	nsubj	5:ref	_
+7	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	5:acl:relcl	_
+8	about	about	ADV	RB	_	9	advmod	9:advmod	_
+9	one	one	NUM	CD	NumType=Card	12	nummod	12:nummod	_
+10	small	small	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
+11	lobster	lobster	NOUN	NN	Number=Sing	12	compound	12:compound	_
+12	tail	tail	NOUN	NN	Number=Sing	7	obj	7:obj	_
+13	and	and	CCONJ	CC	_	15	cc	15:cc	_
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	15:cop	_
+15	full	full	ADJ	JJ	Degree=Pos	7	conj	5:acl:relcl|7:conj:and	_
+16	of	of	ADP	IN	_	18	case	18:case	_
+17	filler	filler	NOUN	NN	Number=Sing	18	compound	18:compound	_
+18	vegetables	vegetable	NOUN	NNS	Number=Plur	15	obl	15:obl:of	SpaceAfter=No
+19	!	!	PUNCT	.	_	1	punct	1:punct	_
+

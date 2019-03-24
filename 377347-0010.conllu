@@ -1,0 +1,21 @@
+# sent_id = 377347-0010
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	2:det	_
+2	store	store	NOUN	NN	Number=Sing	6	nsubj	6:nsubj|8:nsubj	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
+5	real	real	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	gem	gem	NOUN	NN	Number=Sing	0	root	0:root	_
+7	and	and	CCONJ	CC	_	8	cc	8:cc	_
+8	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	6:conj:and	_
+9	much	much	ADJ	JJ	Degree=Pos	8	obj	8:obj	_
+10	to	to	PART	TO	_	11	mark	11:mark	_
+11	offer	offer	VERB	VB	VerbForm=Inf	9	acl	9:acl:to	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
+13	serious	serious	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
+14	crafter	crafter	NOUN	NN	Number=Sing	11	obj	11:obj	_
+15	or	or	CCONJ	CC	_	18	cc	18:cc	_
+16	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
+17	occasional	occasional	ADJ	JJ	Degree=Pos	18	amod	18:amod	_
+18	crafter	crafter	NOUN	NN	Number=Sing	14	conj	11:obj|14:conj:or	SpaceAfter=No
+19	.	.	PUNCT	.	_	6	punct	6:punct	_
+

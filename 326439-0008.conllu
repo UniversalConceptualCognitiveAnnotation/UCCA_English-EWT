@@ -1,0 +1,16 @@
+# sent_id = 326439-0008
+1	THEIR	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+2	GRILL	grill	NOUN	NN	Number=Sing	3	compound	3:compound	_
+3	DISHES	dish	NOUN	NNS	Number=Plur	8	nsubj	8:nsubj	_
+4	ARE	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
+5	OUT	out	ADP	IN	_	8	case	8:case	SpaceAfter=No
+6	TA	of	ADP	IN	Abbr=Yes	8	case	8:case	_
+7	THIS	this	DET	DT	Number=Sing|PronType=Dem	8	det	8:det	_
+8	WORLD	world	NOUN	NN	Number=Sing	0	root	0:root	_
+9	AND	and	CCONJ	CC	_	13	cc	13:cc	_
+10	SUSHI	sushi	NOUN	NN	Number=Sing	13	nsubj	13:nsubj	_
+11	IS	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	13:cop	_
+12	JUST	just	ADV	RB	_	13	advmod	13:advmod	_
+13	FABULOUS	fabulous	ADJ	JJ	Degree=Pos	8	conj	8:conj:and	SpaceAfter=No
+14	!!!!	!!!!	PUNCT	.	_	8	punct	8:punct	_
+

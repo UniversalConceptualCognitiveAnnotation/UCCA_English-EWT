@@ -1,0 +1,25 @@
+# sent_id = 382257-0005
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
+3	since	since	ADV	RB	_	4	advmod	4:advmod	_
+4	purchased	purchase	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+5	two	two	NUM	CD	NumType=Card	6	nummod	6:nummod	_
+6	cars	car	NOUN	NNS	Number=Plur	4	obj	4:obj	_
+7	from	from	ADP	IN	_	9	case	9:case	_
+8	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	9:det	_
+9	dealership	dealership	NOUN	NN	Number=Sing	4	obl	4:obl:from	SpaceAfter=No
+10	,	,	PUNCT	,	_	4	punct	4:punct	_
+11	The	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
+12	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	13	amod	13:amod	_
+13	one	one	NOUN	NN	Number=Sing	16	nsubj	16:nsubj	_
+14	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	cop	16:cop	_
+15	from	from	ADP	IN	_	16	case	16:case	_
+16	Phillip	Phillip	PROPN	NNP	Number=Sing	4	parataxis	4:parataxis	_
+17	and	and	CCONJ	CC	_	22	cc	22:cc	_
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
+19	second	second	NOUN	NN	Number=Sing	22	nsubj	22:nsubj	_
+20	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	cop	22:cop	_
+21	from	from	ADP	IN	_	22	case	22:case	_
+22	Richard	Richard	PROPN	NNP	Number=Sing	16	conj	16:conj:and	SpaceAfter=No
+23	.	.	PUNCT	.	_	4	punct	4:punct	_
+

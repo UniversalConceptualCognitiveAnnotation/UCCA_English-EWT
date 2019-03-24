@@ -1,0 +1,12 @@
+# sent_id = 331662-0002
+1	Hot	Hot	PROPN	NNP	Number=Sing	2	compound	2:compound	_
+2	Iron	Iron	PROPN	NNP	Number=Sing	4	nsubj	4:nsubj|6:nsubj:xsubj	_
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
+4	become	become	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
+6	favorite	favorite	NOUN	NN	Number=Sing	4	xcomp	4:xcomp	_
+7	of	of	ADP	IN	_	9	case	9:case	_
+8	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
+9	family	family	NOUN	NN	Number=Sing	6	nmod	6:nmod:of	SpaceAfter=No
+10	.	.	PUNCT	.	_	6	punct	6:punct	_
+

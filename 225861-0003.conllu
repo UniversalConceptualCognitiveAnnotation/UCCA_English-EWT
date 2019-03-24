@@ -1,0 +1,14 @@
+# sent_id = 225861-0003
+1	yet	yet	ADV	RB	_	2	advmod	2:advmod	_
+2	again	again	ADV	RB	_	7	advmod	7:advmod	_
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	7:nsubj	_
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	7:cop	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
+6	great	great	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
+7	stay	stay	NOUN	NN	Number=Sing	0	root	0:root	_
+8	from	from	ADP	IN	_	9	case	9:case	_
+9	begiinning	beginning	NOUN	NN	Number=Sing|Typo=Yes	7	obl	7:obl:from	_
+10	to	to	ADP	IN	_	11	case	11:case	_
+11	end	end	NOUN	NN	Number=Sing	7	obl	7:obl:to	SpaceAfter=No
+12	.	.	PUNCT	.	_	7	punct	7:punct	SpaceAfter=No
+

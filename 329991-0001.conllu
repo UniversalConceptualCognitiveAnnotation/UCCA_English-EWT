@@ -1,0 +1,30 @@
+# newdoc id = 329991
+# sent_id = 329991-0001
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	googled	google	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	restaurants	restaurant	NOUN	NNS	Number=Plur	2	obj	2:obj	_
+4	in	in	ADP	IN	_	6	case	6:case	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+6	area	area	NOUN	NN	Number=Sing	3	nmod	3:nmod:in	_
+7	and	and	CCONJ	CC	_	10	cc	10:cc	_
+8	Fuji	Fuji	PROPN	NNP	Number=Sing	9	compound	9:compound	_
+9	Sushi	Sushi	PROPN	NNP	Number=Sing	10	nsubj	10:nsubj	_
+10	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
+11	up	up	ADV	RB	_	10	advmod	10:advmod	_
+12	and	and	CCONJ	CC	_	15	cc	15:cc	_
+13	reviews	review	NOUN	NNS	Number=Plur	15	nsubj	15:nsubj	_
+14	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	15	cop	15:cop	_
+15	great	great	ADJ	JJ	Degree=Pos	2	conj	2:conj:and	_
+16	so	so	ADV	RB	_	18	advmod	18:advmod	_
+17	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	18:nsubj	_
+18	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	parataxis	2:parataxis	_
+19	a	a	DET	DT	Definite=Ind|PronType=Art	22	det	22:det	_
+20	carry	carry	VERB	VB	VerbForm=Inf	22	compound	22:compound	_
+21	out	out	ADP	RP	_	20	compound	20:compound	_
+22	order	order	NOUN	NN	Number=Sing	18	obj	18:obj	_
+23	of	of	ADP	IN	_	25	case	25:case	_
+24	:	:	PUNCT	:	_	25	punct	25:punct	_
+25	L	l	SYM	$	_	22	nmod	22:nmod:of	_
+26	17	17	NUM	CD	NumType=Card	25	nummod	25:nummod	SpaceAfter=No
+27	.	.	PUNCT	.	_	2	punct	2:punct	_
+

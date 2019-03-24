@@ -1,0 +1,15 @@
+# sent_id = 361545-0003
+1	Yes	yes	INTJ	UH	_	4	discourse	4:discourse	SpaceAfter=No
+2	,	,	PUNCT	,	_	4	punct	4:punct	_
+3	there	there	PRON	EX	_	4	expl	4:expl	_
+4	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+5	bigger	bigger	ADJ	JJR	Degree=Cmp	4	nsubj	4:nsubj	SpaceAfter=No
+6	,	,	PUNCT	,	_	12	punct	12:punct	_
+7	but	but	CCONJ	CC	_	12	cc	12:cc	_
+8	bigger	bigger	ADJ	JJR	Degree=Cmp	12	nsubj	12:nsubj	_
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	12:cop	SpaceAfter=No
+10	n't	not	PART	RB	_	12	advmod	12:advmod	_
+11	necessarily	necessarily	ADV	RB	_	12	advmod	12:advmod	_
+12	better	better	ADJ	JJR	Degree=Cmp	4	conj	4:conj:but	SpaceAfter=No
+13	.	.	PUNCT	.	_	4	punct	4:punct	_
+

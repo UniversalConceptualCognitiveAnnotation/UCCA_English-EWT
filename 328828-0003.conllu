@@ -1,0 +1,25 @@
+# sent_id = 328828-0003
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	sent	send	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	over	over	ADP	RP	_	2	compound:prt	2:compound:prt	_
+4	someone	someone	PRON	NN	Number=Sing	2	obj	2:obj|6:nsubj	_
+5	who	who	PRON	WP	PronType=Rel	6	nsubj	4:ref	_
+6	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	acl:relcl	4:acl:relcl	_
+7	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	8:nsubj|15:nsubj	_
+8	knows	know	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	6:ccomp	_
+9	nothing	nothing	PRON	NN	Number=Sing	8	obj	8:obj	_
+10	about	about	ADP	IN	_	11	case	11:case	_
+11	curtains	curtain	NOUN	NNS	Number=Plur	9	nmod	9:nmod:about	_
+12	and	and	CCONJ	CC	_	15	cc	15:cc	_
+13	could	could	AUX	MD	VerbForm=Fin	15	aux	15:aux	_
+14	not	not	PART	RB	_	15	advmod	15:advmod	_
+15	show	show	VERB	VB	VerbForm=Inf	8	conj	6:ccomp|8:conj:and	_
+16	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	15	iobj	15:iobj	_
+17	fabric	fabric	NOUN	NN	Number=Sing	18	compound	18:compound	_
+18	options	option	NOUN	NNS	Number=Plur	15	obj	15:obj	_
+19	or	or	CCONJ	CC	_	20	cc	20:cc	_
+20	give	give	VERB	VB	VerbForm=Inf	15	conj	15:conj:or	_
+21	an	a	DET	DT	Definite=Ind|PronType=Art	22	det	22:det	_
+22	estimate	estimate	NOUN	NN	Number=Sing	20	obj	20:obj	SpaceAfter=No
+23	.	.	PUNCT	.	_	2	punct	2:punct	_
+

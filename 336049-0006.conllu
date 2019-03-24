@@ -1,0 +1,20 @@
+# sent_id = 336049-0006
+1	On	on	ADP	IN	_	2	case	2:case	_
+2	top	top	NOUN	NN	Number=Sing	7	obl	7:obl:on	_
+3	of	of	ADP	IN	_	4	case	4:case	_
+4	that	that	PRON	DT	Number=Sing|PronType=Dem	2	nmod	2:nmod:of	_
+5	though	though	ADV	RB	_	7	advmod	7:advmod	_
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	7:nsubj|9:nsubj:xsubj	_
+7	tried	try	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+8	to	to	PART	TO	_	9	mark	9:mark	_
+9	charge	charge	VERB	VB	VerbForm=Inf	7	xcomp	7:xcomp	_
+10	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	9	iobj	9:iobj	_
+11	service	service	NOUN	NN	Number=Sing	12	compound	12:compound	_
+12	charge	charge	NOUN	NN	Number=Sing	9	obj	9:obj	_
+13	just	just	ADV	RB	_	15	advmod	15:advmod	_
+14	to	to	PART	TO	_	15	mark	15:mark	_
+15	rub	rub	VERB	VB	VerbForm=Inf	9	advcl	9:advcl:to	_
+16	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	obj	15:obj	_
+17	it	in	ADP	RP	Typo=Yes	15	compound:prt	15:compound:prt	SpaceAfter=No
+18	....	....	PUNCT	.	_	7	punct	7:punct	_
+

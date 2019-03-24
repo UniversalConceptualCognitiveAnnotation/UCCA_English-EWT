@@ -1,0 +1,13 @@
+# sent_id = 333243-0003
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	2:nsubj	_
+2	said	say	VERB	VBN	Tense=Past|VerbForm=Part	5	advcl	5:advcl	_
+3	-	-	PUNCT	,	_	5	punct	5:punct	_
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj|8:nsubj:xsubj	_
+5	seemed	seem	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+6	to	to	PART	TO	_	8	mark	8:mark	_
+7	be	be	AUX	VB	VerbForm=Inf	8	aux	8:aux	_
+8	doing	do	VERB	VBG	VerbForm=Ger	5	xcomp	5:xcomp	_
+9	well	well	ADV	RB	Degree=Pos	10	advmod	10:advmod	_
+10	enough	enough	ADV	RB	_	8	advmod	8:advmod	SpaceAfter=No
+11	.	.	PUNCT	.	_	5	punct	5:punct	_
+

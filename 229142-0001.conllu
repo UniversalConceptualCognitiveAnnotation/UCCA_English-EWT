@@ -1,0 +1,16 @@
+# newdoc id = 229142
+# sent_id = 229142-0001
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	used	use	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	Birdies	Birdies	PROPN	NNP	Number=Sing	2	obj	2:obj	_
+4	for	for	ADP	IN	_	12	case	12:case	_
+5	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	_
+6	Annual	annual	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
+7	Walk	Walk	PROPN	NNP	Number=Sing	12	compound	12:compound	_
+8	Against	against	ADP	IN	_	9	case	9:case	_
+9	Drugs	Drugs	PROPN	NNPS	Number=Plur	7	nmod	7:nmod:against	_
+10	and	and	CCONJ	CC	_	11	cc	11:cc	_
+11	Alcohol	Alcohol	PROPN	NNP	Number=Sing	9	conj	7:nmod:against|9:conj:and	_
+12	event	event	NOUN	NN	Number=Sing	2	obl	2:obl:for	SpaceAfter=No
+13	.	.	PUNCT	.	_	2	punct	2:punct	_
+

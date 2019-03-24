@@ -1,0 +1,18 @@
+# sent_id = 235423-0010
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	3:nsubj|5:nsubj	_
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	cop	3:cop	_
+3	abrasive	abrasive	ADJ	JJ	Degree=Pos	0	root	0:root	_
+4	and	and	CCONJ	CC	_	5	cc	5:cc	_
+5	rude	rude	ADJ	JJ	Degree=Pos	3	conj	3:conj:and	_
+6	-	-	PUNCT	,	_	3	punct	3:punct	_
+7	when	when	ADV	WRB	PronType=Int	11	mark	11:mark	_
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	11:nsubj	_
+9	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	cop	11:cop	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
+11	ones	one	NOUN	NNS	Number=Plur	3	advcl	3:advcl:when|13:nsubj	_
+12	who	who	PRON	WP	PronType=Rel	13	nsubj	11:ref	_
+13	messed	mess	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	acl:relcl	11:acl:relcl	_
+14	everything	everything	PRON	NN	Number=Sing	13	obj	13:obj	_
+15	up	up	ADP	RP	_	13	compound:prt	13:compound:prt	SpaceAfter=No
+16	.	.	PUNCT	.	_	3	punct	3:punct	_
+

@@ -1,0 +1,21 @@
+# sent_id = 369210-0007
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	urge	urge	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	all	all	DET	DT	_	8	det	8:det	_
+4	St.	St.	PROPN	NNP	Number=Sing	8	compound	8:compound	_
+5	Thomas	Thomas	PROPN	NNP	Number=Sing	4	flat	4:flat	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	Apostle	Apostle	PROPN	NNP	Number=Sing	4	appos	4:appos	_
+8	parishioners	parishioner	NOUN	NNS	Number=Plur	2	obj	2:obj|16:nsubj:xsubj|17:nsubj:xsubj	_
+9	and	and	CCONJ	CC	_	10	cc	10:cc	_
+10	all	all	DET	DT	_	8	conj	2:obj|8:conj:and|16:nsubj:xsubj|17:nsubj:xsubj	_
+11	of	of	ADP	IN	_	14	case	14:case	_
+12	South	south	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
+13	Florida	Florida	PROPN	NNP	Number=Sing	14	compound	14:compound	_
+14	residents	resident	NOUN	NNS	Number=Plur	10	nmod	10:nmod:of	_
+15	to	to	PART	TO	_	16	mark	16:mark	_
+16	come	come	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	_
+17	see	see	VERB	VB	VerbForm=Inf	16	xcomp	16:xcomp	_
+18	Gus	Gus	PROPN	NNP	Number=Sing	17	obj	17:obj	SpaceAfter=No
+19	!!!	!!!	PUNCT	.	_	2	punct	2:punct	_
+

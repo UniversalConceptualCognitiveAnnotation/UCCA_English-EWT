@@ -1,0 +1,17 @@
+# sent_id = 163703-0002
+1	Cheap	Cheap	PROPN	NNP	Number=Sing	2	compound	2:compound	_
+2	Hotel	Hotel	PROPN	NNP	Number=Sing	3	compound	3:compound	_
+3	Rome	Rome	PROPN	NNP	Number=Sing	0	root	0:root	_
+4	-	-	PUNCT	HYPH	_	3	punct	3:punct	_
+5	thanks	thanks	NOUN	NN	Number=Sing	3	parataxis	3:parataxis	_
+6	for	for	SCONJ	IN	_	7	mark	7:mark	_
+7	finding	find	VERB	VBG	VerbForm=Ger	5	acl	5:acl:for	_
+8	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	7	iobj	7:iobj	_
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	_
+10	hotel	hotel	NOUN	NN	Number=Sing	7	obj	7:obj	_
+11	at	at	ADP	IN	_	14	case	14:case	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
+13	last	last	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
+14	minute	minute	NOUN	NN	Number=Sing	7	obl	7:obl:at	SpaceAfter=No
+15	.	.	PUNCT	.	_	3	punct	3:punct	_
+

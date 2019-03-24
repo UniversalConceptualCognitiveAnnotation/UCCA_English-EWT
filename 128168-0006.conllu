@@ -1,0 +1,14 @@
+# sent_id = 128168-0006
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	put	put	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+4	foot	foot	NOUN	NN	Number=Sing	2	obj	2:obj	_
+5	in	in	ADP	IN	_	7	case	7:case	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	water	water	NOUN	NN	Number=Sing	2	obl	2:obl:in	_
+8	and	and	CCONJ	CC	_	11	cc	11:cc	_
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	11:nsubj	_
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	cop	11:cop	_
+11	cool	cool	ADJ	JJ	Degree=Pos	2	conj	2:conj:and	SpaceAfter=No
+12	.	.	PUNCT	.	_	2	punct	2:punct	_
+

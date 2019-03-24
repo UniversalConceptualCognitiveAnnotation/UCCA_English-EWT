@@ -1,0 +1,17 @@
+# sent_id = 334388-0003
+1	Cold	cold	ADJ	JJ	Degree=Pos	9	nsubj	9:nsubj	SpaceAfter=No
+2	,	,	PUNCT	,	_	3	punct	3:punct	_
+3	slimy	slimy	ADJ	JJ	Degree=Pos	1	conj	1:conj|9:nsubj	SpaceAfter=No
+4	,	,	PUNCT	,	_	5	punct	5:punct	_
+5	tasteless	tasteless	ADJ	JJ	Degree=Pos	1	conj	1:conj|9:nsubj	_
+6	however	however	ADV	RB	_	9	advmod	9:advmod	_
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+9	same	same	ADJ	JJ	Degree=Pos	0	root	0:root	_
+10	in	in	ADP	IN	_	12	case	12:case	_
+11	all	all	DET	DT	_	12	det	12:det	_
+12	languages	language	NOUN	NNS	Number=Plur	9	obl	9:obl:in	_
+13	and	and	CCONJ	CC	_	14	cc	14:cc	_
+14	foods	food	NOUN	NNS	Number=Plur	12	conj	9:obl:in|12:conj:and	SpaceAfter=No
+15	.	.	PUNCT	.	_	9	punct	9:punct	_
+

@@ -1,0 +1,14 @@
+# sent_id = 200429-0006
+1	Missed	miss	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
+3	whole	whole	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
+4	day	day	NOUN	NN	Number=Sing	1	obj	1:obj	_
+5	of	of	ADP	IN	_	6	case	6:case	_
+6	work	work	NOUN	NN	Number=Sing	4	nmod	4:nmod:of	_
+7	because	because	SCONJ	IN	_	11	mark	11:mark	_
+8	i	i	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	11:nsubj	_
+9	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	cop	11:cop	_
+10	now	now	ADV	RB	_	11	advmod	11:advmod	_
+11	carless	carless	ADJ	JJ	Degree=Pos	1	advcl	1:advcl:because	SpaceAfter=No
+12	.	.	PUNCT	.	_	1	punct	1:punct	_
+

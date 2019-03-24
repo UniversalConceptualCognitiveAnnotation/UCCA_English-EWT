@@ -1,0 +1,18 @@
+# sent_id = 351561-0008
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	say	say	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
+3	,	,	PUNCT	,	_	2	punct	2:punct	_
+4	NO	no	INTJ	UH	_	12	discourse	12:discourse	SpaceAfter=No
+5	,	,	PUNCT	,	_	12	punct	12:punct	_
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	12:nsubj	_
+7	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
+8	at	at	ADP	IN	_	12	case	12:case	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
+10	RADISON	RADISON	PROPN	NNP	Number=Sing	11	compound	11:compound	_
+11	WARWICK	WARWICK	PROPN	NNP	Number=Sing	12	compound	12:compound	_
+12	HOTEL	HOTEL	PROPN	NNP	Number=Sing	2	ccomp	2:ccomp	_
+13	in	in	ADP	IN	_	15	case	15:case	_
+14	Rittenhouse	Rittenhouse	PROPN	NNP	Number=Sing	15	compound	15:compound	_
+15	Square	Square	PROPN	NNP	Number=Sing	12	nmod	12:nmod:in	SpaceAfter=No
+16	.	.	PUNCT	.	_	2	punct	2:punct	_
+

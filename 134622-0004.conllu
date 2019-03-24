@@ -1,0 +1,10 @@
+# sent_id = 134622-0004
+1	Very	very	ADV	RB	_	2	advmod	2:advmod	_
+2	glad	glad	ADJ	JJ	Degree=Pos	0	root	0:root	_
+3	that	that	SCONJ	IN	_	5	mark	5:mark	_
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
+5	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	ccomp	2:ccomp	_
+6	with	with	ADP	IN	_	7	case	7:case	_
+7	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	obl	5:obl:with	SpaceAfter=No
+8	.	.	PUNCT	.	_	2	punct	2:punct	_
+

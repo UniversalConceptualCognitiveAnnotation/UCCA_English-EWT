@@ -1,0 +1,18 @@
+# sent_id = 396874-0008
+1	Do	do	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
+2	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	1	iobj	1:iobj	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
+4	favor	favor	NOUN	NN	Number=Sing	1	obj	1:obj	SpaceAfter=No
+5	,	,	PUNCT	,	_	1	punct	1:punct	_
+6	call	call	VERB	VB	Mood=Imp|VerbForm=Fin	1	parataxis	1:parataxis	_
+7	these	these	DET	DT	Number=Plur|PronType=Dem	8	det	8:det	_
+8	guys	guy	NOUN	NNS	Number=Plur	6	obj	6:obj	_
+9	first	first	ADV	RB	_	6	advmod	6:advmod	_
+10	and	and	CCONJ	CC	_	11	cc	11:cc	_
+11	enjoy	enjoy	VERB	VB	Mood=Imp|VerbForm=Fin	6	conj	6:conj:and	_
+12	driving	drive	VERB	VBG	VerbForm=Ger	11	xcomp	11:xcomp	_
+13	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	14	nmod:poss	14:nmod:poss	_
+14	car	car	NOUN	NN	Number=Sing	12	obj	12:obj	_
+15	again	again	ADV	RB	_	11	advmod	11:advmod	SpaceAfter=No
+16	..	..	PUNCT	.	_	1	punct	1:punct	_
+

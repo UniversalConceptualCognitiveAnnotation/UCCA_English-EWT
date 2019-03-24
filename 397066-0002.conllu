@@ -1,0 +1,22 @@
+# sent_id = 397066-0002
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
+3	used	use	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+4	Just	Just	PROPN	NNP	Number=Sing	6	compound	6:compound	_
+5	Like	Like	PROPN	NNP	Number=Sing	6	compound	6:compound	_
+6	Family	Family	PROPN	NNP	Number=Sing	3	obj	3:obj	_
+7	several	several	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
+8	times	time	NOUN	NNS	Number=Plur	3	obl:tmod	3:obl:tmod	_
+9	now	now	ADV	RB	_	3	advmod	3:advmod	_
+10	and	and	CCONJ	CC	_	13	cc	13:cc	_
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	13:nsubj	_
+12	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	13:aux	_
+13	provided	provide	VERB	VBN	Tense=Past|VerbForm=Part	3	conj	3:conj:and	_
+14	great	great	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
+15	care	care	NOUN	NN	Number=Sing	13	obj	13:obj	_
+16	for	for	ADP	IN	_	19	case	19:case	_
+17	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	19	nmod:poss	19:nmod:poss	_
+18	two	two	NUM	CD	NumType=Card	19	nummod	19:nummod	_
+19	dogs	dog	NOUN	NNS	Number=Plur	13	obl	13:obl:for	SpaceAfter=No
+20	.	.	PUNCT	.	_	3	punct	3:punct	_
+

@@ -1,0 +1,15 @@
+# newdoc id = 334928
+# sent_id = 334928-0001
+1	One	one	NUM	CD	NumType=Card	0	root	0:root	_
+2	of	of	ADP	IN	_	6	case	6:case	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+4	better	better	ADJ	JJR	Degree=Cmp	6	amod	6:amod	_
+5	vegetarian	vegetarian	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	sandwiches	sandwich	NOUN	NNS	Number=Plur	1	nmod	1:nmod:of	_
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	SpaceAfter=No
+8	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
+9	had	have	VERB	VBN	Tense=Past|VerbForm=Part	6	acl:relcl	6:acl:relcl	_
+10	in	in	ADP	IN	_	11	case	11:case	_
+11	Seattle	Seattle	PROPN	NNP	Number=Sing	9	obl	9:obl:in	SpaceAfter=No
+12	.	.	PUNCT	.	_	1	punct	1:punct	_
+

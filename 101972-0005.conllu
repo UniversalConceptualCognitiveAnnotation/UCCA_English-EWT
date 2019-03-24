@@ -1,0 +1,12 @@
+# sent_id = 101972-0005
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	greeter	greeter	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	there	there	PRON	EX	_	5	expl	5:expl	_
+5	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	3:ccomp	_
+6	about	about	ADV	RB	_	7	advmod	7:advmod	_
+7	15	15	NUM	CD	NumType=Card	8	nummod	8:nummod	_
+8	minutes	minute	NOUN	NNS	Number=Plur	9	compound	9:compound	_
+9	waiting	waiting	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	SpaceAfter=No
+10	.	.	PUNCT	.	_	3	punct	3:punct	_
+

@@ -1,0 +1,24 @@
+# sent_id = 126171-0004
+1	Never	never	ADV	RB	_	2	advmod	2:advmod	_
+2	miss	miss	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
+3	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
+4	appointment	appointment	NOUN	NN	Number=Sing	2	obj	2:obj	_
+5	because	because	SCONJ	IN	_	8	mark	8:mark	_
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
+7	will	will	AUX	MD	VerbForm=Fin	8	aux	8:aux	_
+8	charge	charge	VERB	VB	VerbForm=Inf	2	advcl	2:advcl:because	_
+9	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	8	iobj	8:iobj	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
+11	price	price	NOUN	NN	Number=Sing	8	obj	8:obj	_
+12	of	of	ADP	IN	_	14	case	14:case	_
+13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	_
+14	treatment	treatment	NOUN	NN	Number=Sing	11	nmod	11:nmod:of	SpaceAfter=No
+15	,	,	PUNCT	,	_	8	punct	8:punct	_
+16	even	even	ADV	RB	_	19	advmod	19:advmod	_
+17	if	if	SCONJ	IN	_	19	mark	19:mark	_
+18	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	19	nsubj	19:nsubj	_
+19	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	advcl	8:advcl:if	_
+20	an	a	DET	DT	Definite=Ind|PronType=Art	21	det	21:det	_
+21	emergency	emergency	NOUN	NN	Number=Sing	19	obj	19:obj	SpaceAfter=No
+22	.	.	PUNCT	.	_	2	punct	2:punct	_
+

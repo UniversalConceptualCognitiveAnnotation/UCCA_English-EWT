@@ -1,0 +1,17 @@
+# sent_id = 017235-0004
+1	Lots	lot	NOUN	NNS	Number=Plur	0	root	0:root	_
+2	of	of	ADP	IN	_	3	case	3:case	_
+3	collections	collection	NOUN	NNS	Number=Plur	1	nmod	1:nmod:of	SpaceAfter=No
+4	,	,	PUNCT	,	_	1	punct	1:punct	_
+5	many	many	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
+6	antique	antique	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
+7	light	light	NOUN	NN	Number=Sing	8	compound	8:compound	_
+8	fixtures	fixture	NOUN	NNS	Number=Plur	1	appos	1:appos	SpaceAfter=No
+9	,	,	PUNCT	,	_	1	punct	1:punct	_
+10	Chandeliers	chandelier	NOUN	NNS	Number=Plur	1	appos	1:appos	SpaceAfter=No
+11	,	,	PUNCT	,	_	1	punct	1:punct	_
+12	custom	custom	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
+13	lighting	lighting	NOUN	NN	Number=Sing	1	appos	1:appos	_
+14	etc	etc	X	FW	_	1	advmod	1:advmod	SpaceAfter=No
+15	.	.	PUNCT	.	_	1	punct	1:punct	_
+

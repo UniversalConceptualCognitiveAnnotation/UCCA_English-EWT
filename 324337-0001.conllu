@@ -1,0 +1,16 @@
+# newdoc id = 324337
+# sent_id = 324337-0001
+1	DO	do	AUX	VB	Mood=Imp|VerbForm=Fin	4	aux	4:aux	SpaceAfter=No
+2	NT	not	PART	RB	_	4	advmod	4:advmod	_
+3	ever	ever	ADV	RB	_	4	advmod	4:advmod	_
+4	go	go	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
+5	there	there	ADV	RB	PronType=Dem	4	advmod	4:advmod	SpaceAfter=No
+6	,	,	PUNCT	,	_	4	punct	4:punct	_
+7	not	not	PART	RB	_	8	advmod	8:advmod	_
+8	even	even	ADV	RB	_	12	advmod	12:advmod	_
+9	if	if	SCONJ	IN	_	12	mark	12:mark	_
+10	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
+11	car	car	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	_
+12	flips	flip	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	4:advcl:if	SpaceAfter=No
+13	.	.	PUNCT	.	_	4	punct	4:punct	_
+
