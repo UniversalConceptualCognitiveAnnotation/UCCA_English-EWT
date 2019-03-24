@@ -1,0 +1,29 @@
+#BOS 295491-0004
+Staff	Word	--	Terminal	500
+is	Word	--	Terminal	501
+super	Word	--	Terminal	502
+friendly	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+treat	Word	--	Terminal	505
+you	Word	--	Terminal	506
+as	Word	--	Terminal	507
+a	Word	--	Terminal	508
+friend	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	A	511	A*	512	A*	514
+#501	FN	--	F	511
+#502	FN	--	D	511
+#503	FN	--	S	511
+#504	PNCT	--	U	515
+#505	FN	--	P	512	P*	514
+#506	FN	--	A	512
+#507	FN	--	L	515
+#508	FN	--	F	513
+#509	FN	--	S	513
+#510	PNCT	--	U	513
+#511	FN	--	H	515
+#512	FN	--	H	515
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 295491-0004

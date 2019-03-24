@@ -1,0 +1,35 @@
+#BOS 349020-0009
+Who	Word	--	Terminal	500
+knows	Word	--	Terminal	501
+how	Word	--	Terminal	502
+much	Word	--	Terminal	502
+they	Word	--	Terminal	503
+want	Word	--	Terminal	504
+me	Word	--	Terminal	505
+to	Word	--	Terminal	506
+pay	Word	--	Terminal	507
+to	Word	--	Terminal	508
+fix	Word	--	Terminal	509
+this	Word	--	Terminal	510
+thing	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	A	517
+#501	FN	--	P	517
+#502	FN	--	A	513
+#503	FN	--	A	513	A*	515
+#504	FN	--	D	513
+#505	FN	--	A	513
+#506	FN	--	F	513
+#507	FN	--	P	513
+#508	FN	--	L	516
+#509	FN	--	P	515
+#510	FN	--	E	514
+#511	FN	--	C	514
+#512	PNCT	--	U	514
+#513	FN	--	H	516
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 349020-0009

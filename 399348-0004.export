@@ -1,0 +1,45 @@
+#BOS 399348-0004
+A	Word	--	Terminal	500
+great	Word	--	Terminal	501
+breakfast	Word	--	Terminal	502
+which	Word	--	Terminal	503
+was	Word	--	Terminal	504
+included	Word	--	Terminal	505
+every	Word	--	Terminal	506
+morning	Word	--	Terminal	507
+until	Word	--	Terminal	508
+9:30	Word	--	Terminal	509
+am	Word	--	Terminal	510
+;	Punctuation	--	Terminal	511
+yummy	Word	--	Terminal	512
+fresh	Word	--	Terminal	513
+Parisian	Word	--	Terminal	514
+croissants	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	F	517
+#501	FN	--	D	518
+#502	FN	--	C	517	A*	523
+#503	FN	--	L	525
+#504	FN	--	F	523
+#505	FN	--	P	523
+#506	FN	--	Q	522
+#507	FN	--	C	522
+#508	FN	--	R	519
+#509	FN	--	Q	519
+#510	FN	--	C	519
+#511	PNCT	--	U	525
+#512	FN	--	S	520
+#513	FN	--	S	524
+#514	FN	--	E	521
+#515	FN	--	C	521	A*	520
+#516	PNCT	--	U	520
+#517	FN	--	P	518
+#518	FN	--	H	525
+#519	FN	--	E	522
+#520	FN	--	H	525
+#521	FN	--	A	524
+#522	FN	--	T	523
+#523	FN	--	H	525
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 399348-0004

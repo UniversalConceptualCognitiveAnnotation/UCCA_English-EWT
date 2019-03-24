@@ -1,0 +1,21 @@
+#BOS 275140-0003
+They	Word	--	Terminal	500
+'ve	Word	--	Terminal	501
+always	Word	--	Terminal	502
+been	Word	--	Terminal	503
+timely	Word	--	Terminal	504
+and	Word	--	Terminal	505
+inexpensive	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	A	508	A*	509
+#501	FN	--	F	508
+#502	FN	--	T	508	T*	509
+#503	FN	--	F	508
+#504	FN	--	S	508
+#505	FN	--	L	510
+#506	FN	--	S	509
+#507	PNCT	--	U	509
+#508	FN	--	H	510
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 275140-0003

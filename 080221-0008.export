@@ -1,0 +1,20 @@
+#BOS 080221-0008
+Market	Word	--	Terminal	500
+leader	Word	--	Terminal	501
+medium	Word	--	Terminal	502
+duty	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+sales	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	A	509
+#501	FN	--	S	509
+#502	FN	--	E	507
+#503	FN	--	C	507
+#504	PNCT	--	U	509
+#505	FN	--	P	508
+#506	PNCT	--	U	508
+#507	FN	--	D	509
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 080221-0008

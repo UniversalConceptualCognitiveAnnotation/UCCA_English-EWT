@@ -1,0 +1,14 @@
+#BOS 280844-0001
+Good	Word	--	Terminal	500
+Service	Word	--	Terminal	501
+-	Punctuation	--	Terminal	502
+Limited	Word	--	Terminal	503
+Results	Word	--	Terminal	503
+#500	FN	--	D	504
+#501	FN	--	P	504
+#502	PNCT	--	U	506
+#503	FN	--	E	505
+#504	FN	--	H	506
+#505	FN	--	H	506
+#506	FN	--	--	0
+#EOS 280844-0001

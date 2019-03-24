@@ -1,0 +1,41 @@
+#BOS 162567-0003
+No	Word	--	Terminal	500
+matter	Word	--	Terminal	500
+what	Word	--	Terminal	501
+state	Word	--	Terminal	502
+I	Word	--	Terminal	503
+am	Word	--	Terminal	504
+in	Word	--	Terminal	505
+when	Word	--	Terminal	506
+I	Word	--	Terminal	507
+arrive	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+I	Word	--	Terminal	510
+always	Word	--	Terminal	511
+leave	Word	--	Terminal	512
+feeling	Word	--	Terminal	513
+better	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	L	521
+#501	FN	--	A	517
+#502	FN	--	S	517	C*	516
+#503	FN	--	A	517
+#504	FN	--	F	517
+#505	FN	--	R	516
+#506	FN	--	L	521
+#507	FN	--	A	518
+#508	FN	--	P	518
+#509	PNCT	--	U	521
+#510	FN	--	A	520	A*	519
+#511	FN	--	T	520
+#512	FN	--	P	520
+#513	FN	--	G	519
+#514	FN	--	S	519
+#515	PNCT	--	U	519
+#516	FN	--	A	517
+#517	FN	--	H	521
+#518	FN	--	H	521
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 162567-0003

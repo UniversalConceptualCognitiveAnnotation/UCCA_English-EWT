@@ -1,0 +1,36 @@
+#BOS 294081-0004
+ON	Word	--	Terminal	500
+A	Word	--	Terminal	501
+BAD	Word	--	Terminal	502
+NOTE	Word	--	Terminal	503
+THE	Word	--	Terminal	504
+WAITING	Word	--	Terminal	505
+AREA	Word	--	Terminal	506
+IS	Word	--	Terminal	507
+NOT	Word	--	Terminal	508
+ENJOYABLE	Word	--	Terminal	509
+OR	Word	--	Terminal	510
+ENOUGH	Word	--	Terminal	511
+SEATS	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	R	514
+#501	FN	--	F	514
+#502	FN	--	E	514
+#503	FN	--	C	514
+#504	FN	--	F	517
+#505	FN	--	P	515
+#506	FN	--	C	517	A*	516
+#507	FN	--	F	518
+#508	FN	--	D	518	D*	516
+#509	FN	--	P	518
+#510	FN	--	L	519
+#511	FN	--	S	516
+#512	FN	--	A	516
+#513	PNCT	--	U	516
+#514	FN	--	L	519
+#515	FN	--	E	517
+#516	FN	--	H	519
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 294081-0004

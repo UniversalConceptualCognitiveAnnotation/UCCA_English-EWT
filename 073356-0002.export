@@ -1,0 +1,18 @@
+#BOS 073356-0002
+Great	Word	--	Terminal	500
+service	Word	--	Terminal	501
+-	Punctuation	--	Terminal	502
+high	Word	--	Terminal	503
+class	Word	--	Terminal	504
+!	Punctuation	--	Terminal	505
+#500	FN	--	D	506
+#501	FN	--	P	506
+#502	PNCT	--	U	509
+#503	FN	--	D	508
+#504	FN	--	S	508
+#505	PNCT	--	U	508
+#506	FN	--	H	509
+#507	FN	--	A	508
+#508	FN	--	H	509
+#509	FN	--	--	0
+#EOS 073356-0002

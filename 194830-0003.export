@@ -1,0 +1,61 @@
+#BOS 194830-0003
+Pets	Word	--	Terminal	500
+Discount	Word	--	Terminal	500
+has	Word	--	Terminal	501
+lovely	Word	--	Terminal	502
+employees	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+a	Word	--	Terminal	505
+wonderful	Word	--	Terminal	506
+grooming	Word	--	Terminal	507
+service	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+and	Word	--	Terminal	510
+everything	Word	--	Terminal	511
+I	Word	--	Terminal	512
+need	Word	--	Terminal	513
+to	Word	--	Terminal	514
+keep	Word	--	Terminal	515
+my	Word	--	Terminal	516
+dog	Word	--	Terminal	517
+in	Word	--	Terminal	518
+tip	Word	--	Terminal	519
+top	Word	--	Terminal	519
+condition	Word	--	Terminal	520
+!	Punctuation	--	Terminal	521
+#500	FN	--	A	523	A*	525	A*	533
+#501	FN	--	F	522	S*	533
+#502	FN	--	D	523
+#503	FN	--	C	522
+#504	PNCT	--	U	534
+#505	FN	--	F	524
+#506	FN	--	D	525
+#507	FN	--	A	525
+#508	FN	--	C	524
+#509	PNCT	--	U	534
+#510	FN	--	L	534
+#511	FN	--	C	532	A*	526
+#512	FN	--	A	526	A*	530
+#513	FN	--	P	526
+#514	FN	--	L	531
+#515	FN	--	D	530
+#516	FN	--	S	527
+#517	FN	--	C	528	A*	527
+#518	FN	--	R	529
+#519	FN	--	E	529
+#520	FN	--	C	529
+#521	PNCT	--	U	529
+#522	FN	--	S	523
+#523	FN	--	H	534
+#524	FN	--	P	525
+#525	FN	--	H	534
+#526	FN	--	H	531
+#527	FN	--	E	528
+#528	FN	--	A	530
+#529	FN	--	S	530
+#530	FN	--	H	531
+#531	FN	--	E	532
+#532	FN	--	A	533
+#533	FN	--	H	534
+#534	FN	--	--	0
+#EOS 194830-0003

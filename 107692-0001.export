@@ -1,0 +1,30 @@
+#BOS 107692-0001
+Long	Word	--	Terminal	500
+Lines	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+Silly	Word	--	Terminal	503
+Rules	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+Rude	Word	--	Terminal	506
+Staff	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+Ok	Word	--	Terminal	509
+Food	Word	--	Terminal	510
+#500	FN	--	D	511
+#501	FN	--	P	511
+#502	PNCT	--	U	516
+#503	FN	--	S	512
+#504	FN	--	A	512
+#505	PNCT	--	U	516
+#506	FN	--	S	515
+#507	FN	--	S	513
+#508	PNCT	--	U	516
+#509	FN	--	S	514
+#510	FN	--	A	514
+#511	FN	--	H	516
+#512	FN	--	H	516
+#513	FN	--	A	515
+#514	FN	--	H	516
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 107692-0001

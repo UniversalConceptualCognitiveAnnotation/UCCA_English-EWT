@@ -1,0 +1,32 @@
+#BOS 187875-0007
+Westfield	Word	--	Terminal	500
+and	Word	--	Terminal	501
+Rt	Word	--	Terminal	502
+1	Word	--	Terminal	502
+do	Word	--	Terminal	503
+it	Word	--	Terminal	504
+well	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+WHY	Word	--	Terminal	507
+CA	Word	--	Terminal	508
+NT	Word	--	Terminal	509
+U	Word	--	Terminal	510
+????	Punctuation	--	Terminal	511
+#500	FN	--	C	512
+#501	FN	--	N	512
+#502	FN	--	C	512
+#503	FN	--	P	513	P*	514
+#504	FN	--	A	513
+#505	FN	--	D	513	D*	514
+#506	PNCT	--	U	516
+#507	FN	--	H	515
+#508	FN	--	D	514
+#509	FN	--	D	514
+#510	FN	--	A	514
+#511	PNCT	--	U	514
+#512	FN	--	A	513
+#513	FN	--	H	516
+#514	FN	--	H	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 187875-0007

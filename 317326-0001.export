@@ -1,0 +1,28 @@
+#BOS 317326-0001
+Midtown	Word	--	Terminal	500
+Reston	Word	--	Terminal	501
+has	Word	--	Terminal	502
+great	Word	--	Terminal	503
+location	Word	--	Terminal	504
+and	Word	--	Terminal	505
+luxurious	Word	--	Terminal	506
+environment	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	C	509
+#501	FN	--	E	509
+#502	FN	--	S	515
+#503	FN	--	S	510
+#504	FN	--	C	511	A*	510
+#505	FN	--	N	514
+#506	FN	--	S	512
+#507	FN	--	C	513	A*	512
+#508	PNCT	--	U	513
+#509	FN	--	A	515
+#510	FN	--	E	511
+#511	FN	--	C	514
+#512	FN	--	E	513
+#513	FN	--	C	514
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 317326-0001

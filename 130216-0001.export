@@ -1,0 +1,45 @@
+#BOS 130216-0001
+Fast	Word	--	Terminal	500
+Service	Word	--	Terminal	501
+Called	Word	--	Terminal	502
+them	Word	--	Terminal	503
+one	Word	--	Terminal	504
+hour	Word	--	Terminal	505
+ago	Word	--	Terminal	506
+and	Word	--	Terminal	507
+they	Word	--	Terminal	508
+just	Word	--	Terminal	509
+left	Word	--	Terminal	510
+my	Word	--	Terminal	511
+house	Word	--	Terminal	512
+five	Word	--	Terminal	513
+minutes	Word	--	Terminal	514
+ago	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	D	517
+#501	FN	--	P	517
+#502	FN	--	P	523
+#503	FN	--	A	523
+#504	FN	--	Q	518
+#505	FN	--	C	518
+#506	FN	--	R	518
+#507	FN	--	L	525
+#508	FN	--	A	524
+#509	FN	--	T	524
+#510	FN	--	P	524
+#511	FN	--	S	519
+#512	FN	--	C	520	A*	519
+#513	FN	--	Q	521
+#514	FN	--	C	521
+#515	FN	--	R	521
+#516	PNCT	--	U	521
+#517	FN	--	H	525
+#518	FN	--	T	523
+#519	FN	--	E	520
+#520	FN	--	A	524
+#521	FN	--	T	524
+#522	FN	--	A	523
+#523	FN	--	H	525
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 130216-0001

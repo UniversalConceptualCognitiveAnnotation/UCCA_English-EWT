@@ -1,0 +1,27 @@
+#BOS 121556-0005
+I	Word	--	Terminal	500
+got	Word	--	Terminal	501
+highlights	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+haircut	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+and	Word	--	Terminal	506
+a	Word	--	Terminal	507
+blowdry	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	A	510	A*	511	A*	513
+#501	FN	--	F	510
+#502	FN	--	P	510
+#503	PNCT	--	U	514
+#504	FN	--	P	511
+#505	PNCT	--	U	514
+#506	FN	--	L	514
+#507	FN	--	F	512
+#508	FN	--	C	512
+#509	PNCT	--	U	512
+#510	FN	--	H	514
+#511	FN	--	H	514
+#512	FN	--	P	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 121556-0005

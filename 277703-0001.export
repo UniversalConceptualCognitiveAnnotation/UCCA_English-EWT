@@ -1,0 +1,36 @@
+#BOS 277703-0001
+The	Word	--	Terminal	500
+best	Word	--	Terminal	501
+Supermarket	Word	--	Terminal	502
+in	Word	--	Terminal	503
+Bay	Word	--	Terminal	504
+Ridge	Word	--	Terminal	504
+have	Word	--	Terminal	505
+everything	Word	--	Terminal	506
+what	Word	--	Terminal	507
+a	Word	--	Terminal	508
+customer	Word	--	Terminal	509
+needs	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	F	515
+#501	FN	--	S	512
+#502	FN	--	C	515	A*	512
+#503	FN	--	R	513
+#504	FN	--	C	513
+#505	FN	--	S	519
+#506	FN	--	Q	518
+#507	FN	--	C	518	A*	517
+#508	FN	--	F	514
+#509	FN	--	C	514
+#510	FN	--	S	517
+#511	PNCT	--	U	517
+#512	FN	--	E	515
+#513	FN	--	E	515
+#514	FN	--	S	516
+#515	FN	--	A	519
+#516	FN	--	A	517
+#517	FN	--	E	518
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 277703-0001
