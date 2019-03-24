@@ -1,0 +1,45 @@
+#BOS 319816-0020
+Over	Word	--	Terminal	500
+two	Word	--	Terminal	501
+hours	Word	--	Terminal	502
+later	Word	--	Terminal	503
+(	Punctuation	--	Terminal	504
+and	Word	--	Terminal	505
+ten	Word	--	Terminal	506
+minutes	Word	--	Terminal	507
+before	Word	--	Terminal	508
+they	Word	--	Terminal	509
+closed	Word	--	Terminal	510
+)	Punctuation	--	Terminal	511
+my	Word	--	Terminal	512
+car	Word	--	Terminal	513
+was	Word	--	Terminal	514
+finally	Word	--	Terminal	515
+finished	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	E	518
+#501	FN	--	E	518
+#502	FN	--	C	518
+#503	FN	--	R	518
+#504	PNCT	--	U	524
+#505	FN	--	L	524
+#506	FN	--	E	519
+#507	FN	--	C	519
+#508	FN	--	R	519
+#509	FN	--	A	520
+#510	FN	--	P	520
+#511	PNCT	--	U	524
+#512	FN	--	S	521
+#513	FN	--	C	522	A*	521
+#514	FN	--	F	523
+#515	FN	--	D	523
+#516	FN	--	S	523
+#517	PNCT	--	U	523
+#518	FN	--	L	524
+#519	FN	--	D	520
+#520	FN	--	H	524
+#521	FN	--	E	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 319816-0020

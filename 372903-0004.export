@@ -1,0 +1,42 @@
+#BOS 372903-0004
+They	Word	--	Terminal	500
+sell	Word	--	Terminal	501
+feed	Word	--	Terminal	502
+and	Word	--	Terminal	503
+milk	Word	--	Terminal	504
+bottles	Word	--	Terminal	505
+at	Word	--	Terminal	506
+the	Word	--	Terminal	507
+front	Word	--	Terminal	508
+and	Word	--	Terminal	509
+I	Word	--	Terminal	510
+recommend	Word	--	Terminal	511
+you	Word	--	Terminal	512
+buy	Word	--	Terminal	513
+lots	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	A	519
+#501	FN	--	P	519
+#502	FN	--	C	518
+#503	FN	--	N	518
+#504	FN	--	E	516
+#505	FN	--	C	516
+#506	FN	--	R	517
+#507	FN	--	F	517
+#508	FN	--	C	517
+#509	FN	--	L	523
+#510	FN	--	A	522
+#511	FN	--	P	522
+#512	FN	--	A	521
+#513	FN	--	P	521
+#514	FN	--	E	520
+#515	PNCT	--	U	520
+#516	FN	--	C	518
+#517	FN	--	A	519
+#518	FN	--	A	519	C*	520
+#519	FN	--	H	523
+#520	FN	--	A	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 372903-0004

@@ -1,0 +1,47 @@
+#BOS 101972-0002
+If	Word	--	Terminal	500
+you	Word	--	Terminal	501
+like	Word	--	Terminal	502
+the	Word	--	Terminal	503
+drama	Word	--	Terminal	504
+described	Word	--	Terminal	505
+in	Word	--	Terminal	506
+popular	Word	--	Terminal	507
+sitcom	Word	--	Terminal	508
+'	Punctuation	--	Terminal	509
+Seinfeld	Word	--	Terminal	510
+'	Punctuation	--	Terminal	511
+,	Punctuation	--	Terminal	512
+you	Word	--	Terminal	513
+will	Word	--	Terminal	514
+see	Word	--	Terminal	515
+it	Word	--	Terminal	516
+here	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	L	525
+#501	FN	--	A	524
+#502	FN	--	S	524
+#503	FN	--	F	523
+#504	FN	--	C	523	A*	522
+#505	FN	--	P	522
+#506	FN	--	R	520
+#507	FN	--	S	519
+#508	FN	--	C	520	A*	519
+#509	PNCT	--	U	520
+#510	FN	--	E	520
+#511	PNCT	--	U	525
+#512	PNCT	--	U	525
+#513	FN	--	A	521
+#514	FN	--	F	521
+#515	FN	--	P	521
+#516	FN	--	A	521
+#517	FN	--	A	521
+#518	PNCT	--	U	521
+#519	FN	--	E	520
+#520	FN	--	A	522
+#521	FN	--	H	525
+#522	FN	--	E	523
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 101972-0002

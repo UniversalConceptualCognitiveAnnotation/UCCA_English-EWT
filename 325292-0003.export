@@ -1,0 +1,35 @@
+#BOS 325292-0003
+I	Word	--	Terminal	500
+like	Word	--	Terminal	501
+my	Word	--	Terminal	502
+food	Word	--	Terminal	503
+hot	Word	--	Terminal	504
+both	Word	--	Terminal	505
+ways	Word	--	Terminal	506
+not	Word	--	Terminal	507
+warm	Word	--	Terminal	508
+or	Word	--	Terminal	509
+cold	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	A	518	A*	519
+#501	FN	--	S	518	S*	519
+#502	FN	--	S	512
+#503	FN	--	C	513	A*	516	A*	512
+#504	FN	--	S	516
+#505	FN	--	E	514
+#506	FN	--	C	514
+#507	FN	--	D	519
+#508	FN	--	C	515
+#509	FN	--	N	515
+#510	FN	--	C	515
+#511	PNCT	--	U	515
+#512	FN	--	E	513
+#513	FN	--	A	518	A*	517
+#514	FN	--	D	516
+#515	FN	--	S	517
+#516	FN	--	A	518
+#517	FN	--	A	519
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 325292-0003

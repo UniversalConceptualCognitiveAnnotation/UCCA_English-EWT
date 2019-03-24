@@ -1,0 +1,44 @@
+#BOS 323248-0003
+Like	Word	--	Terminal	500
+all	Word	--	Terminal	501
+oil	Word	--	Terminal	502
+place	Word	--	Terminal	503
+changes	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+ask	Word	--	Terminal	506
+/	Punctuation	--	Terminal	507
+recommend	Word	--	Terminal	508
+the	Word	--	Terminal	509
+100	Word	--	Terminal	510
+other	Word	--	Terminal	511
+services	Word	--	Terminal	512
+they	Word	--	Terminal	513
+have	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	L	525
+#501	FN	--	E	517
+#502	FN	--	A	516
+#503	FN	--	C	517
+#504	FN	--	P	516
+#505	PNCT	--	U	525
+#506	FN	--	P	521
+#507	PNCT	--	U	525
+#508	FN	--	P	522
+#509	FN	--	F	518
+#510	FN	--	D	519
+#511	FN	--	D	519
+#512	FN	--	C	518
+#513	FN	--	A	519
+#514	FN	--	F	518
+#515	PNCT	--	U	518
+#516	FN	--	E	517
+#517	FN	--	A	524
+#518	FN	--	P	519
+#519	FN	--	A	521	A*	522
+#520	FN	--	A	521	A*	522
+#521	FN	--	H	525
+#522	FN	--	H	525
+#523	FN	--	P	524
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 323248-0003

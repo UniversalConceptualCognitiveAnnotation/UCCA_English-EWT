@@ -1,0 +1,27 @@
+#BOS 270889-0002
+Superior	Word	--	Terminal	500
+work	Word	--	Terminal	501
+-	Punctuation	--	Terminal	502
+always	Word	--	Terminal	503
+comes	Word	--	Terminal	504
+through	Word	--	Terminal	504
+when	Word	--	Terminal	505
+we	Word	--	Terminal	506
+need	Word	--	Terminal	507
+him	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	D	510
+#501	FN	--	P	510
+#502	PNCT	--	U	513
+#503	FN	--	D	511
+#504	FN	--	P	511
+#505	FN	--	L	513
+#506	FN	--	A	512
+#507	FN	--	P	512
+#508	FN	--	A	512	A*	511
+#509	PNCT	--	U	511
+#510	FN	--	H	513
+#511	FN	--	H	513
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 270889-0002

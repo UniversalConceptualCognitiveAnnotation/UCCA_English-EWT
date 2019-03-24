@@ -1,0 +1,58 @@
+#BOS 358702-0004
+I	Word	--	Terminal	500
+also	Word	--	Terminal	501
+understand	Word	--	Terminal	502
+that	Word	--	Terminal	503
+weekend	Word	--	Terminal	504
+staffs	Word	--	Terminal	505
+are	Word	--	Terminal	506
+different	Word	--	Terminal	507
+than	Word	--	Terminal	508
+daytime	Word	--	Terminal	509
+staffs	Word	--	Terminal	510
+and	Word	--	Terminal	511
+not	Word	--	Terminal	512
+necessarily	Word	--	Terminal	513
+Starbucks	Word	--	Terminal	514
+A	Word	--	Terminal	516
+-	Punctuation	--	Terminal	515
+team	Word	--	Terminal	516
+or	Word	--	Terminal	517
+even	Word	--	Terminal	518
+full	Word	--	Terminal	519
+-	Punctuation	--	Terminal	520
+time	Word	--	Terminal	521
+.	Punctuation	--	Terminal	522
+#500	FN	--	A	530
+#501	FN	--	D	530
+#502	FN	--	S	530
+#503	FN	--	R	527
+#504	FN	--	D	524	D*	523	D*	528
+#505	FN	--	S	524
+#506	FN	--	F	527
+#507	FN	--	S	527
+#508	FN	--	R	525
+#509	FN	--	D	525
+#510	FN	--	A	525	A*	523	A*	528
+#511	FN	--	L	529
+#512	FN	--	D	523	D*	528
+#513	FN	--	D	523
+#514	FN	--	A	523
+#515	PNCT	--	U	516
+#516	FN	--	S	523
+#517	FN	--	L	529
+#518	FN	--	G	528
+#519	FN	--	E	526
+#520	PNCT	--	U	526
+#521	FN	--	C	526
+#522	PNCT	--	U	526
+#523	FN	--	H	529
+#524	FN	--	A	527
+#525	FN	--	A	527
+#526	FN	--	S	528
+#527	FN	--	H	529
+#528	FN	--	H	529
+#529	FN	--	A	530
+#530	FN	--	H	531
+#531	FN	--	--	0
+#EOS 358702-0004

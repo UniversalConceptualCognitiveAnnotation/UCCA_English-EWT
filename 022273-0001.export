@@ -1,0 +1,26 @@
+#BOS 022273-0001
+Good	Word	--	Terminal	500
+food	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+good	Word	--	Terminal	503
+location	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+and	Word	--	Terminal	506
+good	Word	--	Terminal	507
+prices	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	S	510
+#501	FN	--	A	510
+#502	PNCT	--	U	513
+#503	FN	--	S	511
+#504	FN	--	A	511
+#505	PNCT	--	U	513
+#506	FN	--	L	513
+#507	FN	--	S	512
+#508	FN	--	A	512
+#509	PNCT	--	U	512
+#510	FN	--	H	513
+#511	FN	--	H	513
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 022273-0001

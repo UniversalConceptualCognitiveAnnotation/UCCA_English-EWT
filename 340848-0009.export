@@ -1,0 +1,33 @@
+#BOS 340848-0009
+Fantastic	Word	--	Terminal	500
+food	Word	--	Terminal	501
+served	Word	--	Terminal	502
+without	Word	--	Terminal	503
+pretense	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+very	Word	--	Terminal	506
+reasonably	Word	--	Terminal	507
+priced	Word	--	Terminal	508
+wine	Word	--	Terminal	509
+selections	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	S	512
+#501	FN	--	A	512	A*	516
+#502	FN	--	P	516
+#503	FN	--	E	513
+#504	FN	--	C	513
+#505	PNCT	--	U	518
+#506	FN	--	E	514
+#507	FN	--	C	514
+#508	FN	--	S	517
+#509	FN	--	A	515
+#510	FN	--	P	515
+#511	PNCT	--	U	515
+#512	FN	--	H	518
+#513	FN	--	D	516
+#514	FN	--	D	517
+#515	FN	--	A	517
+#516	FN	--	H	518
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 340848-0009

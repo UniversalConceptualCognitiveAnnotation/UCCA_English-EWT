@@ -1,0 +1,47 @@
+#BOS 036133-0009
+Then	Word	--	Terminal	500
+one	Word	--	Terminal	501
+day	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+Ahmed	Word	--	Terminal	504
+left	Word	--	Terminal	505
+the	Word	--	Terminal	506
+country	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+not	Word	--	Terminal	509
+to	Word	--	Terminal	510
+return	Word	--	Terminal	511
+for	Word	--	Terminal	512
+months	Word	--	Terminal	513
+,	Punctuation	--	Terminal	514
+WITHOUT	Word	--	Terminal	515
+informing	Word	--	Terminal	516
+me	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	L	525
+#501	FN	--	E	519
+#502	FN	--	C	519
+#503	PNCT	--	U	523
+#504	FN	--	A	523	A*	524	A*	520
+#505	FN	--	P	523
+#506	FN	--	F	521
+#507	FN	--	C	521
+#508	PNCT	--	U	525
+#509	FN	--	D	524
+#510	FN	--	F	524
+#511	FN	--	P	524
+#512	FN	--	R	522
+#513	FN	--	C	522
+#514	PNCT	--	U	525
+#515	FN	--	D	520
+#516	FN	--	P	520
+#517	FN	--	A	520
+#518	PNCT	--	U	520
+#519	FN	--	D	523
+#520	FN	--	H	525
+#521	FN	--	A	523
+#522	FN	--	D	524
+#523	FN	--	H	525
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 036133-0009

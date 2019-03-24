@@ -1,0 +1,21 @@
+#BOS 107692-0005
+Well	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+this	Word	--	Terminal	502
+may	Word	--	Terminal	503
+be	Word	--	Terminal	504
+an	Word	--	Terminal	505
+exception	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	L	510
+#501	PNCT	--	U	510
+#502	FN	--	A	509
+#503	FN	--	D	509
+#504	FN	--	F	509
+#505	FN	--	F	508
+#506	FN	--	C	508
+#507	PNCT	--	U	508
+#508	FN	--	S	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 107692-0005

@@ -1,0 +1,47 @@
+#BOS 381455-0004
+You	Word	--	Terminal	500
+order	Word	--	Terminal	501
+at	Word	--	Terminal	502
+the	Word	--	Terminal	503
+counter	Word	--	Terminal	504
+and	Word	--	Terminal	505
+there	Word	--	Terminal	506
+is	Word	--	Terminal	507
+a	Word	--	Terminal	508
+space	Word	--	Terminal	509
+for	Word	--	Terminal	510
+tip	Word	--	Terminal	511
+on	Word	--	Terminal	512
+your	Word	--	Terminal	513
+credit	Word	--	Terminal	514
+card	Word	--	Terminal	515
+receipt	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	A	524
+#501	FN	--	P	524
+#502	FN	--	R	518
+#503	FN	--	F	518
+#504	FN	--	C	518
+#505	FN	--	L	526
+#506	FN	--	F	525
+#507	FN	--	F	525
+#508	FN	--	F	519
+#509	FN	--	C	519
+#510	FN	--	R	520
+#511	FN	--	P	520
+#512	FN	--	R	523
+#513	FN	--	S	521
+#514	FN	--	E	522
+#515	FN	--	C	522
+#516	FN	--	C	523	A*	521
+#517	PNCT	--	U	523
+#518	FN	--	A	524
+#519	FN	--	S	525
+#520	FN	--	A	525
+#521	FN	--	E	523
+#522	FN	--	E	523
+#523	FN	--	A	525
+#524	FN	--	H	526
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 381455-0004

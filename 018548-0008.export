@@ -1,0 +1,39 @@
+#BOS 018548-0008
+their	Word	--	Terminal	500
+pizza	Word	--	Terminal	501
+was	Word	--	Terminal	502
+a	Word	--	Terminal	503
+little	Word	--	Terminal	504
+salty	Word	--	Terminal	505
+for	Word	--	Terminal	506
+me	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+but	Word	--	Terminal	509
+it	Word	--	Terminal	510
+s	Word	--	Terminal	511
+still	Word	--	Terminal	512
+good	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	S	515
+#501	FN	--	C	516	A*	515
+#502	FN	--	F	520
+#503	FN	--	F	517
+#504	FN	--	C	517
+#505	FN	--	S	520
+#506	FN	--	R	518
+#507	FN	--	C	518
+#508	PNCT	--	U	521
+#509	FN	--	L	521
+#510	FN	--	A	519
+#511	FN	--	F	519
+#512	FN	--	D	519
+#513	FN	--	S	519
+#514	PNCT	--	U	519
+#515	FN	--	E	516
+#516	FN	--	A	520
+#517	FN	--	D	520
+#518	FN	--	A	520
+#519	FN	--	H	521
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 018548-0008

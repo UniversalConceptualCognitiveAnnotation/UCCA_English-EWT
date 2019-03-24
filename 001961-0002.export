@@ -1,0 +1,23 @@
+#BOS 001961-0002
+Rusted	Word	--	Terminal	500
+out	Word	--	Terminal	500
+and	Word	--	Terminal	501
+unsafe	Word	--	Terminal	502
+cars	Word	--	Terminal	503
+sold	Word	--	Terminal	504
+here	Word	--	Terminal	505
+!	Punctuation	--	Terminal	506
+#500	FN	--	S	507
+#501	FN	--	L	509
+#502	FN	--	S	508
+#503	FN	--	C	510	A*	507	A*	508
+#504	FN	--	P	511
+#505	FN	--	A	511
+#506	PNCT	--	U	511
+#507	FN	--	H	509
+#508	FN	--	H	509
+#509	FN	--	E	510
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 001961-0002

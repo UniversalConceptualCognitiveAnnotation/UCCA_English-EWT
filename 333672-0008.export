@@ -1,0 +1,37 @@
+#BOS 333672-0008
+If	Word	--	Terminal	500
+you	Word	--	Terminal	501
+'re	Word	--	Terminal	502
+looking	Word	--	Terminal	503
+to	Word	--	Terminal	504
+buy	Word	--	Terminal	505
+a	Word	--	Terminal	506
+car	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+definitely	Word	--	Terminal	509
+give	Word	--	Terminal	510
+them	Word	--	Terminal	511
+a	Word	--	Terminal	512
+call	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	L	519
+#501	FN	--	A	517	A*	518
+#502	FN	--	F	517
+#503	FN	--	D	517
+#504	FN	--	F	517
+#505	FN	--	P	517
+#506	FN	--	F	515
+#507	FN	--	C	515
+#508	PNCT	--	U	519
+#509	FN	--	D	518
+#510	FN	--	F	518
+#511	FN	--	A	518
+#512	FN	--	F	516
+#513	FN	--	C	516
+#514	PNCT	--	U	516
+#515	FN	--	A	517
+#516	FN	--	P	518
+#517	FN	--	H	519
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 333672-0008

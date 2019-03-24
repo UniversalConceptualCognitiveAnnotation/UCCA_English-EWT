@@ -10,21 +10,23 @@ in	Word	--	Terminal	507
 the	Word	--	Terminal	508
 industry	Word	--	Terminal	509
 .	Punctuation	--	Terminal	510
-#500	FN	--	S	513
+#500	FN	--	S	514
 #501	FN	--	C	511
 #502	FN	--	N	511
 #503	FN	--	C	511
-#504	FN	--	P	515
-#505	FN	--	R	514
-#506	FN	--	C	514
-#507	FN	--	R	512
-#508	FN	--	E	512
-#509	FN	--	C	512
-#510	PNCT	--	U	512
-#511	FN	--	A	513
-#512	FN	--	E	514
-#513	FN	--	A	515
-#514	FN	--	A	515
-#515	FN	--	H	516
-#516	FN	--	--	0
+#504	FN	--	C	512
+#505	FN	--	R	512
+#506	FN	--	C	515
+#507	FN	--	R	513
+#508	FN	--	F	513
+#509	FN	--	C	513
+#510	PNCT	--	U	513
+#511	FN	--	A	514	A*	517
+#512	FN	--	L	518
+#513	FN	--	E	515
+#514	FN	--	H	518
+#515	FN	--	A	517
+#516	FN	--	S	517
+#517	FN	--	H	518
+#518	FN	--	--	0
 #EOS 249889-0002

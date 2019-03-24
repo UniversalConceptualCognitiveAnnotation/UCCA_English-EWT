@@ -1,0 +1,56 @@
+#BOS 281976-0005
+Then	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+they	Word	--	Terminal	502
+sold	Word	--	Terminal	503
+me	Word	--	Terminal	504
+overpriced	Word	--	Terminal	505
+stuffs	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+such	Word	--	Terminal	508
+as	Word	--	Terminal	508
+oil	Word	--	Terminal	509
+tank	Word	--	Terminal	510
+cap	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+so	Word	--	Terminal	513
+that	Word	--	Terminal	513
+my	Word	--	Terminal	514
+car	Word	--	Terminal	515
+can	Word	--	Terminal	516
+pass	Word	--	Terminal	517
+it	Word	--	Terminal	518
+right	Word	--	Terminal	519
+away	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	L	529
+#501	PNCT	--	U	529
+#502	FN	--	A	528
+#503	FN	--	P	528
+#504	FN	--	A	528
+#505	FN	--	S	521
+#506	FN	--	C	527	A*	521
+#507	PNCT	--	U	527
+#508	FN	--	R	523
+#509	FN	--	E	522
+#510	FN	--	C	522
+#511	FN	--	C	523
+#512	PNCT	--	U	529
+#513	FN	--	L	529
+#514	FN	--	S	524
+#515	FN	--	C	525	A*	524
+#516	FN	--	D	526
+#517	FN	--	P	526
+#518	FN	--	A	526
+#519	FN	--	D	526
+#520	PNCT	--	U	526
+#521	FN	--	E	527
+#522	FN	--	E	523
+#523	FN	--	E	527
+#524	FN	--	E	525
+#525	FN	--	A	526
+#526	FN	--	H	529
+#527	FN	--	A	528
+#528	FN	--	H	529
+#529	FN	--	--	0
+#EOS 281976-0005

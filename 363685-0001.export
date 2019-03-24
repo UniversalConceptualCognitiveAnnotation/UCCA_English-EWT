@@ -1,0 +1,35 @@
+#BOS 363685-0001
+Lots	Word	--	Terminal	500
+of	Word	--	Terminal	501
+rules	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+phantom	Word	--	Terminal	504
+innkeeper	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+last	Word	--	Terminal	507
+minute	Word	--	Terminal	508
+price	Word	--	Terminal	509
+was	Word	--	Terminal	510
+worth	Word	--	Terminal	511
+it	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	D	514
+#501	FN	--	F	514
+#502	FN	--	S	514
+#503	PNCT	--	U	518
+#504	FN	--	D	515
+#505	FN	--	S	515
+#506	PNCT	--	U	518
+#507	FN	--	E	516
+#508	FN	--	C	516
+#509	FN	--	A	517
+#510	FN	--	F	517
+#511	FN	--	S	517
+#512	FN	--	A	517
+#513	PNCT	--	U	517
+#514	FN	--	H	518
+#515	FN	--	H	518
+#516	FN	--	D	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 363685-0001

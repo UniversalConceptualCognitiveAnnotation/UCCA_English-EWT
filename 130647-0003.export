@@ -1,0 +1,46 @@
+#BOS 130647-0003
+The	Word	--	Terminal	500
+workers	Word	--	Terminal	501
+sped	Word	--	Terminal	502
+up	Word	--	Terminal	503
+and	Word	--	Terminal	504
+down	Word	--	Terminal	505
+the	Word	--	Terminal	506
+street	Word	--	Terminal	507
+with	Word	--	Terminal	508
+no	Word	--	Terminal	509
+mind	Word	--	Terminal	510
+to	Word	--	Terminal	511
+the	Word	--	Terminal	512
+small	Word	--	Terminal	513
+children	Word	--	Terminal	514
+playing	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	F	517
+#501	FN	--	C	517	A*	525
+#502	FN	--	P	524
+#503	FN	--	C	518
+#504	FN	--	N	518
+#505	FN	--	C	518
+#506	FN	--	F	519
+#507	FN	--	C	519
+#508	FN	--	L	526
+#509	FN	--	D	525
+#510	FN	--	P	525
+#511	FN	--	R	522
+#512	FN	--	F	522
+#513	FN	--	S	520
+#514	FN	--	C	522	A*	520	A*	521
+#515	FN	--	P	521
+#516	PNCT	--	U	521
+#517	FN	--	A	523
+#518	FN	--	R	519
+#519	FN	--	A	524
+#520	FN	--	E	522
+#521	FN	--	E	522
+#522	FN	--	A	525
+#523	FN	--	A	524
+#524	FN	--	H	526
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 130647-0003

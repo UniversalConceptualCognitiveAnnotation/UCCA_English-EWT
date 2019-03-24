@@ -1,0 +1,36 @@
+#BOS 275919-0012
+On	Word	--	Terminal	500
+call	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+it	Word	--	Terminal	503
+takes	Word	--	Terminal	504
+a	Word	--	Terminal	505
+day	Word	--	Terminal	506
+to	Word	--	Terminal	507
+get	Word	--	Terminal	508
+our	Word	--	Terminal	509
+issues	Word	--	Terminal	510
+resolved	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	R	513
+#501	FN	--	C	513
+#502	PNCT	--	U	519
+#503	FN	--	F	518
+#504	FN	--	P	518
+#505	FN	--	E	514
+#506	FN	--	C	514
+#507	FN	--	F	519
+#508	FN	--	D	519
+#509	FN	--	S	515
+#510	FN	--	C	516	A*	515
+#511	FN	--	P	519
+#512	PNCT	--	U	519
+#513	FN	--	P	517
+#514	FN	--	D	518
+#515	FN	--	E	516
+#516	FN	--	A	519
+#517	FN	--	A	519
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 275919-0012
