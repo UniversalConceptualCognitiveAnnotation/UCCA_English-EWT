@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 203196-0002
+# text = VISAKHA INDUSTRIAL GASES PVT. LTD. , location at google maps .
+1	VISAKHA	_	Word	Word	_	0	H	0:H	_
+2	INDUSTRIAL	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	GASES	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	PVT.	_	Word	Word	_	1	Terminal	1:Terminal	_
+5	LTD.	_	Word	Word	_	1	Terminal	1:Terminal	_
+6	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+7	location	_	Word	Word	_	8	A	8:A	_
+8	at	_	Word	Word	_	1	H	1:H	_
+9	google	_	Word	Word	_	8	A	8:A	_
+10	maps	_	Word	Word	_	9	C	9:C	_
+11	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

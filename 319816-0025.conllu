@@ -1,0 +1,57 @@
+# format = ucca
+# sent_id = 319816-0025
+# text = Of course , they could n't call him either to ask about it because apparently they do n't keep their employees ' phone numbers ( riiight ) , so I would have to return on Monday ( driving for 3 days now with no wheel lock should I get a flat ) .
+1	Of	_	Word	Word	_	11	L	11:L	_
+2	course	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+4	they	_	Word	Word	_	7	A	7:A|11:A	_
+5	could	_	Word	Word	_	7	D	7:D	_
+6	n't	_	Word	Word	_	7	D	7:D	_
+7	call	_	Word	Word	_	0	H	0:H	_
+8	him	_	Word	Word	_	7	A	7:A	_
+9	either	_	Word	Word	_	7	D	7:D	_
+10	to	_	Word	Word	_	11	L	11:L	_
+11	ask	_	Word	Word	_	7	H	7:H	_
+12	about	_	Word	Word	_	13	R	13:R	_
+13	it	_	Word	Word	_	11	A	11:A	_
+14	because	_	Word	Word	_	19	L	19:L	_
+15	apparently	_	Word	Word	_	19	G	19:G	_
+16	they	_	Word	Word	_	19	A	19:A	_
+17	do	_	Word	Word	_	19	F	19:F	_
+18	n't	_	Word	Word	_	19	D	19:D	_
+19	keep	_	Word	Word	_	7	H	7:H	_
+20	their	_	Word	Word	_	21	A	21:A	_
+21	employees	_	Word	Word	_	24	E	24:E	_
+22	'	_	Punctuation	Punctuation	_	24	U	24:U	_
+23	phone	_	Word	Word	_	24	E	24:E	_
+24	numbers	_	Word	Word	_	19	A	19:A	_
+25	(	_	Punctuation	Punctuation	_	19	U	19:U	_
+26	riiight	_	Word	Word	_	19	G	19:G	_
+27	)	_	Punctuation	Punctuation	_	7	U	7:U	_
+28	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+29	so	_	Word	Word	_	34	L	34:L	_
+30	I	_	Word	Word	_	34	A	34:A|38:A	_
+31	would	_	Word	Word	_	34	D	34:D	_
+32	have	_	Word	Word	_	34	D	34:D	_
+33	to	_	Word	Word	_	32	Terminal	32:Terminal	_
+34	return	_	Word	Word	_	7	H	7:H	_
+35	on	_	Word	Word	_	36	R	36:R	_
+36	Monday	_	Word	Word	_	34	D	34:D	_
+37	(	_	Punctuation	Punctuation	_	7	U	7:U	_
+38	driving	_	Word	Word	_	7	H	7:H	_
+39	for	_	Word	Word	_	41	R	41:R	_
+40	3	_	Word	Word	_	41	E	41:E	_
+41	days	_	Word	Word	_	38	D	38:D	_
+42	now	_	Word	Word	_	41	E	41:E	_
+43	with	_	Word	Word	_	45	R	45:R	_
+44	no	_	Word	Word	_	38	D	38:D	_
+45	wheel	_	Word	Word	_	38	A	38:A	_
+46	lock	_	Word	Word	_	45	Terminal	45:Terminal	_
+47	should	_	Word	Word	_	49	L	49:L	_
+48	I	_	Word	Word	_	49	A	49:A	_
+49	get	_	Word	Word	_	7	H	7:H	_
+50	a	_	Word	Word	_	51	F	51:F	_
+51	flat	_	Word	Word	_	49	A	49:A	_
+52	)	_	Punctuation	Punctuation	_	51	U	51:U	_
+53	.	_	Punctuation	Punctuation	_	51	U	51:U	_
+

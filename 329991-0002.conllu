@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 329991-0002
+# text = Mixed Tempura ..................... 8.25 Shrimp or vegetable tempura & salad .
+1	Mixed	_	Word	Word	_	2	E	2:E	_
+2	Tempura	_	Word	Word	_	0	H	0:H	_
+3	.....................	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	8.25	_	Word	Word	_	2	C	2:C	_
+5	Shrimp	_	Word	Word	_	8	E	8:E	_
+6	or	_	Word	Word	_	5	N	5:N	_
+7	vegetable	_	Word	Word	_	5	C	5:C	_
+8	tempura	_	Word	Word	_	4	E	4:E	_
+9	&	_	Word	Word	_	8	N	8:N	_
+10	salad	_	Word	Word	_	8	C	8:C	_
+11	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

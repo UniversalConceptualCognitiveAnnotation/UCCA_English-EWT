@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 188548-0002
+# text = We visited on 7/26/08 for dinner We received a gift certificate for the Mama Mia 's on Greenfield Ave .
+1	We	_	Word	Word	_	2	A	2:A	_
+2	visited	_	Word	Word	_	0	H	0:H	_
+3	on	_	Word	Word	_	4	R	4:R	_
+4	7/26/08	_	Word	Word	_	2	D	2:D	_
+5	for	_	Word	Word	_	6	R	6:R	_
+6	dinner	_	Word	Word	_	2	A	2:A	_
+7	We	_	Word	Word	_	8	A	8:A	_
+8	received	_	Word	Word	_	2	H	2:H	_
+9	a	_	Word	Word	_	11	F	11:F	_
+10	gift	_	Word	Word	_	11	E	11:E	_
+11	certificate	_	Word	Word	_	8	A	8:A	_
+12	for	_	Word	Word	_	14	R	14:R	_
+13	the	_	Word	Word	_	14	F	14:F	_
+14	Mama	_	Word	Word	_	11	E	11:E	_
+15	Mia	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	's	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	on	_	Word	Word	_	18	R	18:R	_
+18	Greenfield	_	Word	Word	_	14	E	14:E	_
+19	Ave	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

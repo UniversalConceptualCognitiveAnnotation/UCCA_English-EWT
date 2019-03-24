@@ -2,16 +2,16 @@
 # sent_id = 295491-0007
 # text = Overall , Joe is a happy camper who has found a great spot .
 1	Overall	_	Word	Word	_	10	L	10:L	_
-2	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-3	Joe	_	Word	Word	_	6	A	6:A|10:A	_
-4	is	_	Word	Word	_	6	F	6:F	_
-5	a	_	Word	Word	_	6	E	6:E	_
-6	happy	_	Word	Word	_	0	H	0:H	_
-7	camper	_	Word	Word	_	6	Terminal	6:Terminal	_
+2	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+3	Joe	_	Word	Word	_	7	A	7:A|10:A	_
+4	is	_	Word	Word	_	7	F	7:F	_
+5	a	_	Word	Word	_	7	F	7:F	_
+6	happy	_	Word	Word	_	7	D	7:D	_
+7	camper	_	Word	Word	_	0	H	0:H	_
 8	who	_	Word	Word	_	10	L	10:L	_
 9	has	_	Word	Word	_	10	F	10:F	_
-10	found	_	Word	Word	_	6	H	6:H	_
-11	a	_	Word	Word	_	13	E	13:E	_
+10	found	_	Word	Word	_	7	H	7:H	_
+11	a	_	Word	Word	_	13	F	13:F	_
 12	great	_	Word	Word	_	13	E	13:E	_
 13	spot	_	Word	Word	_	10	A	10:A	_
 14	.	_	Punctuation	Punctuation	_	13	U	13:U	_

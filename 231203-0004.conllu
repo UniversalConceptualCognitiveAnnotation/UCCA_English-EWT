@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 231203-0004
+# text = I think they 're still in the mindset from when it was only smokers sitting around and drinking ... not in any hurry .
+1	I	_	Word	Word	_	2	A	2:A	_
+2	think	_	Word	Word	_	0	H	0:H	_
+3	they	_	Word	Word	_	8	A	8:A|23:A	_
+4	're	_	Word	Word	_	8	F	8:F	_
+5	still	_	Word	Word	_	8	D	8:D	_
+6	in	_	Word	Word	_	8	R	8:R	_
+7	the	_	Word	Word	_	8	F	8:F	_
+8	mindset	_	Word	Word	_	2	A	2:A	_
+9	from	_	Word	Word	_	10	R	10:R	_
+10	when	_	Word	Word	_	15	D	15:D	_
+11	it	_	Word	Word	_	15	F	15:F	_
+12	was	_	Word	Word	_	15	F	15:F	_
+13	only	_	Word	Word	_	14	E	14:E	_
+14	smokers	_	Word	Word	_	0	C	0:C|18:A	_
+15	sitting	_	Word	Word	_	8	A	8:A	_
+16	around	_	Word	Word	_	15	D	15:D	_
+17	and	_	Word	Word	_	18	L	18:L	_
+18	drinking	_	Word	Word	_	15	H	15:H	_
+19	...	_	Punctuation	Punctuation	_	8	U	8:U	_
+20	not	_	Word	Word	_	23	D	23:D	_
+21	in	_	Word	Word	_	23	F	23:F	_
+22	any	_	Word	Word	_	23	D	23:D	_
+23	hurry	_	Word	Word	_	8	H	8:H	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

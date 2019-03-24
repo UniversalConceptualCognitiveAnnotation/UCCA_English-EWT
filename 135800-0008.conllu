@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 135800-0008
+# text = They " finished " the work and told me the car was ready .
+1	They	_	Word	Word	_	6	A	6:A|8:A	_
+2	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+3	finished	_	Word	Word	_	6	D	6:D	_
+4	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	the	_	Word	Word	_	6	F	6:F	_
+6	work	_	Word	Word	_	0	H	0:H	_
+7	and	_	Word	Word	_	8	L	8:L	_
+8	told	_	Word	Word	_	6	H	6:H	_
+9	me	_	Word	Word	_	8	A	8:A	_
+10	the	_	Word	Word	_	11	F	11:F	_
+11	car	_	Word	Word	_	13	A	13:A	_
+12	was	_	Word	Word	_	13	F	13:F	_
+13	ready	_	Word	Word	_	8	A	8:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

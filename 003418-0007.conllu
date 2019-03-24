@@ -1,12 +1,12 @@
 # format = ucca
 # sent_id = 003418-0007
 # text = The office refused my requests to see what they got from BC / BS .
-1	The	_	Word	Word	_	2	E	2:E	_
+1	The	_	Word	Word	_	2	F	2:F	_
 2	office	_	Word	Word	_	3	A	3:A	_
 3	refused	_	Word	Word	_	0	H	0:H	_
-4	my	_	Word	Word	_	5	A	5:A	_
+4	my	_	Word	Word	_	5	A	5:A|7:A	_
 5	requests	_	Word	Word	_	3	A	3:A	_
-6	to	_	Word	Word	_	7	F	7:F	_
+6	to	_	Word	Word	_	7	R	7:R	_
 7	see	_	Word	Word	_	5	A	5:A	_
 8	what	_	Word	Word	_	10	A	10:A	_
 9	they	_	Word	Word	_	10	A	10:A	_

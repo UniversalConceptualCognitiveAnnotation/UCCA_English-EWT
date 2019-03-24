@@ -1,0 +1,56 @@
+# format = ucca
+# sent_id = 119026-0001
+# text = Anna Marie and Govind are very sweet people , and the minute you steep into their school , the calm loving atmosphere takes over , and tension and worries stay outside in the street , whether or not you pick them up again after class is probably a question of practice .
+1	Anna	_	Word	Word	_	5	A	5:A	_
+2	Marie	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	and	_	Word	Word	_	1	N	1:N	_
+4	Govind	_	Word	Word	_	1	C	1:C	_
+5	are	_	Word	Word	_	0	H	0:H	_
+6	very	_	Word	Word	_	7	D	7:D	_
+7	sweet	_	Word	Word	_	8	E	8:E	_
+8	people	_	Word	Word	_	5	A	5:A	_
+9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+10	and	_	Word	Word	_	14	L	14:L	_
+11	the	_	Word	Word	_	12	F	12:F	_
+12	minute	_	Word	Word	_	14	L	14:L	_
+13	you	_	Word	Word	_	14	A	14:A	_
+14	steep	_	Word	Word	_	5	H	5:H	_
+15	into	_	Word	Word	_	17	R	17:R	_
+16	their	_	Word	Word	_	17	E	17:E	_
+17	school	_	Word	Word	_	14	A	14:A	_
+18	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+19	the	_	Word	Word	_	22	F	22:F	_
+20	calm	_	Word	Word	_	22	D	22:D	_
+21	loving	_	Word	Word	_	22	D	22:D	_
+22	atmosphere	_	Word	Word	_	5	H	5:H	_
+23	takes	_	Word	Word	_	22	D	22:D	_
+24	over	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+26	and	_	Word	Word	_	27	L	27:L	_
+27	tension	_	Word	Word	_	5	H	5:H	_
+28	and	_	Word	Word	_	29	L	29:L	_
+29	worries	_	Word	Word	_	5	H	5:H	_
+30	stay	_	Word	Word	_	27	D	27:D|29:D	_
+31	outside	_	Word	Word	_	27	A	27:A|29:A	_
+32	in	_	Word	Word	_	34	R	34:R	_
+33	the	_	Word	Word	_	34	F	34:F	_
+34	street	_	Word	Word	_	31	E	31:E	_
+35	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+36	whether	_	Word	Word	_	40	D	40:D	_
+37	or	_	Word	Word	_	36	N	36:N	_
+38	not	_	Word	Word	_	36	C	36:C	_
+39	you	_	Word	Word	_	40	A	40:A	_
+40	pick	_	Word	Word	_	5	H	5:H	_
+41	them	_	Word	Word	_	40	A	40:A	_
+42	up	_	Word	Word	_	40	Terminal	40:Terminal	_
+43	again	_	Word	Word	_	40	D	40:D	_
+44	after	_	Word	Word	_	45	R	45:R	_
+45	class	_	Word	Word	_	40	A	40:A	_
+46	is	_	Word	Word	_	49	F	49:F	_
+47	probably	_	Word	Word	_	49	E	49:E	_
+48	a	_	Word	Word	_	49	E	49:E	_
+49	question	_	Word	Word	_	51	L	51:L	_
+50	of	_	Word	Word	_	51	F	51:F	_
+51	practice	_	Word	Word	_	5	H	5:H	_
+52	.	_	Punctuation	Punctuation	_	51	U	51:U	_
+

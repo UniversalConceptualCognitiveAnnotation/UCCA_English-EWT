@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 234261-0006
+# text = Oh , they also charged me for the procedure ( $ 250 ) AND had the audacity to charge me a $ 25 ' DISPOSAL ' fee .
+1	Oh	_	Word	Word	_	17	L	17:L	_
+2	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+3	they	_	Word	Word	_	5	A	5:A|17:A|19:A	_
+4	also	_	Word	Word	_	5	D	5:D	_
+5	charged	_	Word	Word	_	0	H	0:H	_
+6	me	_	Word	Word	_	5	A	5:A	_
+7	for	_	Word	Word	_	9	R	9:R	_
+8	the	_	Word	Word	_	9	F	9:F	_
+9	procedure	_	Word	Word	_	5	A	5:A	_
+10	(	_	Punctuation	Punctuation	_	5	U	5:U	_
+11	$	_	Word	Word	_	5	A	5:A	_
+12	250	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	)	_	Punctuation	Punctuation	_	5	U	5:U	_
+14	AND	_	Word	Word	_	17	L	17:L	_
+15	had	_	Word	Word	_	17	F	17:F	_
+16	the	_	Word	Word	_	17	F	17:F	_
+17	audacity	_	Word	Word	_	5	H	5:H	_
+18	to	_	Word	Word	_	19	F	19:F	_
+19	charge	_	Word	Word	_	17	A	17:A	_
+20	me	_	Word	Word	_	19	A	19:A	_
+21	a	_	Word	Word	_	22	F	22:F	_
+22	$	_	Word	Word	_	19	A	19:A	_
+23	25	_	Word	Word	_	22	E	22:E	_
+24	'	_	Punctuation	Punctuation	_	22	U	22:U	_
+25	DISPOSAL	_	Word	Word	_	22	E	22:E	_
+26	'	_	Punctuation	Punctuation	_	22	U	22:U	_
+27	fee	_	Word	Word	_	22	C	22:C	_
+28	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 177779-0002
+# text = Not only are these people completely inefficient and ineffective , but they just do n't give a darn .
+1	Not	_	Word	Word	_	7	L	7:L	_
+2	only	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	are	_	Word	Word	_	7	F	7:F	_
+4	these	_	Word	Word	_	5	E	5:E	_
+5	people	_	Word	Word	_	7	A	7:A|9:A	_
+6	completely	_	Word	Word	_	7	D	7:D|9:D	_
+7	inefficient	_	Word	Word	_	16	H	16:H	_
+8	and	_	Word	Word	_	9	L	9:L	_
+9	ineffective	_	Word	Word	_	16	H	16:H	_
+10	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+11	but	_	Word	Word	_	16	L	16:L	_
+12	they	_	Word	Word	_	16	A	16:A	_
+13	just	_	Word	Word	_	16	D	16:D	_
+14	do	_	Word	Word	_	16	F	16:F	_
+15	n't	_	Word	Word	_	16	D	16:D	_
+16	give	_	Word	Word	_	0	H	0:H	_
+17	a	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	darn	_	Word	Word	_	16	Terminal	16:Terminal	_
+19	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

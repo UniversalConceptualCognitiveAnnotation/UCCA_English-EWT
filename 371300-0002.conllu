@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 371300-0002
+# text = Do n't go here unless you want to sit , order , eat and be asked to leave all in a matter of 20 minutes .
+1	Do	_	Word	Word	_	3	F	3:F	_
+2	n't	_	Word	Word	_	3	D	3:D	_
+3	go	_	Word	Word	_	0	H	0:H	_
+4	here	_	Word	Word	_	3	A	3:A	_
+5	unless	_	Word	Word	_	7	L	7:L	_
+6	you	_	Word	Word	_	7	A	7:A|9:A|11:A|13:A|16:A|18:A	_
+7	want	_	Word	Word	_	3	H	3:H	_
+8	to	_	Word	Word	_	9	R	9:R	_
+9	sit	_	Word	Word	_	7	A	7:A	_
+10	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	order	_	Word	Word	_	9	H	9:H	_
+12	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+13	eat	_	Word	Word	_	9	H	9:H	_
+14	and	_	Word	Word	_	16	L	16:L	_
+15	be	_	Word	Word	_	16	F	16:F	_
+16	asked	_	Word	Word	_	9	H	9:H	_
+17	to	_	Word	Word	_	18	R	18:R	_
+18	leave	_	Word	Word	_	16	A	16:A	_
+19	all	_	Word	Word	_	25	R	25:R	_
+20	in	_	Word	Word	_	25	R	25:R	_
+21	a	_	Word	Word	_	22	F	22:F	_
+22	matter	_	Word	Word	_	25	E	25:E	_
+23	of	_	Word	Word	_	22	R	22:R	_
+24	20	_	Word	Word	_	25	E	25:E	_
+25	minutes	_	Word	Word	_	7	D	7:D	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

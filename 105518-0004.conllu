@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 105518-0004
+# text = If you are on the lookout for a pure breed pup do n't forget to check out the shelters !
+1	If	_	Word	Word	_	16	L	16:L	_
+2	you	_	Word	Word	_	4	A	4:A|16:A	_
+3	are	_	Word	Word	_	4	F	4:F	_
+4	on	_	Word	Word	_	0	H	0:H	_
+5	the	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	lookout	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	for	_	Word	Word	_	11	R	11:R	_
+8	a	_	Word	Word	_	11	F	11:F	_
+9	pure	_	Word	Word	_	10	E	10:E	_
+10	breed	_	Word	Word	_	11	E	11:E	_
+11	pup	_	Word	Word	_	4	A	4:A	_
+12	do	_	Word	Word	_	16	F	16:F	_
+13	n't	_	Word	Word	_	16	D	16:D	_
+14	forget	_	Word	Word	_	16	D	16:D	_
+15	to	_	Word	Word	_	16	F	16:F	_
+16	check	_	Word	Word	_	4	H	4:H	_
+17	out	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	the	_	Word	Word	_	19	F	19:F	_
+19	shelters	_	Word	Word	_	16	A	16:A	_
+20	!	_	Punctuation	Punctuation	_	19	U	19:U	_
+

@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 164805-0011
+# text = Friendly , knowledgeable , and above all fair .
+1	Friendly	_	Word	Word	_	0	H	0:H	_
+2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	knowledgeable	_	Word	Word	_	1	H	1:H	_
+4	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	and	_	Word	Word	_	8	L	8:L	_
+6	above	_	Word	Word	_	8	G	8:G	_
+7	all	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	fair	_	Word	Word	_	1	H	1:H	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

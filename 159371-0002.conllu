@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 159371-0002
+# text = me and my dad where in NJ for a kc chiefs ( my home team ) vs the NY jets and for game 4 of the world series .
+1	me	_	Word	Word	_	6	A	6:A	_
+2	and	_	Word	Word	_	1	N	1:N	_
+3	my	_	Word	Word	_	1	C	1:C	_
+4	dad	_	Word	Word	_	3	A	3:A	_
+5	where	_	Word	Word	_	6	F	6:F	_
+6	in	_	Word	Word	_	0	H	0:H	_
+7	NJ	_	Word	Word	_	6	A	6:A	_
+8	for	_	Word	Word	_	17	L	17:L	_
+9	a	_	Word	Word	_	17	F	17:F	_
+10	kc	_	Word	Word	_	17	A	17:A	_
+11	chiefs	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	(	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	my	_	Word	Word	_	15	E	15:E	_
+14	home	_	Word	Word	_	15	E	15:E	_
+15	team	_	Word	Word	_	10	E	10:E	_
+16	)	_	Punctuation	Punctuation	_	17	U	17:U	_
+17	vs	_	Word	Word	_	6	H	6:H	_
+18	the	_	Word	Word	_	19	F	19:F	_
+19	NY	_	Word	Word	_	17	A	17:A	_
+20	jets	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	and	_	Word	Word	_	23	L	23:L	_
+22	for	_	Word	Word	_	23	R	23:R	_
+23	game	_	Word	Word	_	6	H	6:H	_
+24	4	_	Word	Word	_	23	A	23:A	_
+25	of	_	Word	Word	_	28	R	28:R	_
+26	the	_	Word	Word	_	28	F	28:F	_
+27	world	_	Word	Word	_	28	E	28:E	_
+28	series	_	Word	Word	_	23	A	23:A	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

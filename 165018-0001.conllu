@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 165018-0001
+# text = Run for the hills ... you 'll be much better off !
+1	Run	_	Word	Word	_	0	H	0:H	_
+2	for	_	Word	Word	_	4	R	4:R	_
+3	the	_	Word	Word	_	4	F	4:F	_
+4	hills	_	Word	Word	_	1	A	1:A	_
+5	...	_	Punctuation	Punctuation	_	1	U	1:U	_
+6	you	_	Word	Word	_	10	A	10:A|1:A	_
+7	'll	_	Word	Word	_	10	F	10:F	_
+8	be	_	Word	Word	_	10	F	10:F	_
+9	much	_	Word	Word	_	10	D	10:D	_
+10	better	_	Word	Word	_	1	H	1:H	_
+11	off	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	!	_	Punctuation	Punctuation	_	10	U	10:U	_
+

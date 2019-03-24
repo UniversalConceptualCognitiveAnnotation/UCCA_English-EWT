@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 315763-0002
+# text = I moved to Creekside Apartments in August 2008 with a 6 - month lease and have just extended it for another 13 months !
+1	I	_	Word	Word	_	2	A	2:A|18:A	_
+2	moved	_	Word	Word	_	0	H	0:H	_
+3	to	_	Word	Word	_	4	R	4:R	_
+4	Creekside	_	Word	Word	_	2	A	2:A	_
+5	Apartments	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	in	_	Word	Word	_	8	R	8:R	_
+7	August	_	Word	Word	_	8	E	8:E	_
+8	2008	_	Word	Word	_	2	D	2:D	_
+9	with	_	Word	Word	_	13	R	13:R	_
+10	a	_	Word	Word	_	13	F	13:F	_
+11	6	_	Word	Word	_	13	E	13:E	_
+12	-	_	Punctuation	Punctuation	_	13	U	13:U	_
+13	month	_	Word	Word	_	2	A	2:A	_
+14	lease	_	Word	Word	_	13	C	13:C	_
+15	and	_	Word	Word	_	18	L	18:L	_
+16	have	_	Word	Word	_	18	F	18:F	_
+17	just	_	Word	Word	_	18	D	18:D	_
+18	extended	_	Word	Word	_	2	H	2:H	_
+19	it	_	Word	Word	_	18	A	18:A	_
+20	for	_	Word	Word	_	23	R	23:R	_
+21	another	_	Word	Word	_	23	E	23:E	_
+22	13	_	Word	Word	_	23	E	23:E	_
+23	months	_	Word	Word	_	18	D	18:D	_
+24	!	_	Punctuation	Punctuation	_	23	U	23:U	_
+

@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 096340-0003
 # text = We have Hobby Lobby , Just for Fun Fabrics , Walmart , and Interior Mall just inside Barling .
-1	We	_	Word	Word	_	17	A	17:A	_
-2	have	_	Word	Word	_	17	F	17:F	_
-3	Hobby	_	Word	Word	_	17	A	17:A	_
+1	We	_	Word	Word	_	2	A	2:A	_
+2	have	_	Word	Word	_	0	H	0:H	_
+3	Hobby	_	Word	Word	_	2	A	2:A	_
 4	Lobby	_	Word	Word	_	3	Terminal	3:Terminal	_
 5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 6	Just	_	Word	Word	_	3	C	3:C	_
@@ -16,8 +16,8 @@
 13	and	_	Word	Word	_	3	N	3:N	_
 14	Interior	_	Word	Word	_	3	C	3:C	_
 15	Mall	_	Word	Word	_	14	Terminal	14:Terminal	_
-16	just	_	Word	Word	_	17	D	17:D	_
-17	inside	_	Word	Word	_	0	H	0:H	_
-18	Barling	_	Word	Word	_	17	A	17:A	_
-19	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+16	just	_	Word	Word	_	17	E	17:E	_
+17	inside	_	Word	Word	_	18	R	18:R	_
+18	Barling	_	Word	Word	_	3	E	3:E	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
 

@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 121342-0007
+# text = We orderd our meals anyway , chimichangas , jalapeno borritos , and quesadillas .
+1	We	_	Word	Word	_	2	A	2:A	_
+2	orderd	_	Word	Word	_	0	H	0:H	_
+3	our	_	Word	Word	_	4	E	4:E	_
+4	meals	_	Word	Word	_	2	A	2:A	_
+5	anyway	_	Word	Word	_	2	G	2:G	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	chimichangas	_	Word	Word	_	4	E	4:E	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	jalapeno	_	Word	Word	_	7	C	7:C	_
+10	borritos	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+12	and	_	Word	Word	_	7	N	7:N	_
+13	quesadillas	_	Word	Word	_	7	C	7:C	_
+14	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

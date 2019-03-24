@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 187875-0007
+# text = Westfield and Rt 1 do it well , WHY CA NT U ????
+1	Westfield	_	Word	Word	_	5	A	5:A	_
+2	and	_	Word	Word	_	1	N	1:N	_
+3	Rt	_	Word	Word	_	1	C	1:C	_
+4	1	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	do	_	Word	Word	_	0	H	0:H	_
+6	it	_	Word	Word	_	5	A	5:A	_
+7	well	_	Word	Word	_	5	D	5:D|12:D	_
+8	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	WHY	_	Word	Word	_	5	H	5:H	_
+10	CA	_	Word	Word	_	12	D	12:D	_
+11	NT	_	Word	Word	_	12	D	12:D	_
+12	U	_	Word	Word	_	9	H	9:H	_
+13	????	_	Punctuation	Punctuation	_	12	U	12:U	_
+

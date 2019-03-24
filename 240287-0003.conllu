@@ -2,23 +2,23 @@
 # sent_id = 240287-0003
 # text = but I was pleasantly surprised to find that the Purple Goose 's prices are reasonable ( for the SAME products found at other area boutiques , the prices were 20 - 25 % cheaper ) .
 1	but	_	Word	Word	_	34	L	34:L	_
-2	I	_	Word	Word	_	5	A	5:A|7:A	_
-3	was	_	Word	Word	_	5	F	5:F	_
-4	pleasantly	_	Word	Word	_	5	D	5:D	_
-5	surprised	_	Word	Word	_	0	H	0:H	_
-6	to	_	Word	Word	_	7	R	7:R	_
-7	find	_	Word	Word	_	5	A	5:A	_
+2	I	_	Word	Word	_	7	A	7:A	_
+3	was	_	Word	Word	_	7	F	7:F	_
+4	pleasantly	_	Word	Word	_	5	E	5:E	_
+5	surprised	_	Word	Word	_	7	D	7:D	_
+6	to	_	Word	Word	_	7	F	7:F	_
+7	find	_	Word	Word	_	0	H	0:H	_
 8	that	_	Word	Word	_	15	R	15:R	_
-9	the	_	Word	Word	_	13	E	13:E	_
-10	Purple	_	Word	Word	_	12	A	12:A	_
+9	the	_	Word	Word	_	13	F	13:F	_
+10	Purple	_	Word	Word	_	13	E	13:E	_
 11	Goose	_	Word	Word	_	10	Terminal	10:Terminal	_
-12	's	_	Word	Word	_	13	E	13:E	_
+12	's	_	Word	Word	_	10	R	10:R	_
 13	prices	_	Word	Word	_	15	A	15:A	_
 14	are	_	Word	Word	_	15	F	15:F	_
 15	reasonable	_	Word	Word	_	7	A	7:A	_
-16	(	_	Punctuation	Punctuation	_	5	U	5:U	_
-17	for	_	Word	Word	_	20	L	20:L	_
-18	the	_	Word	Word	_	20	E	20:E	_
+16	(	_	Punctuation	Punctuation	_	7	U	7:U	_
+17	for	_	Word	Word	_	20	R	20:R	_
+18	the	_	Word	Word	_	20	F	20:F	_
 19	SAME	_	Word	Word	_	20	E	20:E	_
 20	products	_	Word	Word	_	34	A	34:A	_
 21	found	_	Word	Word	_	20	E	20:E	_
@@ -27,14 +27,14 @@
 24	area	_	Word	Word	_	25	E	25:E	_
 25	boutiques	_	Word	Word	_	21	A	21:A	_
 26	,	_	Punctuation	Punctuation	_	34	U	34:U	_
-27	the	_	Word	Word	_	28	E	28:E	_
+27	the	_	Word	Word	_	28	F	28:F	_
 28	prices	_	Word	Word	_	34	A	34:A	_
 29	were	_	Word	Word	_	34	F	34:F	_
 30	20	_	Word	Word	_	33	E	33:E	_
 31	-	_	Punctuation	Punctuation	_	30	U	30:U	_
 32	25	_	Word	Word	_	30	C	30:C	_
 33	%	_	Word	Word	_	34	A	34:A	_
-34	cheaper	_	Word	Word	_	5	H	5:H	_
+34	cheaper	_	Word	Word	_	7	H	7:H	_
 35	)	_	Punctuation	Punctuation	_	34	U	34:U	_
 36	.	_	Punctuation	Punctuation	_	34	U	34:U	_
 

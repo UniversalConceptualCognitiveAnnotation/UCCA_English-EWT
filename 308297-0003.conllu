@@ -3,20 +3,20 @@
 # text = They offer a good portions at a great price , it 's enough food to fill you up , but you do n't ever feel like you ate too much .
 1	They	_	Word	Word	_	2	A	2:A	_
 2	offer	_	Word	Word	_	0	H	0:H	_
-3	a	_	Word	Word	_	5	E	5:E	_
+3	a	_	Word	Word	_	5	F	5:F	_
 4	good	_	Word	Word	_	5	E	5:E	_
 5	portions	_	Word	Word	_	2	A	2:A	_
 6	at	_	Word	Word	_	9	R	9:R	_
-7	a	_	Word	Word	_	9	E	9:E	_
+7	a	_	Word	Word	_	9	F	9:F	_
 8	great	_	Word	Word	_	9	E	9:E	_
 9	price	_	Word	Word	_	2	A	2:A	_
 10	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-11	it	_	Word	Word	_	16	F	16:F	_
-12	's	_	Word	Word	_	16	F	16:F	_
-13	enough	_	Word	Word	_	14	E	14:E	_
-14	food	_	Word	Word	_	16	A	16:A	_
+11	it	_	Word	Word	_	13	F	13:F	_
+12	's	_	Word	Word	_	13	F	13:F	_
+13	enough	_	Word	Word	_	2	H	2:H	_
+14	food	_	Word	Word	_	13	A	13:A	_
 15	to	_	Word	Word	_	16	F	16:F	_
-16	fill	_	Word	Word	_	2	H	2:H	_
+16	fill	_	Word	Word	_	14	E	14:E	_
 17	you	_	Word	Word	_	16	A	16:A	_
 18	up	_	Word	Word	_	16	Terminal	16:Terminal	_
 19	,	_	Punctuation	Punctuation	_	2	U	2:U	_
@@ -30,6 +30,6 @@
 27	you	_	Word	Word	_	28	A	28:A	_
 28	ate	_	Word	Word	_	25	A	25:A	_
 29	too	_	Word	Word	_	30	E	30:E	_
-30	much	_	Word	Word	_	28	A	28:A	_
+30	much	_	Word	Word	_	28	D	28:D	_
 31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
 

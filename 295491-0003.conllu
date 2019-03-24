@@ -1,15 +1,15 @@
 # format = ucca
 # sent_id = 295491-0003
 # text = Clean , updated room , friendly staff , safe location .
-1	Clean	_	Word	Word	_	0	H	0:H	_
-2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
-3	updated	_	Word	Word	_	1	H	1:H	_
-4	room	_	Word	Word	_	3	A	3:A	_
-5	,	_	Punctuation	Punctuation	_	1	U	1:U	_
-6	friendly	_	Word	Word	_	1	H	1:H	_
-7	staff	_	Word	Word	_	6	A	6:A	_
-8	,	_	Punctuation	Punctuation	_	1	U	1:U	_
-9	safe	_	Word	Word	_	1	H	1:H	_
+1	Clean	_	Word	Word	_	7	H	7:H	_
+2	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+3	updated	_	Word	Word	_	7	H	7:H	_
+4	room	_	Word	Word	_	1	A	1:A|3:A	_
+5	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	friendly	_	Word	Word	_	7	D	7:D	_
+7	staff	_	Word	Word	_	0	H	0:H	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	safe	_	Word	Word	_	7	H	7:H	_
 10	location	_	Word	Word	_	9	A	9:A	_
 11	.	_	Punctuation	Punctuation	_	9	U	9:U	_
 

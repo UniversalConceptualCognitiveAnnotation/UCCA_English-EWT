@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 187266-0004
+# text = She was dead on -- this restaurant was wonderful --- do not be put off by the one negative review on this page .
+1	She	_	Word	Word	_	3	A	3:A	_
+2	was	_	Word	Word	_	3	F	3:F	_
+3	dead	_	Word	Word	_	0	H	0:H	_
+4	on	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	--	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	this	_	Word	Word	_	7	E	7:E	_
+7	restaurant	_	Word	Word	_	9	A	9:A	_
+8	was	_	Word	Word	_	9	F	9:F	_
+9	wonderful	_	Word	Word	_	3	H	3:H	_
+10	---	_	Punctuation	Punctuation	_	3	U	3:U	_
+11	do	_	Word	Word	_	14	F	14:F	_
+12	not	_	Word	Word	_	14	D	14:D	_
+13	be	_	Word	Word	_	14	F	14:F	_
+14	put	_	Word	Word	_	3	H	3:H	_
+15	off	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	by	_	Word	Word	_	20	R	20:R	_
+17	the	_	Word	Word	_	20	F	20:F	_
+18	one	_	Word	Word	_	20	E	20:E	_
+19	negative	_	Word	Word	_	20	E	20:E	_
+20	review	_	Word	Word	_	14	A	14:A	_
+21	on	_	Word	Word	_	23	R	23:R	_
+22	this	_	Word	Word	_	23	E	23:E	_
+23	page	_	Word	Word	_	20	E	20:E	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

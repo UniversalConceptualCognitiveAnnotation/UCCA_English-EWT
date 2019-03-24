@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 072067-0002
 # text = Teachers good Diverse student body ( African - American , Asian , ect. ) equals kids staying here !
-1	Teachers	_	Word	Word	_	2	A	2:A	_
-2	good	_	Word	Word	_	0	H	0:H	_
-3	Diverse	_	Word	Word	_	2	H	2:H	_
+1	Teachers	_	Word	Word	_	0	H	0:H	_
+2	good	_	Word	Word	_	1	D	1:D	_
+3	Diverse	_	Word	Word	_	1	H	1:H	_
 4	student	_	Word	Word	_	3	A	3:A	_
-5	body	_	Word	Word	_	4	Terminal	4:Terminal	_
+5	body	_	Word	Word	_	4	E	4:E	_
 6	(	_	Punctuation	Punctuation	_	4	U	4:U	_
 7	African	_	Word	Word	_	4	E	4:E	_
 8	-	_	Punctuation	Punctuation	_	7	U	7:U	_
@@ -14,10 +14,10 @@
 11	Asian	_	Word	Word	_	7	C	7:C	_
 12	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 13	ect.	_	Word	Word	_	7	C	7:C	_
-14	)	_	Punctuation	Punctuation	_	2	U	2:U	_
+14	)	_	Punctuation	Punctuation	_	1	U	1:U	_
 15	equals	_	Word	Word	_	17	L	17:L	_
 16	kids	_	Word	Word	_	17	A	17:A	_
-17	staying	_	Word	Word	_	2	H	2:H	_
+17	staying	_	Word	Word	_	1	H	1:H	_
 18	here	_	Word	Word	_	17	A	17:A	_
 19	!	_	Punctuation	Punctuation	_	17	U	17:U	_
 
