@@ -1,0 +1,10 @@
+# ::id 280844-0001
+# ::tok Good Service - Limited Results
+# ::alignments 0-1.1.1 1-1.1.2 3-1.2.1 4-1.2.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v4 / label~e.0)
+           :P (v5 / label~e.1))
+    :H (v3 / label
+           :E (v6 / label~e.3,4)))

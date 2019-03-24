@@ -1,0 +1,15 @@
+# ::id 266955-0002
+# ::tok Quality and service come first here .
+# ::alignments 0-1.1.1 1-1.2 2-1.3.1 4-1.1.3.2 5-1.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v5 / label~e.0)
+           :D (v6 / label
+                  :C (v9 / label~e.4))
+           :A (v7 / label~e.5))
+    :L (v3 / label~e.1)
+    :H (v4 / label
+           :P (v8 / label~e.2)
+           :D v6
+           :A v7))

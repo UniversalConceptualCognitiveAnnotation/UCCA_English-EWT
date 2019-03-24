@@ -1,0 +1,19 @@
+# ::id 041925-0002
+# ::tok I will be calling tropics for my companie s next event !
+# ::alignments 0-1.1.1 3-1.1.4 4-1.1.5 5-1.2 6-1.3.2.3.2 7-1.3.2.1 8-1.3.2.2 9-1.3.3 10-1.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :P (v6 / label~e.3)
+           :A (v7 / label~e.4))
+    :L (v3 / label~e.5)
+    :H (v4 / label
+           :A (v8 / label
+                  :C (v11 / label~e.7)
+                  :R (v12 / label~e.8)
+                  :E (v13 / label
+                          :A v11
+                          :S (v14 / label~e.6)))
+           :D (v9 / label~e.9)
+           :P (v10 / label~e.10)))

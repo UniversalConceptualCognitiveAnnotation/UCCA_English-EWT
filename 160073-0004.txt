@@ -1,0 +1,16 @@
+# ::id 160073-0004
+# ::tok But we do n't just like House of Joy WE LOVE IT .
+# ::alignments 0-1.1 1-1.2.6 3-1.2.2 4-1.2.3 5-1.2.4 6-1.2.5 7-1.2.5 8-1.2.5 9-1.3.2 10-1.3.3 11-1.3.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :D (v5 / label~e.3)
+           :D (v6 / label~e.4)
+           :P (v7 / label~e.5)
+           :A (v8 / label~e.6,7,8)
+           :A (v9 / label~e.1))
+    :H (v4 / label
+           :A (v10 / label~e.9)
+           :S (v11 / label~e.10)
+           :A (v12 / label~e.11)))

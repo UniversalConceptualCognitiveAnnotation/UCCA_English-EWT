@@ -1,0 +1,11 @@
+# ::id 291046-0006
+# ::tok So long Ham s ... you will be missed .
+# ::alignments 0-1.1.1 1-1.1.1 2-1.1.2 3-1.1.2 5-1.2.2 8-1.2.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v4 / label~e.0,1)
+           :A (v5 / label~e.2,3))
+    :H (v3 / label
+           :A (v6 / label~e.5)
+           :P (v7 / label~e.8)))

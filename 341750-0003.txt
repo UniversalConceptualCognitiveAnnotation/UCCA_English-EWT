@@ -1,0 +1,13 @@
+# ::id 341750-0003
+# ::tok Bland and over cooked .
+# ::alignments 0-1.1.1 1-1.2 2-1.3.3 3-1.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v5 / label~e.0)
+           :A (v6 / label))
+    :L (v3 / label~e.1)
+    :H (v4 / label
+           :A (v7 / label)
+           :D (v8 / label~e.2)
+           :P (v9 / label~e.3)))

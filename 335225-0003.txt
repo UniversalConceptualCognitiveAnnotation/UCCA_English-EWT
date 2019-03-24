@@ -1,0 +1,31 @@
+# ::id 335225-0003
+# ::tok The owner warned me that it was the best salsa I would ever had , and he was right .
+# ::alignments 1-1.1.1.1.2 2-1.1.2 3-1.1.3 4-1.1.4.1 5-1.1.4.2 6-1.1.4.3 8-1.1.4.4.3.5 9-1.1.4.4.2 10-1.1.4.4.3.1 11-1.1.4.4.3.2 12-1.1.4.4.3.3 13-1.1.4.4.3.4 15-1.2 16-1.3.2 18-1.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :S (v11 / label
+                          :C (v16 / label~e.1)))
+           :P (v6 / label~e.2)
+           :A (v7 / label~e.3)
+           :A (v8 / label
+                  :R (v12 / label~e.4)
+                  :A (v13 / label~e.5)
+                  :S (v14 / label~e.6)
+                  :A (v15 / label
+                          :E (v17 / label
+                                  :A (v18 / label~e.9)
+                                  :S (v20 / label
+                                          :C (v25 / label~e.8)))
+                          :C v18
+                          :E (v19 / label
+                                  :A (v21 / label~e.10)
+                                  :D (v22 / label~e.11)
+                                  :D (v23 / label~e.12)
+                                  :S (v24 / label~e.13)
+                                  :A v25))))
+    :L (v3 / label~e.15)
+    :H (v4 / label
+           :A (v9 / label~e.16)
+           :S (v10 / label~e.18)))

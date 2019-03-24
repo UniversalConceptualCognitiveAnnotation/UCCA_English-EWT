@@ -1,0 +1,8 @@
+# ::id 326112-0004
+# ::tok How rare !
+# ::alignments 0-1.1.1 1-1.1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.0)
+           :S (v4 / label~e.1)))

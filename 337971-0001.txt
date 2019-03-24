@@ -1,0 +1,12 @@
+# ::id 337971-0001
+# ::tok Great graphic design work !
+# ::alignments 0-1.1.1 1-1.1.2.2.1 2-1.1.2.2.2 3-1.1.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.0)
+           :P (v4 / label
+                  :E (v5 / label
+                         :E (v7 / label~e.1)
+                         :C (v8 / label~e.2))
+                  :C (v6 / label~e.3))))

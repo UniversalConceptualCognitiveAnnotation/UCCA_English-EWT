@@ -1,0 +1,28 @@
+# ::id 024385-0003
+# ::tok A bit pricey , so I did n't go very often , but it was always a treat when I did .
+# ::alignments 0-1.1.2 1-1.1.2 2-1.1.3 4-1.2 5-1.3.2 7-1.3.4 8-1.3.5 9-1.3.6.1 10-1.3.6.2 12-1.4 13-1.5.1 15-1.5.3 17-1.5.4.2 18-1.6 19-1.7.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v9 / label)
+           :D (v10 / label~e.0,1)
+           :S (v11 / label~e.2))
+    :L (v3 / label~e.4)
+    :H (v4 / label
+           :A (v12 / label)
+           :A (v13 / label~e.5)
+           :D (v14 / label~e.7)
+           :P (v15 / label~e.8)
+           :D (v16 / label
+                   :E (v21 / label~e.9)
+                   :C (v22 / label~e.10)))
+    :L (v5 / label~e.12)
+    :H (v6 / label
+           :A (v17 / label~e.13)
+           :D (v18 / label~e.15)
+           :S (v19 / label
+                   :C (v23 / label~e.17)))
+    :L (v7 / label~e.18)
+    :H (v8 / label
+           :A (v20 / label~e.19)
+           :P v15))

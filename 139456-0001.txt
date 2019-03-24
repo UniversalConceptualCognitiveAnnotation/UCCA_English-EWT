@@ -1,0 +1,12 @@
+# ::id 139456-0001
+# ::tok Pleasure to work with .
+# ::alignments 0-1.1.2 2-1.1.4 3-1.1.5.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :D (v4 / label~e.0)
+           :P (v5 / label~e.2)
+           :A (v6 / label
+                  :R (v7 / label~e.3)
+                  :C (v8 / label))))

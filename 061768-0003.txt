@@ -1,0 +1,34 @@
+# ::id 061768-0003
+# ::tok The one guy who was there , I 'm guessing was the owner , was probably the least helpful person I 've ever met .
+# ::alignments 1-1.1.2.2 2-1.1.2.3 3-1.1.2.4.2 5-1.1.2.4.4 7-1.1.2.5.1 9-1.1.2.5.3 12-1.1.2.5.4.3.2 14-1.1.3 15-1.1.4.2.1 17-1.1.4.2.2.2 18-1.1.4.2.3 19-1.1.4.3 20-1.1.4.1.1 22-1.1.4.1.3 23-1.1.4.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label~e.1)
+                  :C (v7 / label~e.2)
+                  :E (v8 / label
+                         :A v7
+                         :R (v13 / label~e.3)
+                         :S (v14 / label~e.5))
+                  :E (v9 / label
+                         :A (v15 / label~e.7)
+                         :P (v16 / label~e.9)
+                         :A (v17 / label
+                                 :A v7
+                                 :S (v24 / label
+                                         :C (v26 / label~e.12)))))
+           :S (v4 / label~e.14)
+           :A (v5 / label
+                  :E (v10 / label
+                          :A (v18 / label~e.20)
+                          :D (v19 / label~e.22)
+                          :P (v20 / label~e.23)
+                          :A (v12 / label~e.19))
+                  :E (v11 / label
+                          :G (v21 / label~e.15)
+                          :D (v22 / label
+                                  :C (v25 / label~e.17))
+                          :S (v23 / label~e.18)
+                          :A v12)
+                  :C v12)))

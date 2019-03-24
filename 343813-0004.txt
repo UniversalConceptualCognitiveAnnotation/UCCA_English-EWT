@@ -1,0 +1,16 @@
+# ::id 343813-0004
+# ::tok Told that they had plenty .
+# ::alignments 0-1.1.3 1-1.1.4.3 2-1.1.4.4 3-1.1.4.1 4-1.1.4.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :A (v4 / label)
+           :P (v5 / label~e.0)
+           :A (v6 / label
+                  :S (v7 / label~e.3)
+                  :A (v8 / label
+                         :C (v11 / label)
+                         :E (v12 / label~e.4))
+                  :R (v9 / label~e.1)
+                  :A (v10 / label~e.2))))

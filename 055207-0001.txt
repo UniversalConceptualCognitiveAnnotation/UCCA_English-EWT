@@ -1,0 +1,11 @@
+# ::id 055207-0001
+# ::tok Spay and neuter service .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :C (v5 / label~e.0)
+                  :N (v6 / label~e.1)
+                  :C (v7 / label~e.2))
+           :P (v4 / label~e.3)))

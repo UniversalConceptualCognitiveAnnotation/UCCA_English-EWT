@@ -1,0 +1,15 @@
+# ::id 335490-0001
+# ::tok Cleanest guesthouse i have been to
+# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2.2 4-1.1.2.2.4 5-1.1.2.2.1.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label~e.0)
+           :A (v4 / label
+                  :C (v5 / label~e.1)
+                  :E (v6 / label
+                         :A (v7 / label
+                                :R (v10 / label~e.5)
+                                :C v5)
+                         :A (v8 / label~e.2)
+                         :S (v9 / label~e.4)))))

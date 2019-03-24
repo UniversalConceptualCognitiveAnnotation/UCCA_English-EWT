@@ -1,0 +1,28 @@
+# ::id 369087-0006
+# ::tok The service department even gave me a ride home and picked me up when my car was finished .
+# ::alignments 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3 5-1.1.4 7-1.1.5.2 8-1.1.6 9-1.2 10-1.3.1 11-1.3.2 12-1.3.1 13-1.4 14-1.5.3.1.2 15-1.5.3.2 17-1.5.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :E (v17 / label~e.1)
+                  :C (v18 / label~e.2))
+           :G (v8 / label~e.3)
+           :D (v9 / label~e.4)
+           :A (v10 / label~e.5)
+           :P (v11 / label
+                   :C (v19 / label~e.7))
+           :A (v12 / label~e.8))
+    :L (v3 / label~e.9)
+    :H (v4 / label
+           :P (v13 / label~e.10,12)
+           :A (v14 / label~e.11)
+           :A v7)
+    :L (v5 / label~e.13)
+    :H (v6 / label
+           :P (v15 / label~e.17)
+           :A (v16 / label
+                   :E (v20 / label
+                           :A (v21 / label~e.15)
+                           :S (v22 / label~e.14))
+                   :C v21)))

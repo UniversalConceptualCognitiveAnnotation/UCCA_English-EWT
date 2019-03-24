@@ -1,0 +1,10 @@
+# ::id 264993-0003
+# ::tok And the massages are heavenly !
+# ::alignments 0-1.1 2-1.2.2.2 4-1.2.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :P (v4 / label
+                  :C (v6 / label~e.2))
+           :D (v5 / label~e.4)))

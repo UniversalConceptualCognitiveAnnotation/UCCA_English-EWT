@@ -1,0 +1,11 @@
+# ::id 036753-0011
+# ::tok Grimy work you guys do .
+# ::alignments 0-1.1.2 1-1.1.3 2-1.1.4.1 3-1.1.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.0)
+           :P (v4 / label~e.1)
+           :A (v5 / label
+                  :C (v6 / label~e.2)
+                  :C (v7 / label~e.3))))

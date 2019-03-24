@@ -1,0 +1,11 @@
+# ::id 118668-0006
+# ::tok Best in HR so far !
+# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2 3-1.1.3 4-1.1.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.0)
+           :P (v4 / label
+                  :R (v6 / label~e.1)
+                  :C (v7 / label~e.2))
+           :D (v5 / label~e.3,4)))

@@ -1,0 +1,12 @@
+# ::id 193257-0001
+# ::tok Gets the Job Done
+# ::alignments 2-1.1.2.1.2 3-1.1.1.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label
+                  :C (v6 / label~e.3))
+           :A (v4 / label
+                  :P (v7 / label
+                         :C (v8 / label~e.2)))
+           :A (v5 / label)))

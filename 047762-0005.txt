@@ -1,0 +1,33 @@
+# ::id 047762-0005
+# ::tok I am saying when comparing all other hotels in Wildwood , this hotel has everything that we are looking for .
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.3 4-1.1.4.4.1 5-1.1.4.4.2.1 6-1.1.4.4.2.2 7-1.1.4.4.2.3 8-1.1.4.4.3.1 9-1.1.4.4.3.2 11-1.1.4.1.1.1 12-1.1.4.1.1.2 13-1.1.4.1.2 14-1.1.4.1.3.1 15-1.1.4.1.3.2.1 16-1.1.4.1.3.2.2 18-1.1.4.1.3.2.4 19-1.1.4.1.3.2.5.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.2)
+           :A (v5 / label
+                  :H (v6 / label
+                         :A (v9 / label
+                                :E (v15 / label~e.11)
+                                :C (v16 / label~e.12))
+                         :S (v10 / label~e.13)
+                         :A (v11 / label
+                                 :C (v17 / label~e.14)
+                                 :E (v18 / label
+                                         :R (v24 / label~e.15)
+                                         :A (v25 / label~e.16)
+                                         :P (v26 / label~e.18)
+                                         :A (v27 / label
+                                                 :C v17
+                                                 :R (v28 / label~e.19)))))
+                  :L (v7 / label~e.3)
+                  :H (v8 / label
+                         :P (v12 / label~e.4)
+                         :A (v13 / label
+                                 :E (v19 / label~e.5)
+                                 :E (v20 / label~e.6)
+                                 :C (v21 / label~e.7))
+                         :A (v14 / label
+                                 :R (v22 / label~e.8)
+                                 :C (v23 / label~e.9))))))

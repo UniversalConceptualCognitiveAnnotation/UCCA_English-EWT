@@ -1,0 +1,21 @@
+# ::id 086839-0003
+# ::tok We took our vehicle in for a repair to the air conditioning .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1.2 3-1.1.3.2 4-1.1.4 5-1.2 7-1.3.1.2 8-1.3.2.3 10-1.3.2.1 11-1.3.2.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :P (v6 / label~e.1)
+           :A (v7 / label
+                  :E (v11 / label
+                          :A (v12 / label~e.3)
+                          :S (v16 / label~e.2))
+                  :C v12)
+           :D (v8 / label~e.4))
+    :L (v3 / label~e.5)
+    :H (v4 / label
+           :P (v9 / label
+                  :C (v13 / label~e.7))
+           :A (v10 / label
+                   :C (v14 / label~e.10,11)
+                   :R (v15 / label~e.8))))

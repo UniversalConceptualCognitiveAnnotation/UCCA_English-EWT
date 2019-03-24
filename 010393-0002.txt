@@ -1,0 +1,33 @@
+# ::id 010393-0002
+# ::tok The first time I used them they arrived on time and towed car for me to the destination I needed .
+# ::alignments 1-1.1.2 2-1.1.3 3-1.2.1 4-1.2.2 5-1.2.3 6-1.3.1 7-1.3.2 8-1.3.3.1 9-1.3.3.2 10-1.4 11-1.5.4 12-1.5.5 13-1.5.1.1 14-1.5.1.2 15-1.5.2.1 17-1.5.2.3 18-1.5.2.4.2 19-1.5.2.4.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label
+           :E (v7 / label~e.1)
+           :C (v8 / label~e.2))
+    :H (v3 / label
+           :A (v9 / label~e.3)
+           :P (v10 / label~e.4)
+           :A (v11 / label~e.5))
+    :H (v4 / label
+           :A (v12 / label~e.6)
+           :P (v13 / label~e.7)
+           :D (v14 / label
+                   :R (v19 / label~e.8)
+                   :C (v20 / label~e.9)))
+    :L (v5 / label~e.10)
+    :H (v6 / label
+           :A (v15 / label
+                   :R (v21 / label~e.13)
+                   :C (v22 / label~e.14))
+           :A (v16 / label
+                   :R (v23 / label~e.15)
+                   :C (v24 / label~e.17)
+                   :E (v25 / label
+                           :A v24
+                           :A (v26 / label~e.18)
+                           :S (v27 / label~e.19)))
+           :A v12
+           :P (v17 / label~e.11)
+           :A (v18 / label~e.12)))

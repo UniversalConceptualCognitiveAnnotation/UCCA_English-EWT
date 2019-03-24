@@ -1,0 +1,16 @@
+# ::id 278775-0003
+# ::tok We made the decision for a couple of reasons .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.3.2 4-1.1.4.4 6-1.1.4.5.2 7-1.1.4.1 8-1.1.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :D (v4 / label~e.1)
+           :P (v5 / label
+                  :C (v7 / label~e.3))
+           :A (v6 / label
+                  :R (v8 / label~e.7)
+                  :C (v9 / label~e.8)
+                  :R (v10 / label~e.4)
+                  :E (v11 / label
+                          :C (v12 / label~e.6)))))

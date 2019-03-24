@@ -1,0 +1,10 @@
+# ::id 053248-0001
+# ::tok Quit with the overstatements !
+# ::alignments 0-1.1.2 3-1.1.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :D (v4 / label~e.0)
+           :P (v5 / label
+                  :C (v6 / label~e.3))))

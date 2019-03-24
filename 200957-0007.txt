@@ -1,0 +1,19 @@
+# ::id 200957-0007
+# ::tok Do your self a favor and do not go to this establishment .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 4-1.1.3.2 5-1.2 7-1.3.3 8-1.3.4 9-1.3.5.4 10-1.3.5.1 11-1.3.5.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v5 / label~e.0)
+           :A (v6 / label~e.1,2)
+           :P (v7 / label
+                  :C (v11 / label~e.4)))
+    :L (v3 / label~e.5)
+    :H (v4 / label
+           :A v6
+           :D (v8 / label~e.7)
+           :P (v9 / label~e.8)
+           :A (v10 / label
+                   :E (v12 / label~e.10)
+                   :C (v13 / label~e.11)
+                   :R (v14 / label~e.9))))
