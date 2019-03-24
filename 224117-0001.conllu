@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 224117-0001
+# text = Drove all the way over from the highway ... closed at 7 .
+1	Drove	_	Word	Word	_	0	H	0:H	_
+2	all	_	Word	Word	_	4	Q	4:Q	_
+3	the	_	Word	Word	_	4	F	4:F	_
+4	way	_	Word	Word	_	1	A	1:A	_
+5	over	_	Word	Word	_	1	D	1:D	_
+6	from	_	Word	Word	_	8	R	8:R	_
+7	the	_	Word	Word	_	8	F	8:F	_
+8	highway	_	Word	Word	_	1	A	1:A	_
+9	...	_	Punctuation	Punctuation	_	1	U	1:U	_
+10	closed	_	Word	Word	_	1	H	1:H	_
+11	at	_	Word	Word	_	12	R	12:R	_
+12	7	_	Word	Word	_	10	T	10:T	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

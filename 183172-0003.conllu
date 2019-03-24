@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 183172-0003
+# text = I was not happy with the way they looked , very wavy , uneven edges , and with the exception of 1 , there is a dip in the center of each nail .
+1	I	_	Word	Word	_	4	A	4:A	_
+2	was	_	Word	Word	_	4	F	4:F	_
+3	not	_	Word	Word	_	4	D	4:D	_
+4	happy	_	Word	Word	_	0	H	0:H	_
+5	with	_	Word	Word	_	9	R	9:R	_
+6	the	_	Word	Word	_	7	F	7:F	_
+7	way	_	Word	Word	_	9	D	9:D	_
+8	they	_	Word	Word	_	9	A	9:A	_
+9	looked	_	Word	Word	_	4	A	4:A	_
+10	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+11	very	_	Word	Word	_	12	D	12:D	_
+12	wavy	_	Word	Word	_	4	H	4:H	_
+13	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+14	uneven	_	Word	Word	_	4	H	4:H	_
+15	edges	_	Word	Word	_	14	A	14:A	_
+16	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+17	and	_	Word	Word	_	22	L	22:L	_
+18	with	_	Word	Word	_	20	R	20:R	_
+19	the	_	Word	Word	_	20	F	20:F	_
+20	exception	_	Word	Word	_	22	L	22:L|22:D	_
+21	of	_	Word	Word	_	22	R	22:R	_
+22	1	_	Word	Word	_	4	H	4:H	_
+23	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+24	there	_	Word	Word	_	27	F	27:F	_
+25	is	_	Word	Word	_	27	F	27:F	_
+26	a	_	Word	Word	_	27	F	27:F	_
+27	dip	_	Word	Word	_	0	C	0:C|22:S	_
+28	in	_	Word	Word	_	30	R	30:R	_
+29	the	_	Word	Word	_	30	F	30:F	_
+30	center	_	Word	Word	_	27	D	27:D	_
+31	of	_	Word	Word	_	33	R	33:R	_
+32	each	_	Word	Word	_	33	E	33:E	_
+33	nail	_	Word	Word	_	27	A	27:A	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 351561-0012
+# text = He says , I have to have an exact ADDRESS .
+1	He	_	Word	Word	_	2	A	2:A	_
+2	says	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	I	_	Word	Word	_	7	A	7:A	_
+5	have	_	Word	Word	_	7	D	7:D	_
+6	to	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	have	_	Word	Word	_	2	A	2:A	_
+8	an	_	Word	Word	_	10	F	10:F	_
+9	exact	_	Word	Word	_	10	E	10:E	_
+10	ADDRESS	_	Word	Word	_	7	A	7:A	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 330966-0002
+# text = Service and Client base not ok .
+1	Service	_	Word	Word	_	0	H	0:H	_
+2	and	_	Word	Word	_	1	L	1:L	_
+3	Client	_	Word	Word	_	6	A	6:A	_
+4	base	_	Word	Word	_	3	C	3:C	_
+5	not	_	Word	Word	_	6	D	6:D|1:D	_
+6	ok	_	Word	Word	_	0	S	0:S|1:D	_
+7	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+

@@ -1,0 +1,48 @@
+# format = ucca
+# sent_id = 234261-0004
+# text = We live in the sub-division around the corner and after it happened and we brought it up at some neighborhood gatherings we discovered that several people from this neighborhood alone had pets go to Dr. Mann for surgical procedures and came back dead .
+1	We	_	Word	Word	_	2	A	2:A	_
+2	live	_	Word	Word	_	0	H	0:H	_
+3	in	_	Word	Word	_	5	R	5:R	_
+4	the	_	Word	Word	_	5	F	5:F	_
+5	sub-division	_	Word	Word	_	2	A	2:A	_
+6	around	_	Word	Word	_	8	R	8:R	_
+7	the	_	Word	Word	_	8	F	8:F	_
+8	corner	_	Word	Word	_	5	E	5:E	_
+9	and	_	Word	Word	_	12	L	12:L	_
+10	after	_	Word	Word	_	12	L	12:L	_
+11	it	_	Word	Word	_	12	A	12:A	_
+12	happened	_	Word	Word	_	2	H	2:H	_
+13	and	_	Word	Word	_	15	L	15:L	_
+14	we	_	Word	Word	_	15	A	15:A	_
+15	brought	_	Word	Word	_	2	H	2:H	_
+16	it	_	Word	Word	_	15	A	15:A	_
+17	up	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	at	_	Word	Word	_	21	R	21:R	_
+19	some	_	Word	Word	_	21	D	21:D	_
+20	neighborhood	_	Word	Word	_	21	A	21:A	_
+21	gatherings	_	Word	Word	_	15	A	15:A	_
+22	we	_	Word	Word	_	23	A	23:A	_
+23	discovered	_	Word	Word	_	2	H	2:H	_
+24	that	_	Word	Word	_	33	R	33:R	_
+25	several	_	Word	Word	_	26	Q	26:Q	_
+26	people	_	Word	Word	_	33	A	33:A	_
+27	from	_	Word	Word	_	29	R	29:R	_
+28	this	_	Word	Word	_	29	E	29:E	_
+29	neighborhood	_	Word	Word	_	26	E	26:E	_
+30	alone	_	Word	Word	_	29	Q	29:Q	_
+31	had	_	Word	Word	_	33	F	33:F	_
+32	pets	_	Word	Word	_	33	A	33:A|39:A|41:A|43:A	_
+33	go	_	Word	Word	_	23	A	23:A	_
+34	to	_	Word	Word	_	33	F	33:F	_
+35	Dr.	_	Word	Word	_	36	E	36:E	_
+36	Mann	_	Word	Word	_	33	A	33:A	_
+37	for	_	Word	Word	_	39	L	39:L	_
+38	surgical	_	Word	Word	_	39	E	39:E	_
+39	procedures	_	Word	Word	_	33	H	33:H	_
+40	and	_	Word	Word	_	41	L	41:L	_
+41	came	_	Word	Word	_	33	H	33:H	_
+42	back	_	Word	Word	_	41	D	41:D	_
+43	dead	_	Word	Word	_	41	A	41:A	_
+44	.	_	Punctuation	Punctuation	_	43	U	43:U	_
+

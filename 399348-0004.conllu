@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 399348-0004
+# text = A great breakfast which was included every morning until 9:30 am ; yummy fresh Parisian croissants .
+1	A	_	Word	Word	_	3	F	3:F	_
+2	great	_	Word	Word	_	3	D	3:D	_
+3	breakfast	_	Word	Word	_	0	C	0:C|6:A	_
+4	which	_	Word	Word	_	6	L	6:L	_
+5	was	_	Word	Word	_	6	F	6:F	_
+6	included	_	Word	Word	_	3	H	3:H	_
+7	every	_	Word	Word	_	8	Q	8:Q	_
+8	morning	_	Word	Word	_	6	T	6:T	_
+9	until	_	Word	Word	_	11	R	11:R	_
+10	9:30	_	Word	Word	_	11	Q	11:Q	_
+11	am	_	Word	Word	_	8	E	8:E	_
+12	;	_	Punctuation	Punctuation	_	3	U	3:U	_
+13	yummy	_	Word	Word	_	3	H	3:H	_
+14	fresh	_	Word	Word	_	3	H	3:H	_
+15	Parisian	_	Word	Word	_	16	E	16:E	_
+16	croissants	_	Word	Word	_	0	C	0:C|13:A	_
+17	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

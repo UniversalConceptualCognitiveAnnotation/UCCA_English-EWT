@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 325741-0003
+# text = They picked my car up in Yarmouth and towed to Bath for a great price .
+1	They	_	Word	Word	_	2	A	2:A|9:A	_
+2	picked	_	Word	Word	_	0	H	0:H	_
+3	my	_	Word	Word	_	4	E	4:E	_
+4	car	_	Word	Word	_	2	A	2:A	_
+5	up	_	Word	Word	_	2	Terminal	2:Terminal	_
+6	in	_	Word	Word	_	7	R	7:R	_
+7	Yarmouth	_	Word	Word	_	2	A	2:A	_
+8	and	_	Word	Word	_	9	L	9:L	_
+9	towed	_	Word	Word	_	2	H	2:H	_
+10	to	_	Word	Word	_	11	R	11:R	_
+11	Bath	_	Word	Word	_	9	A	9:A	_
+12	for	_	Word	Word	_	15	R	15:R	_
+13	a	_	Word	Word	_	15	F	15:F	_
+14	great	_	Word	Word	_	15	E	15:E	_
+15	price	_	Word	Word	_	9	A	9:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

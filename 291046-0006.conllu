@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 291046-0006
+# text = So long Ham s ... you will be missed .
+1	So	_	Word	Word	_	0	H	0:H	_
+2	long	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	Ham	_	Word	Word	_	1	A	1:A	_
+4	s	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	...	_	Punctuation	Punctuation	_	1	U	1:U	_
+6	you	_	Word	Word	_	9	A	9:A	_
+7	will	_	Word	Word	_	9	F	9:F	_
+8	be	_	Word	Word	_	9	F	9:F	_
+9	missed	_	Word	Word	_	1	H	1:H	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

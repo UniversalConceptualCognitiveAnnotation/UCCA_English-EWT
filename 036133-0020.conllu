@@ -1,0 +1,48 @@
+# format = ucca
+# sent_id = 036133-0020
+# text = Point is : You might be able to get a good deal on some nice furniture -- which I did -- but they 're not very communicative and god forbid something goes wrong , you 'll have to fight to get it resolved .
+1	Point	_	Word	Word	_	19	L	19:L	_
+2	is	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	:	_	Punctuation	Punctuation	_	9	U	9:U	_
+4	You	_	Word	Word	_	9	A	9:A	_
+5	might	_	Word	Word	_	9	D	9:D	_
+6	be	_	Word	Word	_	9	F	9:F	_
+7	able	_	Word	Word	_	9	D	9:D	_
+8	to	_	Word	Word	_	9	F	9:F	_
+9	get	_	Word	Word	_	0	H	0:H	_
+10	a	_	Word	Word	_	12	F	12:F	_
+11	good	_	Word	Word	_	12	D	12:D	_
+12	deal	_	Word	Word	_	0	C	0:C|19:A	_
+13	on	_	Word	Word	_	16	R	16:R	_
+14	some	_	Word	Word	_	16	Q	16:Q	_
+15	nice	_	Word	Word	_	16	E	16:E	_
+16	furniture	_	Word	Word	_	12	A	12:A	_
+17	--	_	Punctuation	Punctuation	_	9	U	9:U	_
+18	which	_	Word	Word	_	19	L	19:L	_
+19	I	_	Word	Word	_	9	H	9:H	_
+20	did	_	Word	Word	_	19	F	19:F	_
+21	--	_	Punctuation	Punctuation	_	9	U	9:U	_
+22	but	_	Word	Word	_	27	L	27:L	_
+23	they	_	Word	Word	_	27	A	27:A	_
+24	're	_	Word	Word	_	27	F	27:F	_
+25	not	_	Word	Word	_	27	D	27:D	_
+26	very	_	Word	Word	_	27	D	27:D	_
+27	communicative	_	Word	Word	_	9	H	9:H	_
+28	and	_	Word	Word	_	32	L	32:L	_
+29	god	_	Word	Word	_	32	G	32:G	_
+30	forbid	_	Word	Word	_	29	Terminal	29:Terminal	_
+31	something	_	Word	Word	_	32	A	32:A	_
+32	goes	_	Word	Word	_	9	H	9:H	_
+33	wrong	_	Word	Word	_	32	A	32:A	_
+34	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+35	you	_	Word	Word	_	39	A	39:A|43:A	_
+36	'll	_	Word	Word	_	39	F	39:F	_
+37	have	_	Word	Word	_	39	D	39:D	_
+38	to	_	Word	Word	_	37	Terminal	37:Terminal	_
+39	fight	_	Word	Word	_	9	H	9:H	_
+40	to	_	Word	Word	_	43	L	43:L	_
+41	get	_	Word	Word	_	43	D	43:D	_
+42	it	_	Word	Word	_	43	A	43:A	_
+43	resolved	_	Word	Word	_	9	H	9:H	_
+44	.	_	Punctuation	Punctuation	_	43	U	43:U	_
+

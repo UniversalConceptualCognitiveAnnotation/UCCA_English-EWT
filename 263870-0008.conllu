@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 263870-0008
+# text = VCU is also minutes from Downtown Richmond , Canal Walk , Carytown , Stony Point , Short Pump , and the VCU Medical Center .
+1	VCU	_	Word	Word	_	0	H	0:H	_
+2	is	_	Word	Word	_	1	F	1:F	_
+3	also	_	Word	Word	_	1	D	1:D	_
+4	minutes	_	Word	Word	_	1	T	1:T	_
+5	from	_	Word	Word	_	6	R	6:R	_
+6	Downtown	_	Word	Word	_	1	A	1:A	_
+7	Richmond	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	Canal	_	Word	Word	_	6	C	6:C	_
+10	Walk	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+12	Carytown	_	Word	Word	_	6	C	6:C	_
+13	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+14	Stony	_	Word	Word	_	6	C	6:C	_
+15	Point	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+17	Short	_	Word	Word	_	6	C	6:C	_
+18	Pump	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+20	and	_	Word	Word	_	6	N	6:N	_
+21	the	_	Word	Word	_	24	F	24:F	_
+22	VCU	_	Word	Word	_	24	E	24:E	_
+23	Medical	_	Word	Word	_	24	E	24:E	_
+24	Center	_	Word	Word	_	6	C	6:C	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

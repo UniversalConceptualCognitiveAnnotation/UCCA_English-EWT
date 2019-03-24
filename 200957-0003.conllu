@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 200957-0003
+# text = I walked out with 5 inch long hair on the top , 2 inch long hair on the sides , and 1.5 in the back .
+1	I	_	Word	Word	_	2	A	2:A	_
+2	walked	_	Word	Word	_	0	H	0:H	_
+3	out	_	Word	Word	_	2	D	2:D	_
+4	with	_	Word	Word	_	7	R	7:R	_
+5	5	_	Word	Word	_	6	Q	6:Q	_
+6	inch	_	Word	Word	_	7	D	7:D	_
+7	long	_	Word	Word	_	2	A	2:A	_
+8	hair	_	Word	Word	_	7	A	7:A	_
+9	on	_	Word	Word	_	11	R	11:R	_
+10	the	_	Word	Word	_	11	F	11:F	_
+11	top	_	Word	Word	_	7	A	7:A	_
+12	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+13	2	_	Word	Word	_	14	Q	14:Q	_
+14	inch	_	Word	Word	_	15	D	15:D	_
+15	long	_	Word	Word	_	7	H	7:H	_
+16	hair	_	Word	Word	_	15	A	15:A|25:A	_
+17	on	_	Word	Word	_	19	R	19:R	_
+18	the	_	Word	Word	_	19	F	19:F	_
+19	sides	_	Word	Word	_	15	A	15:A	_
+20	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+21	and	_	Word	Word	_	25	L	25:L	_
+22	1.5	_	Word	Word	_	25	D	25:D	_
+23	in	_	Word	Word	_	25	R	25:R	_
+24	the	_	Word	Word	_	25	F	25:F	_
+25	back	_	Word	Word	_	7	H	7:H	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+
