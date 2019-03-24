@@ -1,0 +1,27 @@
+# sent_id = 263870-0008
+1	VCU	VCU	PROPN	NNP	Number=Sing	7	nsubj	7:nsubj|10:nsubj|12:nsubj|15:nsubj|18:nsubj|24:nsubj	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
+3	also	also	ADV	RB	_	7	advmod	7:advmod	_
+4	minutes	minute	NOUN	NNS	Number=Plur	7	obl:npmod	7:obl:npmod	_
+5	from	from	ADP	IN	_	7	case	7:case	_
+6	Downtown	downtown	NOUN	NN	Number=Sing	7	compound	7:compound	_
+7	Richmond	Richmond	PROPN	NNP	Number=Sing	0	root	0:root	SpaceAfter=No
+8	,	,	PUNCT	,	_	10	punct	10:punct	_
+9	Canal	Canal	PROPN	NNP	Number=Sing	10	compound	10:compound	_
+10	Walk	Walk	PROPN	NNP	Number=Sing	7	conj	7:conj:and	SpaceAfter=No
+11	,	,	PUNCT	,	_	12	punct	12:punct	_
+12	Carytown	Carytown	PROPN	NNP	Number=Sing	7	conj	7:conj:and	SpaceAfter=No
+13	,	,	PUNCT	,	_	15	punct	15:punct	_
+14	Stony	Stony	PROPN	NNP	Number=Sing	15	compound	15:compound	_
+15	Point	Point	PROPN	NNP	Number=Sing	7	conj	7:conj:and	SpaceAfter=No
+16	,	,	PUNCT	,	_	18	punct	18:punct	_
+17	Short	Short	PROPN	NNP	Number=Sing	18	compound	18:compound	_
+18	Pump	Pump	PROPN	NNP	Number=Sing	7	conj	7:conj:and	SpaceAfter=No
+19	,	,	PUNCT	,	_	24	punct	24:punct	_
+20	and	and	CCONJ	CC	_	24	cc	24:cc	_
+21	the	the	DET	DT	Definite=Def|PronType=Art	24	det	24:det	_
+22	VCU	VCU	PROPN	NNP	Number=Sing	24	compound	24:compound	_
+23	Medical	Medical	PROPN	NNP	Number=Sing	24	compound	24:compound	_
+24	Center	Center	PROPN	NNP	Number=Sing	7	conj	7:conj:and	SpaceAfter=No
+25	.	.	PUNCT	.	_	7	punct	7:punct	_
+

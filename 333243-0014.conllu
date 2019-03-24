@@ -1,0 +1,15 @@
+# sent_id = 333243-0014
+1	In	in	ADP	IN	_	3	case	3:case	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+3	words	word	NOUN	NNS	Number=Plur	10	obl	10:obl:in	_
+4	of	of	ADP	IN	_	7	case	7:case	_
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
+6	new	new	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
+7	accountant	accountant	NOUN	NN	Number=Sing	3	nmod	3:nmod:of	SpaceAfter=No
+8	,	,	PUNCT	,	_	10	punct	10:punct	_
+9	THEY	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	10:nsubj	_
+10	LET	let	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+11	ME	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	10	obj	10:obj	_
+12	DOWN	down	ADP	RP	_	10	compound:prt	10:compound:prt	SpaceAfter=No
+13	!	!	PUNCT	.	_	10	punct	10:punct	_
+

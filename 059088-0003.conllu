@@ -1,0 +1,18 @@
+# sent_id = 059088-0003
+1	If	if	SCONJ	IN	_	3	mark	3:mark	_
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	3:nsubj	_
+3	mention	mention	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	advcl	9:advcl:if	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	name	name	NOUN	NN	Number=Sing	3	obj	3:obj	_
+6	Amir	Amir	PROPN	NNP	Number=Sing	5	appos	5:appos	_
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	9:nsubj	_
+8	will	will	AUX	MD	VerbForm=Fin	9	aux	9:aux	_
+9	receive	receive	VERB	VB	VerbForm=Inf	0	root	0:root	_
+10	%	%	SYM	NN	Number=Sing	9	obj	9:obj	SpaceAfter=No
+11	10	10	NUM	CD	NumType=Card	10	nummod	10:nummod	_
+12	off	off	ADV	RB	_	10	advmod	10:advmod	_
+13	at	at	ADP	IN	_	14	case	14:case	_
+14	time	time	NOUN	NN	Number=Sing	9	obl	9:obl:at	_
+15	of	of	ADP	IN	_	16	case	16:case	_
+16	purchase	purchase	NOUN	NN	Number=Sing	14	nmod	14:nmod:of	_
+

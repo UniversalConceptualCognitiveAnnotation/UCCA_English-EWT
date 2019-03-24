@@ -1,0 +1,21 @@
+# sent_id = 235423-0013
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	only	only	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	thing	thing	NOUN	NN	Number=Sing	10	nsubj	6:nsubj|10:nsubj	_
+4	that	that	PRON	WDT	PronType=Rel	6	nsubj	3:ref	_
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	6:cop	_
+6	edible	edible	ADJ	JJ	Degree=Pos	3	acl:relcl	3:acl:relcl	_
+7	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	10:cop	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+9	steamed	steam	VERB	VBN	Tense=Past|VerbForm=Part	10	amod	10:amod	_
+10	rice	rice	NOUN	NN	Number=Sing	0	root	0:root	_
+11	and	and	CCONJ	CC	_	18	cc	18:cc	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	15	det	15:det	_
+13	vegetable	vegetable	NOUN	NN	Number=Sing	15	compound	15:compound	_
+14	lo	lo	NOUN	NN	Number=Sing	15	compound	15:compound	_
+15	mein	mein	NOUN	NN	Number=Sing	18	nsubj	18:nsubj	_
+16	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	cop	18:cop	_
+17	barely	barely	ADV	RB	_	18	advmod	18:advmod	_
+18	tolerable	tolerable	ADJ	JJ	Degree=Pos	10	conj	10:conj:and	SpaceAfter=No
+19	.	.	PUNCT	.	_	10	punct	10:punct	_
+

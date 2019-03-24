@@ -1,0 +1,36 @@
+# sent_id = 323449-0008
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj|6:nsubj:xsubj	_
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	SpaceAfter=No
+3	n't	not	PART	RB	_	4	advmod	4:advmod	_
+4	want	want	VERB	VB	VerbForm=Inf	0	root	0:root	_
+5	to	to	PART	TO	_	6	mark	6:mark	_
+6	waste	waste	VERB	VB	VerbForm=Inf	4	xcomp	4:xcomp	_
+7	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	8:nmod:poss	_
+8	time	time	NOUN	NN	Number=Sing	6	obj	6:obj	_
+9	on	on	ADP	IN	_	10	case	10:case	_
+10	routes	route	NOUN	NNS	Number=Plur	6	obl	6:obl:on	_
+11	set	set	VERB	VBN	Tense=Past|VerbForm=Part	10	acl	10:acl	_
+12	for	for	ADP	IN	_	13	case	13:case	_
+13	children	child	NOUN	NNS	Number=Plur	11	obl	11:obl:for	SpaceAfter=No
+14	,	,	PUNCT	,	_	19	punct	19:punct	_
+15	but	but	CCONJ	CC	_	19	cc	19:cc	_
+16	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	19:nsubj|21:nsubj:xsubj	_
+17	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	aux	19:aux	SpaceAfter=No
+18	n't	not	PART	RB	_	19	advmod	19:advmod	_
+19	want	want	VERB	VB	VerbForm=Inf	4	conj	4:conj:but	_
+20	to	to	PART	TO	_	21	mark	21:mark	_
+21	take	take	VERB	VB	VerbForm=Inf	19	xcomp	19:xcomp	_
+22	on	on	ADP	RP	_	21	compound:prt	21:compound:prt	_
+23	something	something	PRON	NN	Number=Sing	21	obj	21:obj	_
+24	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	27	nsubj	27:nsubj	_
+25	ca	can	AUX	MD	VerbForm=Fin	27	aux	27:aux	SpaceAfter=No
+26	n't	not	PART	RB	_	27	advmod	27:advmod	_
+27	handle	handle	VERB	VB	VerbForm=Inf	23	acl:relcl	23:acl:relcl	_
+28	just	just	ADV	RB	_	30	advmod	30:advmod	_
+29	to	to	PART	TO	_	30	mark	30:mark	_
+30	strain	strain	VERB	VB	VerbForm=Inf	21	advcl	21:advcl:to	_
+31	myself	myself	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	30	obj	30:obj	_
+32	to	to	ADP	IN	_	33	case	33:case	_
+33	exhaustion	exhaustion	NOUN	NN	Number=Sing	30	obl	30:obl:to	SpaceAfter=No
+34	.	.	PUNCT	.	_	4	punct	4:punct	_
+

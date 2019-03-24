@@ -1,0 +1,13 @@
+# sent_id = 209465-0004
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	service	service	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
+3	here	here	ADV	RB	PronType=Dem	2	advmod	2:advmod	_
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+5	incredible	incredible	ADJ	JJ	Degree=Pos	0	root	0:root	_
+6	compared	compare	VERB	VBN	Tense=Past|VerbForm=Part	10	case	10:case	_
+7	to	to	ADP	IN	_	10	case	10:case	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+9	other	other	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
+10	places	place	NOUN	NNS	Number=Plur	5	obl	5:obl:to	SpaceAfter=No
+11	.	.	PUNCT	.	_	5	punct	5:punct	_
+

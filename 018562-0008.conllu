@@ -1,0 +1,13 @@
+# sent_id = 018562-0008
+1	Both	both	DET	PDT	_	3	det:predet	3:det:predet	_
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+3	grandparents	grandparent	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj|6:nsubj:xsubj	_
+4	looked	look	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+5	as	as	ADV	RB	_	6	advmod	6:advmod	_
+6	natural	natural	ADJ	JJ	Degree=Pos	4	xcomp	4:xcomp	_
+7	as	as	SCONJ	IN	_	10	mark	10:mark	_
+8	could	could	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
+9	be	be	AUX	VB	VerbForm=Inf	10	aux:pass	10:aux:pass	_
+10	expected	expect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	advcl	5:advcl:as	SpaceAfter=No
+11	.	.	PUNCT	.	_	4	punct	4:punct	_
+

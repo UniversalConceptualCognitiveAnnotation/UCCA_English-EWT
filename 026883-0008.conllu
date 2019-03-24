@@ -1,0 +1,10 @@
+# sent_id = 026883-0008
+1	No	no	DET	DT	_	2	det	2:det	_
+2	one	one	NUM	CD	NumType=Card	4	nsubj	4:nsubj	_
+3	will	will	AUX	MD	VerbForm=Fin	4	aux	4:aux	_
+4	give	give	VERB	VB	VerbForm=Inf	0	root	0:root	_
+5	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	iobj	4:iobj	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
+7	date	date	NOUN	NN	Number=Sing	4	obj	4:obj	SpaceAfter=No
+8	.	.	PUNCT	.	_	4	punct	4:punct	_
+

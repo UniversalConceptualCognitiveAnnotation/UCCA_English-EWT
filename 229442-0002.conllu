@@ -1,0 +1,28 @@
+# sent_id = 229442-0002
+1	there	there	PRON	EX	_	3	expl	3:expl	_
+2	might	might	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
+3	be	be	VERB	VB	VerbForm=Inf	0	root	0:root	_
+4	bigger	bigger	ADJ	JJR	Degree=Cmp	10	amod	10:amod	_
+5	and	and	CCONJ	CC	_	8	cc	8:cc	_
+6	more	more	ADV	RBR	_	8	advmod	8:advmod	_
+7	well	well	ADV	RB	Degree=Pos	8	advmod	8:advmod	_
+8	known	know	VERB	VBN	Tense=Past|VerbForm=Part	4	conj	4:conj:and|10:amod	_
+9	bagel	bagel	NOUN	NN	Number=Sing	10	compound	10:compound	_
+10	places	place	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
+11	in	in	ADP	IN	_	13	case	13:case	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
+13	area	area	NOUN	NN	Number=Sing	10	nmod	10:nmod:in	_
+14	but	but	CCONJ	CC	_	19	cc	19:cc	_
+15	Family	Family	PROPN	NNP	Number=Sing	16	compound	16:compound	_
+16	Bagels	Bagels	PROPN	NNPS	Number=Plur	19	nsubj	19:nsubj|22:nsubj|25:nsubj	_
+17	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	cop	19:cop	_
+18	nice	nice	ADJ	JJ	Degree=Pos	19	amod	19:amod	_
+19	people	people	NOUN	NNS	Number=Plur	10	conj	3:nsubj|10:conj:but	SpaceAfter=No
+20	,	,	PUNCT	,	_	22	punct	22:punct	_
+21	small	small	ADJ	JJ	Degree=Pos	22	amod	22:amod	_
+22	shop	shop	NOUN	NN	Number=Sing	19	conj	19:conj:and	_
+23	and	and	CCONJ	CC	_	25	cc	25:cc	_
+24	incredibly	incredibly	ADV	RB	_	25	advmod	25:advmod	_
+25	friendly	friendly	ADJ	JJ	Degree=Pos	19	conj	19:conj:and	SpaceAfter=No
+26	.	.	PUNCT	.	_	10	punct	10:punct	_
+

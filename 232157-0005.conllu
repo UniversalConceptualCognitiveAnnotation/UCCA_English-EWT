@@ -1,0 +1,28 @@
+# sent_id = 232157-0005
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
+4	large	large	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	party	party	NOUN	NN	Number=Sing	2	obj	2:obj	SpaceAfter=No
+6	,	,	PUNCT	,	_	5	punct	5:punct	_
+7	about	about	ADV	RB	_	8	advmod	8:advmod	_
+8	fifty	fifty	NUM	CD	NumType=Card	9	nummod	9:nummod	_
+9	people	people	NOUN	NNS	Number=Plur	5	appos	5:appos	_
+10	or	or	CCONJ	CC	_	11	cc	11:cc	_
+11	so	so	ADV	RB	_	9	conj	5:appos|9:conj:or	SpaceAfter=No
+12	,	,	PUNCT	,	_	17	punct	17:punct	_
+13	and	and	CCONJ	CC	_	14	cc	14:cc	_
+14	yet	yet	ADV	RB	_	17	cc	17:cc	_
+15	everything	everything	PRON	NN	Number=Sing	17	nsubj:pass	17:nsubj:pass	_
+16	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	aux:pass	17:aux:pass	_
+17	served	serve	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	conj	2:conj:and_yet	_
+18	quickly	quickly	ADV	RB	_	17	advmod	17:advmod	_
+19	and	and	CCONJ	CC	_	22	cc	22:cc	_
+20	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	22	nsubj	22:nsubj	_
+21	all	all	DET	DT	_	20	det	20:det	_
+22	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
+23	a	a	DET	DT	Definite=Ind|PronType=Art	25	det	25:det	_
+24	wonderful	wonderful	ADJ	JJ	Degree=Pos	25	amod	25:amod	_
+25	time	time	NOUN	NN	Number=Sing	22	obj	22:obj	SpaceAfter=No
+26	.	.	PUNCT	.	_	2	punct	2:punct	_
+

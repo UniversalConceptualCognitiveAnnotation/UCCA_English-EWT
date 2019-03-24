@@ -1,0 +1,10 @@
+# sent_id = 327766-0002
+1	Rooms	room	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj|5:nsubj|7:nsubj:xsubj	_
+2	very	very	ADV	RB	_	3	advmod	3:advmod	_
+3	clean	clean	ADJ	JJ	Degree=Pos	0	root	0:root	_
+4	and	and	CCONJ	CC	_	5	cc	5:cc	_
+5	smelled	smell	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	3:conj:and	_
+6	very	very	ADV	RB	_	7	advmod	7:advmod	_
+7	fresh	fresh	ADJ	JJ	Degree=Pos	5	xcomp	5:xcomp	SpaceAfter=No
+8	.	.	PUNCT	.	_	3	punct	3:punct	_
+

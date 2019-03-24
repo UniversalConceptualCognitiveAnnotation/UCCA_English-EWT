@@ -1,0 +1,32 @@
+# sent_id = 333243-0005
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|4:nsubj:xsubj|10:nsubj	_
+2	expected	expect	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	to	to	PART	TO	_	4	mark	4:mark	_
+4	pay	pay	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	_
+5	for	for	ADP	IN	_	7	case	7:case	_
+6	this	this	DET	DT	Number=Sing|PronType=Dem	7	det	7:det	_
+7	service	service	NOUN	NN	Number=Sing	4	obl	4:obl:for	SpaceAfter=No
+8	,	,	PUNCT	,	_	10	punct	10:punct	_
+9	but	but	CCONJ	CC	_	10	cc	10:cc	_
+10	imagine	imagine	VERB	VB	VerbForm=Inf	2	conj	2:conj:but	_
+11	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	_
+12	surprise	surprise	NOUN	NN	Number=Sing	10	obj	10:obj	_
+13	when	when	ADV	WRB	PronType=Int	15	mark	15:mark	_
+14	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	15:nsubj	_
+15	received	receive	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	advcl	10:advcl:when	_
+16	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	17:det	_
+17	bill	bill	NOUN	NN	Number=Sing	15	obj	15:obj	_
+18	for	for	ADP	IN	_	19	case	19:case	_
+19	MORE	more	ADJ	JJR	Degree=Cmp	17	nmod	17:nmod:for	_
+20	than	than	SCONJ	IN	_	23	mark	23:mark	_
+21	what	what	PRON	WP	PronType=Int	23	obj	23:obj	_
+22	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	23	nsubj	23:nsubj	_
+23	paid	pay	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	19	advcl	19:advcl:than	_
+24	to	to	PART	TO	_	25	mark	25:mark	_
+25	have	have	VERB	VB	VerbForm=Inf	23	advcl	23:advcl:to	_
+26	the	the	DET	DT	Definite=Def|PronType=Art	28	det	28:det	_
+27	original	original	ADJ	JJ	Degree=Pos	28	amod	28:amod	_
+28	return	return	NOUN	NN	Number=Sing	25	obj	25:obj|29:nsubj:xsubj	_
+29	prepared	prepare	VERB	VBN	Tense=Past|VerbForm=Part	25	xcomp	25:xcomp	SpaceAfter=No
+30	.	.	PUNCT	.	_	2	punct	2:punct	_
+

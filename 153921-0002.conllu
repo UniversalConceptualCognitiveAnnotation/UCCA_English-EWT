@@ -1,0 +1,17 @@
+# sent_id = 153921-0002
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	order	order	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	take	take	NOUN	NN	Number=Sing	4	compound	4:compound	_
+4	out	out	NOUN	NN	Number=Sing	2	obj	2:obj	_
+5	from	from	ADP	IN	_	6	case	6:case	_
+6	here	here	ADV	RB	PronType=Dem	2	obl	2:obl:from	_
+7	all	all	DET	PDT	_	9	det:predet	9:det:predet	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+9	time	time	NOUN	NN	Number=Sing	2	obl:tmod	2:obl:tmod	_
+10	and	and	CCONJ	CC	_	14	cc	14:cc	_
+11	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	14	nsubj	14:nsubj	_
+12	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	cop	14:cop	_
+13	never	never	ADV	RB	_	14	advmod	14:advmod	_
+14	disappointed	disappointed	ADJ	JJ	Degree=Pos	2	conj	2:conj:and	SpaceAfter=No
+15	.	.	PUNCT	.	_	2	punct	2:punct	_
+

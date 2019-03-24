@@ -1,0 +1,19 @@
+# sent_id = 169083-0007
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	5:nsubj|8:nsubj	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
+4	great	great	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	hospital	hospital	NOUN	NN	Number=Sing	0	root	0:root	_
+6	and	and	CCONJ	CC	_	8	cc	8:cc	_
+7	even	even	ADV	RB	_	8	advmod	8:advmod	_
+8	better	better	ADJ	JJR	Degree=Cmp	5	conj	5:conj:and	_
+9	since	since	SCONJ	IN	_	11	mark	11:mark	_
+10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	11:nsubj|12:nsubj:xsubj	_
+11	became	become	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	advcl	8:advcl:since	_
+12	part	part	NOUN	NN	Number=Sing	11	xcomp	11:xcomp	_
+13	of	of	ADP	IN	_	16	case	16:case	_
+14	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
+15	UW	UW	PROPN	NNP	Number=Sing	16	compound	16:compound	_
+16	system	system	NOUN	NN	Number=Sing	12	nmod	12:nmod:of	SpaceAfter=No
+17	.	.	PUNCT	.	_	5	punct	5:punct	_
+

@@ -1,0 +1,19 @@
+# sent_id = 382073-0008
+1	It's	it's	PRON	PRP$	_	2	nmod:poss	2:nmod:poss	_
+2	durability	durability	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
+3	&	&	CCONJ	CC	_	4	cc	4:cc	_
+4	look	look	NOUN	NN	Number=Sing	2	conj	2:conj|6:nsubj	_
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	6:cop	_
+6	perfect	perfect	ADJ	JJ	Degree=Pos	0	root	0:root	_
+7	and	and	CCONJ	CC	_	12	cc	12:cc	_
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	12:nsubj	_
+9	will	will	AUX	MD	VerbForm=Fin	12	aux	12:aux	_
+10	definitely	definitely	ADV	RB	_	12	advmod	12:advmod	_
+11	be	be	AUX	VB	VerbForm=Inf	12	aux	12:aux	_
+12	adding	add	VERB	VBG	Tense=Pres|VerbForm=Part	6	conj	6:conj:and	_
+13	to	to	ADP	IN	_	15	case	15:case	_
+14	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	15	nmod:poss	15:nmod:poss	_
+15	collection	collection	NOUN	NN	Number=Sing	12	obl	12:obl:to	_
+16	soon	soon	ADV	RB	Degree=Pos	12	advmod	12:advmod	SpaceAfter=No
+17	!	!	PUNCT	.	_	6	punct	6:punct	_
+

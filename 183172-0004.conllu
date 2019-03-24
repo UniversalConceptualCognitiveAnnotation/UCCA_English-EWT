@@ -1,0 +1,28 @@
+# sent_id = 183172-0004
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	also	also	ADV	RB	_	3	advmod	3:advmod	_
+3	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
+5	pedicure	pedicure	NOUN	NN	Number=Sing	3	obj	3:obj	SpaceAfter=No
+6	,	,	PUNCT	,	_	9	punct	9:punct	_
+7	and	and	CCONJ	CC	_	9	cc	9:cc	_
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	9:nsubj	_
+9	cut	cut	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	3:conj:and	_
+10	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
+11	nails	nail	NOUN	NNS	Number=Plur	9	obj	9:obj|13:nsubj:xsubj	_
+12	too	too	ADV	RB	_	13	advmod	13:advmod	_
+13	short	short	ADJ	JJ	Degree=Pos	9	xcomp	9:xcomp	SpaceAfter=No
+14	,	,	PUNCT	,	_	3	punct	3:punct	_
+15	one	one	NUM	CD	NumType=Card	20	nsubj	20:nsubj	_
+16	of	of	ADP	IN	_	19	case	19:case	_
+17	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	19	nmod:poss	19:nmod:poss	_
+18	big	big	ADJ	JJ	Degree=Pos	19	amod	19:amod	_
+19	toes	toe	NOUN	NNS	Number=Plur	15	nmod	15:nmod:of	_
+20	looks	look	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	3:ccomp|9:ccomp	_
+21	like	like	SCONJ	IN	_	25	mark	25:mark	_
+22	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	25	nsubj	25:nsubj	SpaceAfter=No
+23	s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux	25:aux	_
+24	getting	get	VERB	VBG	VerbForm=Ger	25	aux	25:aux	_
+25	infected	infected	ADJ	JJ	Degree=Pos	20	advcl	20:advcl:like	SpaceAfter=No
+26	.	.	PUNCT	.	_	3	punct	3:punct	_
+

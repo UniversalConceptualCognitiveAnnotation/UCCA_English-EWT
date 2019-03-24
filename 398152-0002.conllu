@@ -1,0 +1,13 @@
+# sent_id = 398152-0002
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	brought	bring	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+4	car	car	NOUN	NN	Number=Sing	2	obj	2:obj	_
+5	in	in	ADV	RB	_	2	advmod	2:advmod	_
+6	for	for	ADP	IN	_	10	case	10:case	_
+7	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	_
+8	simple	simple	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
+9	emissions	emission	NOUN	NNS	Number=Plur	10	compound	10:compound	_
+10	test	test	NOUN	NN	Number=Sing	2	obl	2:obl:for	SpaceAfter=No
+11	.	.	PUNCT	.	_	2	punct	2:punct	_
+

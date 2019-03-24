@@ -1,0 +1,13 @@
+# sent_id = 200957-0005
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	2:det	_
+2	woman	woman	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
+3	should	should	AUX	MD	VerbForm=Fin	5	aux	5:aux	_
+4	be	be	AUX	VB	VerbForm=Inf	5	aux	5:aux	_
+5	working	work	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
+6	in	in	ADP	IN	_	7	case	7:case	_
+7	supercuts	supercuts	PROPN	NNP	Number=Sing	5	obl	5:obl:in	SpaceAfter=No
+8	...	...	PUNCT	,	_	5	punct	5:punct	SpaceAfter=No
+9	if	if	SCONJ	IN	_	10	mark	10:mark	_
+10	that	that	PRON	DT	Number=Sing|PronType=Dem	5	advcl	5:advcl:if	SpaceAfter=No
+11	.	.	PUNCT	.	_	5	punct	5:punct	_
+

@@ -1,0 +1,21 @@
+# sent_id = 116821-0012
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+2	du	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	SpaceAfter=No
+3	n	not	PART	RB	_	4	advmod	4:advmod	SpaceAfter=No
+4	no	know	VERB	VB	VerbForm=Inf	0	root	0:root	_
+5	how	how	ADV	WRB	PronType=Int	7	advmod	7:advmod	_
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	7:nsubj	_
+7	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	ccomp	4:ccomp	_
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obj	7:obj	SpaceAfter=No
+9	,	,	PUNCT	,	_	18	punct	18:punct	_
+10	but	but	CCONJ	CC	_	18	cc	18:cc	_
+11	Scottish	scottish	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
+12	friends	friend	NOUN	NNS	Number=Plur	18	vocative	18:vocative	SpaceAfter=No
+13	---	---	PUNCT	:	_	18	punct	18:punct	_
+14	this	this	PRON	DT	Number=Sing|PronType=Dem	18	nsubj	18:nsubj	_
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	18:cop	_
+16	THE	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
+17	REAL	real	ADJ	JJ	Degree=Pos	18	amod	18:amod	_
+18	DEAL	deal	NOUN	NN	Number=Sing	4	conj	4:conj:but	SpaceAfter=No
+19	.	.	PUNCT	.	_	4	punct	4:punct	_
+

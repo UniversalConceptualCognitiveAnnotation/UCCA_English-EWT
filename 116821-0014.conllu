@@ -1,0 +1,16 @@
+# sent_id = 116821-0014
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj:pass	3:nsubj:pass	_
+2	being	be	AUX	VBG	VerbForm=Ger	3	aux:pass	3:aux:pass	_
+3	said	say	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	advcl	8:advcl	SpaceAfter=No
+4	,	,	PUNCT	,	_	8	punct	8:punct	_
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	8:nsubj	_
+6	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	8:aux	SpaceAfter=No
+7	n't	not	PART	RB	_	8	advmod	8:advmod	_
+8	know	know	VERB	VB	VerbForm=Inf	0	root	0:root	_
+9	how	how	ADV	WRB	PronType=Int	8	ccomp	8:ccomp	_
+10	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	_
+11	delivery	delivery	NOUN	NN	Number=Sing	12	compound	12:compound	_
+12	service	service	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	_
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	9:cop	SpaceAfter=No
+14	.	.	PUNCT	.	_	8	punct	8:punct	_
+

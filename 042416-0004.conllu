@@ -1,0 +1,17 @@
+# sent_id = 042416-0004
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	7:nsubj|10:nsubj|14:nsubj	_
+2	could	could	AUX	MD	VerbForm=Fin	7	aux	7:aux	_
+3	not	not	PART	RB	_	7	advmod	7:advmod	_
+4	have	have	AUX	VB	VerbForm=Inf	7	aux	7:aux	_
+5	been	be	AUX	VBN	Tense=Past|VerbForm=Part	7	aux:pass	7:aux:pass	_
+6	more	more	ADV	RBR	_	7	advmod	7:advmod	_
+7	welcomed	welcome	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
+8	,	,	PUNCT	,	_	10	punct	10:punct	_
+9	more	more	ADV	RBR	_	10	advmod	10:advmod	_
+10	comfortable	comfortable	ADJ	JJ	Degree=Pos	7	conj	7:conj:or	_
+11	or	or	CCONJ	CC	_	14	cc	14:cc	_
+12	more	more	ADV	RBR	_	13	advmod	13:advmod	_
+13	well	well	ADV	RB	Degree=Pos	14	advmod	14:advmod	_
+14	fed	feed	VERB	VBN	Tense=Past|VerbForm=Part	7	conj	7:conj:or	SpaceAfter=No
+15	.	.	PUNCT	.	_	7	punct	7:punct	_
+

@@ -1,0 +1,10 @@
+# sent_id = 018465-0002
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|3:nsubj:xsubj|5:nsubj:xsubj	_
+2	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	obligated	obligated	ADJ	JJ	Degree=Pos	2	xcomp	2:xcomp	_
+4	to	to	PART	TO	_	5	mark	5:mark	_
+5	share	share	VERB	VB	VerbForm=Inf	3	xcomp	3:xcomp	_
+6	this	this	DET	DT	Number=Sing|PronType=Dem	7	det	7:det	_
+7	story	story	NOUN	NN	Number=Sing	5	obj	5:obj	SpaceAfter=No
+8	.	.	PUNCT	.	_	2	punct	2:punct	_
+

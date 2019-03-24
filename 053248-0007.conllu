@@ -1,0 +1,23 @@
+# sent_id = 053248-0007
+1	Though	though	SCONJ	IN	_	5	mark	5:mark	_
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+4	mostly	mostly	ADV	RB	_	5	advmod	5:advmod	_
+5	excellent	excellent	ADJ	JJ	Degree=Pos	11	advcl	11:advcl:though	SpaceAfter=No
+6	,	,	PUNCT	,	_	11	punct	11:punct	_
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	11:nsubj	_
+8	generally	generally	ADV	RB	_	11	advmod	11:advmod	_
+9	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	11:aux	SpaceAfter=No
+10	n't	not	PART	RB	_	11	advmod	11:advmod	_
+11	get	get	VERB	VB	VerbForm=Inf	0	root	0:root	_
+12	enough	enough	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
+13	forkfuls	forkful	NOUN	NNS	Number=Plur	11	obj	11:obj	_
+14	to	to	PART	TO	_	15	mark	15:mark	_
+15	know	know	VERB	VB	VerbForm=Inf	13	acl	13:acl:to	_
+16	if	if	SCONJ	IN	_	19	mark	19:mark	_
+17	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	19	nsubj	19:nsubj	_
+18	really	really	ADV	RB	_	19	advmod	19:advmod	_
+19	love	love	VERB	VB	VerbForm=Inf	15	advcl	15:advcl:if	_
+20	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	19	obj	19:obj	SpaceAfter=No
+21	.	.	PUNCT	.	_	11	punct	11:punct	_
+

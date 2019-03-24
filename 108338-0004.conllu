@@ -1,0 +1,21 @@
+# sent_id = 108338-0004
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	outward	outward	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	appearance	appearance	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
+4	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	6:nsubj	_
+6	think	think	VERB	VB	VerbForm=Inf	4	ccomp	4:ccomp	_
+7	this	this	DET	DT	Number=Sing|PronType=Dem	8	det	8:det	_
+8	place	place	NOUN	NN	Number=Sing	10	nsubj	10:nsubj	_
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
+10	nice	nice	ADJ	JJ	Degree=Pos	6	ccomp	6:ccomp	SpaceAfter=No
+11	,	,	PUNCT	,	_	18	punct	18:punct	_
+12	but	but	CCONJ	CC	_	18	cc	18:cc	_
+13	everything	everything	PRON	NN	Number=Sing	18	nsubj	18:nsubj	_
+14	inside	inside	ADV	RB	_	13	advmod	13:advmod	_
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	18:cop	_
+16	cheap	cheap	ADJ	JJ	Degree=Pos	18	amod	18:amod	_
+17	cheap	cheap	ADJ	JJ	Degree=Pos	18	amod	18:amod	_
+18	cheap	cheap	ADJ	JJ	Degree=Pos	4	conj	4:conj:but	SpaceAfter=No
+19	.	.	PUNCT	.	_	4	punct	4:punct	_
+

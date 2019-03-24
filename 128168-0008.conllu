@@ -1,0 +1,13 @@
+# sent_id = 128168-0008
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
+2	also	also	ADV	RB	_	3	advmod	3:advmod	_
+3	hurt	hurt	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+5	toes	toe	NOUN	NNS	Number=Plur	3	obj	3:obj	_
+6	will	while	SCONJ	IN	Typo=Yes	7	mark	7:mark	_
+7	pushing	push	VERB	VBG	VerbForm=Ger	3	advcl	3:advcl:while	_
+8	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
+9	cuticles	cuticle	NOUN	NNS	Number=Plur	7	obj	7:obj	_
+10	back	back	ADV	RB	_	7	advmod	7:advmod	SpaceAfter=No
+11	.	.	PUNCT	.	_	3	punct	3:punct	_
+

@@ -1,0 +1,14 @@
+# sent_id = 012047-0002
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	specialize	specialize	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	in	in	ADP	IN	_	5	case	5:case	_
+4	financial	financial	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	institutions	institution	NOUN	NNS	Number=Plur	2	obl	2:obl:in	SpaceAfter=No
+6	,	,	PUNCT	,	_	5	punct	5:punct	_
+7	medical	medical	ADJ	JJ	Degree=Pos	11	amod	11:amod	SpaceAfter=No
+8	,	,	PUNCT	,	_	10	punct	10:punct	_
+9	and	and	CCONJ	CC	_	10	cc	10:cc	_
+10	retail	retail	NOUN	NN	Number=Sing	7	conj	7:conj:and|11:amod	_
+11	projects	project	NOUN	NNS	Number=Plur	5	appos	5:appos	SpaceAfter=No
+12	.	.	PUNCT	.	_	2	punct	2:punct	_
+

@@ -1,0 +1,15 @@
+# sent_id = 363428-0004
+1	Nothing	nothing	PRON	NN	Number=Sing	4	nsubj	4:nsubj	_
+2	too	too	ADV	RB	_	3	advmod	3:advmod	_
+3	much	much	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
+4	trouble	trouble	NOUN	NN	Number=Sing	0	root	0:root	_
+5	for	for	ADP	IN	_	6	case	6:case	_
+6	Ian	Ian	PROPN	NNP	Number=Sing	4	nmod	4:nmod:for	SpaceAfter=No
+7	,	,	PUNCT	,	_	4	punct	4:punct	_
+8	thanks	thanks	NOUN	NN	Number=Sing	1	parataxis	1:parataxis	_
+9	for	for	ADP	IN	_	12	case	12:case	_
+10	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	_
+11	great	great	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
+12	stay	stay	NOUN	NN	Number=Sing	8	nmod	8:nmod:for	SpaceAfter=No
+13	.	.	PUNCT	.	_	1	punct	1:punct	_
+

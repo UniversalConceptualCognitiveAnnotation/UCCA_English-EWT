@@ -1,0 +1,16 @@
+# sent_id = 141103-0002
+1	For	for	ADP	IN	_	3	case	3:case	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	3:det	_
+3	hotel	hotel	NOUN	NN	Number=Sing	8	obl	8:obl:for	_
+4	like	like	ADP	IN	_	5	case	5:case	_
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	3	nmod	3:nmod:like	_
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	8:nsubj	_
+7	would	would	AUX	MD	VerbForm=Fin	8	aux	8:aux	_
+8	expect	expect	VERB	VB	VerbForm=Inf	0	root	0:root	_
+9	some	some	DET	DT	_	10	det	10:det	_
+10	form	form	NOUN	NN	Number=Sing	8	obj	8:obj	_
+11	of	of	ADP	IN	_	13	case	13:case	_
+12	free	free	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
+13	internet	internet	NOUN	NN	Number=Sing	10	nmod	10:nmod:of	SpaceAfter=No
+14	.	.	PUNCT	.	_	8	punct	8:punct	_
+

@@ -1,0 +1,14 @@
+# sent_id = 010820-0005
+1	So	so	ADV	RB	_	2	advmod	2:advmod	_
+2	totalling	total	VERB	VBG	VerbForm=Ger	0	root	0:root	_
+3	$	$	SYM	$	_	2	obj	2:obj	SpaceAfter=No
+4	212	212	NUM	CD	NumType=Card	3	nummod	3:nummod	_
+5	just	just	ADV	RB	_	7	advmod	7:advmod	_
+6	for	for	ADP	IN	_	7	case	7:case	_
+7	start	start	NOUN	NN	Number=Sing	2	obl	2:obl:for	_
+8	before	before	SCONJ	IN	_	11	mark	11:mark	_
+9	any	any	DET	DT	_	10	det	10:det	_
+10	work	work	NOUN	NN	Number=Sing	11	nsubj	11:nsubj	_
+11	started	start	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	advcl	2:advcl:before	SpaceAfter=No
+12	.	.	PUNCT	.	_	2	punct	2:punct	_
+

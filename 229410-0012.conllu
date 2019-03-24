@@ -1,0 +1,25 @@
+# sent_id = 229410-0012
+1	Please	please	INTJ	UH	_	4	discourse	4:discourse	_
+2	everyone	everyone	PRON	NN	Number=Sing	4	nsubj	4:nsubj|10:nsubj:pass	SpaceAfter=No
+3	....	....	PUNCT	,	_	4	punct	4:punct	SpaceAfter=No
+4	take	take	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
+5	heed	heed	NOUN	NN	Number=Sing	4	obj	4:obj	_
+6	and	and	CCONJ	CC	_	10	cc	10:cc	_
+7	do	do	AUX	VB	Mood=Imp|VerbForm=Fin	10	aux	10:aux	SpaceAfter=No
+8	n't	not	PART	RB	_	10	advmod	10:advmod	_
+9	get	get	AUX	VB	Mood=Imp|VerbForm=Fin	10	aux:pass	10:aux:pass	_
+10	caught	catch	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	conj	4:conj:and	_
+11	up	up	ADP	RP	_	10	compound:prt	10:compound:prt	_
+12	in	in	ADP	IN	_	14	case	14:case	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
+14	hype	hype	NOUN	NN	Number=Sing	10	obl	10:obl:in	_
+15	about	about	SCONJ	IN	_	19	mark	19:mark	_
+16	DECOR	DECOR	PROPN	NNP	Number=Sing	19	nsubj	19:nsubj	_
+17	and	and	CCONJ	CC	_	18	cc	18:cc	_
+18	YOU	YOU	PROPN	NNP	Number=Sing	16	conj	16:conj:and|19:nsubj	_
+19	working	work	VERB	VBG	VerbForm=Ger	14	acl	14:acl:about	_
+20	with	with	ADP	IN	_	22	case	22:case	_
+21	every	every	DET	DT	_	22	det	22:det	_
+22	budget	budget	NOUN	NN	Number=Sing	19	obl	19:obl:with	SpaceAfter=No
+23	...	...	PUNCT	.	_	4	punct	4:punct	SpaceAfter=No
+

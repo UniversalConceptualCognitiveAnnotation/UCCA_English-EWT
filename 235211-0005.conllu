@@ -1,0 +1,35 @@
+# sent_id = 235211-0005
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
+3	had	have	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+4	many	many	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	conversations	conversation	NOUN	NNS	Number=Plur	3	obj	3:obj	_
+6	with	with	ADP	IN	_	7	case	7:case	_
+7	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	nmod	5:nmod:with	_
+8	and	and	CCONJ	CC	_	14	cc	14:cc	_
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	14:nsubj	_
+10	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	14:aux	_
+11	always	always	ADV	RB	_	14	advmod	14:advmod	_
+12	been	be	AUX	VBN	Tense=Past|VerbForm=Part	14	cop	14:cop	_
+13	extremely	extremely	ADV	RB	_	14	advmod	14:advmod	_
+14	patient	patient	ADJ	JJ	Degree=Pos	3	conj	3:conj:and	_
+15	with	with	ADP	IN	_	16	case	16:case	_
+16	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	14	obl	14:obl:with	_
+17	as	as	SCONJ	IN	_	19	mark	19:mark	_
+18	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	19:nsubj	_
+19	tried	try	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	14	advcl	14:advcl:as	_
+20	on	on	ADP	RP	_	19	compound:prt	19:compound:prt	_
+21	multiple	multiple	ADJ	JJ	Degree=Pos	22	amod	22:amod	_
+22	hats	hat	NOUN	NNS	Number=Plur	19	obj	19:obj	_
+23	in	in	ADP	IN	_	24	case	24:case	_
+24	search	search	NOUN	NN	Number=Sing	19	obl	19:obl:in	_
+25	of	of	ADP	IN	_	28	case	28:case	_
+26	the	the	DET	DT	Definite=Def|PronType=Art	28	det	28:det	_
+27	right	right	ADJ	JJ	Degree=Pos	28	amod	28:amod	_
+28	costumes	costume	NOUN	NNS	Number=Plur	24	nmod	24:nmod:of	_
+29	for	for	ADP	IN	_	32	case	32:case	_
+30	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	32	nmod:poss	32:nmod:poss	_
+31	magic	magic	NOUN	NN	Number=Sing	32	compound	32:compound	_
+32	act	act	NOUN	NN	Number=Sing	28	nmod	28:nmod:for	SpaceAfter=No
+33	.	.	PUNCT	.	_	3	punct	3:punct	_
+

@@ -1,0 +1,23 @@
+# sent_id = 398152-0004
+1	Ten	ten	NUM	CD	NumType=Card	2	nummod	2:nummod	_
+2	minutes	minute	NOUN	NNS	Number=Plur	3	obl:npmod	3:obl:npmod	_
+3	later	later	ADV	RBR	Degree=Cmp	6	advmod	6:advmod	SpaceAfter=No
+4	,	,	PUNCT	,	_	6	punct	6:punct	_
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
+6	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+7	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	8:nmod:poss	_
+8	car	car	NOUN	NN	Number=Sing	6	obj	6:obj	_
+9	down	down	ADP	IN	_	11	case	11:case	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
+11	street	street	NOUN	NN	Number=Sing	6	obl	6:obl:down	_
+12	and	and	CCONJ	CC	_	14	cc	14:cc	_
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	14:nsubj	_
+14	passed	pass	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	conj	6:conj:and	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
+16	emissions	emission	NOUN	NNS	Number=Plur	17	compound	17:compound	_
+17	test	test	NOUN	NN	Number=Sing	14	obj	14:obj	_
+18	with	with	ADP	IN	_	20	case	20:case	_
+19	flying	fly	VERB	VBG	VerbForm=Ger	20	amod	20:amod	_
+20	colors	color	NOUN	NNS	Number=Plur	14	obl	14:obl:with	SpaceAfter=No
+21	.	.	PUNCT	.	_	6	punct	6:punct	_
+

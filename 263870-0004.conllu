@@ -1,0 +1,34 @@
+# sent_id = 263870-0004
+1	With	with	ADP	IN	_	19	mark	19:mark	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
+3	Pizza	Pizza	PROPN	NNP	Number=Sing	4	compound	4:compound	_
+4	Hut	Hut	PROPN	NNP	Number=Sing	19	nsubj	19:nsubj	SpaceAfter=No
+5	,	,	PUNCT	,	_	6	punct	6:punct	_
+6	IHOP	IHOP	PROPN	NNP	Number=Sing	4	conj	4:conj:and|19:nsubj	SpaceAfter=No
+7	,	,	PUNCT	,	_	9	punct	9:punct	_
+8	3	3	NUM	CD	NumType=Card	9	nummod	9:nummod	_
+9	Starbucks	Starbucks	PROPN	NNPS	Number=Plur	4	conj	4:conj:and|19:nsubj	SpaceAfter=No
+10	,	,	PUNCT	,	_	11	punct	11:punct	_
+11	Chili	Chili	PROPN	NNP	Number=Sing	4	conj	4:conj:and|19:nsubj	SpaceAfter=No
+12	s	's	PART	POS	_	11	case	11:case	SpaceAfter=No
+13	,	,	PUNCT	,	_	14	punct	14:punct	_
+14	Panera	Panera	PROPN	NNP	Number=Sing	4	conj	4:conj:and|19:nsubj	SpaceAfter=No
+15	,	,	PUNCT	,	_	17	punct	17:punct	_
+16	and	and	CCONJ	CC	_	17	cc	17:cc	_
+17	Chipotle	Chipotle	PROPN	NNP	Number=Sing	4	conj	4:conj:and|19:nsubj	_
+18	on	on	ADP	IN	_	19	case	19:case	_
+19	campus	campus	NOUN	NN	Number=Sing	23	advcl	23:advcl:on	_
+20	ALONE	alone	ADV	RB	_	19	advmod	19:advmod	SpaceAfter=No
+21	,	,	PUNCT	,	_	23	punct	23:punct	_
+22	VCU	VCU	PROPN	NNP	Number=Sing	23	nsubj	23:nsubj	_
+23	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+24	some	some	DET	DT	_	23	obj	23:obj	_
+25	of	of	ADP	IN	_	29	case	29:case	_
+26	the	the	DET	DT	Definite=Def|PronType=Art	29	det	29:det	_
+27	best	best	ADJ	JJS	Degree=Sup	29	amod	29:amod	_
+28	eating	eating	NOUN	NN	Number=Sing	29	compound	29:compound	_
+29	options	option	NOUN	NNS	Number=Plur	24	nmod	24:nmod:of	_
+30	for	for	ADP	IN	_	31	case	31:case	_
+31	students	student	NOUN	NNS	Number=Plur	29	nmod	29:nmod:for	SpaceAfter=No
+32	.	.	PUNCT	.	_	23	punct	23:punct	_
+

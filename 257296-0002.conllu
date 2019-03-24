@@ -1,0 +1,25 @@
+# sent_id = 257296-0002
+1	HCC	HCC	PROPN	NNP	Number=Sing	4	nmod:poss	4:nmod:poss	SpaceAfter=No
+2	's	's	PART	POS	_	1	case	1:case	_
+3	new	new	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
+4	nine	nine	NUM	CD	NumType=Card	8	nsubj	8:nsubj	_
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	8:cop	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
+7	little	little	ADJ	JJ	Degree=Pos	8	advmod	8:advmod	_
+8	shaky	shaky	ADJ	JJ	Degree=Pos	0	root	0:root	_
+9	at	at	ADV	RB	_	10	advmod	10:advmod	_
+10	first	first	ADV	RBS	_	8	advmod	8:advmod	SpaceAfter=No
+11	,	,	PUNCT	,	_	18	punct	18:punct	_
+12	but	but	CCONJ	CC	_	18	cc	18:cc	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
+14	NEW	new	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
+15	grounds	grounds	NOUN	NNS	Number=Plur	16	compound	16:compound	_
+16	superintendant	superintendant	NOUN	NN	Number=Sing	18	nsubj	18:nsubj	_
+17	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	18:aux	_
+18	done	do	VERB	VBN	Tense=Past|VerbForm=Part	8	conj	8:conj:but	_
+19	wonders	wonder	NOUN	NNS	Number=Plur	18	obj	18:obj	_
+20	for	for	ADP	IN	_	22	case	22:case	_
+21	the	the	DET	DT	Definite=Def|PronType=Art	22	det	22:det	_
+22	course	course	NOUN	NN	Number=Sing	19	nmod	19:nmod:for	SpaceAfter=No
+23	!!	!!	PUNCT	.	_	8	punct	8:punct	_
+

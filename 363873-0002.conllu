@@ -1,0 +1,17 @@
+# sent_id = 363873-0002
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	lived	live	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	here	here	ADV	RB	PronType=Dem	2	advmod	2:advmod	_
+4	for	for	ADP	IN	_	6	case	6:case	_
+5	2	2	NUM	CD	NumType=Card	6	nummod	6:nummod	_
+6	years	year	NOUN	NNS	Number=Plur	2	obl	2:obl:for	SpaceAfter=No
+7	,	,	PUNCT	,	_	2	punct	2:punct	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+9	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	10	amod	10:amod	_
+10	year	year	NOUN	NN	Number=Sing	14	nsubj	14:nsubj	_
+11	or	or	CCONJ	CC	_	12	cc	12:cc	_
+12	so	so	ADV	RB	_	10	advmod	10:advmod	_
+13	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	cop	14:cop	_
+14	okay	okay	ADJ	JJ	Degree=Pos	2	parataxis	2:parataxis	SpaceAfter=No
+15	.	.	PUNCT	.	_	2	punct	2:punct	_
+

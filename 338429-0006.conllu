@@ -1,0 +1,18 @@
+# sent_id = 338429-0006
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj|6:nsubj	_
+2	stole	steal	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
+4	information	information	NOUN	NN	Number=Sing	2	obj	2:obj	_
+5	and	and	CCONJ	CC	_	6	cc	6:cc	_
+6	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obj	6:obj	_
+8	to	to	ADP	IN	_	10	case	10:case	_
+9	another	another	DET	DT	_	10	det	10:det	_
+10	guy	guy	NOUN	NN	Number=Sing	6	obl	6:obl:to|12:nsubj	_
+11	that	that	PRON	WDT	PronType=Rel	12	nsubj	10:ref	_
+12	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	acl:relcl	10:acl:relcl	_
+13	all	all	DET	PDT	_	15	det:predet	15:det:predet	_
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	15:det	_
+15	work	work	NOUN	NN	Number=Sing	12	obj	12:obj	SpaceAfter=No
+16	.	.	PUNCT	.	_	2	punct	2:punct	_
+

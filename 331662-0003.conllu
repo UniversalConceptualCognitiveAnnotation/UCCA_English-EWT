@@ -1,0 +1,24 @@
+# sent_id = 331662-0003
+1	Everyone	everyone	PRON	NN	Number=Sing	3	nsubj	3:nsubj|15:nsubj	_
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
+3	get	get	VERB	VB	VerbForm=Inf	0	root	0:root	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+5	signature	signature	NOUN	NN	Number=Sing	6	compound	6:compound	_
+6	dish	dish	NOUN	NN	Number=Sing	3	obj	3:obj	_
+7	with	with	ADP	IN	_	8	case	8:case	_
+8	ingredients	ingredient	NOUN	NNS	Number=Plur	6	nmod	6:nmod:with|13:obj	_
+9	and	and	CCONJ	CC	_	10	cc	10:cc	_
+10	spices	spice	NOUN	NNS	Number=Plur	8	conj	6:nmod:with|8:conj:and|13:obj	_
+11	that	that	PRON	WDT	PronType=Rel	13	obj	8:ref	_
+12	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	13:nsubj	_
+13	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:relcl	8:acl:relcl	_
+14	and	and	CCONJ	CC	_	15	cc	15:cc	_
+15	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	3:conj:and	_
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
+17	fun	fun	NOUN	NN	Number=Sing	15	obj	15:obj	_
+18	of	of	SCONJ	IN	_	19	mark	19:mark	_
+19	watching	watch	VERB	VBG	VerbForm=Ger	17	acl	17:acl:of	_
+20	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	obj	19:obj|21:nsubj:xsubj	_
+21	cook	cook	VERB	VB	VerbForm=Inf	19	xcomp	19:xcomp	SpaceAfter=No
+22	.	.	PUNCT	.	_	3	punct	3:punct	_
+

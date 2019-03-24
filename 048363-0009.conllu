@@ -1,0 +1,22 @@
+# sent_id = 048363-0009
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+2	heart	heart	NOUN	NN	Number=Sing	3	nsubj	3:nsubj|9:nsubj	_
+3	pounded	pound	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	as	as	SCONJ	IN	_	6	mark	6:mark	_
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
+6	walked	walk	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	advcl	3:advcl:as	_
+7	down	down	ADV	RB	_	6	advmod	6:advmod	_
+8	and	and	CCONJ	CC	_	9	cc	9:cc	_
+9	pounded	pound	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	3:conj:and	_
+10	even	even	ADV	RB	_	11	advmod	11:advmod	_
+11	faster	faster	ADV	RBR	Degree=Cmp	9	advmod	9:advmod	_
+12	upon	upon	SCONJ	IN	_	13	mark	13:mark	_
+13	seeing	see	VERB	VBG	VerbForm=Ger	9	advcl	9:advcl:upon	_
+14	Gerry	Gerry	PROPN	NNP	Number=Sing	13	obj	13:obj	_
+15	in	in	ADP	IN	_	17	case	17:case	_
+16	an	a	DET	DT	Definite=Ind|PronType=Art	17	det	17:det	_
+17	SUV	SUV	PROPN	NNP	Number=Sing	13	obl	13:obl:in	_
+18	-	-	PUNCT	,	_	17	punct	17:punct	_
+19	Lexus	Lexus	PROPN	NNP	Number=Sing	17	appos	17:appos	SpaceAfter=No
+20	!	!	PUNCT	.	_	3	punct	3:punct	_
+

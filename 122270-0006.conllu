@@ -1,0 +1,30 @@
+# sent_id = 122270-0006
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+2	dental	dental	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	surgeon	surgeon	NOUN	NN	Number=Sing	12	nsubj	12:nsubj|15:nsubj	SpaceAfter=No
+4	,	,	PUNCT	,	_	3	punct	3:punct	_
+5	Dr.	Dr.	PROPN	NNP	Number=Sing	3	appos	3:appos	_
+6	Lucy	Lucy	PROPN	NNP	Number=Sing	5	flat	5:flat	_
+7	Nichols	Nichols	PROPN	NNP	Number=Sing	5	flat	5:flat	_
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
+9	clearly	clearly	ADV	RB	_	12	advmod	12:advmod	_
+10	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	_
+11	dental	dental	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
+12	perfectionist	perfectionist	NOUN	NN	Number=Sing	0	root	0:root	_
+13	and	and	CCONJ	CC	_	15	cc	15:cc	_
+14	clearly	clearly	ADV	RB	_	15	advmod	15:advmod	_
+15	proud	proud	ADJ	JJ	Degree=Pos	12	conj	12:conj:and	_
+16	both	both	CCONJ	CC	_	19	cc:preconj	19:cc:preconj	_
+17	of	of	ADP	IN	_	19	case	19:case	_
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
+19	work	work	NOUN	NN	Number=Sing	15	obl	15:obl:of	_
+20	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	nsubj	21:nsubj	_
+21	does	do	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl:relcl	19:acl:relcl	_
+22	and	and	CCONJ	CC	_	24	cc	24:cc	_
+23	the	the	DET	DT	Definite=Def|PronType=Art	24	det	24:det	_
+24	reputation	reputation	NOUN	NN	Number=Sing	19	conj	19:conj:and	_
+25	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	27	nsubj	27:nsubj	_
+26	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	aux	27:aux	_
+27	established	establish	VERB	VBN	Tense=Past|VerbForm=Part	24	acl:relcl	24:acl:relcl	SpaceAfter=No
+28	.	.	PUNCT	.	_	12	punct	12:punct	_
+

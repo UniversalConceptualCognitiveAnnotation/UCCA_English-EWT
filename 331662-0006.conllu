@@ -1,0 +1,37 @@
+# sent_id = 331662-0006
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	5:nsubj|10:nsubj|15:nsubj|26:nsubj|28:nsubj:xsubj	_
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	5:aux	SpaceAfter=No
+3	n't	not	PART	RB	_	5	advmod	5:advmod	_
+4	just	just	ADV	RB	_	5	advmod	5:advmod	_
+5	dump	dump	VERB	VB	VerbForm=Inf	0	root	0:root	_
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
+7	ingredients	ingredient	NOUN	NNS	Number=Plur	5	obj	5:obj	_
+8	on	on	ADV	RB	_	5	advmod	5:advmod	_
+9	and	and	CCONJ	CC	_	10	cc	10:cc	_
+10	cook	cook	VERB	VB	VerbForm=Inf	5	conj	5:conj:and	_
+11	either	either	ADV	RB	_	10	advmod	10:advmod	SpaceAfter=No
+12	,	,	PUNCT	,	_	15	punct	15:punct	_
+13	but	but	CCONJ	CC	_	15	cc	15:cc	_
+14	carefully	carefully	ADV	RB	_	15	advmod	15:advmod	_
+15	separate	separate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	conj	5:conj:but	_
+16	meat	meat	NOUN	NN	Number=Sing	15	obj	15:obj	_
+17	to	to	ADP	IN	_	20	case	20:case	_
+18	the	the	DET	DT	Definite=Def|PronType=Art	20	det	20:det	_
+19	hotter	hotter	ADJ	JJR	Degree=Cmp	20	amod	20:amod	_
+20	parts	part	NOUN	NNS	Number=Plur	15	obl	15:obl:to	_
+21	of	of	ADP	IN	_	23	case	23:case	_
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	23:det	_
+23	grill	grill	NOUN	NN	Number=Sing	20	nmod	20:nmod:of	_
+24	and	and	CCONJ	CC	_	26	cc	26:cc	_
+25	still	still	ADV	RB	_	26	advmod	26:advmod	_
+26	manage	manage	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	conj	5:conj:but	_
+27	to	to	PART	TO	_	28	mark	28:mark	_
+28	keep	keep	VERB	VB	VerbForm=Inf	26	xcomp	26:xcomp	_
+29	the	the	DET	DT	Definite=Def|PronType=Art	30	det	30:det	_
+30	veggies	veggy	NOUN	NNS	Number=Plur	28	obj	28:obj	_
+31	from	from	SCONJ	IN	_	32	mark	32:mark	_
+32	turning	turn	VERB	VBG	VerbForm=Ger	28	advcl	28:advcl:from	_
+33	to	to	ADP	IN	_	34	case	34:case	_
+34	mush	mush	NOUN	NN	Number=Sing	32	obl	32:obl:to	SpaceAfter=No
+35	.	.	PUNCT	.	_	5	punct	5:punct	_
+

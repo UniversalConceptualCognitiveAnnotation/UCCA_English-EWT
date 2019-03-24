@@ -1,0 +1,20 @@
+# sent_id = 319816-0020
+1	Over	over	ADP	IN	_	2	advmod	2:advmod	_
+2	two	two	NUM	CD	NumType=Card	3	nummod	3:nummod	_
+3	hours	hour	NOUN	NNS	Number=Plur	4	obl:npmod	4:obl:npmod	_
+4	later	later	ADV	RB	_	17	advmod	17:advmod	_
+5	(	(	PUNCT	-LRB-	_	4	punct	4:punct	SpaceAfter=No
+6	and	and	CCONJ	CC	_	11	cc	11:cc	_
+7	ten	ten	NUM	CD	NumType=Card	8	nummod	8:nummod	_
+8	minutes	minute	NOUN	NNS	Number=Plur	9	obl:npmod	9:obl:npmod	_
+9	before	before	SCONJ	IN	_	11	mark	11:mark	_
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	11:nsubj	_
+11	closed	close	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	4:conj:and|17:advmod	SpaceAfter=No
+12	)	)	PUNCT	-RRB-	_	4	punct	4:punct	_
+13	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	14	nmod:poss	14:nmod:poss	_
+14	car	car	NOUN	NN	Number=Sing	17	nsubj:pass	17:nsubj:pass	_
+15	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	aux:pass	17:aux:pass	_
+16	finally	finally	ADV	RB	_	17	advmod	17:advmod	_
+17	finished	finish	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
+18	.	.	PUNCT	.	_	17	punct	17:punct	_
+

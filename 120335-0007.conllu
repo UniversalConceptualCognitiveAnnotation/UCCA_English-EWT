@@ -1,0 +1,30 @@
+# sent_id = 120335-0007
+1	On	on	ADP	IN	_	4	case	4:case	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
+3	other	other	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
+4	hand	hand	NOUN	NN	Number=Sing	11	obl	11:obl:on	SpaceAfter=No
+5	,	,	PUNCT	,	_	11	punct	11:punct	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+7	Richmond	Richmond	PROPN	NNP	Number=Sing	9	compound	9:compound	_
+8	Ukrops	Ukrops	PROPN	NNP	Number=Sing	9	compound	9:compound	_
+9	chain	chain	NOUN	NN	Number=Sing	11	nsubj:pass	11:nsubj:pass	_
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	11:aux:pass	_
+11	known	know	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+12	for	for	ADP	IN	_	15	case	15:case	_
+13	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	15:nmod:poss	_
+14	charity	charity	NOUN	NN	Number=Sing	15	compound	15:compound	_
+15	work	work	NOUN	NN	Number=Sing	11	obl	11:obl:for	SpaceAfter=No
+16	,	,	PUNCT	,	_	19	punct	19:punct	_
+17	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	19:nmod:poss	_
+18	community	community	NOUN	NN	Number=Sing	19	compound	19:compound	_
+19	action	action	NOUN	NN	Number=Sing	15	conj	11:obl:for|15:conj:and	SpaceAfter=No
+20	,	,	PUNCT	,	_	23	punct	23:punct	_
+21	and	and	CCONJ	CC	_	23	cc	23:cc	_
+22	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	23	nmod:poss	23:nmod:poss	_
+23	interest	interest	NOUN	NN	Number=Sing	15	conj	11:obl:for|15:conj:and	_
+24	in	in	ADP	IN	_	27	case	27:case	_
+25	the	the	DET	DT	Definite=Def|PronType=Art	27	det	27:det	_
+26	public	public	ADJ	JJ	Degree=Pos	27	amod	27:amod	_
+27	welfare	welfare	NOUN	NN	Number=Sing	23	nmod	23:nmod:in	SpaceAfter=No
+28	.	.	PUNCT	.	_	11	punct	11:punct	_
+

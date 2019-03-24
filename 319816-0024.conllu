@@ -1,0 +1,21 @@
+# sent_id = 319816-0024
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	next	next	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	day	day	NOUN	NN	Number=Sing	8	obl:tmod	8:obl:tmod	SpaceAfter=No
+4	,	,	PUNCT	,	_	8	punct	8:punct	_
+5	no	no	DET	DT	_	6	det	6:det	_
+6	one	one	NOUN	NN	Number=Sing	8	nsubj	8:nsubj	_
+7	could	could	AUX	MD	VerbForm=Fin	8	aux	8:aux	_
+8	find	find	VERB	VB	VerbForm=Inf	0	root	0:root	_
+9	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
+10	wheel	wheel	NOUN	NN	Number=Sing	11	compound	11:compound	_
+11	lock	lock	NOUN	NN	Number=Sing	8	obj	8:obj	_
+12	and	and	CCONJ	CC	_	18	cc	18:cc	_
+13	that	that	DET	DT	Number=Sing|PronType=Dem	15	det	15:det	_
+14	particular	particular	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
+15	technician	technician	NOUN	NN	Number=Sing	18	nsubj	18:nsubj	_
+16	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	cop	18:cop	_
+17	not	not	PART	RB	_	18	advmod	18:advmod	_
+18	in	in	ADV	RB	_	8	conj	8:conj:and	SpaceAfter=No
+19	.	.	PUNCT	.	_	8	punct	8:punct	_
+

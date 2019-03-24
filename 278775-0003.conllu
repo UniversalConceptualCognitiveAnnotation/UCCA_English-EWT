@@ -1,0 +1,12 @@
+# sent_id = 278775-0003
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
+4	decision	decision	NOUN	NN	Number=Sing	2	obj	2:obj	_
+5	for	for	ADP	IN	_	7	case	7:case	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
+7	couple	couple	NOUN	NN	Number=Sing	2	obl	2:obl:for	_
+8	of	of	ADP	IN	_	9	case	9:case	_
+9	reasons	reason	NOUN	NNS	Number=Plur	7	nmod	7:nmod:of	SpaceAfter=No
+10	.	.	PUNCT	.	_	2	punct	2:punct	_
+

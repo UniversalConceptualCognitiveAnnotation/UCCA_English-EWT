@@ -1,0 +1,33 @@
+# sent_id = 371300-0003
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	5:nsubj	_
+2	wo	will	AUX	MD	VerbForm=Fin	5	aux	5:aux	SpaceAfter=No
+3	n't	not	PART	RB	_	5	advmod	5:advmod	_
+4	even	even	ADV	RB	_	5	advmod	5:advmod	_
+5	have	have	VERB	VB	VerbForm=Inf	0	root	0:root	_
+6	time	time	NOUN	NN	Number=Sing	5	obj	5:obj	_
+7	to	to	PART	TO	_	8	mark	8:mark	_
+8	read	read	VERB	VB	VerbForm=Inf	6	acl	6:acl:to	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
+10	entire	entire	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	menu	menu	NOUN	NN	Number=Sing	8	obj	8:obj	_
+12	before	before	SCONJ	IN	_	14	mark	14:mark	_
+13	being	be	AUX	VBG	VerbForm=Ger	14	aux:pass	14:aux:pass	_
+14	asked	ask	VERB	VBN	Tense=Past|VerbForm=Part	8	advcl	8:advcl:before	_
+15	to	to	PART	TO	_	16	mark	16:mark	_
+16	order	order	VERB	VB	VerbForm=Inf	14	xcomp	14:xcomp	_
+17	and	and	CCONJ	CC	_	27	cc	27:cc	_
+18	if	if	SCONJ	IN	_	20	mark	20:mark	_
+19	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	20	nsubj	20:nsubj	_
+20	ask	ask	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	27	advcl	27:advcl:if	_
+21	for	for	ADP	IN	_	23	case	23:case	_
+22	more	more	ADJ	JJR	Degree=Cmp	23	amod	23:amod	_
+23	time	time	NOUN	NN	Number=Sing	20	obl	20:obl:for	_
+24	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	25	nmod:poss	25:nmod:poss	_
+25	server	server	NOUN	NN	Number=Sing	27	nsubj	27:nsubj	_
+26	will	will	AUX	MD	VerbForm=Fin	27	aux	27:aux	_
+27	wait	wait	VERB	VB	VerbForm=Inf	5	conj	5:conj:and	_
+28	at	at	ADP	IN	_	30	case	30:case	_
+29	the	the	DET	DT	Definite=Def|PronType=Art	30	det	30:det	_
+30	table	table	NOUN	NN	Number=Sing	27	obl	27:obl:at	SpaceAfter=No
+31	.	.	PUNCT	.	_	5	punct	5:punct	_
+

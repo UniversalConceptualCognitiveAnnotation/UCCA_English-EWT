@@ -1,0 +1,17 @@
+# sent_id = 150192-0003
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	sauce	sauce	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	4:cop	_
+4	dry	dry	ADJ	JJ	Degree=Pos	0	root	0:root	_
+5	and	and	CCONJ	CC	_	10	cc	10:cc	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	enchiladas	enchiladas	NOUN	NN	Number=Sing	10	nsubj	10:nsubj|11:nsubj:xsubj	_
+8	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	aux	10:aux	_
+9	not	not	PART	RB	_	10	advmod	10:advmod	_
+10	taste	taste	VERB	VB	VerbForm=Inf	4	conj	4:conj:and	_
+11	good	good	ADJ	JJ	Degree=Pos	10	xcomp	10:xcomp	SpaceAfter=No
+12	.	.	PUNCT	.	_	10	punct	10:punct	SpaceAfter=No
+13	at	at	ADV	RB	_	14	case	14:case	_
+14	all	all	ADV	RB	_	10	obl	10:obl:at	SpaceAfter=No
+15	.	.	PUNCT	.	_	4	punct	4:punct	_
+

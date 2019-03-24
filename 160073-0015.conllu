@@ -1,0 +1,16 @@
+# sent_id = 160073-0015
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	4:nsubj|6:nsubj:xsubj|8:nsubj:xsubj	_
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	SpaceAfter=No
+3	n't	not	PART	RB	_	4	advmod	4:advmod	_
+4	have	have	VERB	VB	VerbForm=Inf	0	root	0:root	_
+5	to	to	PART	TO	_	6	mark	6:mark	_
+6	sit	sit	VERB	VB	VerbForm=Inf	4	xcomp	4:xcomp	_
+7	and	and	CCONJ	CC	_	8	cc	8:cc	_
+8	wait	wait	VERB	VB	VerbForm=Inf	6	conj	4:xcomp|6:conj:and	_
+9	around	around	ADV	RB	_	8	advmod	8:advmod	_
+10	forever	forever	ADV	RB	_	8	advmod	8:advmod	_
+11	like	like	ADP	IN	_	13	case	13:case	_
+12	most	most	ADJ	JJS	Degree=Sup	13	amod	13:amod	_
+13	places	place	NOUN	NNS	Number=Plur	8	obl	8:obl:like	SpaceAfter=No
+14	!!	!!	PUNCT	.	_	4	punct	4:punct	_
+

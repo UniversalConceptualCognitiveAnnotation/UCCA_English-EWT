@@ -1,0 +1,17 @@
+# sent_id = 128636-0005
+1	Both	both	CCONJ	CC	_	3	cc:preconj	3:cc:preconj	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+3	engagement	engagement	NOUN	NN	Number=Sing	6	compound	6:compound	_
+4	and	and	CCONJ	CC	_	5	cc	5:cc	_
+5	wedding	wedding	NOUN	NN	Number=Sing	3	conj	3:conj:and|6:compound	_
+6	pictures	picture	NOUN	NNS	Number=Plur	12	nsubj	9:obj|12:nsubj|14:nsubj:xsubj	_
+7	that	that	PRON	WDT	PronType=Rel	9	obj	6:ref	_
+8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	9:nsubj	_
+9	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	acl:relcl	6:acl:relcl	_
+10	for	for	ADP	IN	_	11	case	11:case	_
+11	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	9	obl	9:obl:for	_
+12	we	we	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+13	absolutely	absolutely	ADV	RB	_	12	advmod	12:advmod	_
+14	amazing	amazing	ADJ	JJ	Degree=Pos	12	xcomp	12:xcomp	SpaceAfter=No
+15	.	.	PUNCT	.	_	14	punct	14:punct	_
+

@@ -1,0 +1,16 @@
+# sent_id = 006970-0002
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj|8:nsubj	_
+2	arrived	arrive	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	Sunday	Sunday	PROPN	NNP	Number=Sing	2	obl:tmod	2:obl:tmod	_
+4	at	at	ADP	IN	_	6	case	6:case	_
+5	about	about	ADV	RB	_	6	advmod	6:advmod	_
+6	230	230	NUM	CD	NumType=Card	2	obl	2:obl:at	_
+7	and	and	CCONJ	CC	_	8	cc	8:cc	_
+8	found	find	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	_
+10	do	do	NOUN	NN	Number=Sing	8	obj	8:obj	_
+11	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	13:nsubj	_
+12	really	really	ADV	RB	_	13	advmod	13:advmod	_
+13	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	acl:relcl	10:acl:relcl	SpaceAfter=No
+14	.	.	PUNCT	.	_	2	punct	2:punct	_
+

@@ -1,0 +1,11 @@
+# sent_id = 229480-0003
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	wish	wish	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	that	that	SCONJ	IN	_	7	mark	7:mark	_
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	_
+5	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	aux	7:aux	SpaceAfter=No
+6	n't	not	PART	RB	_	7	advmod	7:advmod	_
+7	done	do	VERB	VBN	Tense=Past|VerbForm=Part	2	ccomp	2:ccomp	_
+8	this	this	PRON	DT	Number=Sing|PronType=Dem	7	obj	7:obj	SpaceAfter=No
+9	.	.	PUNCT	.	_	2	punct	2:punct	_
+

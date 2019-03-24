@@ -1,0 +1,30 @@
+# sent_id = 121987-0005
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	only	only	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	problem	problem	NOUN	NN	Number=Sing	13	nsubj	6:obj|13:nsubj	_
+4	that	that	PRON	WDT	PronType=Rel	6	obj	3:ref	_
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
+6	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	acl:relcl	3:acl:relcl	_
+7	in	in	ADP	IN	_	9	case	9:case	_
+8	2	2	NUM	CD	NumType=Card	9	nummod	9:nummod	_
+9	years	year	NOUN	NNS	Number=Plur	6	obl	6:obl:in	_
+10	of	of	SCONJ	IN	_	11	mark	11:mark	_
+11	living	live	VERB	VBG	VerbForm=Ger	9	acl	9:acl:of	_
+12	there	there	ADV	RB	PronType=Dem	11	advmod	11:advmod	_
+13	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+14	that	that	SCONJ	IN	_	19	mark	19:mark	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
+16	walls	wall	NOUN	NNS	Number=Plur	19	nsubj	19:nsubj	_
+17	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	cop	19:cop	_
+18	pretty	pretty	ADV	RB	_	19	advmod	19:advmod	_
+19	thin	thin	ADJ	JJ	Degree=Pos	13	ccomp	13:ccomp	SpaceAfter=No
+20	,	,	PUNCT	,	_	13	punct	13:punct	_
+21	sometimes	sometimes	ADV	RB	_	24	advmod	24:advmod	_
+22	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	24	nsubj	24:nsubj	_
+23	could	could	AUX	MD	VerbForm=Fin	24	aux	24:aux	_
+24	here	here	VERB	VB	VerbForm=Inf	13	parataxis	13:parataxis	_
+25	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	26	nmod:poss	26:nmod:poss	_
+26	neighbors	neighbor	NOUN	NNS	Number=Plur	27	compound	27:compound	_
+27	conversations	conversation	NOUN	NNS	Number=Plur	24	obj	24:obj	SpaceAfter=No
+28	.	.	PUNCT	.	_	13	punct	13:punct	_
+

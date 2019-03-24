@@ -1,0 +1,36 @@
+# sent_id = 022533-0003
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|4:nsubj	_
+2	called	call	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	and	and	CCONJ	CC	_	4	cc	4:cc	_
+4	asked	ask	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
+5	about	about	ADP	IN	_	7	case	7:case	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	price	price	NOUN	NN	Number=Sing	4	obl	4:obl:about	_
+8	for	for	ADP	IN	_	10	case	10:case	_
+9	hair	hair	NOUN	NN	Number=Sing	10	compound	10:compound	_
+10	updo	updo	NOUN	NN	Number=Sing	7	nmod	7:nmod:for	_
+11	and	and	CCONJ	CC	_	20	cc	20:cc	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
+13	receptionist	receptionist	NOUN	NN	Number=Sing	20	nsubj	17:nsubj|20:nsubj|22:nsubj:xsubj|28:nsubj:xsubj	_
+14	or	or	CCONJ	CC	_	15	cc	15:cc	_
+15	owner	owner	NOUN	NN	Number=Sing	13	conj	13:conj:or|17:nsubj|20:nsubj|22:nsubj:xsubj|28:nsubj:xsubj	_
+16	who	who	PRON	WP	PronType=Rel	17	nsubj	13:ref	_
+17	aswered	aswer	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13	acl:relcl	13:acl:relcl	_
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
+19	phone	phone	NOUN	NN	Number=Sing	17	obj	17:obj	_
+20	refused	refuse	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
+21	to	to	PART	TO	_	22	mark	22:mark	_
+22	tell	tell	VERB	VB	VerbForm=Inf	20	xcomp	20:xcomp	_
+23	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	22	obj	22:obj	SpaceAfter=No
+24	,	,	PUNCT	,	_	28	punct	28:punct	_
+25	or	or	CCONJ	CC	_	28	cc	28:cc	_
+26	even	even	ADV	RB	_	28	advmod	28:advmod	_
+27	just	just	ADV	RB	_	28	advmod	28:advmod	_
+28	give	give	VERB	VB	VerbForm=Inf	22	conj	20:xcomp|22:conj:or	_
+29	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	28	iobj	28:iobj	_
+30	an	a	DET	DT	Definite=Ind|PronType=Art	33	det	33:det	_
+31	approximate	approximate	ADJ	JJ	Degree=Pos	33	amod	33:amod	_
+32	price	price	NOUN	NN	Number=Sing	33	compound	33:compound	_
+33	range	range	NOUN	NN	Number=Sing	28	obj	28:obj	SpaceAfter=No
+34	.	.	PUNCT	.	_	2	punct	2:punct	_
+

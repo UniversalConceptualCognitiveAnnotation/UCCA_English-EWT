@@ -1,0 +1,26 @@
+# sent_id = 117115-0010
+1	Lo	lo	INTJ	UH	_	6	discourse	6:discourse	_
+2	and	and	CCONJ	CC	_	3	cc	3:cc	_
+3	behold	behold	INTJ	UH	_	1	conj	1:conj:and	SpaceAfter=No
+4	,	,	PUNCT	,	_	6	punct	6:punct	_
+5	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	6:nsubj|20:nsubj	_
+6	replaced	replace	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+8	screen	screen	NOUN	NN	Number=Sing	6	obj	6:obj|11:nsubj|14:nsubj:xsubj	_
+9	(	(	PUNCT	-LRB-	_	11	punct	11:punct	SpaceAfter=No
+10	which	which	PRON	WDT	PronType=Rel	11	nsubj	8:ref	_
+11	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	acl:relcl	8:acl:relcl	_
+12	to	to	PART	TO	_	14	mark	14:mark	_
+13	be	be	AUX	VB	VerbForm=Inf	14	aux:pass	14:aux:pass	_
+14	ordered	order	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	xcomp	11:xcomp	SpaceAfter=No
+15	)	)	PUNCT	-RRB-	_	11	punct	11:punct	_
+16	yesterday	yesterday	NOUN	NN	Number=Sing	6	obl:tmod	6:obl:tmod	_
+17	and	and	CCONJ	CC	_	20	cc	20:cc	_
+18	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	20	aux	20:aux	SpaceAfter=No
+19	n't	not	PART	RB	_	20	advmod	20:advmod	_
+20	charge	charge	VERB	VB	VerbForm=Inf	6	conj	6:conj:and	_
+21	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	20	iobj	20:iobj	_
+22	a	a	DET	DT	Definite=Ind|PronType=Art	23	det	23:det	_
+23	dime	dime	NOUN	NN	Number=Sing	20	obj	20:obj	SpaceAfter=No
+24	.	.	PUNCT	.	_	6	punct	6:punct	_
+

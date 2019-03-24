@@ -1,0 +1,21 @@
+# sent_id = 121987-0003
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	really	really	ADV	RB	_	3	advmod	3:advmod	_
+3	enjoyed	enjoy	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	staff	staff	NOUN	NN	Number=Sing	3	obj	3:obj	_
+6	at	at	ADP	IN	_	7	case	7:case	_
+7	Wessex	Wessex	PROPN	NNP	Number=Sing	5	nmod	5:nmod:at	SpaceAfter=No
+8	,	,	PUNCT	,	_	3	punct	3:punct	_
+9	also	also	ADV	RB	_	16	advmod	16:advmod	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
+11	manager	manager	NOUN	NN	Number=Sing	16	nsubj	16:nsubj|18:nsubj	_
+12	Sherri	Sherri	PROPN	NNP	Number=Sing	11	appos	11:appos	_
+13	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	cop	16:cop	_
+14	always	always	ADV	RB	_	16	advmod	16:advmod	_
+15	very	very	ADV	RB	_	16	advmod	16:advmod	_
+16	nice	nice	ADJ	JJ	Degree=Pos	3	parataxis	3:parataxis	_
+17	and	and	CCONJ	CC	_	18	cc	18:cc	_
+18	helpful	helpful	ADJ	JJ	Degree=Pos	16	conj	16:conj:and	SpaceAfter=No
+19	.	.	PUNCT	.	_	3	punct	3:punct	_
+

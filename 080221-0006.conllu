@@ -1,0 +1,10 @@
+# sent_id = 080221-0006
+1	Overall	overall	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
+2	Hino	Hino	PROPN	NNP	Number=Sing	4	compound	4:compound	_
+3	finance	finance	NOUN	NN	Number=Sing	4	compound	4:compound	_
+4	dealer	dealer	NOUN	NN	Number=Sing	0	root	0:root	_
+5	of	of	ADP	IN	_	7	case	7:case	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	year	year	NOUN	NN	Number=Sing	4	nmod	4:nmod:of	SpaceAfter=No
+8	.	.	PUNCT	.	_	4	punct	4:punct	_
+

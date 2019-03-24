@@ -1,0 +1,21 @@
+# sent_id = 235211-0003
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj|5:nsubj:xsubj	_
+2	led	lead	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	iobj	2:iobj	_
+4	to	to	PART	TO	_	5	mark	5:mark	_
+5	believe	believe	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	_
+6	that	that	SCONJ	IN	_	10	mark	10:mark	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+8	reviewers	reviewer	NOUN	NNS	Number=Plur	10	nsubj	10:nsubj	_
+9	simply	simply	ADV	RB	_	10	advmod	10:advmod	_
+10	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	ccomp	5:ccomp	_
+11	difficulty	difficulty	NOUN	NN	Number=Sing	10	obj	10:obj	_
+12	tolerating	tolerate	VERB	VBG	VerbForm=Ger	11	acl	11:acl	_
+13	people	people	NOUN	NNS	Number=Plur	12	obj	12:obj	_
+14	with	with	ADP	IN	_	18	case	18:case	_
+15	strongly	strongly	ADV	RB	_	17	advmod	17:advmod	SpaceAfter=No
+16	-	-	PUNCT	HYPH	_	17	punct	17:punct	SpaceAfter=No
+17	accented	accented	ADJ	JJ	Degree=Pos	18	amod	18:amod	_
+18	English	English	PROPN	NNP	Number=Sing	13	nmod	13:nmod:with	SpaceAfter=No
+19	.	.	PUNCT	.	_	2	punct	2:punct	_
+

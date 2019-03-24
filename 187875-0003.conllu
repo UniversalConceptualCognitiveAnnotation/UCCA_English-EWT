@@ -1,0 +1,18 @@
+# sent_id = 187875-0003
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
+2	charge	charge	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	SO	so	ADV	RB	_	4	advmod	4:advmod	_
+4	MUCH	much	ADJ	JJ	Degree=Pos	2	obj	2:obj	SpaceAfter=No
+5	,	,	PUNCT	,	_	8	punct	8:punct	_
+6	yet	yet	CCONJ	CC	_	8	cc	8:cc	_
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	8:nsubj	_
+8	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	2:conj:yet	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
+10	same	same	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	grounds	grounds	NOUN	NNS	Number=Plur	8	obj	8:obj	_
+12	over	over	ADV	RB	_	8	advmod	8:advmod	_
+13	and	and	CCONJ	CC	_	15	cc	15:cc	_
+14	over	over	ADV	RB	_	15	advmod	15:advmod	_
+15	again	again	ADV	RB	_	12	conj	8:advmod|12:conj:and	SpaceAfter=No
+16	.	.	PUNCT	.	_	2	punct	2:punct	_
+

@@ -1,0 +1,16 @@
+# sent_id = 363685-0008
+1	However	however	ADV	RB	_	6	advmod	6:advmod	_
+2	upon	upon	ADP	IN	_	4	case	4:case	_
+3	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+4	arrival	arrival	NOUN	NN	Number=Sing	6	nmod	6:nmod:upon	_
+5	no	no	DET	DT	_	6	det	6:det	_
+6	one	one	NOUN	NN	Number=Sing	0	root	0:root	_
+7	there	there	ADV	RB	PronType=Dem	6	advmod	6:advmod	_
+8	(	(	PUNCT	-LRB-	_	12	punct	12:punct	SpaceAfter=No
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+10	inn	inn	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	_
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	12:cop	_
+12	open	open	ADJ	JJ	Degree=Pos	6	parataxis	6:parataxis	SpaceAfter=No
+13	)	)	PUNCT	-RRB-	_	12	punct	12:punct	SpaceAfter=No
+14	.	.	PUNCT	.	_	6	punct	6:punct	_
+

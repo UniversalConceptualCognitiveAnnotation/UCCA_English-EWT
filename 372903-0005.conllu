@@ -1,0 +1,31 @@
+# sent_id = 372903-0005
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+4	7	7	NUM	CD	NumType=Card	5	nummod	5:nummod	_
+5	month	month	NOUN	NN	Number=Sing	2	obj	2:obj	_
+6	old	old	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+7	and	and	CCONJ	CC	_	9	cc	9:cc	_
+8	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	9:nsubj|11:nsubj|23:nsubj	_
+9	laughed	laugh	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
+10	and	and	CCONJ	CC	_	11	cc	11:cc	_
+11	giggled	giggle	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	conj	9:conj:and	_
+12	when	when	ADV	WRB	PronType=Int	20	mark	20:mark	_
+13	(	(	PUNCT	-LRB-	_	18	punct	18:punct	SpaceAfter=No
+14	very	very	ADV	RB	_	15	advmod	15:advmod	_
+15	harshly	harshly	ADV	RB	_	20	advmod	20:advmod	_
+16	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	18:nsubj	_
+17	might	might	AUX	MD	VerbForm=Fin	18	aux	18:aux	_
+18	add	add	VERB	VB	VerbForm=Inf	20	parataxis	20:parataxis	SpaceAfter=No
+19	)	)	PUNCT	-RRB-	_	18	punct	18:punct	_
+20	grabbing	grab	VERB	VBG	VerbForm=Ger	9	advcl	9:advcl:when	_
+21	and	and	CCONJ	CC	_	23	cc	23:cc	_
+22	'	'	PUNCT	``	_	23	punct	23:punct	SpaceAfter=No
+23	kissed	kiss	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	conj	9:conj:and	SpaceAfter=No
+24	'	'	PUNCT	''	_	23	punct	23:punct	_
+25	the	the	DET	DT	Definite=Def|PronType=Art	26	det	26:det	_
+26	goats	goat	NOUN	NNS	Number=Plur	23	obj	23:obj	_
+27	and	and	CCONJ	CC	_	28	cc	28:cc	_
+28	lambs	lamb	NOUN	NNS	Number=Plur	26	conj	23:obj|26:conj:and	SpaceAfter=No
+29	.	.	PUNCT	.	_	2	punct	2:punct	_
+

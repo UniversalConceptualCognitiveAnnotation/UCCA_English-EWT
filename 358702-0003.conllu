@@ -1,0 +1,14 @@
+# sent_id = 358702-0003
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
+4	bit	bit	NOUN	NN	Number=Sing	2	obj	2:obj	_
+5	of	of	ADP	IN	_	6	case	6:case	_
+6	experience	experience	NOUN	NN	Number=Sing	4	nmod	4:nmod:of	_
+7	watching	watch	VERB	VBG	VerbForm=Ger	6	acl	6:acl	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
+9	usual	usual	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+10	assembly	assembly	NOUN	NN	Number=Sing	11	compound	11:compound	_
+11	line	line	NOUN	NN	Number=Sing	7	obj	7:obj	SpaceAfter=No
+12	.	.	PUNCT	.	_	2	punct	2:punct	_
+

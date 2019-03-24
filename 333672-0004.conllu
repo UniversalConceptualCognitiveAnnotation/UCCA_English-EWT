@@ -1,0 +1,17 @@
+# sent_id = 333672-0004
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	4:nsubj|6:nsubj	_
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	cop	4:cop	_
+3	very	very	ADV	RB	_	4	advmod	4:advmod	_
+4	patient	patient	ADJ	JJ	Degree=Pos	0	root	0:root	_
+5	and	and	CCONJ	CC	_	6	cc	6:cc	_
+6	helpful	helpful	ADJ	JJ	Degree=Pos	4	conj	4:conj:and	_
+7	from	from	SCONJ	IN	_	8	mark	8:mark	_
+8	showing	show	VERB	VBG	VerbForm=Ger	4	advcl	4:advcl:from	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+10	cars	car	NOUN	NNS	Number=Plur	8	obj	8:obj	_
+11	to	to	SCONJ	IN	_	12	mark	12:mark	_
+12	doing	do	VERB	VBG	VerbForm=Ger	4	advcl	4:advcl:to	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
+14	paperwork	paperwork	NOUN	NN	Number=Sing	12	obj	12:obj	SpaceAfter=No
+15	.	.	PUNCT	.	_	4	punct	4:punct	_
+

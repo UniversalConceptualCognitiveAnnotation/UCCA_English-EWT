@@ -1,0 +1,18 @@
+# sent_id = 229480-0007
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj|11:nsubj	_
+2	really	really	ADV	RB	_	3	advmod	3:advmod	_
+3	knows	know	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	what	what	PRON	WP	PronType=Int	7	obl	7:obl:about	_
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	7:nsubj	_
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
+7	talking	talk	VERB	VBG	Tense=Pres|VerbForm=Part	3	ccomp	3:ccomp	_
+8	about	about	ADP	IN	_	4	case	4:case	_
+9	and	and	CCONJ	CC	_	11	cc	11:cc	_
+10	will	will	AUX	MD	VerbForm=Fin	11	aux	11:aux	_
+11	approach	approach	VERB	VB	VerbForm=Inf	3	conj	3:conj:and	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
+13	different	different	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
+14	options	option	NOUN	NNS	Number=Plur	11	obj	11:obj	_
+15	fairly	fairly	ADV	RB	_	11	advmod	11:advmod	SpaceAfter=No
+16	.	.	PUNCT	.	_	3	punct	3:punct	_
+

@@ -1,0 +1,26 @@
+# sent_id = 231203-0010
+1	Nice	nice	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+2	local	local	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	pub	pub	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
+4	,	,	PUNCT	,	_	6	punct	6:punct	_
+5	excellent	excellent	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	food	food	NOUN	NN	Number=Sing	3	conj	3:conj:and	_
+7	(	(	PUNCT	-LRB-	_	9	punct	9:punct	SpaceAfter=No
+8	especially	especially	ADV	RB	_	9	advmod	9:advmod	_
+9	wings	wing	NOUN	NNS	Number=Plur	6	appos	6:appos	SpaceAfter=No
+10	)	)	PUNCT	-RRB-	_	9	punct	9:punct	SpaceAfter=No
+11	,	,	PUNCT	,	_	15	punct	15:punct	_
+12	and	and	CCONJ	CC	_	15	cc	15:cc	_
+13	do	do	AUX	VB	Mood=Imp|VerbForm=Fin	15	aux	15:aux	SpaceAfter=No
+14	n't	not	PART	RB	_	15	advmod	15:advmod	_
+15	go	go	VERB	VB	Mood=Imp|VerbForm=Fin	3	conj	3:conj:and	_
+16	if	if	SCONJ	IN	_	18	mark	18:mark	_
+17	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	18	nsubj	18:nsubj	_
+18	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	advcl	15:advcl:if	_
+19	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	21:det	_
+20	limited	limited	ADJ	JJ	Degree=Pos	21	amod	21:amod	_
+21	amount	amount	NOUN	NN	Number=Sing	18	obj	18:obj	_
+22	of	of	ADP	IN	_	23	case	23:case	_
+23	time	time	NOUN	NN	Number=Sing	21	nmod	21:nmod:of	SpaceAfter=No
+24	.	.	PUNCT	.	_	3	punct	3:punct	_
+

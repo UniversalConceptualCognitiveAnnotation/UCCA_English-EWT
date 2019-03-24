@@ -1,0 +1,16 @@
+# sent_id = 053248-0008
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj:pass	3:nsubj:pass	_
+2	being	be	AUX	VBG	VerbForm=Ger	3	aux:pass	3:aux:pass	_
+3	said	say	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	advcl	13:advcl	SpaceAfter=No
+4	,	,	PUNCT	,	_	13	punct	13:punct	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+6	laffa	laffa	NOUN	NN	Number=Sing	13	nsubj	13:nsubj	_
+7	and	and	CCONJ	CC	_	8	cc	8:cc	_
+8	hummus	hummus	NOUN	NN	Number=Sing	6	conj	6:conj:and|13:nsubj	_
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	13:cop	_
+10	out	out	ADP	IN	_	13	case	13:case	_
+11	of	of	ADP	IN	_	13	case	13:case	_
+12	this	this	DET	DT	Number=Sing|PronType=Dem	13	det	13:det	_
+13	world	world	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
+14	.	.	PUNCT	.	_	13	punct	13:punct	_
+

@@ -1,0 +1,13 @@
+# sent_id = 363685-0015
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	count	count	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
+4	cans	can	NOUN	NNS	Number=Plur	2	obj	2:obj	_
+5	in	in	ADP	IN	_	7	case	7:case	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	trash	trash	NOUN	NN	Number=Sing	4	nmod	4:nmod:in	_
+8	to	to	PART	TO	_	9	mark	9:mark	_
+9	make	make	VERB	VB	VerbForm=Inf	2	advcl	2:advcl:to	_
+10	sure	sure	ADJ	JJ	Degree=Pos	9	xcomp	9:xcomp	SpaceAfter=No
+11	.	.	PUNCT	.	_	2	punct	2:punct	_
+

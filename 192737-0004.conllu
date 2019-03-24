@@ -1,0 +1,17 @@
+# sent_id = 192737-0004
+1	Once	once	SCONJ	IN	_	4	mark	4:mark	_
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	4:nsubj	_
+3	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
+4	met	meet	VERB	VBN	Tense=Past|VerbForm=Part	9	advcl	9:advcl:once	_
+5	Nigel	Nigel	PROPN	NNP	Number=Sing	4	obj	4:obj	_
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	9:nsubj|11:nsubj:xsubj	_
+7	will	will	AUX	MD	VerbForm=Fin	9	aux	9:aux	_
+8	not	not	PART	RB	_	9	advmod	9:advmod	_
+9	want	want	VERB	VB	VerbForm=Inf	0	root	0:root	_
+10	to	to	PART	TO	_	11	mark	11:mark	_
+11	work	work	VERB	VB	VerbForm=Inf	9	xcomp	9:xcomp	_
+12	with	with	ADP	IN	_	13	case	13:case	_
+13	anyone	anyone	PRON	NN	Number=Sing	11	obl	11:obl:with	_
+14	else	else	ADJ	JJ	Degree=Pos	13	amod	13:amod	SpaceAfter=No
+15	.	.	PUNCT	.	_	9	punct	9:punct	_
+

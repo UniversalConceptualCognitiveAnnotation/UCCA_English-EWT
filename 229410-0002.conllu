@@ -1,0 +1,22 @@
+# sent_id = 229410-0002
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
+3	worked	work	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+4	with	with	ADP	IN	_	5	case	5:case	_
+5	Ted	Ted	PROPN	NNP	Number=Sing	3	obl	3:obl:with	_
+6	Jurek	Jurek	PROPN	NNP	Number=Sing	5	flat	5:flat	_
+7	at	at	ADP	IN	_	8	case	8:case	_
+8	Decor	Decor	PROPN	NNP	Number=Sing	3	obl	3:obl:at	_
+9	and	and	CCONJ	CC	_	10	cc	10:cc	_
+10	You	You	PROPN	NNP	Number=Sing	8	conj	3:obl:at|8:conj:and	SpaceAfter=No
+11	,	,	PUNCT	,	_	14	punct	14:punct	_
+12	and	and	CCONJ	CC	_	14	cc	14:cc	_
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	14:nsubj	_
+14	started	start	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	3:conj:and	_
+15	out	out	ADP	RP	_	14	compound:prt	14:compound:prt	_
+16	as	as	ADP	IN	_	19	case	19:case	_
+17	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	19:det	_
+18	decent	decent	ADJ	JJ	Degree=Pos	19	amod	19:amod	_
+19	experience	experience	NOUN	NN	Number=Sing	14	obl	14:obl:as	SpaceAfter=No
+20	.	.	PUNCT	.	_	3	punct	3:punct	_
+

@@ -1,0 +1,18 @@
+# sent_id = 225632-0004
+1	Now	now	ADV	RB	_	7	advmod	7:advmod	SpaceAfter=No
+2	,	,	PUNCT	,	_	7	punct	7:punct	_
+3	of	of	ADV	RB	_	7	advmod	7:advmod	_
+4	course	course	ADV	RB	_	3	fixed	3:fixed	SpaceAfter=No
+5	,	,	PUNCT	,	_	7	punct	7:punct	_
+6	there	there	PRON	EX	_	7	expl	7:expl	SpaceAfter=No
+7	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	_
+9	new	new	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
+10	building	building	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	SpaceAfter=No
+11	,	,	PUNCT	,	_	10	punct	10:punct	_
+12	with	with	ADP	IN	_	15	case	15:case	_
+13	presumably	presumably	ADV	RB	_	14	advmod	14:advmod	_
+14	better	better	ADJ	JJR	Degree=Cmp	15	amod	15:amod	_
+15	facilities	facility	NOUN	NNS	Number=Plur	10	nmod	10:nmod:with	SpaceAfter=No
+16	.	.	PUNCT	.	_	7	punct	7:punct	_
+

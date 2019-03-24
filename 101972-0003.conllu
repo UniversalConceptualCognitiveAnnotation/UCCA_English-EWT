@@ -1,0 +1,11 @@
+# sent_id = 101972-0003
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	signed	sign	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+4	name	name	NOUN	NN	Number=Sing	2	obj	2:obj	_
+5	in	in	ADP	RP	_	2	compound:prt	2:compound:prt	_
+6	about	about	ADV	RB	_	8	advmod	8:advmod	_
+7	6:00	6:00	NUM	CD	NumType=Card	8	nummod	8:nummod	SpaceAfter=No
+8	pm	pm	NOUN	NN	Number=Sing	2	obl:tmod	2:obl:tmod	SpaceAfter=No
+9	.	.	PUNCT	.	_	2	punct	2:punct	_
+

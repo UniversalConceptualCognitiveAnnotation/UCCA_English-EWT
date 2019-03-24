@@ -1,0 +1,23 @@
+# sent_id = 315763-0005
+1	Although	although	SCONJ	IN	_	5	mark	5:mark	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+3	apartments	apartment	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj|9:nsubj	_
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
+5	facing	face	VERB	VBG	Tense=Pres|VerbForm=Part	20	advcl	20:advcl:although	_
+6	Stokes	Stokes	PROPN	NNP	Number=Sing	7	compound	7:compound	_
+7	Street	Street	PROPN	NNP	Number=Sing	5	obj	5:obj	_
+8	and	and	CCONJ	CC	_	9	cc	9:cc	_
+9	close	close	ADJ	JJ	Degree=Pos	5	conj	5:conj:and|20:advcl:although	_
+10	to	to	ADP	IN	_	14	case	14:case	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
+12	Bascom	Bascom	PROPN	NNP	Number=Sing	14	compound	14:compound	_
+13	Light	Light	PROPN	NNP	Number=Sing	14	compound	14:compound	_
+14	Rail	Rail	PROPN	NNP	Number=Sing	9	obl	9:obl:to	SpaceAfter=No
+15	,	,	PUNCT	,	_	20	punct	20:punct	_
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
+17	location	location	NOUN	NN	Number=Sing	20	nsubj	20:nsubj	_
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	20:cop	_
+19	surprisingly	surprisingly	ADV	RB	_	20	advmod	20:advmod	_
+20	quiet	quiet	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
+21	.	.	PUNCT	.	_	20	punct	20:punct	_
+

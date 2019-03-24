@@ -1,0 +1,20 @@
+# sent_id = 340848-0007
+1	And	and	CCONJ	CC	_	17	cc	17:cc	_
+2	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	4:det	_
+3	litttle	litttle	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
+4	gem	gem	NOUN	NN	Number=Sing	17	nsubj	17:nsubj	_
+5	of	of	ADP	IN	_	10	case	10:case	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	_
+7	7	7	NUM	CD	NumType=Card	9	nummod	9:nummod	SpaceAfter=No
+8	-	-	PUNCT	HYPH	_	9	punct	9:punct	SpaceAfter=No
+9	table	table	NOUN	NN	Number=Sing	10	compound	10:compound	_
+10	restaurant	restaurant	NOUN	NN	Number=Sing	4	nmod	4:nmod:of	_
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	17:cop	_
+12	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	17:det	_
+13	complete	complete	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
+14	and	and	CCONJ	CC	_	16	cc	16:cc	_
+15	utterly	utterly	ADV	RB	_	16	advmod	16:advmod	_
+16	wonderful	wonderful	ADJ	JJ	Degree=Pos	13	conj	13:conj:and|17:amod	_
+17	surprise	surprise	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
+18	.	.	PUNCT	.	_	17	punct	17:punct	_
+

@@ -1,0 +1,23 @@
+# sent_id = 191666-0005
+1	(	(	PUNCT	-LRB-	_	4	punct	4:punct	SpaceAfter=No
+2	to	to	ADP	IN	_	4	case	4:case	_
+3	both	both	CCONJ	CC	_	4	cc:preconj	4:cc:preconj	_
+4	myself	myself	PRON	PRP	Number=Sing|Person=1|PronType=Prs	0	root	0:root	_
+5	and	and	CCONJ	CC	_	6	cc	6:cc	_
+6	customers	customer	NOUN	NNS	Number=Plur	4	conj	4:conj:and	SpaceAfter=No
+7	)	)	PUNCT	-RRB-	_	4	punct	4:punct	_
+8	3	3	X	LS	_	13	nummod	13:nummod	SpaceAfter=No
+9	)	)	PUNCT	-RRB-	_	8	punct	8:punct	_
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	13:nsubj	_
+11	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	13:aux	_
+12	never	never	ADV	RB	_	13	advmod	13:advmod	_
+13	experienced	experience	VERB	VBN	Tense=Past|VerbForm=Part	4	parataxis	4:parataxis	_
+14	so	so	ADV	RB	_	15	advmod	15:advmod	_
+15	much	much	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
+16	rudeness	rudeness	NOUN	NN	Number=Sing	13	obj	13:obj	_
+17	coming	come	VERB	VBG	VerbForm=Ger	16	acl	16:acl	_
+18	from	from	ADP	IN	_	20	case	20:case	_
+19	a	a	DET	DT	Definite=Ind|PronType=Art	20	det	20:det	_
+20	business	business	NOUN	NN	Number=Sing	17	obl	17:obl:from	SpaceAfter=No
+21	.	.	PUNCT	.	_	13	punct	13:punct	_
+

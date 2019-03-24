@@ -1,0 +1,22 @@
+# sent_id = 327766-0004
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	loved	love	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+4	stay	stay	NOUN	NN	Number=Sing	2	obj	2:obj	_
+5	here	here	ADV	RB	PronType=Dem	4	advmod	4:advmod	_
+6	and	and	CCONJ	CC	_	17	cc	17:cc	_
+7	if	if	SCONJ	IN	_	8	mark	8:mark	_
+8	ever	ever	ADV	RB	_	9	advmod	9:advmod	_
+9	back	back	ADV	RB	_	17	advcl	17:advcl	_
+10	in	in	ADP	IN	_	12	case	12:case	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
+12	area	area	NOUN	NN	Number=Sing	8	obl	8:obl:in	SpaceAfter=No
+13	,	,	PUNCT	,	_	17	punct	17:punct	_
+14	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	17:nsubj	_
+15	will	will	AUX	MD	VerbForm=Fin	17	aux	17:aux	_
+16	be	be	AUX	VB	VerbForm=Inf	17	aux	17:aux	_
+17	staying	stay	VERB	VBG	Tense=Pres|VerbForm=Part	2	conj	2:conj:and	_
+18	here	here	ADV	RB	PronType=Dem	17	advmod	17:advmod	_
+19	again	again	ADV	RB	_	17	advmod	17:advmod	SpaceAfter=No
+20	.	.	PUNCT	.	_	2	punct	2:punct	_
+

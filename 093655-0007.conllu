@@ -1,0 +1,32 @@
+# sent_id = 093655-0007
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	4:cop	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
+4	waitress	waitress	NOUN	NN	Number=Sing	0	root	0:root	_
+5	for	for	ADP	IN	_	6	case	6:case	_
+6	years	year	NOUN	NNS	Number=Plur	4	obl	4:obl:for	_
+7	and	and	CCONJ	CC	_	11	cc	11:cc	_
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	_
+9	key	key	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
+10	rule	rule	NOUN	NN	Number=Sing	11	nsubj	11:nsubj	_
+11	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	4:conj:and	_
+12	to	to	PART	TO	_	13	mark	13:mark	_
+13	serve	serve	VERB	VB	VerbForm=Inf	11	ccomp	11:ccomp	_
+14	customers	customer	NOUN	NNS	Number=Plur	13	obj	13:obj	_
+15	with	with	ADP	IN	_	17	case	17:case	_
+16	small	small	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
+17	children	child	NOUN	NNS	Number=Plur	14	nmod	14:nmod:with	_
+18	before	before	ADP	IN	_	19	case	19:case	_
+19	others	other	NOUN	NNS	Number=Plur	13	obl	13:obl:before	SpaceAfter=No
+20	,	,	PUNCT	,	_	13	punct	13:punct	_
+21	as	as	SCONJ	IN	_	25	mark	25:mark	_
+22	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	25	nsubj	25:nsubj	_
+23	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	cop	25:cop	_
+24	the	the	DET	DT	Definite=Def|PronType=Art	25	det	25:det	_
+25	last	last	ADJ	JJ	Degree=Pos	13	advcl	13:advcl:as	_
+26	to	to	PART	TO	_	27	mark	27:mark	_
+27	get	get	VERB	VB	VerbForm=Inf	25	acl	25:acl:to	_
+28	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	29	nmod:poss	29:nmod:poss	_
+29	food	food	NOUN	NN	Number=Sing	27	obj	27:obj	SpaceAfter=No
+30	.	.	PUNCT	.	_	4	punct	4:punct	_
+

@@ -1,0 +1,24 @@
+# newdoc id = 278775
+# sent_id = 278775-0001
+1	Our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+2	company	company	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	_
+5	high	high	ADJ	JJ	Degree=Pos	6	advmod	6:advmod	_
+6	end	end	NOUN	NN	Number=Sing	12	amod	12:amod	_
+7	designer	designer	NOUN	NN	Number=Sing	8	compound	8:compound	_
+8	handbag	handbag	NOUN	NN	Number=Sing	12	compound	12:compound	_
+9	and	and	CCONJ	CC	_	11	cc	11:cc	_
+10	fashion	fashion	NOUN	NN	Number=Sing	11	compound	11:compound	_
+11	accessories	accessory	NOUN	NNS	Number=Plur	8	conj	8:conj:and|12:compound	_
+12	company	company	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
+13	,	,	PUNCT	,	_	12	punct	12:punct	_
+14	thus	thus	ADV	RB	_	20	advmod	20:advmod	_
+15	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	20	nsubj	20:nsubj	_
+16	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	cop	20:cop	_
+17	certainly	certainly	ADV	RB	_	20	advmod	20:advmod	_
+18	a	a	DET	DT	Definite=Ind|PronType=Art	20	det	20:det	_
+19	niche	niche	NOUN	NN	Number=Sing	20	compound	20:compound	_
+20	market	market	NOUN	NN	Number=Sing	12	parataxis	12:parataxis	SpaceAfter=No
+21	.	.	PUNCT	.	_	12	punct	12:punct	_
+

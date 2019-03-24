@@ -1,0 +1,28 @@
+# sent_id = 319816-0023
+1	Of	of	ADV	RB	_	6	advmod	6:advmod	_
+2	course	course	ADV	RB	_	1	fixed	1:fixed	_
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
+4	could	could	AUX	MD	VerbForm=Fin	6	aux	6:aux	SpaceAfter=No
+5	n't	not	PART	RB	_	6	advmod	6:advmod	_
+6	make	make	VERB	VB	VerbForm=Inf	0	root	0:root	_
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obj	6:obj	_
+8	back	back	ADV	RB	_	6	advmod	6:advmod	_
+9	in	in	ADP	IN	_	10	case	10:case	_
+10	time	time	NOUN	NN	Number=Sing	6	obl	6:obl:in	_
+11	(	(	PUNCT	-LRB-	_	6	punct	6:punct	SpaceAfter=No
+12	and	and	CCONJ	CC	_	17	cc	17:cc	_
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	17:nsubj	_
+14	apparently	apparently	ADV	RB	_	17	advmod	17:advmod	_
+15	could	could	AUX	MD	VerbForm=Fin	17	aux	17:aux	_
+16	not	not	PART	RB	_	17	advmod	17:advmod	_
+17	stay	stay	VERB	VB	VerbForm=Inf	6	conj	6:conj:and	_
+18	5	5	NUM	CD	NumType=Card	20	nummod	20:nummod	_
+19	extra	extra	ADJ	JJ	Degree=Pos	20	amod	20:amod	_
+20	minutes	minute	NOUN	NNS	Number=Plur	17	obl:npmod	17:obl:npmod	_
+21	to	to	PART	TO	_	22	mark	22:mark	_
+22	wait	wait	VERB	VB	VerbForm=Inf	17	advcl	17:advcl:to	_
+23	for	for	ADP	IN	_	24	case	24:case	_
+24	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	22	obl	22:obl:for	SpaceAfter=No
+25	)	)	PUNCT	-RRB-	_	6	punct	6:punct	SpaceAfter=No
+26	.	.	PUNCT	.	_	6	punct	6:punct	_
+
