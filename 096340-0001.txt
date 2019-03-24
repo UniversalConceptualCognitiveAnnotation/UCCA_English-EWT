@@ -1,11 +1,13 @@
 # ::id 096340-0001
 # ::tok ONe of a few .
-# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2 3-1.1.2.3
+# ::alignments 0-1.1.1.1 1-1.1.1.2.4 3-1.1.1.2.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :S (v3 / label~e.0)
-           :A (v4 / label
-                  :R (v5 / label~e.1)
-                  :E (v6 / label~e.2)
-                  :C (v7 / label~e.3))))
+           :A (v3 / label
+                  :C (v6 / label~e.0)
+                  :E (v7 / label
+                         :C (v8 / label~e.3)
+                         :R (v9 / label~e.1)))
+           :A (v4 / label)
+           :S (v5 / label)))

@@ -1,0 +1,10 @@
+# ::id 194316-0003
+# ::tok The waiters are like no other ...
+# ::alignments 1-1.1.2.1.2 3-1.1.4 4-1.1.4 5-1.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :S (v5 / label
+                         :C (v6 / label~e.1)))
+           :S (v4 / label~e.3,4,5)))

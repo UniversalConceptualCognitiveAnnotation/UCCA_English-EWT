@@ -1,11 +1,9 @@
 # ::id 079827-0006
 # ::tok We 'll be back often .
-# ::alignments 0-1.1.2 1-1.1.3 3-1.1.5 4-1.1.6
+# ::alignments 0-1.1.1 3-1.1.4 4-1.1.5
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v3 / label)
-           :A (v4 / label~e.0)
-           :D (v5 / label~e.1)
-           :S (v6 / label~e.3)
-           :D (v7 / label~e.4)))
+           :A (v3 / label~e.0)
+           :S (v4 / label~e.3)
+           :D (v5 / label~e.4)))

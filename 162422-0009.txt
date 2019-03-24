@@ -1,0 +1,26 @@
+# ::id 162422-0009
+# ::tok When I inquired he rudely replied " in the morning when things are checked out you 'll get it back . "
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.3.3 4-1.3.4 5-1.3.5 7-1.3.1.1.1.1 9-1.3.1.1.1.3 10-1.3.1.2 11-1.3.1.3.1 13-1.3.1.3.3 14-1.3.1.3.3 15-1.3.1.1.2 17-1.3.1.1.4 18-1.3.1.1.5 19-1.3.1.1.6
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v5 / label~e.1)
+           :P (v6 / label~e.2))
+    :H (v4 / label
+           :A (v7 / label
+                  :H (v11 / label
+                          :D (v14 / label
+                                  :R (v21 / label~e.7)
+                                  :C (v22 / label~e.9))
+                          :A (v15 / label~e.15)
+                          :P (v16 / label~e.17)
+                          :A (v17 / label~e.18)
+                          :D (v18 / label~e.19))
+                  :L (v12 / label~e.10)
+                  :H (v13 / label
+                          :A (v19 / label~e.11)
+                          :P (v20 / label~e.13,14)))
+           :A (v8 / label~e.3)
+           :D (v9 / label~e.4)
+           :P (v10 / label~e.5)))

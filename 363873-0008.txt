@@ -1,0 +1,14 @@
+# ::id 363873-0008
+# ::tok Do not live here , you will regret it !
+# ::alignments 1-1.1.3 2-1.1.4 3-1.1.5 5-1.2.2 7-1.2.4 8-1.2.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :D (v5 / label~e.1)
+           :P (v6 / label~e.2)
+           :A (v7 / label~e.3))
+    :H (v3 / label
+           :A (v8 / label~e.5)
+           :P (v9 / label~e.7)
+           :A (v10 / label~e.8)))

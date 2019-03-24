@@ -1,0 +1,12 @@
+# ::id 187875-0001
+# ::tok BAD COFFEE , DO NT BOTHER !
+# ::alignments 0-1.1.1 1-1.1.2 4-1.2.4 5-1.2.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v4 / label~e.0)
+           :A (v5 / label~e.1))
+    :H (v3 / label
+           :A (v6 / label)
+           :D (v7 / label~e.4)
+           :P (v8 / label~e.5)))

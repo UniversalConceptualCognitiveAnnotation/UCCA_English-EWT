@@ -1,0 +1,9 @@
+# ::id 035726-0001
+# ::tok The BEST
+# ::alignments 1-1.1.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :S (v4 / label
+                  :C (v5 / label~e.1))))

@@ -1,0 +1,15 @@
+# ::id 266955-0001
+# ::tok The finest German bedding and linens store .
+# ::alignments 1-1.1.1.2 2-1.1.2.2 3-1.1.2.3.3 4-1.1.2.3.1 5-1.1.2.3.2 6-1.1.2.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label
+                  :C (v5 / label~e.1))
+           :A (v4 / label
+                  :E (v6 / label~e.2)
+                  :E (v7 / label
+                         :N (v9 / label~e.4)
+                         :C (v10 / label~e.5)
+                         :C (v11 / label~e.3))
+                  :C (v8 / label~e.6))))

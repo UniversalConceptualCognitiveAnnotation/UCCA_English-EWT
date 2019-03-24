@@ -1,0 +1,17 @@
+# ::id 229410-0006
+# ::tok We met a couple of weeks later , Ted was late .
+# ::alignments 0-1.1.3 1-1.1.1 3-1.1.2.1.2 4-1.1.2.2 5-1.1.2.3 6-1.1.2.4 8-1.2.2 10-1.2.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v4 / label~e.1)
+           :D (v5 / label
+                  :E (v9 / label
+                         :C (v13 / label~e.3))
+                  :R (v10 / label~e.4)
+                  :C (v11 / label~e.5)
+                  :R (v12 / label~e.6))
+           :A (v6 / label~e.0))
+    :H (v3 / label
+           :A (v7 / label~e.8)
+           :S (v8 / label~e.10)))

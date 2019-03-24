@@ -1,0 +1,26 @@
+# ::id 211797-0015
+# ::tok My point : Even if I was wrong , do n't sit there and argue with the customer .
+# ::alignments 0-1.1.2 1-1.1.3 3-1.1.4.5 4-1.1.4.5 5-1.1.4.6.1 7-1.1.4.6.3 10-1.1.4.1.3 11-1.1.4.1.4 12-1.1.4.1.5 13-1.1.4.2 14-1.1.4.3.2 15-1.1.4.3.3.1 17-1.1.4.3.3.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :S (v4 / label~e.1)
+           :A (v5 / label
+                  :H (v6 / label
+                         :A (v11 / label)
+                         :D (v12 / label~e.10)
+                         :P (v13 / label~e.11)
+                         :A (v14 / label~e.12))
+                  :L (v7 / label~e.13)
+                  :H (v8 / label
+                         :A (v15 / label)
+                         :P (v16 / label~e.14)
+                         :A (v17 / label
+                                 :R (v20 / label~e.15)
+                                 :P (v21 / label
+                                         :C (v22 / label~e.17))))
+                  :L (v9 / label~e.3,4)
+                  :H (v10 / label
+                          :A (v18 / label~e.5)
+                          :S (v19 / label~e.7)))))

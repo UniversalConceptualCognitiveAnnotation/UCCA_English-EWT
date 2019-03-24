@@ -1,0 +1,24 @@
+# ::id 225632-0007
+# ::tok If I remember , students went to Dartmouth , U. Penn , Duke , BU , William and Mary , Vassar , Howard , and Carnegie Mellon , among others .
+# ::alignments 0-1.1 1-1.2.2 2-1.2.2 4-1.2.3 5-1.2.4 6-1.2.5.1 7-1.2.5.2 9-1.2.5.3 10-1.2.5.3 12-1.2.5.4 14-1.2.5.5 16-1.2.5.6 17-1.2.5.6 18-1.2.5.6 20-1.2.5.7 22-1.2.5.8 24-1.2.5.9 25-1.2.5.10 26-1.2.5.10 28-1.2.5.11.1 29-1.2.5.11.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :G (v4 / label~e.1,2)
+           :A (v5 / label~e.4)
+           :P (v6 / label~e.5)
+           :A (v7 / label
+                  :R (v8 / label~e.6)
+                  :C (v9 / label~e.7)
+                  :C (v10 / label~e.9,10)
+                  :C (v11 / label~e.12)
+                  :C (v12 / label~e.14)
+                  :C (v13 / label~e.16,17,18)
+                  :C (v14 / label~e.20)
+                  :C (v15 / label~e.22)
+                  :N (v16 / label~e.24)
+                  :C (v17 / label~e.25,26)
+                  :C (v18 / label
+                          :R (v19 / label~e.28)
+                          :C (v20 / label~e.29)))))

@@ -1,0 +1,41 @@
+# ::id 101972-0011
+# ::tok My conclusion is that you should only go there if you want to wait a least an hour and see all kinds other people being seated before you .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.4.7 4-1.1.4.8.1 5-1.1.4.8.2 6-1.1.4.9 7-1.1.4.8.3 8-1.1.4.8.4 9-1.1.4.1 10-1.1.4.2.1 11-1.1.4.2.2 13-1.1.4.2.4 15-1.1.4.2.5.1.2 16-1.1.4.2.5.2 17-1.1.4.2.5.3 18-1.1.4.3 19-1.1.4.4.1 20-1.1.4.4.2.1.1 21-1.1.4.4.2.1.2 22-1.1.4.4.2.1.3 23-1.1.4.4.2.1.4 25-1.1.4.6.2 26-1.1.4.5 27-1.1.4.6.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :S (v4 / label~e.1)
+           :A (v5 / label
+                  :L (v6 / label~e.9)
+                  :H (v7 / label
+                         :A (v15 / label~e.10)
+                         :D (v16 / label~e.11)
+                         :P (v17 / label~e.13)
+                         :D (v18 / label
+                                 :E (v27 / label
+                                         :C (v31 / label~e.15))
+                                 :E (v28 / label~e.16)
+                                 :C (v29 / label~e.17)))
+                  :L (v8 / label~e.18)
+                  :H (v9 / label
+                         :P (v19 / label~e.19)
+                         :A (v20 / label
+                                 :A (v30 / label
+                                         :E (v32 / label~e.20)
+                                         :C (v33 / label~e.21)
+                                         :E (v34 / label~e.22)
+                                         :C (v35 / label~e.23))
+                                 :P (v22 / label~e.25))
+                         :A v15)
+                  :L (v10 / label~e.26)
+                  :H (v11 / label
+                          :A (v21 / label~e.27)
+                          :P v22)
+                  :R (v12 / label~e.3)
+                  :H (v13 / label
+                          :A (v23 / label~e.4)
+                          :D (v24 / label~e.5)
+                          :P (v25 / label~e.7)
+                          :A (v26 / label~e.8))
+                  :L (v14 / label~e.6))))

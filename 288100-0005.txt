@@ -1,0 +1,60 @@
+# ::id 288100-0005
+# ::tok Also , I was promised to have my test results emailed to me , but it never happened , and after a few attempts to get Dr. Romanick on the phone to brief me on my condition , I finally gave up and went to a different doctor .
+# ::alignments 0-1.1.1 2-1.1.2 4-1.1.4 5-1.1.5.1 7-1.1.5.3.1.1 8-1.1.5.3.1.2 9-1.1.5.3.2 10-1.1.5.4 11-1.1.5.5.1 12-1.6.4 14-1.2 15-1.3.1 16-1.3.2 17-1.3.3 19-1.4 20-1.5 22-1.6.1.2 23-1.6.2 25-1.6.3.2 26-1.7.5.1 27-1.7.5.2 28-1.6.3.4.1 30-1.6.3.4.3 32-1.7.2 33-1.7.3 34-1.7.4.1 35-1.7.4.2 36-1.7.4.3 38-1.8.1 39-1.8.2 40-1.8.3 41-1.8.3 42-1.9 43-1.10.1 44-1.10.2.1 46-1.10.2.3 47-1.10.2.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v12 / label~e.0)
+           :A (v13 / label~e.2)
+           :P (v14 / label~e.4)
+           :A (v15 / label
+                   :R (v32 / label~e.5)
+                   :A (v33 / label
+                           :A (v47 / label
+                                   :A (v52 / label~e.7)
+                                   :P (v53 / label~e.8))
+                           :P (v48 / label~e.9))
+                   :P (v34 / label~e.10)
+                   :A (v35 / label
+                           :R (v49 / label~e.11)
+                           :C (v22 / label~e.12))))
+    :L (v3 / label~e.14)
+    :H (v4 / label
+           :A (v16 / label~e.15)
+           :D (v17 / label~e.16)
+           :P (v18 / label~e.17))
+    :L (v5 / label~e.19)
+    :L (v6 / label~e.20)
+    :H (v7 / label
+           :D (v19 / label
+                   :C (v36 / label~e.22))
+           :P (v20 / label~e.23)
+           :A (v21 / label
+                   :D (v37 / label~e.25)
+                   :A (v26 / label
+                           :E (v42 / label~e.26)
+                           :C (v43 / label~e.27))
+                   :P (v38 / label
+                           :R (v50 / label~e.28)
+                           :C (v51 / label~e.30)))
+           :A v22)
+    :H (v8 / label
+           :P (v23 / label~e.32)
+           :A (v24 / label~e.33)
+           :A (v25 / label
+                   :R (v39 / label~e.34)
+                   :A (v40 / label~e.35)
+                   :S (v41 / label~e.36))
+           :A v26)
+    :H (v9 / label
+           :A (v27 / label~e.38)
+           :D (v28 / label~e.39)
+           :P (v29 / label~e.40,41))
+    :L (v10 / label~e.42)
+    :H (v11 / label
+            :P (v30 / label~e.43)
+            :A (v31 / label
+                    :R (v44 / label~e.44)
+                    :E (v45 / label~e.46)
+                    :C (v46 / label~e.47))
+            :A v27))

@@ -1,0 +1,9 @@
+# ::id 287360-0002
+# ::tok What a group !
+# ::alignments 0-1.1.1 2-1.1.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.0)
+           :A (v4 / label
+                  :C (v5 / label~e.2))))

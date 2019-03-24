@@ -1,0 +1,9 @@
+# ::id 374344-0005
+# ::tok Lest you be lame !!!
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.0)
+           :A (v4 / label~e.1)
+           :S (v5 / label~e.3)))

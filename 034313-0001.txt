@@ -1,12 +1,11 @@
 # ::id 034313-0001
 # ::tok criminal defense lawyer
-# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2.1 2-1.1.1.2
+# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2 2-1.1.1.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :E (v3 / label
-                  :E (v4 / label
-                         :E (v6 / label~e.0)
-                         :C (v7 / label
-                                :P (v8 / label~e.1)))
-                  :C (v5 / label~e.2))))
+                  :A (v4 / label
+                         :A (v6 / label~e.0)
+                         :P (v7 / label~e.1))
+                  :P (v5 / label~e.2))))

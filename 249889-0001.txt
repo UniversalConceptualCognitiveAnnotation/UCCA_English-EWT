@@ -1,14 +1,14 @@
 # ::id 249889-0001
 # ::tok great garage and customer service .
-# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2 3-1.1.2.3.2 4-1.1.2.3.1.1
+# ::alignments 0-1.1.2 1-1.1.1 2-1.2 3-1.3.2.1 4-1.3.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :S (v3 / label~e.0)
-           :A (v4 / label
-                  :C (v5 / label~e.1)
-                  :N (v6 / label~e.2)
-                  :C (v7 / label
-                         :C (v8 / label
-                                :P (v10 / label~e.4))
-                         :E (v9 / label~e.3)))))
+           :A (v5 / label~e.1)
+           :S (v6 / label~e.0))
+    :L (v3 / label~e.2)
+    :H (v4 / label
+           :A (v7 / label
+                  :S (v9 / label~e.3))
+           :P (v8 / label~e.4)
+           :D v6))

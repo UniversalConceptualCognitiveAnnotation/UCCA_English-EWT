@@ -1,6 +1,6 @@
 # ::id 342807-0003
 # ::tok So huge in fact , that Toronto slang is influenced by and has Jamaican references , and Jamaican beef patties are staples in my high school cafeteria .
-# ::alignments 0-1.1.2 1-1.1.3 2-1.1.4 3-1.1.4 5-1.2 6-1.3.2.1 7-1.5.3 9-1.3.4 10-1.3.5 11-1.4 12-1.5.1 13-1.3.1 14-1.5.2.2 16-1.6 17-1.7.1.1 18-1.7.1.2 19-1.7.1.3 21-1.7.3 22-1.7.4.1 23-1.7.4.2.1 24-1.7.4.3 25-1.7.4.3 26-1.7.4.4
+# ::alignments 0-1.1.2 1-1.1.3 2-1.1.4 3-1.1.4 5-1.2 6-1.3.2.1 7-1.5.3 9-1.3.4 10-1.3.5 11-1.4 12-1.5.1 13-1.3.1 14-1.5.2.2 16-1.6 17-1.7.1.1 18-1.7.1.2 19-1.7.1.3 21-1.7.3 22-1.7.4.1 23-1.7.4.2 24-1.7.4.3 25-1.7.4.3 26-1.7.4.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -32,7 +32,6 @@
            :S (v21 / label~e.21)
            :A (v22 / label
                    :R (v28 / label~e.22)
-                   :E (v29 / label
-                           :S (v32 / label~e.23))
+                   :E (v29 / label~e.23)
                    :E (v30 / label~e.24,25)
                    :C (v31 / label~e.26))))

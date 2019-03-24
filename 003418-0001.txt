@@ -1,8 +1,9 @@
 # ::id 003418-0001
 # ::tok Billing Issues ...
-# ::alignments 0-1.1.1 1-1.1.2
+# ::alignments 0-1.1.1.1 1-1.1.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v3 / label~e.0)
+           :A (v3 / label
+                  :P (v5 / label~e.0))
            :S (v4 / label~e.1)))

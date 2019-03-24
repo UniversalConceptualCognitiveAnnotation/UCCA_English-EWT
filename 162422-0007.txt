@@ -1,0 +1,18 @@
+# ::id 162422-0007
+# ::tok He immediately said " no , there is a $ 50 deposit now ! "
+# ::alignments 0-1.1.2 1-1.1.3 2-1.1.4 4-1.1.5.1 9-1.1.5.2.4.1 10-1.1.5.2.4.2 11-1.1.5.2.3.2 12-1.1.5.2.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :D (v4 / label~e.1)
+           :P (v5 / label~e.2)
+           :A (v6 / label
+                  :H (v7 / label~e.4)
+                  :H (v8 / label
+                         :P (v9 / label
+                                :C (v12 / label~e.11))
+                         :A (v10 / label
+                                 :C (v13 / label~e.9)
+                                 :E (v14 / label~e.10))
+                         :D (v11 / label~e.12)))))

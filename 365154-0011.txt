@@ -1,0 +1,16 @@
+# ::id 365154-0011
+# ::tok Beautifully written reviews Doctor , but completely UNTRUE .
+# ::alignments 0-1.1.4 1-1.1.1 2-1.1.2 3-1.1.3.1 5-1.2 6-1.3.3 7-1.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v5 / label~e.1)
+           :A (v6 / label~e.2)
+           :A (v7 / label
+                  :P (v11 / label~e.3))
+           :D (v8 / label~e.0))
+    :L (v3 / label~e.5)
+    :H (v4 / label
+           :A v6
+           :D (v9 / label~e.6)
+           :S (v10 / label~e.7)))

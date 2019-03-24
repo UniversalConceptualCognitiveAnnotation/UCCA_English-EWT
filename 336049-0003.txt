@@ -1,0 +1,55 @@
+# ::id 336049-0003
+# ::tok ~ It took over 40 mins to be taken to our table , once there it took another 20 mins to get our orders and a further 45 mins till our starters landed on our table .
+# ::alignments 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3 8-1.1.7 9-1.1.8.1 10-1.1.8.2.2 11-1.1.8.3 13-1.2.1 14-1.2.2 15-1.3.1 16-1.3.2 17-1.3.3.1 18-1.3.3.2 19-1.3.3.3 21-1.3.5 22-1.3.6.1.2 23-1.3.6.2 24-1.4 26-1.5.1.1.2 27-1.5.1.2 28-1.5.1.3 30-1.5.3.1.2 31-1.5.3.2 32-1.5.4 33-1.5.5.1 34-1.5.5.2.2 35-1.5.5.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label)
+           :A (v8 / label~e.1)
+           :D (v9 / label~e.2)
+           :D (v10 / label
+                   :R (v24 / label~e.3)
+                   :E (v25 / label~e.4)
+                   :C (v26 / label~e.5))
+           :P (v11 / label~e.8)
+           :A (v12 / label
+                   :R (v27 / label~e.9)
+                   :E (v28 / label
+                           :A (v29 / label~e.11)
+                           :S (v43 / label~e.10))
+                   :C v29))
+    :L (v3 / label
+           :E (v13 / label~e.13)
+           :C (v14 / label~e.14))
+    :H (v4 / label
+           :A (v15 / label~e.15)
+           :D (v16 / label~e.16)
+           :D (v17 / label
+                   :E (v30 / label~e.17)
+                   :E (v31 / label~e.18)
+                   :C (v32 / label~e.19))
+           :P (v18 / label~e.21)
+           :A (v19 / label
+                   :E (v33 / label
+                           :A (v34 / label~e.23)
+                           :S (v44 / label~e.22))
+                   :C v34))
+    :L (v5 / label~e.24)
+    :H (v6 / label
+           :D (v20 / label
+                   :E (v35 / label
+                           :C (v45 / label~e.26))
+                   :E (v36 / label~e.27)
+                   :C (v37 / label~e.28))
+           :A (v21 / label
+                   :E (v38 / label
+                           :A (v39 / label~e.31)
+                           :S (v46 / label~e.30))
+                   :C v39)
+           :P (v22 / label~e.32)
+           :A (v23 / label
+                   :R (v40 / label~e.33)
+                   :E (v41 / label
+                           :A (v42 / label~e.35)
+                           :S (v47 / label~e.34))
+                   :C v42)))

@@ -1,0 +1,16 @@
+# ::id 267982-0002
+# ::tok The lesson was donated by the teacher Adz .
+# ::alignments 1-1.1.1.1.2 3-1.1.3 4-1.1.4.3 6-1.1.4.4.1.2 7-1.1.4.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :P (v6 / label
+                         :C (v10 / label~e.1)))
+           :P (v4 / label~e.3)
+           :A (v5 / label
+                  :C (v7 / label~e.7)
+                  :R (v8 / label~e.4)
+                  :E (v9 / label
+                         :P (v11 / label
+                                 :C (v12 / label~e.6))))))

@@ -1,0 +1,62 @@
+# ::id 234261-0004
+# ::tok We live in the sub-division around the corner and after it happened and we brought it up at some neighborhood gatherings we discovered that several people from this neighborhood alone had pets go to Dr. Mann for surgical procedures and came back dead .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 4-1.1.3.3 5-1.1.3.4.1 7-1.1.3.4.3 8-1.2 9-1.3 10-1.4.1 11-1.4.2 12-1.5 13-1.6.1 14-1.6.2 15-1.6.3 16-1.6.2 17-1.6.4.1 18-1.6.4.2 19-1.6.4.3 20-1.6.4.4 21-1.7.1 22-1.7.2 23-1.7.3.1 24-1.7.3.2.1.1 25-1.7.3.2.1.2 26-1.7.3.2.1.3 27-1.7.3.2.1.4 28-1.7.3.2.1.5 29-1.7.3.2.1.6 31-1.7.3.2.3 32-1.7.3.2.2.2 34-1.7.3.2.5.1 35-1.7.3.2.5.2 36-1.7.3.3 37-1.7.3.4.1.1 38-1.7.3.4.1.2 39-1.7.3.5 40-1.7.3.6.1 41-1.7.3.6.2 42-1.7.3.6.3.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v9 / label~e.0)
+           :P (v10 / label~e.1)
+           :A (v11 / label
+                   :R (v21 / label~e.2)
+                   :C (v22 / label~e.4)
+                   :E (v23 / label
+                           :R (v34 / label~e.5)
+                           :C (v35 / label~e.7))))
+    :L (v3 / label~e.8)
+    :L (v4 / label~e.9)
+    :H (v5 / label
+           :A (v12 / label~e.10)
+           :P (v13 / label~e.11))
+    :L (v6 / label~e.12)
+    :H (v7 / label
+           :A (v14 / label~e.13)
+           :P (v15 / label~e.14,16)
+           :A (v16 / label~e.15)
+           :A (v17 / label
+                   :R (v24 / label~e.17)
+                   :D (v25 / label~e.18)
+                   :A (v26 / label~e.19)
+                   :P (v27 / label~e.20)))
+    :H (v8 / label
+           :A (v18 / label~e.21)
+           :P (v19 / label~e.22)
+           :A (v20 / label
+                   :R (v28 / label~e.23)
+                   :H (v29 / label
+                           :A (v36 / label
+                                   :E (v44 / label~e.24)
+                                   :C (v45 / label~e.25)
+                                   :R (v46 / label~e.26)
+                                   :E (v47 / label~e.27)
+                                   :C (v48 / label~e.28)
+                                   :E (v49 / label~e.29))
+                           :P (v37 / label
+                                   :C (v50 / label~e.32))
+                           :A (v38 / label~e.31)
+                           :A (v39 / label
+                                   :E (v51 / label~e.34)
+                                   :C (v52 / label~e.35)))
+                   :L (v30 / label~e.36)
+                   :H (v31 / label
+                           :P (v40 / label
+                                   :E (v53 / label~e.37)
+                                   :C (v54 / label~e.38))
+                           :A v38)
+                   :L (v32 / label~e.39)
+                   :H (v33 / label
+                           :P (v41 / label~e.40)
+                           :D (v42 / label~e.41)
+                           :A (v43 / label
+                                   :S (v55 / label~e.42)
+                                   :A v38)
+                           :A v38))))

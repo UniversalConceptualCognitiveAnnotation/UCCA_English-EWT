@@ -1,0 +1,34 @@
+# ::id 035993-0001
+# ::tok They have fresh flowers , lasted a long while in the vase , and the two ladies at the shop know the business well .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1.2 3-1.2.4 5-1.2.1 7-1.2.2.2 8-1.2.2.3 9-1.2.3.1 11-1.2.3.3 13-1.3 15-1.4.4.2 16-1.4.4.3 17-1.4.4.4.1 19-1.4.4.4.3 20-1.4.5 22-1.4.1.2 23-1.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label~e.0)
+           :S (v7 / label~e.1)
+           :A (v8 / label
+                  :E (v17 / label
+                          :A (v12 / label~e.3)
+                          :S (v26 / label~e.2))
+                  :C v12))
+    :H (v3 / label
+           :P (v9 / label~e.5)
+           :D (v10 / label
+                   :E (v18 / label~e.7)
+                   :C (v19 / label~e.8))
+           :A (v11 / label
+                   :R (v20 / label~e.9)
+                   :C (v21 / label~e.11))
+           :A v12)
+    :L (v4 / label~e.13)
+    :H (v5 / label
+           :A (v13 / label
+                   :C (v22 / label~e.22))
+           :D (v14 / label~e.23)
+           :A (v15 / label
+                   :E (v23 / label~e.15)
+                   :C (v24 / label~e.16)
+                   :E (v25 / label
+                           :R (v27 / label~e.17)
+                           :C (v28 / label~e.19)))
+           :S (v16 / label~e.20)))

@@ -1,0 +1,15 @@
+# ::id 026883-0014
+# ::tok So I am in limbo regarding a bedroom suite .
+# ::alignments 0-1.1 1-1.2.1 3-1.2.3.1 4-1.2.3.2 5-1.2.4.5 7-1.2.4.2 8-1.2.4.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label~e.1)
+           :S (v5 / label
+                  :R (v7 / label~e.3)
+                  :C (v8 / label~e.4))
+           :A (v6 / label
+                  :E (v9 / label~e.7)
+                  :C (v10 / label~e.8)
+                  :R (v11 / label~e.5))))

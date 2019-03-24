@@ -1,0 +1,12 @@
+# ::id 328828-0006
+# ::tok So what was the point of the appointment !?!
+# ::alignments 1-1.1.2 4-1.1.4.2 5-1.1.5.4 7-1.1.5.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.1)
+           :D (v4 / label
+                  :C (v6 / label~e.4))
+           :P (v5 / label
+                  :C (v7 / label~e.7)
+                  :R (v8 / label~e.5))))

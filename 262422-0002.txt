@@ -1,0 +1,11 @@
+# ::id 262422-0002
+# ::tok Good local bike shop .
+# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2 3-1.1.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label~e.0)
+           :A (v4 / label
+                  :E (v5 / label~e.1)
+                  :E (v6 / label~e.2)
+                  :C (v7 / label~e.3))))

@@ -1,12 +1,12 @@
 # ::id 009775-0004
 # ::tok Never a bad smokehouse burger though !
-# ::alignments 0-1.1.2 1-1.1.3.2 2-1.1.4 3-1.1.3.3 4-1.1.3.1
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.2.3 4-1.1.2.1 5-1.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :D (v3 / label~e.0)
-           :A (v4 / label
-                  :C (v6 / label~e.4)
-                  :E (v7 / label~e.1)
+           :D (v4 / label~e.0)
+           :A (v5 / label
+                  :C (v7 / label~e.4)
                   :E (v8 / label~e.3))
-           :S (v5 / label~e.2)))
+           :S (v6 / label~e.2))
+    :L (v3 / label~e.5))

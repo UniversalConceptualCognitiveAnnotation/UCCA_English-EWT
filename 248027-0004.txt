@@ -1,6 +1,6 @@
 # ::id 248027-0004
 # ::tok Tonight , I called several times with no answer ( Btwn 5:30 and 6 pm ) and finally drove there to place my order in person .
-# ::alignments 0-1.1.1 2-1.1.2 3-1.1.3 4-1.1.4.1 5-1.1.4.2 6-1.2 7-1.3.2 8-1.3.3 10-1.3.4.1 11-1.3.4.2.2 12-1.3.4.3 13-1.3.4.4.1 14-1.3.4.2.1 16-1.4 17-1.5.2 18-1.5.3 19-1.5.4 20-1.6 21-1.7.2 22-1.7.3.1.2 23-1.7.3.2.1 24-1.7.4.1 25-1.7.4.2
+# ::alignments 0-1.1.1 2-1.1.2 3-1.1.3 4-1.1.4.1 5-1.1.4.2 6-1.2 7-1.3.2 8-1.3.3 10-1.3.4.1 11-1.3.4.2.2 12-1.3.4.3 13-1.3.4.4.1 14-1.3.4.2.1 16-1.4 17-1.5.2 18-1.5.3 19-1.5.4 20-1.6 21-1.7.1 22-1.7.2 23-1.7.3 24-1.7.4.1 25-1.7.4.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -18,12 +18,12 @@
            :D (v16 / label
                    :N (v27 / label~e.10)
                    :C (v28 / label
-                           :C (v35 / label~e.14)
-                           :E (v36 / label~e.11))
+                           :C (v33 / label~e.14)
+                           :E (v34 / label~e.11))
                    :N (v29 / label~e.12)
                    :C (v30 / label
-                           :E (v37 / label~e.13)
-                           :C v35)))
+                           :E (v35 / label~e.13)
+                           :C v33)))
     :L (v5 / label~e.16)
     :H (v6 / label
            :A (v17 / label)
@@ -32,14 +32,9 @@
            :A (v20 / label~e.19))
     :L (v7 / label~e.20)
     :H (v8 / label
-           :A (v21 / label)
-           :P (v22 / label~e.21)
-           :A (v23 / label
-                   :E (v31 / label
-                           :A (v32 / label
-                                   :P (v39 / label~e.23))
-                           :S (v38 / label~e.22))
-                   :C v32)
+           :D (v21 / label~e.21)
+           :A (v22 / label~e.22)
+           :P (v23 / label~e.23)
            :A (v24 / label
-                   :R (v33 / label~e.24)
-                   :C (v34 / label~e.25))))
+                   :R (v31 / label~e.24)
+                   :C (v32 / label~e.25))))
