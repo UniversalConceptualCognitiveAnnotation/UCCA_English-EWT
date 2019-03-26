@@ -11,10 +11,11 @@ to the [Universal Dependencies English Web Treebank](http://github.com/Universal
 
 The annotation was conducted in the Hebrew University of Jerusalem. If you use this corpus, please cite:
 
+```
 Content Differences in Syntactic and Semantic Representation
 Daniel Hershcovich, Omri Abend and Ari Rappoport
 Proceedings of NAACL 2019
-
+```
 
 Files included
 --------------
