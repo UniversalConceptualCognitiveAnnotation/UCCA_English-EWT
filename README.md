@@ -9,6 +9,11 @@ The passages are given as xmls in the [UCCA format](https://github.com/Universal
 This corpus contains 55590 tokens over 3813 sentences, as tokenized and split according
 to the [Universal Dependencies English Web Treebank](http://github.com/UniversalDependencies/UD_English-EWT).
 
+The annotation was conducted in the Hebrew University of Jerusalem. If you use this corpus, please cite:
+
+Content Differences in Syntactic and Semantic Representation
+Daniel Hershcovich, Omri Abend and Ari Rappoport
+
 
 Files included
 --------------
