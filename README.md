@@ -12,9 +12,13 @@ to the [Universal Dependencies English Web Treebank](http://github.com/Universal
 The annotation was conducted at the Hebrew University of Jerusalem. If you use this corpus, please cite:
 
 ```
-Content Differences in Syntactic and Semantic Representation
-Daniel Hershcovich, Omri Abend and Ari Rappoport
-Proceedings of NAACL 2019
+@InProceedings{hershcovich2019content,
+  author    = {Hershcovich, Daniel  and  Abend, Omri  and  Rappoport, Ari},
+  title     = {Content Differences in Syntactic and Semantic Representation},
+  booktitle = {Proc. of NAACL-HLT},
+  year      = {2019},
+  url       = {https://danielhers.github.io/divergences.pdf}
+}
 ```
 
 Files included
