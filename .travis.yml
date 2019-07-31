@@ -31,7 +31,9 @@ jobs:
       env: FORMAT=validate
     - script: curl $SCRIPTS/tupa.sh | bash
       env: FORMAT=tupa
-    - script: curl $SCRIPTS/visualize.sh | bash
+    - script: curl $SCRIPTS/visualize.sh | bash -s "[0-1]"
+      env: FORMAT=visualize
+    - script: curl $SCRIPTS/visualize.sh | bash -s "[2-9]"
       env: FORMAT=visualize
     - script: curl $SCRIPTS/sentences_to_xml.sh | bash
       env: FORMAT=xml
