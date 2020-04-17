@@ -29,14 +29,14 @@ jobs:
     - stage: convert
       script: curl $SCRIPTS/validate_sentences.sh | bash -s -- || echo Ignoring validation failures
       env: FORMAT=validate
+    - script: curl $SCRIPTS/sentences_to_xml.sh | bash
+      env: FORMAT=xml
     - script: curl $SCRIPTS/tupa.sh | bash
       env: FORMAT=tupa
     - script: curl $SCRIPTS/visualize.sh | bash -s "[0-1]"
       env: FORMAT=visualize
     - script: curl $SCRIPTS/visualize.sh | bash -s "[2-9]"
       env: FORMAT=visualize
-    - script: curl $SCRIPTS/sentences_to_xml.sh | bash
-      env: FORMAT=xml
     - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
       env: FORMAT=sdp
     - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
