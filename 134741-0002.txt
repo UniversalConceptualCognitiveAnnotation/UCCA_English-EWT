@@ -1,0 +1,12 @@
+# ::id 134741-0002
+# ::tok Good job very professional .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.2.3 3-1.2.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v4 / label~e.0)
+           :P (v5 / label~e.1))
+    :H (v3 / label
+           :A (v6 / label)
+           :D (v7 / label~e.2)
+           :S (v8 / label~e.3)))

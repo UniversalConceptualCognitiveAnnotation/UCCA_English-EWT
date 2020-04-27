@@ -1,0 +1,27 @@
+# ::id 313825-0006
+# ::tok Plus she plans a monthly breakfasts and other events at the clubhouse which is a nice added benefit .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 4-1.2.3.1.2 5-1.2.3.1.3 6-1.2.3.2 7-1.2.3.3.1 8-1.2.3.3.2 9-1.2.4.1 11-1.2.4.3 12-1.3 15-1.4.4 16-1.4.3.1 17-1.4.3.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v6 / label~e.1)
+           :P (v7 / label~e.2)
+           :A (v8 / label
+                  :H (v12 / label
+                          :T (v19 / label~e.4)
+                          :P (v20 / label~e.5))
+                  :L (v13 / label~e.6)
+                  :H (v14 / label
+                          :D (v21 / label~e.7)
+                          :P (v22 / label~e.8)))
+           :A (v9 / label
+                  :R (v15 / label~e.9)
+                  :C (v16 / label~e.11)))
+    :L (v4 / label~e.12)
+    :H (v5 / label
+           :A v8
+           :S (v10 / label
+                   :E (v17 / label~e.16)
+                   :C (v18 / label~e.17))
+           :D (v11 / label~e.15)))

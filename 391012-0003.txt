@@ -1,0 +1,14 @@
+# ::id 391012-0003
+# ::tok This company is overpriced for their services .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 3-1.1.1 4-1.2 5-1.3.2 6-1.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v5 / label~e.3)
+           :A (v6 / label
+                  :E (v9 / label~e.0)
+                  :C (v10 / label~e.1)))
+    :L (v3 / label~e.4)
+    :H (v4 / label
+           :A (v7 / label~e.5)
+           :P (v8 / label~e.6)))

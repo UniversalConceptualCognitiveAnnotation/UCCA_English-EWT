@@ -1,0 +1,12 @@
+# ::id 044427-0002
+# ::tok I had to take care of the ants myself .
+# ::alignments 0-1.1.2 1-1.1.3 2-1.1.3 3-1.1.4 4-1.1.4 5-1.1.5.2 7-1.1.5.1 8-1.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :D (v4 / label~e.1,2)
+           :P (v5 / label~e.3,4,8)
+           :A (v6 / label
+                  :C (v7 / label~e.7)
+                  :R (v8 / label~e.5))))

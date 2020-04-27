@@ -1,0 +1,12 @@
+# ::id 080221-0010
+# ::tok Bronze award service excellence , metro .
+# ::alignments 0-1.1.3 1-1.1.4 2-1.1.5.2 3-1.1.5.1 5-1.1.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.0)
+           :P (v4 / label~e.1)
+           :A (v5 / label
+                  :D (v7 / label~e.3)
+                  :P (v8 / label~e.2))
+           :A (v6 / label~e.5)))

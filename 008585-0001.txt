@@ -1,0 +1,9 @@
+# ::id 008585-0001
+# ::tok The best there is in service .
+# ::alignments 1-1.1.2.1 5-1.1.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :C (v5 / label~e.1))
+           :P (v4 / label~e.5)))

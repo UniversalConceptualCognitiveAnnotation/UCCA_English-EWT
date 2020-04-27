@@ -1,0 +1,11 @@
+# ::id 235423-0014
+# ::tok I will NEVER go here again .
+# ::alignments 0-1.1.2 2-1.1.4 3-1.1.5 4-1.1.6 5-1.1.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :D (v4 / label~e.2)
+           :P (v5 / label~e.3)
+           :A (v6 / label~e.4)
+           :D (v7 / label~e.5)))

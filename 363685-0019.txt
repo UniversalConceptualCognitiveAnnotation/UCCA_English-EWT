@@ -1,0 +1,14 @@
+# ::id 363685-0019
+# ::tok No earlier and no later .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.2 3-1.3.3 4-1.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v5 / label~e.0)
+           :T (v6 / label~e.1)
+           :A (v7 / label))
+    :L (v3 / label~e.2)
+    :H (v4 / label
+           :A (v8 / label)
+           :D (v9 / label~e.3)
+           :T (v10 / label~e.4)))

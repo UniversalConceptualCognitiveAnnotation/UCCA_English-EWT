@@ -1,0 +1,13 @@
+# ::id 366946-0002
+# ::tok Good place to be on a Sunday Night .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.4 4-1.1.5.5 6-1.1.5.2 7-1.1.5.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.0)
+           :A (v4 / label~e.1)
+           :S (v5 / label~e.3)
+           :T (v6 / label
+                  :C (v7 / label~e.6)
+                  :C (v8 / label~e.7)
+                  :R (v9 / label~e.4))))

@@ -1,0 +1,14 @@
+# ::id 288163-0002
+# ::tok My experience was amazing at Providence Aesthetics and Medical Spa .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.4 4-1.1.5.5 5-1.1.5.1 6-1.1.5.1 7-1.1.5.2 8-1.1.5.3 9-1.1.5.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.1)
+           :D (v5 / label~e.3)
+           :A (v6 / label
+                  :C (v7 / label~e.5,6)
+                  :N (v8 / label~e.7)
+                  :C (v9 / label~e.8,9)
+                  :R (v10 / label~e.4))))

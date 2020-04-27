@@ -1,0 +1,23 @@
+# ::id 034995-0002
+# ::tok Also more often than not you end up with a healthy dose of nasty rude attitude from the employees !
+# ::alignments 0-1.1 1-1.2.3 2-1.2.3 3-1.2.3 4-1.2.3 5-1.2.4 6-1.2.5 7-1.2.5 8-1.2.6.1 10-1.2.6.3 11-1.2.6.4 12-1.2.7.1 13-1.2.8 14-1.2.1 15-1.2.7.2 16-1.2.2.1 18-1.2.2.2.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :D (v4 / label~e.14)
+           :A (v5 / label
+                  :R (v12 / label~e.16)
+                  :S (v13 / label
+                          :C (v19 / label~e.18)))
+           :T (v6 / label~e.1,2,3,4)
+           :A (v7 / label~e.5)
+           :D (v8 / label~e.6,7)
+           :D (v9 / label
+                  :R (v14 / label~e.8)
+                  :E (v15 / label~e.10)
+                  :C (v16 / label~e.11))
+           :P (v10 / label
+                   :R (v17 / label~e.12)
+                   :C (v18 / label~e.15))
+           :D (v11 / label~e.13)))

@@ -1,0 +1,11 @@
+# ::id 191597-0002
+# ::tok Great food cheap
+# ::alignments 0-1.1.1 1-1.1.2 2-1.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v4 / label~e.0)
+           :A (v5 / label~e.1))
+    :H (v3 / label
+           :A (v6 / label)
+           :S (v7 / label~e.2)))

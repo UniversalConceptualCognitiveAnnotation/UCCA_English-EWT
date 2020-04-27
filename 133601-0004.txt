@@ -1,0 +1,9 @@
+# ::id 133601-0004
+# ::tok Even though you are expensive .
+# ::alignments 0-1.1 1-1.1 2-1.2.1 4-1.2.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0,1)
+    :H (v3 / label
+           :A (v4 / label~e.2)
+           :S (v5 / label~e.4)))

@@ -1,0 +1,13 @@
+# ::id 080221-0009
+# ::tok Well done to Anthony and the team !
+# ::alignments 0-1.1.1 1-1.1.1 2-1.1.2.1 3-1.1.2.2 4-1.1.2.3 6-1.1.2.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label~e.0,1)
+           :A (v4 / label
+                  :R (v5 / label~e.2)
+                  :C (v6 / label~e.3)
+                  :N (v7 / label~e.4)
+                  :C (v8 / label
+                         :C (v9 / label~e.6)))))

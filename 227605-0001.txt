@@ -1,0 +1,14 @@
+# ::id 227605-0001
+# ::tok Good local steakhouse , I recommend it !
+# ::alignments 0-1.1.2 1-1.1.1.1 2-1.1.1.2 4-1.2.2 5-1.2.3 6-1.2.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v9 / label~e.1)
+                  :C (v10 / label~e.2))
+           :S (v5 / label~e.0))
+    :H (v3 / label
+           :A (v6 / label~e.4)
+           :P (v7 / label~e.5)
+           :A (v8 / label~e.6)))

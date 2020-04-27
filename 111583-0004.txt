@@ -1,0 +1,12 @@
+# ::id 111583-0004
+# ::tok The followup visit is FREE !!
+# ::alignments 1-1.2.2.2 2-1.2.2.1.2 4-1.2.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label)
+    :H (v3 / label
+           :A (v4 / label
+                  :P (v6 / label
+                         :C (v8 / label~e.2))
+                  :D (v7 / label~e.1))
+           :S (v5 / label~e.4)))

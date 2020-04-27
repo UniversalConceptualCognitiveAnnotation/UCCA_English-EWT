@@ -1,0 +1,12 @@
+# ::id 398243-0005
+# ::tok The service was excellent and personable .
+# ::alignments 1-1.1.1.2 3-1.1.3.2 4-1.1.3.3 5-1.1.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label
+                  :C (v5 / label~e.1))
+           :D (v4 / label
+                  :C (v6 / label~e.3)
+                  :N (v7 / label~e.4)
+                  :C (v8 / label~e.5))))

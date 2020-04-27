@@ -1,0 +1,16 @@
+# ::id 287454-0003
+# ::tok The fries are of good quality , the staff is friendly .
+# ::alignments 1-1.1.1.2 3-1.1.3.1 4-1.1.4 5-1.1.3.2 8-1.2.2.1 10-1.2.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :C (v9 / label~e.1))
+           :S (v5 / label
+                  :R (v10 / label~e.3)
+                  :C (v11 / label~e.5))
+           :D (v6 / label~e.4))
+    :H (v3 / label
+           :S (v7 / label
+                  :C (v12 / label~e.8))
+           :D (v8 / label~e.10)))

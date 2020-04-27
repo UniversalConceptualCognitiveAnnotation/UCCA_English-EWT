@@ -1,0 +1,20 @@
+# ::id 128168-0002
+# ::tok First let me start out by saying , that I have had very nice pedicures at Lovely Nails on Military Road .
+# ::alignments 0-1.1 1-1.2.5 2-1.2.5 3-1.2.5 4-1.2.5 5-1.2.5 6-1.2.5 8-1.2.6 9-1.2.7 12-1.2.1.1 13-1.2.1.2 14-1.2.2 15-1.2.3.1 16-1.2.3.2 17-1.2.3.2 18-1.2.3.3.1 19-1.2.3.3.2 20-1.2.3.3.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :D (v4 / label
+                  :E (v10 / label~e.12)
+                  :C (v11 / label~e.13))
+           :P (v5 / label~e.14)
+           :A (v6 / label
+                  :R (v12 / label~e.15)
+                  :C (v13 / label~e.16,17)
+                  :E (v14 / label
+                          :R (v15 / label~e.18)
+                          :C (v16 / label~e.19,20)))
+           :G (v7 / label~e.1,2,3,4,5,6)
+           :R (v8 / label~e.8)
+           :A (v9 / label~e.9)))

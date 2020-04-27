@@ -1,0 +1,17 @@
+# ::id 314974-0007
+# ::tok ( it 's by the door , on the hostess stand )
+# ::alignments 1-1.1.1 3-1.1.3 5-1.1.4.2 7-1.2.3 9-1.2.4.4.1 10-1.2.4.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.1)
+           :S (v5 / label~e.3)
+           :A (v6 / label
+                  :C (v9 / label~e.5)))
+    :H (v3 / label
+           :A v4
+           :S (v7 / label~e.7)
+           :A (v8 / label
+                  :C (v10 / label~e.10)
+                  :E (v11 / label
+                          :S (v12 / label~e.9)))))

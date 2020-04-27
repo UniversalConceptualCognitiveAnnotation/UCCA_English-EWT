@@ -1,0 +1,47 @@
+# ::id 047007-0001
+# ::tok Called to check if they had a product I 've been using on my dog for years ... the boy who answered the phone could n't possibly have been ruder to me .
+# ::alignments 0-1.1.2 1-1.2 2-1.3.2 3-1.3.3.1 4-1.3.3.2 5-1.3.3.3 7-1.3.3.4.2 8-1.3.3.4.3.2 11-1.3.3.4.3.5 12-1.3.3.4.3.6.1 13-1.3.3.4.3.6.2.2 14-1.3.3.4.3.6.3 15-1.3.3.4.3.7.1 16-1.3.3.4.3.7.2 19-1.4.7.2 20-1.4.7.3.2 21-1.4.7.3.3 23-1.4.7.3.4.2 24-1.4.8 25-1.4.1 26-1.4.2 29-1.4.5 30-1.4.6.1 31-1.4.6.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label)
+           :P (v7 / label~e.0))
+    :L (v3 / label~e.1)
+    :H (v4 / label
+           :A (v8 / label)
+           :P (v9 / label~e.2)
+           :A (v10 / label
+                   :R (v17 / label~e.3)
+                   :A (v18 / label~e.4)
+                   :S (v19 / label~e.5)
+                   :A (v20 / label
+                           :C (v25 / label~e.7)
+                           :E (v26 / label
+                                   :A v25
+                                   :A (v30 / label~e.8)
+                                   :P (v31 / label~e.11)
+                                   :A (v32 / label
+                                           :R (v35 / label~e.12)
+                                           :E (v36 / label
+                                                   :A (v37 / label~e.14)
+                                                   :S (v40 / label~e.13))
+                                           :C v37)
+                                   :T (v33 / label
+                                           :R (v38 / label~e.15)
+                                           :C (v39 / label~e.16))))))
+    :H (v5 / label
+           :D (v11 / label~e.25)
+           :D (v12 / label~e.26)
+           :S (v13 / label~e.29)
+           :A (v14 / label
+                   :R (v21 / label~e.30)
+                   :C (v22 / label~e.31))
+           :A (v15 / label
+                   :C (v23 / label~e.19)
+                   :E (v24 / label
+                           :A v23
+                           :R (v27 / label~e.20)
+                           :P (v28 / label~e.21)
+                           :A (v29 / label
+                                   :C (v34 / label~e.23))))
+           :D (v16 / label~e.24)))

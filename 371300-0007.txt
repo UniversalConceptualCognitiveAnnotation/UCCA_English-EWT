@@ -1,0 +1,33 @@
+# ::id 371300-0007
+# ::tok Plus the drinks are self service , have fun trying to negotiate the small cafeteria space to get your coffee , juice or water .
+# ::alignments 0-1.1 2-1.2.1.2 4-1.2.3 5-1.2.4 8-1.3.1.2 9-1.3.2 11-1.3.4 13-1.3.5.2 14-1.3.5.3 15-1.3.5.4 16-1.4 17-1.5.1 18-1.5.2.1.2 19-1.5.2.2.1 21-1.5.2.2.2 22-1.5.2.2.3 23-1.5.2.2.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v7 / label
+                  :C (v17 / label~e.2))
+           :D (v8 / label~e.4)
+           :P (v9 / label~e.5))
+    :H (v4 / label
+           :G (v10 / label
+                   :C (v18 / label~e.8))
+           :D (v11 / label~e.9)
+           :P (v12 / label~e.11)
+           :A (v13 / label
+                   :E (v19 / label~e.13)
+                   :E (v20 / label~e.14)
+                   :C (v21 / label~e.15)))
+    :L (v5 / label~e.16)
+    :H (v6 / label
+           :P (v14 / label~e.17)
+           :A (v15 / label
+                   :E (v22 / label
+                           :A (v23 / label
+                                   :C (v25 / label~e.19)
+                                   :C (v26 / label~e.21)
+                                   :N (v27 / label~e.22)
+                                   :C (v28 / label~e.23))
+                           :S (v24 / label~e.18))
+                   :C v23)
+           :A (v16 / label)))

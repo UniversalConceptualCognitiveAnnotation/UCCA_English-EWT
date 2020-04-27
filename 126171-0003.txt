@@ -1,0 +1,30 @@
+# ::id 126171-0003
+# ::tok The people there attempt to come across and professional and nice , but I was disappointed with their customer service .
+# ::alignments 1-1.1.1.2 2-1.1.2 3-1.1.3 5-1.1.5 6-1.1.5 7-1.1.6.2.1 8-1.1.6.2.2 9-1.1.6.1 10-1.1.6.3.1 12-1.2 13-1.3.2 15-1.3.4 16-1.3.1.1 17-1.3.1.2 18-1.3.1.3 19-1.3.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :C (v13 / label~e.1))
+           :A (v6 / label~e.2)
+           :D (v7 / label~e.3)
+           :P (v8 / label~e.5,6)
+           :A (v9 / label
+                  :L (v14 / label~e.9)
+                  :H (v15 / label
+                          :R (v21 / label~e.7)
+                          :S (v22 / label~e.8)
+                          :A v13)
+                  :H (v16 / label
+                          :S (v23 / label~e.10)
+                          :R v21
+                          :A v13)))
+    :L (v3 / label~e.12)
+    :H (v4 / label
+           :A (v10 / label
+                   :R (v17 / label~e.16)
+                   :A (v18 / label~e.17)
+                   :A (v19 / label~e.18)
+                   :P (v20 / label~e.19))
+           :A (v11 / label~e.13)
+           :S (v12 / label~e.15)))

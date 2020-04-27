@@ -1,0 +1,43 @@
+# ::id 081796-0006
+# ::tok In addition , the clothing is of much better quality than the clothing from hot topic , which is made as cheaply as possible by people living in horrible conditions in Asia .
+# ::alignments 0-1.1 1-1.1 4-1.2.3.2 7-1.2.6.1 8-1.2.6.2 9-1.2.1 10-1.2.2.1 12-1.2.2.3 13-1.2.2.4.1 14-1.2.2.4.2 15-1.2.2.4.2 17-1.2.2.5.2 19-1.2.2.5.4 20-1.2.2.5.5.1 21-1.2.2.5.5.2 22-1.2.2.5.5.3 23-1.2.2.5.5.4 24-1.2.2.5.6.1 25-1.2.2.5.6.2 26-1.2.2.5.6.3.2 27-1.2.2.5.6.3.3.1 28-1.2.2.5.6.3.3.2.2 29-1.2.2.5.6.3.3.3 30-1.2.2.5.6.3.4.1 31-1.2.2.5.6.3.4.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0,1)
+    :H (v3 / label
+           :S (v4 / label~e.9)
+           :A (v5 / label
+                  :R (v8 / label~e.10)
+                  :C (v9 / label~e.12)
+                  :E (v10 / label
+                          :R (v15 / label~e.13)
+                          :C (v16 / label~e.14,15))
+                  :E (v11 / label
+                          :A v9
+                          :R (v17 / label~e.17)
+                          :P (v18 / label~e.19)
+                          :D (v19 / label
+                                  :R (v21 / label~e.20)
+                                  :C (v22 / label~e.21)
+                                  :R (v23 / label~e.22)
+                                  :C (v24 / label~e.23))
+                          :A (v20 / label
+                                  :R (v25 / label~e.24)
+                                  :C (v26 / label~e.25)
+                                  :E (v27 / label
+                                          :A v26
+                                          :P (v28 / label~e.26)
+                                          :A (v29 / label
+                                                  :R (v31 / label~e.27)
+                                                  :E (v32 / label
+                                                          :A (v33 / label~e.29)
+                                                          :S (v36 / label~e.28))
+                                                  :C v33)
+                                          :A (v30 / label
+                                                  :R (v34 / label~e.30)
+                                                  :C (v35 / label~e.31))))))
+           :A (v6 / label
+                  :C (v12 / label~e.4))
+           :D (v7 / label
+                  :E (v13 / label~e.7)
+                  :C (v14 / label~e.8))))

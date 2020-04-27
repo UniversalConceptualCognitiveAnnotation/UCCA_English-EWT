@@ -1,0 +1,12 @@
+# ::id 026883-0002
+# ::tok Run do n't walk .
+# ::alignments 0-1.1.1 2-1.2.4 3-1.2.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v4 / label~e.0)
+           :A (v5 / label))
+    :H (v3 / label
+           :A (v6 / label)
+           :D (v7 / label~e.2)
+           :P (v8 / label~e.3)))

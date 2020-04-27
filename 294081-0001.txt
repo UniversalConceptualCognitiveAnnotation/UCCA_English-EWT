@@ -1,0 +1,10 @@
+# ::id 294081-0001
+# ::tok DINING AT TEXAS ROADHOUSE
+# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2 3-1.1.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label~e.0)
+           :A (v4 / label
+                  :R (v5 / label~e.1)
+                  :C (v6 / label~e.2,3))))

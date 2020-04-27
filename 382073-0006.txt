@@ -1,0 +1,11 @@
+# ::id 382073-0006
+# ::tok This store is what Colorado is all about .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 4-1.1.5 6-1.1.7 7-1.1.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label~e.0)
+                  :C (v7 / label~e.1))
+           :A (v4 / label~e.4)
+           :S (v5 / label~e.6,7)))

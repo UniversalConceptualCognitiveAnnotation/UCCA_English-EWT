@@ -1,0 +1,16 @@
+# ::id 363685-0032
+# ::tok They are RIGHT OFF the kitchen so you hear everything .
+# ::alignments 0-1.1.5 2-1.1.2 3-1.1.3 5-1.1.4.2 6-1.2 7-1.3.2 8-1.3.3 9-1.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v5 / label~e.2)
+           :S (v6 / label~e.3)
+           :A (v7 / label
+                  :C (v12 / label~e.5))
+           :A (v8 / label~e.0))
+    :L (v3 / label~e.6)
+    :H (v4 / label
+           :A (v9 / label~e.7)
+           :P (v10 / label~e.8)
+           :A (v11 / label~e.9)))

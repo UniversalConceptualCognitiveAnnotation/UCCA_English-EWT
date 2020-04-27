@@ -1,0 +1,22 @@
+# ::id 006970-0001
+# ::tok Wife and I attempted to adopt a dog and was nothing but frustrating .
+# ::alignments 0-1.1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 5-1.1.4 7-1.1.5.2 8-1.2 10-1.3.4.2 11-1.3.4.1 12-1.3.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :C (v11 / label
+                          :A (v17 / label~e.0))
+                  :N (v12 / label~e.1)
+                  :C (v13 / label~e.2))
+           :D (v6 / label~e.3)
+           :P (v7 / label~e.5)
+           :A (v8 / label
+                  :C (v14 / label~e.7)))
+    :L (v3 / label~e.8)
+    :H (v4 / label
+           :A v7
+           :D (v9 / label
+                  :R (v15 / label~e.11)
+                  :C (v16 / label~e.10))
+           :S (v10 / label~e.12)))

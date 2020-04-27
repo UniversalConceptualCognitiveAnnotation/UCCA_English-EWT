@@ -1,0 +1,24 @@
+# ::id 018548-0014
+# ::tok Perhaps they do n't deliver anymore , but the deliciousness of a mezza luna certainly warrants a pickup .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.4 4-1.1.5 5-1.1.6 7-1.2 9-1.3.1.1.2 10-1.3.1.2.1 12-1.3.1.2.3 13-1.3.1.2.3 14-1.3.2 15-1.3.3 17-1.3.4.1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :G (v5 / label~e.0)
+           :A (v6 / label~e.1)
+           :D (v7 / label~e.3)
+           :P (v8 / label~e.4)
+           :T (v9 / label~e.5))
+    :L (v3 / label~e.7)
+    :H (v4 / label
+           :A (v10 / label
+                   :S (v14 / label
+                           :C (v17 / label~e.9))
+                   :A (v15 / label
+                           :R (v18 / label~e.10)
+                           :C (v19 / label~e.12,13)))
+           :D (v11 / label~e.14)
+           :P (v12 / label~e.15)
+           :A (v13 / label
+                   :P (v16 / label
+                           :C (v20 / label~e.17)))))

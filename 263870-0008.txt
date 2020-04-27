@@ -1,0 +1,22 @@
+# ::id 263870-0008
+# ::tok VCU is also minutes from Downtown Richmond , Canal Walk , Carytown , Stony Point , Short Pump , and the VCU Medical Center .
+# ::alignments 0-1.1.2 2-1.1.4 3-1.1.5 4-1.1.6.1 5-1.1.6.2 6-1.1.6.2 8-1.1.6.3 9-1.1.6.3 11-1.1.6.4 13-1.1.6.5 14-1.1.6.5 16-1.1.6.6 17-1.1.6.6 19-1.1.6.7 21-1.1.6.8.2 22-1.1.6.8.3 23-1.1.6.8.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label~e.0)
+           :D (v5 / label~e.2)
+           :T (v6 / label~e.3)
+           :A (v7 / label
+                  :R (v8 / label~e.4)
+                  :C (v9 / label~e.5,6)
+                  :C (v10 / label~e.8,9)
+                  :C (v11 / label~e.11)
+                  :C (v12 / label~e.13,14)
+                  :C (v13 / label~e.16,17)
+                  :N (v14 / label~e.19)
+                  :C (v15 / label
+                          :E (v16 / label~e.21)
+                          :E (v17 / label~e.22)
+                          :C (v18 / label~e.23)))))

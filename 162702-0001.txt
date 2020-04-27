@@ -1,0 +1,12 @@
+# ::id 162702-0001
+# ::tok The best photographer in Miami
+# ::alignments 1-1.1.1.2 2-1.1.2 3-1.1.3.1 4-1.1.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :C (v6 / label~e.1))
+           :A (v4 / label~e.2)
+           :A (v5 / label
+                  :R (v7 / label~e.3)
+                  :C (v8 / label~e.4))))

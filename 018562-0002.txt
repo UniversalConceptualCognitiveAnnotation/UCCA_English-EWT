@@ -1,0 +1,24 @@
+# ::id 018562-0002
+# ::tok I want to say that Mike did a great job for our family in our time of need .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.4 4-1.1.5.7 5-1.1.5.1 8-1.1.5.4 9-1.1.5.3.2 10-1.1.5.5.1 11-1.1.5.5.2 12-1.1.5.5.3 13-1.1.5.6.1 14-1.1.5.6.2 15-1.1.5.6.3 17-1.1.5.6.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :D (v4 / label~e.1)
+           :P (v5 / label~e.3)
+           :A (v6 / label
+                  :A (v7 / label~e.5)
+                  :P (v8 / label
+                         :C (v13 / label~e.9))
+                  :D (v9 / label~e.8)
+                  :A (v10 / label
+                          :R (v14 / label~e.10)
+                          :A (v15 / label~e.11)
+                          :A (v16 / label~e.12))
+                  :A (v11 / label
+                          :R (v17 / label~e.13)
+                          :A (v18 / label~e.14)
+                          :T (v19 / label~e.15)
+                          :S (v20 / label~e.17))
+                  :R (v12 / label~e.4))))

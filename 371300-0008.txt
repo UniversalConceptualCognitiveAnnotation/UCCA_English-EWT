@@ -1,0 +1,14 @@
+# ::id 371300-0008
+# ::tok Go next door to the Ball Square Cafe instead .
+# ::alignments 0-1.1.2 1-1.1.3.1 2-1.1.3.2 3-1.1.4.2 5-1.1.4.1 6-1.1.4.1 7-1.1.4.1 8-1.1.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label~e.0)
+           :A (v4 / label
+                  :E (v7 / label~e.1)
+                  :C (v8 / label~e.2))
+           :A (v5 / label
+                  :C (v9 / label~e.5,6,7)
+                  :R (v10 / label~e.3))
+           :D (v6 / label~e.8)))

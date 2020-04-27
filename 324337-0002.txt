@@ -1,0 +1,17 @@
+# ::id 324337-0002
+# ::tok Their service sucks to start off with , people are cruel and ignorant .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.2 4-1.2 5-1.2 6-1.2 8-1.3.1 10-1.3.3 11-1.4 12-1.5.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label~e.0)
+           :P (v8 / label~e.1)
+           :D (v9 / label~e.2))
+    :L (v3 / label~e.3,4,5,6)
+    :H (v4 / label
+           :A (v10 / label~e.8)
+           :S (v11 / label~e.10))
+    :L (v5 / label~e.11)
+    :H (v6 / label
+           :A v10
+           :S (v12 / label~e.12)))
