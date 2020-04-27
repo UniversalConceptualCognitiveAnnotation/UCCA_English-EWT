@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 267793-0003
+# text = He did nt prescribe pain meds or other drugs , he used his bodytalk method which is unusual but the results are undeniable .
+1	He	_	Word	Word	_	4	A	4:A	_
+2	did	_	Word	Word	_	4	F	4:F	_
+3	nt	_	Word	Word	_	4	D	4:D	_
+4	prescribe	_	Word	Word	_	0	H	0:H	_
+5	pain	_	Word	Word	_	6	E	6:E	_
+6	meds	_	Word	Word	_	4	A	4:A	_
+7	or	_	Word	Word	_	6	N	6:N	_
+8	other	_	Word	Word	_	9	E	9:E	_
+9	drugs	_	Word	Word	_	6	C	6:C	_
+10	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+11	he	_	Word	Word	_	12	A	12:A	_
+12	used	_	Word	Word	_	4	H	4:H	_
+13	his	_	Word	Word	_	15	E	15:E	_
+14	bodytalk	_	Word	Word	_	15	E	15:E	_
+15	method	_	Word	Word	_	0	C	0:C|13:A|18:A	_
+16	which	_	Word	Word	_	18	L	18:L	_
+17	is	_	Word	Word	_	18	F	18:F	_
+18	unusual	_	Word	Word	_	4	H	4:H	_
+19	but	_	Word	Word	_	21	L	21:L	_
+20	the	_	Word	Word	_	21	F	21:F	_
+21	results	_	Word	Word	_	4	H	4:H	_
+22	are	_	Word	Word	_	21	F	21:F	_
+23	undeniable	_	Word	Word	_	21	D	21:D	_
+24	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

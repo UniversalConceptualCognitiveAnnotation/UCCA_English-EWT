@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 186135-0002
+# text = The food 's okay , but the price is outrageous .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	food	_	Word	Word	_	4	A	4:A	_
+3	's	_	Word	Word	_	4	F	4:F	_
+4	okay	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	but	_	Word	Word	_	10	L	10:L	_
+7	the	_	Word	Word	_	8	F	8:F	_
+8	price	_	Word	Word	_	10	A	10:A	_
+9	is	_	Word	Word	_	10	F	10:F	_
+10	outrageous	_	Word	Word	_	4	H	4:H	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

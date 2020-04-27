@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 366586-0002
+# text = My husband and I happened in on a whim .
+1	My	_	Word	Word	_	5	A	5:A	_
+2	husband	_	Word	Word	_	1	A	1:A	_
+3	and	_	Word	Word	_	1	N	1:N	_
+4	I	_	Word	Word	_	1	C	1:C	_
+5	happened	_	Word	Word	_	0	H	0:H	_
+6	in	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	on	_	Word	Word	_	5	D	5:D	_
+8	a	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	whim	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

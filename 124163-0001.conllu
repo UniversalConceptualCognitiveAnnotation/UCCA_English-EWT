@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 124163-0001
+# text = Cranmore Dental and Implant Clinic : I could not recommend Dr David Nelson enough .
+1	Cranmore	_	Word	Word	_	10	A	10:A	_
+2	Dental	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	and	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	Implant	_	Word	Word	_	1	Terminal	1:Terminal	_
+5	Clinic	_	Word	Word	_	1	Terminal	1:Terminal	_
+6	:	_	Punctuation	Punctuation	_	10	U	10:U	_
+7	I	_	Word	Word	_	10	A	10:A	_
+8	could	_	Word	Word	_	10	D	10:D	_
+9	not	_	Word	Word	_	10	D	10:D	_
+10	recommend	_	Word	Word	_	0	H	0:H	_
+11	Dr	_	Word	Word	_	12	E	12:E	_
+12	David	_	Word	Word	_	10	A	10:A	_
+13	Nelson	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	enough	_	Word	Word	_	10	D	10:D	_
+15	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

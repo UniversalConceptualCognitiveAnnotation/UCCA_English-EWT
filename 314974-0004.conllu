@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 314974-0004
+# text = If you can not park in the lot , then you can park in the shopping center 's garage , and walk up to Endo Sushi .
+1	If	_	Word	Word	_	13	L	13:L	_
+2	you	_	Word	Word	_	5	A	5:A	_
+3	can	_	Word	Word	_	5	D	5:D	_
+4	not	_	Word	Word	_	5	D	5:D	_
+5	park	_	Word	Word	_	0	H	0:H	_
+6	in	_	Word	Word	_	8	R	8:R	_
+7	the	_	Word	Word	_	8	F	8:F	_
+8	lot	_	Word	Word	_	5	A	5:A	_
+9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+10	then	_	Word	Word	_	13	L	13:L	_
+11	you	_	Word	Word	_	13	A	13:A|22:A	_
+12	can	_	Word	Word	_	13	D	13:D	_
+13	park	_	Word	Word	_	5	H	5:H	_
+14	in	_	Word	Word	_	19	R	19:R	_
+15	the	_	Word	Word	_	17	F	17:F	_
+16	shopping	_	Word	Word	_	17	E	17:E	_
+17	center	_	Word	Word	_	19	E	19:E	_
+18	's	_	Word	Word	_	17	R	17:R	_
+19	garage	_	Word	Word	_	13	A	13:A	_
+20	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+21	and	_	Word	Word	_	22	L	22:L	_
+22	walk	_	Word	Word	_	5	H	5:H	_
+23	up	_	Word	Word	_	22	D	22:D	_
+24	to	_	Word	Word	_	25	R	25:R	_
+25	Endo	_	Word	Word	_	22	A	22:A	_
+26	Sushi	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

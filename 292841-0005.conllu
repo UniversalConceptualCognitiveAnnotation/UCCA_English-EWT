@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 292841-0005
+# text = There 's a restaurant nearby ( walking distance ) with a great breakfast , and a market across the street .
+1	There	_	Word	Word	_	0	H	0:H	_
+2	's	_	Word	Word	_	1	F	1:F	_
+3	a	_	Word	Word	_	4	F	4:F	_
+4	restaurant	_	Word	Word	_	1	A	1:A	_
+5	nearby	_	Word	Word	_	4	E	4:E	_
+6	(	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	walking	_	Word	Word	_	4	E	4:E	_
+8	distance	_	Word	Word	_	7	A	7:A	_
+9	)	_	Punctuation	Punctuation	_	4	U	4:U	_
+10	with	_	Word	Word	_	13	R	13:R	_
+11	a	_	Word	Word	_	13	F	13:F	_
+12	great	_	Word	Word	_	13	D	13:D	_
+13	breakfast	_	Word	Word	_	4	E	4:E	_
+14	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+15	and	_	Word	Word	_	17	L	17:L	_
+16	a	_	Word	Word	_	17	F	17:F	_
+17	market	_	Word	Word	_	1	H	1:H	_
+18	across	_	Word	Word	_	20	E	20:E	_
+19	the	_	Word	Word	_	20	F	20:F	_
+20	street	_	Word	Word	_	17	E	17:E	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

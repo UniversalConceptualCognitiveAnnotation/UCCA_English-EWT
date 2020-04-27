@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 036753-0010
+# text = If it lasted 1 month i could suck it up but 1 day ?
+1	If	_	Word	Word	_	8	L	8:L	_
+2	it	_	Word	Word	_	3	A	3:A|13:A	_
+3	lasted	_	Word	Word	_	0	H	0:H	_
+4	1	_	Word	Word	_	5	Q	5:Q	_
+5	month	_	Word	Word	_	3	T	3:T	_
+6	i	_	Word	Word	_	8	A	8:A	_
+7	could	_	Word	Word	_	8	D	8:D	_
+8	suck	_	Word	Word	_	3	H	3:H	_
+9	it	_	Word	Word	_	8	A	8:A	_
+10	up	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	but	_	Word	Word	_	13	L	13:L	_
+12	1	_	Word	Word	_	13	Q	13:Q	_
+13	day	_	Word	Word	_	3	H	3:H	_
+14	?	_	Punctuation	Punctuation	_	13	U	13:U	_
+

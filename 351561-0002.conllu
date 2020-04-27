@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 351561-0002
+# text = I called dominos tonight , it rang forever , I get put on hold twice without saying a word and FINALLY someone says , MAY I HELP YOU ?
+1	I	_	Word	Word	_	2	A	2:A	_
+2	called	_	Word	Word	_	0	H	0:H	_
+3	dominos	_	Word	Word	_	2	A	2:A	_
+4	tonight	_	Word	Word	_	2	T	2:T	_
+5	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	it	_	Word	Word	_	7	A	7:A	_
+7	rang	_	Word	Word	_	2	H	2:H	_
+8	forever	_	Word	Word	_	7	T	7:T	_
+9	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	I	_	Word	Word	_	14	A	14:A|17:A	_
+11	get	_	Word	Word	_	14	F	14:F	_
+12	put	_	Word	Word	_	14	F	14:F	_
+13	on	_	Word	Word	_	14	R	14:R	_
+14	hold	_	Word	Word	_	2	H	2:H	_
+15	twice	_	Word	Word	_	14	D	14:D	_
+16	without	_	Word	Word	_	17	D	17:D	_
+17	saying	_	Word	Word	_	2	H	2:H	_
+18	a	_	Word	Word	_	19	F	19:F	_
+19	word	_	Word	Word	_	17	A	17:A	_
+20	and	_	Word	Word	_	23	L	23:L	_
+21	FINALLY	_	Word	Word	_	23	T	23:T	_
+22	someone	_	Word	Word	_	23	A	23:A	_
+23	says	_	Word	Word	_	2	H	2:H	_
+24	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	MAY	_	Word	Word	_	27	D	27:D	_
+26	I	_	Word	Word	_	27	A	27:A	_
+27	HELP	_	Word	Word	_	23	A	23:A	_
+28	YOU	_	Word	Word	_	27	A	27:A	_
+29	?	_	Punctuation	Punctuation	_	27	U	27:U	_
+

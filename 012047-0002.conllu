@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 012047-0002
+# text = They specialize in financial institutions , medical , and retail projects .
+1	They	_	Word	Word	_	2	A	2:A	_
+2	specialize	_	Word	Word	_	0	H	0:H	_
+3	in	_	Word	Word	_	5	R	5:R	_
+4	financial	_	Word	Word	_	5	E	5:E	_
+5	institutions	_	Word	Word	_	2	A	2:A	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	medical	_	Word	Word	_	11	E	11:E	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	and	_	Word	Word	_	7	N	7:N	_
+10	retail	_	Word	Word	_	7	C	7:C	_
+11	projects	_	Word	Word	_	5	C	5:C	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

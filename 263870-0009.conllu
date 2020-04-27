@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 263870-0009
+# text = It is the best university in Virginia and continuously receives rave reviews every year .
+1	It	_	Word	Word	_	2	A	2:A	_
+2	is	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	4	F	4:F	_
+4	best	_	Word	Word	_	5	E	5:E	_
+5	university	_	Word	Word	_	0	C	0:C|4:A|10:A	_
+6	in	_	Word	Word	_	7	R	7:R	_
+7	Virginia	_	Word	Word	_	5	E	5:E	_
+8	and	_	Word	Word	_	10	L	10:L	_
+9	continuously	_	Word	Word	_	10	D	10:D	_
+10	receives	_	Word	Word	_	2	H	2:H	_
+11	rave	_	Word	Word	_	12	D	12:D	_
+12	reviews	_	Word	Word	_	10	A	10:A	_
+13	every	_	Word	Word	_	14	E	14:E	_
+14	year	_	Word	Word	_	10	T	10:T	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

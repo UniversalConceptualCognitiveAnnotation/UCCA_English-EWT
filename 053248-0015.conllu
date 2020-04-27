@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 053248-0015
+# text = Oh , yes , the chocolate semifreddo was quite good .
+1	Oh	_	Word	Word	_	10	L	10:L	_
+2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	yes	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+5	the	_	Word	Word	_	7	F	7:F	_
+6	chocolate	_	Word	Word	_	7	E	7:E	_
+7	semifreddo	_	Word	Word	_	10	A	10:A	_
+8	was	_	Word	Word	_	10	F	10:F	_
+9	quite	_	Word	Word	_	10	D	10:D	_
+10	good	_	Word	Word	_	0	H	0:H	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 150192-0003
+# text = The sauce was dry and the enchiladas did not taste good . at all .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	sauce	_	Word	Word	_	4	A	4:A	_
+3	was	_	Word	Word	_	4	F	4:F	_
+4	dry	_	Word	Word	_	0	H	0:H	_
+5	and	_	Word	Word	_	11	L	11:L	_
+6	the	_	Word	Word	_	7	F	7:F	_
+7	enchiladas	_	Word	Word	_	11	A	11:A	_
+8	did	_	Word	Word	_	11	F	11:F	_
+9	not	_	Word	Word	_	11	D	11:D	_
+10	taste	_	Word	Word	_	11	G	11:G	_
+11	good	_	Word	Word	_	4	H	4:H	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	at	_	Word	Word	_	11	D	11:D	_
+14	all	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

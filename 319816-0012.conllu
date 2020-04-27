@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 319816-0012
+# text = Once again , I waited for quite a bit before being attended to .
+1	Once	_	Word	Word	_	2	E	2:E	_
+2	again	_	Word	Word	_	5	D	5:D	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	I	_	Word	Word	_	5	A	5:A|13:C	_
+5	waited	_	Word	Word	_	0	H	0:H	_
+6	for	_	Word	Word	_	7	R	7:R	_
+7	quite	_	Word	Word	_	5	D	5:D	_
+8	a	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	bit	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	before	_	Word	Word	_	12	L	12:L	_
+11	being	_	Word	Word	_	12	F	12:F	_
+12	attended	_	Word	Word	_	5	H	5:H	_
+13	to	_	Word	Word	_	12	A	12:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+
