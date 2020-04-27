@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git clone -q https://github.com/UniversalDependencies/UD_English-EWT --branch=r2.3
+git clone -q https://github.com/UniversalDependencies/UD_English-EWT --branch=r2.5
 pip install -U semstr udapi
 
 # Extract all UD-annotated docs for which we also have UCCA annotations
@@ -36,7 +36,7 @@ for xml in xml/*; do
     if ! grep -qFxf- "ud/${doc_id}.txt" < "txt/${txt%.*}.txt"; then
       echo
       echo Could not match "txt/${txt%.*}.txt" to any line from "ud/${doc_id}.txt":
-      head -n-0 "txt/${txt%.*}.txt" cat "ud/${doc_id}.txt"
+      head -n-0 "txt/${txt%.*}.txt" "ud/${doc_id}.txt"
       rm -fv "${sentence}"
     fi
   done
