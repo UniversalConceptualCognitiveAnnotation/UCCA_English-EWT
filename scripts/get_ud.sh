@@ -33,7 +33,12 @@ for xml in xml/*; do
   python -m scripts.standard_to_text "sentences_by_ud/${doc_id}-"* -o txt 2>/dev/null || exit 1
   for sentence in "sentences_by_ud/${doc_id}-"*; do
     txt=${sentence#*/}
-    grep -qFxf- "ud/${doc_id}.txt" < "txt/${txt%.*}.txt" || rm -fv "${sentence}"
+    if ! grep -qFxf- "ud/${doc_id}.txt" < "txt/${txt%.*}.txt"; then
+      echo
+      echo Could not match "txt/${txt%.*}.txt" to any line from "ud/${doc_id}.txt":
+      head -n-0 "txt/${txt%.*}.txt" cat "ud/${doc_id}.txt"
+      rm -fv "${sentence}"
+    fi
   done
 done
 echo
