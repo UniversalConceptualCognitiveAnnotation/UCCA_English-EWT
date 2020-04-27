@@ -1,6 +1,6 @@
 UCCA English Web Treebank Corpus
 ================================
-Version 1.0 (March 22, 2019)
+Version 1.0.1 (April 27, 2020)
 -----------------------------
 
 This bundle contains 723 passages from the reviews section of the English Web Treebank (LDC2012T13),
