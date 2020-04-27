@@ -1,0 +1,18 @@
+# sent_id = 119026-0002
+1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	3:det	_
+2	wonderful	wonderful	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	place	place	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
+4	,	,	PUNCT	,	_	3	punct	3:punct	_
+5	if	if	SCONJ	IN	_	7	mark	7:mark	_
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	7:nsubj	_
+7	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	advcl	3:advcl:if	_
+8	more	more	ADJ	JJR	Degree=Cmp	7	obj	7:obj	_
+9	than	than	ADP	IN	_	13	case	13:case	_
+10	just	just	ADV	RB	_	13	advmod	13:advmod	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
+12	physical	physical	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
+13	side	side	NOUN	NN	Number=Sing	8	obl	8:obl:than	_
+14	of	of	ADP	IN	_	15	case	15:case	_
+15	yoga	yoga	NOUN	NN	Number=Sing	13	nmod	13:nmod:of	SpaceAfter=No
+16	.	.	PUNCT	.	_	3	punct	3:punct	_
+

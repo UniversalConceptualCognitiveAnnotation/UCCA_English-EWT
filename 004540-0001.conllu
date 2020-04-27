@@ -1,0 +1,10 @@
+# newdoc id = 004540
+# sent_id = 004540-0001
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
+2	really	really	ADV	RB	_	3	advmod	3:advmod	_
+3	go	go	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	above	above	ADV	RB	_	3	advmod	3:advmod	_
+5	and	and	CCONJ	CC	_	6	cc	6:cc	_
+6	beyond	beyond	ADV	RB	_	4	conj	3:advmod|4:conj:and	SpaceAfter=No
+7	!	!	PUNCT	.	_	3	punct	3:punct	_
+

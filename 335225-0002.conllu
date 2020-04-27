@@ -1,0 +1,17 @@
+# sent_id = 335225-0002
+1	After	after	SCONJ	IN	_	5	mark	5:mark	_
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+3	trees	tree	NOUN	NNS	Number=Plur	5	nsubj:pass	5:nsubj:pass	_
+4	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux:pass	5:aux:pass	_
+5	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	9	advcl	9:advcl:after	_
+6	up	up	ADP	RP	_	5	compound:prt	5:compound:prt	SpaceAfter=No
+7	,	,	PUNCT	,	_	9	punct	9:punct	_
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	9:nsubj	_
+9	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+10	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	iobj	9:iobj	_
+11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	_
+12	jar	jar	NOUN	NN	Number=Sing	9	obj	9:obj	_
+13	of	of	ADP	IN	_	14	case	14:case	_
+14	salsa	salsa	NOUN	NN	Number=Sing	12	nmod	12:nmod:of	SpaceAfter=No
+15	.	.	PUNCT	.	_	9	punct	9:punct	_
+

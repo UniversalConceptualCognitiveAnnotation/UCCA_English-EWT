@@ -1,0 +1,25 @@
+# sent_id = 294081-0012
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+2	WAS	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	4:cop	_
+3	ALSO	also	ADV	RB	_	4	advmod	4:advmod	_
+4	THERE	there	ADV	RB	PronType=Dem	0	root	0:root	_
+5	OF	on	ADP	IN	Typo=Yes	6	case	6:case	_
+6	JULY	JULY	PROPN	NNP	Number=Sing	4	obl	4:obl:on	_
+7	4TH	4th	NOUN	NN	Number=Sing	6	nummod	6:nummod	_
+8	2008	2008	NUM	CD	NumType=Card	7	nummod	7:nummod	SpaceAfter=No
+9	,	,	PUNCT	,	_	7	punct	7:punct	_
+10	WHEN	when	ADV	WRB	PronType=Rel	16	advmod	16:advmod	_
+11	MY	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	_
+12	DAUGHTER	daughter	NOUN	NN	Number=Sing	15	nmod:poss	15:nmod:poss	SpaceAfter=No
+13	S	's	PART	POS	_	12	case	12:case	_
+14	BUFFALO	BUFFALO	PROPN	NNP	Number=Sing	15	compound	15:compound	_
+15	WINGS	wing	NOUN	NNS	Number=Plur	16	nsubj	16:nsubj	_
+16	CAME	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	acl:relcl	6:acl:relcl	_
+17	OUT	out	ADV	RB	_	16	advmod	16:advmod	_
+18	WITH	with	SCONJ	IN	_	22	mark	22:mark	_
+19	A	a	DET	DT	Definite=Ind|PronType=Art	20	det	20:det	_
+20	FLY	fly	NOUN	NN	Number=Sing	22	nsubj	22:nsubj	_
+21	ON	on	ADP	IN	_	22	case	22:case	_
+22	IT	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	advcl	16:advcl:on	SpaceAfter=No
+23	.	.	PUNCT	.	_	4	punct	4:punct	_
+

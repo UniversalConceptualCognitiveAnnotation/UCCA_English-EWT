@@ -1,0 +1,27 @@
+# sent_id = 107692-0008
+1	And	and	CCONJ	CC	_	5	cc	5:cc	_
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	5:aux	SpaceAfter=No
+3	n't	not	PART	RB	_	5	advmod	5:advmod	_
+4	even	even	ADV	RB	_	5	advmod	5:advmod	_
+5	think	think	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
+6	about	about	SCONJ	IN	_	7	mark	7:mark	_
+7	asking	ask	VERB	VBG	VerbForm=Ger	5	advcl	5:advcl:about	_
+8	to	to	PART	TO	_	9	mark	9:mark	_
+9	speak	speak	VERB	VB	VerbForm=Inf	7	xcomp	7:xcomp	_
+10	to	to	ADP	IN	_	12	case	12:case	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
+12	manager	manager	NOUN	NN	Number=Sing	9	obl	9:obl:to	_
+13	because	because	SCONJ	IN	_	24	mark	24:mark	_
+14	this	this	DET	DT	Number=Sing|PronType=Dem	15	det	15:det	_
+15	guy	guy	NOUN	NN	Number=Sing	24	nsubj	24:nsubj	_
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	24:cop	SpaceAfter=No
+17	,	,	PUNCT	,	_	19	punct	19:punct	_
+18	and	and	CCONJ	CC	_	19	cc	19:cc	_
+19	pardon	pardon	VERB	VB	Mood=Imp|VerbForm=Fin	24	parataxis	24:parataxis	_
+20	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	21	nmod:poss	21:nmod:poss	_
+21	French	French	PROPN	NNP	Number=Sing	19	obj	19:obj	SpaceAfter=No
+22	,	,	PUNCT	,	_	19	punct	19:punct	_
+23	a	a	DET	DT	Definite=Ind|PronType=Art	24	det	24:det	_
+24	jerk	jerk	NOUN	NN	Number=Sing	5	advcl	5:advcl:because	SpaceAfter=No
+25	.	.	PUNCT	.	_	5	punct	5:punct	_
+

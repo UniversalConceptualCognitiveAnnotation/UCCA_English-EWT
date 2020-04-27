@@ -1,0 +1,17 @@
+# sent_id = 042416-0008
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+2	would	would	AUX	MD	VerbForm=Fin	4	aux	4:aux	_
+3	highly	highly	ADV	RB	_	4	advmod	4:advmod	_
+4	recommend	recommend	VERB	VB	VerbForm=Inf	0	root	0:root	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+6	El	El	PROPN	NNP	Number=Sing	7	compound	7:compound	_
+7	Paradero	Paradero	PROPN	NNP	Number=Sing	4	obj	4:obj	_
+8	on	on	ADP	IN	_	11	case	11:case	_
+9	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
+10	next	next	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	trip	trip	NOUN	NN	Number=Sing	4	obl	4:obl:on	_
+12	to	to	ADP	IN	_	14	case	14:case	_
+13	Santa	Santa	PROPN	NNP	Number=Sing	14	compound	14:compound	_
+14	Fe	Fe	PROPN	NNP	Number=Sing	11	nmod	11:nmod:to	SpaceAfter=No
+15	!	!	PUNCT	.	_	4	punct	4:punct	_
+

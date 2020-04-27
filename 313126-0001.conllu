@@ -1,0 +1,16 @@
+# newdoc id = 313126
+# sent_id = 313126-0001
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	Dr.	Dr.	PROPN	NNP	Number=Sing	2	iobj	2:iobj	_
+4	Rohatgi	Rohatgi	PROPN	NNP	Number=Sing	3	flat	3:flat	_
+5	2	2	NUM	CD	NumType=Card	6	nummod	6:nummod	_
+6	stars	star	NOUN	NNS	Number=Plur	2	obj	2:obj	_
+7	because	because	SCONJ	IN	_	12	mark	12:mark	_
+8	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
+9	assistant	assistant	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	_
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	12:cop	_
+11	very	very	ADV	RB	_	12	advmod	12:advmod	_
+12	pleasant	pleasant	ADJ	JJ	Degree=Pos	2	advcl	2:advcl:because	SpaceAfter=No
+13	.	.	PUNCT	.	_	2	punct	2:punct	_
+

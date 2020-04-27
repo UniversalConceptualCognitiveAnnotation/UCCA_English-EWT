@@ -1,0 +1,12 @@
+# sent_id = 121556-0005
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	highlights	highlight	NOUN	NNS	Number=Plur	2	obj	2:obj	SpaceAfter=No
+4	,	,	PUNCT	,	_	5	punct	5:punct	_
+5	haircut	haircut	NOUN	NN	Number=Sing	3	conj	2:obj|3:conj:and	SpaceAfter=No
+6	,	,	PUNCT	,	_	9	punct	9:punct	_
+7	and	and	CCONJ	CC	_	9	cc	9:cc	_
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
+9	blowdry	blowdry	NOUN	NN	Number=Sing	3	conj	2:obj|3:conj:and	SpaceAfter=No
+10	.	.	PUNCT	.	_	2	punct	2:punct	_
+

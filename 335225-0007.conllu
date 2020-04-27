@@ -1,0 +1,25 @@
+# sent_id = 335225-0007
+1	And	and	CCONJ	CC	_	6	cc	6:cc	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+3	salsa	salsa	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
+4	,	,	PUNCT	,	_	6	punct	6:punct	_
+5	be	be	AUX	VB	Mood=Imp|VerbForm=Fin	6	cop	6:cop	_
+6	sure	sure	ADJ	JJ	Degree=Pos	3	parataxis	3:parataxis	_
+7	to	to	PART	TO	_	8	mark	8:mark	_
+8	ask	ask	VERB	VB	VerbForm=Inf	6	xcomp	6:xcomp	_
+9	for	for	ADP	IN	_	11	case	11:case	_
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	_
+11	jar	jar	NOUN	NN	Number=Sing	8	obl	8:obl:for	_
+12	and	and	CCONJ	CC	_	13	cc	13:cc	_
+13	have	have	VERB	VB	VerbForm=Inf	8	conj	6:xcomp|8:conj:and	_
+14	plenty	plenty	NOUN	NN	Number=Sing	13	obj	13:obj	_
+15	of	of	ADP	IN	_	16	case	16:case	_
+16	chips	chip	NOUN	NNS	Number=Plur	14	nmod	14:nmod:of	_
+17	around	around	ADV	RB	_	14	advmod	14:advmod	SpaceAfter=No
+18	,	,	PUNCT	,	_	6	punct	6:punct	_
+19	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	21	nsubj	21:nsubj	_
+20	will	will	AUX	MD	VerbForm=Fin	21	aux	21:aux	_
+21	need	need	VERB	VB	VerbForm=Inf	6	parataxis	6:parataxis	_
+22	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	21	obj	21:obj	SpaceAfter=No
+23	.....	.....	PUNCT	.	_	6	punct	6:punct	_
+

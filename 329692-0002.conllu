@@ -1,0 +1,22 @@
+# sent_id = 329692-0002
+1	January	January	PROPN	NNP	Number=Sing	6	obl:tmod	6:obl:tmod	_
+2	15th	15th	NOUN	NN	Number=Sing	1	nummod	1:nummod	_
+3	--	--	PUNCT	:	_	6	punct	6:punct	_
+4	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj:pass	6:nsubj:pass	_
+5	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	aux:pass	6:aux:pass	_
+6	signed	sign	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+7	up	up	ADP	RP	_	6	compound:prt	6:compound:prt	_
+8	for	for	ADP	IN	_	13	case	13:case	_
+9	Saturday	Saturday	PROPN	NNP	Number=Sing	13	nmod:poss	13:nmod:poss	SpaceAfter=No
+10	's	's	PART	POS	_	9	case	9:case	_
+11	2	2	NUM	CD	NumType=Card	12	nummod	12:nummod	_
+12	PM	pm	NOUN	NN	Number=Sing	13	compound	13:compound	_
+13	class	class	NOUN	NN	Number=Sing	6	obl	6:obl:for	_
+14	"	"	PUNCT	``	_	13	punct	13:punct	SpaceAfter=No
+15	Beginning	beginning	NOUN	NN	Number=Sing	16	compound	16:compound	_
+16	Yoga	yoga	NOUN	NN	Number=Sing	13	appos	13:appos	_
+17	with	with	ADP	IN	_	18	case	18:case	_
+18	Brittany	Brittany	PROPN	NNP	Number=Sing	16	nmod	16:nmod:with	SpaceAfter=No
+19	.	.	PUNCT	.	_	6	punct	6:punct	SpaceAfter=No
+20	"	"	PUNCT	''	_	6	punct	6:punct	_
+

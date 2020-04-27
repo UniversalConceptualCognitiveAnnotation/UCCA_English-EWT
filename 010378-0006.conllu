@@ -1,0 +1,19 @@
+# sent_id = 010378-0006
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
+4	could	could	AUX	MD	VerbForm=Fin	6	aux	6:aux	SpaceAfter=No
+5	've	have	AUX	VB	VerbForm=Inf	6	aux	6:aux	_
+6	done	do	VERB	VBN	Tense=Past|VerbForm=Part	2	ccomp	2:ccomp	_
+7	more	more	ADJ	JJR	Degree=Cmp	6	obj	6:obj	_
+8	to	to	PART	TO	_	9	mark	9:mark	_
+9	assuage	assuage	VERB	VB	VerbForm=Inf	6	advcl	6:advcl:to	_
+10	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
+11	concerns	concern	NOUN	NNS	Number=Plur	9	obj	9:obj	_
+12	by	by	SCONJ	IN	_	13	mark	13:mark	_
+13	giving	give	VERB	VBG	VerbForm=Ger	9	advcl	9:advcl:by	_
+14	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	iobj	13:iobj	_
+15	concrete	concrete	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
+16	facts	fact	NOUN	NNS	Number=Plur	13	obj	13:obj	SpaceAfter=No
+17	.	.	PUNCT	.	_	2	punct	2:punct	_
+

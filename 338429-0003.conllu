@@ -1,0 +1,18 @@
+# sent_id = 338429-0003
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj:pass	3:nsubj:pass|8:nsubj:pass|10:nsubj:xsubj	_
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	aux:pass	3:aux:pass	_
+3	told	tell	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+4	by	by	ADP	IN	_	6	case	6:case	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
+6	detective	detective	NOUN	NN	Number=Sing	3	obl	3:obl:by	_
+7	and	and	CCONJ	CC	_	8	cc	8:cc	_
+8	asked	ask	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	3:conj:and	_
+9	to	to	PART	TO	_	10	mark	10:mark	_
+10	check	check	VERB	VB	VerbForm=Inf	8	xcomp	8:xcomp	_
+11	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	_
+12	credit	credit	NOUN	NN	Number=Sing	10	obj	10:obj	_
+13	for	for	ADP	IN	_	14	case	14:case	_
+14	anything	anything	PRON	NN	Number=Sing	10	obl	10:obl:for	_
+15	unusual	unusual	ADJ	JJ	Degree=Pos	14	amod	14:amod	SpaceAfter=No
+16	.	.	PUNCT	.	_	3	punct	3:punct	_
+

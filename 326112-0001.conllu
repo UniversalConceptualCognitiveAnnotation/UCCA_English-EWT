@@ -1,0 +1,8 @@
+# newdoc id = 326112
+# sent_id = 326112-0001
+1	PAT	PAT	PROPN	NNP	Number=Sing	2	compound	2:compound	_
+2	testing	testing	PROPN	NNP	Number=Sing	0	root	0:root	_
+3	quick	quick	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
+4	&	&	CCONJ	CC	_	5	cc	5:cc	_
+5	efficient	efficient	ADJ	JJ	Degree=Pos	3	conj	2:amod|3:conj	_
+

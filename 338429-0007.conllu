@@ -1,0 +1,25 @@
+# sent_id = 338429-0007
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	other	other	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	guy	guy	NOUN	NN	Number=Sing	5	nsubj:pass	5:nsubj:pass	_
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	5:aux:pass	_
+5	pulled	pull	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+6	over	over	ADV	RB	_	5	advmod	5:advmod	_
+7	one	one	NUM	CD	NumType=Card	8	nummod	8:nummod	_
+8	day	day	NOUN	NN	Number=Sing	5	obl:tmod	5:obl:tmod	_
+9	and	and	CCONJ	CC	_	12	cc	12:cc	_
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	_
+11	cop	cop	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	_
+12	saw	see	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	conj	5:conj:and	_
+13	suspicious	suspicious	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
+14	papers	papers	NOUN	NNS	Number=Plur	12	obj	12:obj	_
+15	with	with	ADP	IN	_	16	case	16:case	_
+16	names	name	NOUN	NNS	Number=Plur	14	nmod	14:nmod:with	_
+17	and	and	CCONJ	CC	_	20	cc	20:cc	_
+18	social	social	ADJ	JJ	Degree=Pos	19	amod	19:amod	_
+19	security	security	NOUN	NN	Number=Sing	20	compound	20:compound	_
+20	numbers	number	NOUN	NNS	Number=Plur	16	conj	14:nmod:with|16:conj:and	_
+21	on	on	ADP	IN	_	22	case	22:case	_
+22	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	nmod	16:nmod:on	SpaceAfter=No
+23	.	.	PUNCT	.	_	5	punct	5:punct	_
+

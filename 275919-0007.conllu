@@ -1,0 +1,14 @@
+# sent_id = 275919-0007
+1	FusionRetail	FusionRetail	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	_
+2	helps	help	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	2	obj	2:obj|5:nsubj:xsubj	_
+4	to	to	PART	TO	_	5	mark	5:mark	_
+5	maintain	maintain	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	store	store	NOUN	NN	Number=Sing	5	obj	5:obj	_
+8	in	in	ADP	IN	_	11	case	11:case	_
+9	an	a	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	_
+10	organised	organised	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	way	way	NOUN	NN	Number=Sing	5	obl	5:obl:in	SpaceAfter=No
+12	.	.	PUNCT	.	_	2	punct	2:punct	_
+

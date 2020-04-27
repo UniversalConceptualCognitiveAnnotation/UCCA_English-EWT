@@ -1,0 +1,16 @@
+# sent_id = 324337-0002
+1	Their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+2	service	service	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	sucks	suck	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	to	to	PART	TO	_	5	mark	5:mark	_
+5	start	start	VERB	VB	VerbForm=Inf	3	advcl	3:advcl:to	_
+6	off	off	ADP	RP	_	5	compound:prt	5:compound:prt	_
+7	with	with	ADV	RB	_	5	advmod	5:advmod	SpaceAfter=No
+8	,	,	PUNCT	,	_	11	punct	11:punct	_
+9	people	people	NOUN	NNS	Number=Plur	11	nsubj	11:nsubj|13:nsubj	_
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	11:cop	_
+11	cruel	cruel	ADJ	JJ	Degree=Pos	3	conj	3:conj	_
+12	and	and	CCONJ	CC	_	13	cc	13:cc	_
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	11:conj:and	SpaceAfter=No
+14	.	.	PUNCT	.	_	3	punct	3:punct	_
+

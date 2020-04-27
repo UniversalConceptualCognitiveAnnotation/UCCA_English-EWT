@@ -1,0 +1,17 @@
+# sent_id = 121342-0005
+1	To	to	PART	TO	_	2	mark	2:mark	_
+2	start	start	VERB	VB	VerbForm=Inf	4	advcl	4:advcl:to	_
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+4	tried	try	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+6	guacamole	guacamole	NOUN	NN	Number=Sing	4	obj	4:obj	_
+7	and	and	CCONJ	CC	_	9	cc	9:cc	_
+8	salsa	salsa	NOUN	NN	Number=Sing	9	compound	9:compound	_
+9	verde	verde	NOUN	NN	Number=Sing	6	conj	4:obj|6:conj:and	SpaceAfter=No
+10	,	,	PUNCT	,	_	4	punct	4:punct	_
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	14:nsubj	_
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	cop	14:cop	_
+13	completly	completely	ADV	RB	Typo=Yes	14	advmod	14:advmod	_
+14	flavorless	flavorless	ADJ	JJ	Degree=Pos	4	parataxis	4:parataxis	SpaceAfter=No
+15	.	.	PUNCT	.	_	4	punct	4:punct	_
+

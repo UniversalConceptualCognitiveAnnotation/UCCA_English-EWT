@@ -1,0 +1,21 @@
+# sent_id = 333672-0006
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj|4:nsubj:xsubj	_
+2	tried	try	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	to	to	PART	TO	_	4	mark	4:mark	_
+4	run	run	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	_
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
+6	credit	credit	NOUN	NN	Number=Sing	7	compound	7:compound	_
+7	score	score	NOUN	NN	Number=Sing	4	obj	4:obj	_
+8	as	as	ADV	RB	_	9	advmod	9:advmod	_
+9	less	less	ADV	RBR	Degree=Cmp	4	advmod	4:advmod	_
+10	as	as	SCONJ	IN	_	11	case	11:case	_
+11	possible	possible	ADJ	JJ	Degree=Pos	8	obl	8:obl:as	_
+12	so	so	SCONJ	IN	_	16	mark	16:mark	_
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	nsubj	16:nsubj	_
+14	wo	will	AUX	MD	VerbForm=Fin	16	aux	16:aux	SpaceAfter=No
+15	n't	not	PART	RB	_	16	advmod	16:advmod	_
+16	hurt	hurt	VERB	VB	VerbForm=Inf	4	advcl	4:advcl:so	_
+17	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	18	nmod:poss	18:nmod:poss	_
+18	score	score	NOUN	NN	Number=Sing	16	obj	16:obj	SpaceAfter=No
+19	.	.	PUNCT	.	_	2	punct	2:punct	_
+

@@ -1,0 +1,32 @@
+# sent_id = 272836-0002
+1	Since	since	SCONJ	IN	_	2	mark	2:mark	_
+2	moving	move	VERB	VBG	VerbForm=Ger	17	advcl	17:advcl:since	_
+3	back	back	ADV	RB	_	2	advmod	2:advmod	_
+4	from	from	ADP	IN	_	5	case	5:case	_
+5	college	college	NOUN	NN	Number=Sing	2	obl	2:obl:from	_
+6	and	and	CCONJ	CC	_	7	cc	7:cc	_
+7	trying	try	VERB	VBG	VerbForm=Ger	2	conj	2:conj:and|17:advcl:since	_
+8	to	to	PART	TO	_	9	mark	9:mark	_
+9	settle	settle	VERB	VB	VerbForm=Inf	7	xcomp	7:xcomp	_
+10	roots	root	NOUN	NNS	Number=Plur	9	obj	9:obj	_
+11	in	in	ADP	IN	_	13	case	13:case	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
+13	Village	Village	PROPN	NNP	Number=Sing	10	nmod	10:nmod:in	SpaceAfter=No
+14	,	,	PUNCT	,	_	17	punct	17:punct	_
+15	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	17:nsubj	_
+16	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	aux	17:aux	_
+17	referred	refer	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+18	to	to	ADP	IN	_	23	case	23:case	_
+19	the	the	DET	DT	Definite=Def|PronType=Art	23	det	23:det	_
+20	La	La	PROPN	NNP	Number=Sing	23	compound	23:compound	_
+21	Jolla	Jolla	PROPN	NNP	Number=Sing	20	flat	20:flat	_
+22	Blue	Blue	PROPN	NNP	Number=Sing	23	compound	23:compound	_
+23	Book	Book	PROPN	NNP	Number=Sing	17	obl	17:obl:to	_
+24	for	for	ADP	IN	_	26	case	26:case	_
+25	a	a	DET	DT	Definite=Ind|PronType=Art	26	det	26:det	_
+26	ton	ton	NOUN	NN	Number=Sing	17	obl	17:obl:for	_
+27	of	of	ADP	IN	_	29	case	29:case	_
+28	local	local	ADJ	JJ	Degree=Pos	29	amod	29:amod	_
+29	numbers	number	NOUN	NNS	Number=Plur	26	nmod	26:nmod:of	SpaceAfter=No
+30	.	.	PUNCT	.	_	17	punct	17:punct	_
+

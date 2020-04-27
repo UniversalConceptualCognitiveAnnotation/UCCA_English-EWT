@@ -1,0 +1,13 @@
+# sent_id = 135800-0006
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj|5:nsubj:xsubj	_
+2	told	tell	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	iobj	2:iobj	_
+4	to	to	PART	TO	_	5	mark	5:mark	_
+5	bring	bring	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	_
+6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obj	5:obj	_
+7	back	back	ADV	RB	_	5	advmod	5:advmod	_
+8	after	after	ADP	IN	_	10	case	10:case	_
+9	5000	5000	NUM	CD	NumType=Card	10	nummod	10:nummod	_
+10	miles	mile	NOUN	NNS	Number=Plur	5	obl	5:obl:after	SpaceAfter=No
+11	.	.	PUNCT	.	_	2	punct	2:punct	_
+

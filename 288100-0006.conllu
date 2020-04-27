@@ -1,0 +1,22 @@
+# sent_id = 288100-0006
+1	Please	please	INTJ	UH	_	4	discourse	4:discourse	_
+2	do	do	AUX	VB	Mood=Imp|VerbForm=Fin	4	aux	4:aux	_
+3	not	not	PART	RB	_	4	advmod	4:advmod	_
+4	go	go	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
+5	there	there	ADV	RB	PronType=Dem	4	advmod	4:advmod	_
+6	if	if	SCONJ	IN	_	15	mark	15:mark	_
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	15:nsubj	SpaceAfter=No
+8	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	15:cop	_
+9	professional	professional	ADJ	JJ	Degree=Pos	15	amod	15:amod	SpaceAfter=No
+10	,	,	PUNCT	,	_	15	punct	15:punct	_
+11	friendly	friendly	ADJ	JJ	Degree=Pos	15	amod	15:amod	SpaceAfter=No
+12	,	,	PUNCT	,	_	15	punct	15:punct	_
+13	diligent	diligent	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
+14	medical	medical	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
+15	services	service	NOUN	NNS	Number=Plur	4	advcl	4:advcl:if	_
+16	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	18	nsubj	18:nsubj	SpaceAfter=No
+17	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux	18:aux	_
+18	looking	look	VERB	VBG	Tense=Pres|VerbForm=Part	15	acl:relcl	15:acl:relcl	_
+19	for	for	ADP	IN	_	18	obl	18:obl	SpaceAfter=No
+20	.	.	PUNCT	.	_	4	punct	4:punct	_
+

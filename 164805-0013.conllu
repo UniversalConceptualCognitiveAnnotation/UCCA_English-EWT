@@ -1,0 +1,12 @@
+# sent_id = 164805-0013
+1	Thanks	thanks	NOUN	NN	Number=Sing	0	root	0:root	_
+2	for	for	ADP	IN	_	5	case	5:case	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+4	great	great	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	deal	deal	NOUN	NN	Number=Sing	1	nmod	1:nmod:for	_
+6	and	and	CCONJ	CC	_	9	cc	9:cc	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+8	great	great	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
+9	car	car	NOUN	NN	Number=Sing	5	conj	1:nmod:for|5:conj:and	SpaceAfter=No
+10	!	!	PUNCT	.	_	1	punct	1:punct	_
+

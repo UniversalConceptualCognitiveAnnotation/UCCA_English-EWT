@@ -1,0 +1,13 @@
+# sent_id = 110908-0004
+1	Good	good	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
+2	beer	beer	NOUN	NN	Number=Sing	0	root	0:root	_
+3	good	good	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
+4	service	service	NOUN	NN	Number=Sing	2	conj	2:conj:and	_
+5	and	and	CCONJ	CC	_	10	cc	10:cc	_
+6	what	what	PRON	WP	PronType=Int	10	obj	10:obj	_
+7	more	more	ADJ	JJR	Degree=Cmp	6	amod	6:amod	_
+8	could	could	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	10:nsubj	_
+10	want	want	VERB	VB	VerbForm=Inf	2	conj	2:conj:and	SpaceAfter=No
+11	.	.	PUNCT	.	_	10	punct	10:punct	_
+

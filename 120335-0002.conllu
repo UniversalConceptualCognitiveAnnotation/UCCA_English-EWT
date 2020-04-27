@@ -1,0 +1,15 @@
+# sent_id = 120335-0002
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	2:det	_
+2	store	store	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
+4	proof	proof	NOUN	NN	Number=Sing	0	root	0:root	_
+5	that	that	SCONJ	IN	_	8	mark	8:mark	_
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	8:nsubj	_
+7	can	can	AUX	MD	VerbForm=Fin	8	aux	8:aux	_
+8	fool	fool	VERB	VB	VerbForm=Inf	4	acl	4:acl:that	_
+9	people	people	NOUN	NNS	Number=Plur	8	obj	8:obj	_
+10	with	with	ADP	IN	_	12	case	12:case	_
+11	good	good	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
+12	advertising	advertising	NOUN	NN	Number=Sing	8	obl	8:obl:with	SpaceAfter=No
+13	.	.	PUNCT	.	_	4	punct	4:punct	_
+

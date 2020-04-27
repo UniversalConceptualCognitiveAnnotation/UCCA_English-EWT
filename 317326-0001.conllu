@@ -1,0 +1,12 @@
+# newdoc id = 317326
+# sent_id = 317326-0001
+1	Midtown	Midtown	PROPN	NNP	Number=Sing	2	compound	2:compound	_
+2	Reston	Reston	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	great	great	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	location	location	NOUN	NN	Number=Sing	3	obj	3:obj	_
+6	and	and	CCONJ	CC	_	8	cc	8:cc	_
+7	luxurious	luxurious	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
+8	environment	environment	NOUN	NN	Number=Sing	5	conj	3:obj|5:conj:and	SpaceAfter=No
+9	.	.	PUNCT	.	_	3	punct	3:punct	_
+

@@ -1,0 +1,23 @@
+# sent_id = 399348-0007
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj|12:nsubj	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+3	next	next	ADV	RB	_	5	case	5:case	_
+4	to	to	ADP	IN	_	5	case	5:case	_
+5	Gare	Gare	PROPN	NNP	Number=Sing	0	root	0:root	_
+6	du	du	PROPN	NNP	Number=Sing	5	flat	5:flat	_
+7	Nord	Nord	PROPN	NNP	Number=Sing	5	flat	5:flat	_
+8	and	and	CCONJ	CC	_	12	cc	12:cc	_
+9	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	_
+10	five	five	NUM	CD	NumType=Card	11	nummod	11:nummod	_
+11	minute	minute	NOUN	NN	Number=Sing	12	nmod:npmod	12:nmod:npmod	_
+12	walk	walk	NOUN	NN	Number=Sing	5	conj	5:conj:and	_
+13	to	to	ADP	IN	_	15	case	15:case	_
+14	Sacre	Sacre	PROPN	NNP	Number=Sing	15	compound	15:compound|18:nsubj	_
+15	Coeur	Coeur	PROPN	NNP	Number=Sing	12	nmod	12:nmod:to	_
+16	which	which	PRON	WDT	PronType=Rel	18	nsubj	14:ref	_
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	18:cop	_
+18	excellent	excellent	ADJ	JJ	Degree=Pos	14	acl:relcl	14:acl:relcl	_
+19	for	for	ADP	IN	_	20	case	20:case	_
+20	shopping	shopping	NOUN	NN	Number=Sing	18	obl	18:obl:for	SpaceAfter=No
+21	.	.	PUNCT	.	_	5	punct	5:punct	_
+

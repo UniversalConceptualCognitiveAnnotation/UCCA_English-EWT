@@ -1,0 +1,18 @@
+# sent_id = 311987-0008
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	asked	ask	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	for	for	ADP	IN	_	6	case	6:case	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
+5	different	different	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	pair	pair	NOUN	NN	Number=Sing	2	obl	2:obl:for	_
+7	instead	instead	ADV	RB	_	2	advmod	2:advmod	_
+8	and	and	CCONJ	CC	_	11	cc	11:cc	_
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	11:nsubj	_
+10	only	only	ADV	RB	_	11	advmod	11:advmod	_
+11	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
+12	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj	11:iobj	_
+13	five	five	NUM	CD	NumType=Card	14	nummod	14:nummod	_
+14	dollars	dollar	NOUN	NNS	Number=Plur	11	obj	11:obj	_
+15	off	off	ADV	RB	_	14	advmod	14:advmod	SpaceAfter=No
+16	??	??	PUNCT	.	_	2	punct	2:punct	_
+

@@ -1,0 +1,36 @@
+# sent_id = 053248-0006
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	salatim	salatim	NOUN	NNS	Number=Plur	3	compound	3:compound	_
+3	salads	salad	NOUN	NNS	Number=Plur	7	nsubj	7:nsubj	_
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+6	smallest	smallest	ADJ	JJS	Degree=Sup	7	amod	7:amod	_
+7	plates	plate	NOUN	NNS	Number=Plur	0	root	0:root	_
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	11:nsubj|12:nsubj:xsubj	SpaceAfter=No
+9	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	11:aux	_
+10	ever	ever	ADV	RB	_	11	advmod	11:advmod	_
+11	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	7	acl:relcl	7:acl:relcl	_
+12	placed	place	VERB	VBN	Tense=Past|VerbForm=Part	11	xcomp	11:xcomp	_
+13	in	in	ADP	IN	_	14	case	14:case	_
+14	front	front	NOUN	NN	Number=Sing	12	obl	12:obl:in	_
+15	of	of	ADP	IN	_	16	case	16:case	_
+16	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	14	nmod	14:nmod:of	_
+17	(	(	PUNCT	-LRB-	_	22	punct	22:punct	SpaceAfter=No
+18	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	22	nsubj	22:nsubj	_
+19	would	would	AUX	MD	VerbForm=Fin	22	aux	22:aux	_
+20	most	most	ADV	RBS	_	21	advmod	21:advmod	_
+21	likely	likely	ADV	RB	_	22	advmod	22:advmod	_
+22	think	think	VERB	VB	VerbForm=Inf	7	parataxis	7:parataxis	_
+23	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	25	nsubj	25:nsubj	_
+24	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	25	cop	25:cop	_
+25	condiments	condiment	NOUN	NNS	Number=Plur	22	ccomp	22:ccomp	_
+26	if	if	SCONJ	IN	_	30	mark	30:mark	_
+27	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	30	nsubj:pass	30:nsubj:pass	_
+28	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	30	aux:pass	30:aux:pass	SpaceAfter=No
+29	n't	not	PART	RB	_	30	advmod	30:advmod	_
+30	explained	explain	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	22	advcl	22:advcl:if	_
+31	to	to	ADP	IN	_	32	case	32:case	_
+32	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	30	obl	30:obl:to	SpaceAfter=No
+33	)	)	PUNCT	-RRB-	_	22	punct	22:punct	SpaceAfter=No
+34	.	.	PUNCT	.	_	7	punct	7:punct	_
+

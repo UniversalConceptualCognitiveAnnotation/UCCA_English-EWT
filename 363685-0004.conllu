@@ -1,0 +1,16 @@
+# sent_id = 363685-0004
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
+4	room	room	NOUN	NN	Number=Sing	2	obj	2:obj|13:obj	_
+5	with	with	ADP	IN	_	9	case	9:case	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
+7	$	$	SYM	$	_	9	compound	9:compound	SpaceAfter=No
+8	99	99	NUM	CD	NumType=Card	7	nummod	7:nummod	_
+9	rate	rate	NOUN	NN	Number=Sing	4	nmod	4:nmod:with	SpaceAfter=No
+10	,	,	PUNCT	,	_	4	punct	4:punct	_
+11	which	which	PRON	WDT	PronType=Rel	13	obj	4:ref	_
+12	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	13:nsubj	_
+13	booked	book	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	acl:relcl	4:acl:relcl	SpaceAfter=No
+14	.	.	PUNCT	.	_	2	punct	2:punct	_
+

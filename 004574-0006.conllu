@@ -1,0 +1,27 @@
+# sent_id = 004574-0006
+1	Secondly	secondly	ADV	RB	_	7	advmod	7:advmod	SpaceAfter=No
+2	,	,	PUNCT	,	_	7	punct	7:punct	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
+4	enchladas	enchilada	NOUN	NNS	Number=Plur|Typo=Yes	7	nsubj	7:nsubj	_
+5	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	aux	7:aux	_
+6	not	not	PART	RB	_	7	advmod	7:advmod	_
+7	come	come	VERB	VB	VerbForm=Inf	0	root	0:root	_
+8	with	with	ADP	IN	_	10	case	10:case	_
+9	enchilada	enchilada	NOUN	NN	Number=Sing	10	compound	10:compound	_
+10	sauce	sauce	NOUN	NN	Number=Sing	7	obl	7:obl:with	SpaceAfter=No
+11	..	..	PUNCT	,	_	10	punct	10:punct	SpaceAfter=No
+12	but	but	CCONJ	CC	_	13	cc	13:cc	_
+13	chili	chili	NOUN	NN	Number=Sing	10	conj	7:obl:with|10:conj:but	SpaceAfter=No
+14	...	...	PUNCT	,	_	13	punct	13:punct	SpaceAfter=No
+15	like	like	ADP	IN	_	18	case	18:case	_
+16	Hormel	Hormel	PROPN	NNP	Number=Sing	18	nmod:poss	18:nmod:poss	SpaceAfter=No
+17	's	's	PART	POS	_	16	case	16:case	_
+18	chili	chili	NOUN	NN	Number=Sing	13	nmod	13:nmod:like	SpaceAfter=No
+19	..	..	PUNCT	,	_	7	punct	7:punct	SpaceAfter=No
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	_
+21	cheese	cheese	NOUN	NN	Number=Sing	24	nsubj	24:nsubj	_
+22	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	cop	24:cop	_
+23	American	american	ADJ	JJ	Degree=Pos	24	amod	24:amod	_
+24	cheese	cheese	NOUN	NN	Number=Sing	7	parataxis	7:parataxis	SpaceAfter=No
+25	!	!	PUNCT	.	_	7	punct	7:punct	_
+

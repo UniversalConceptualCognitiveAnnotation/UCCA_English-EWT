@@ -1,0 +1,23 @@
+# sent_id = 363685-0002
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|9:nsubj	_
+2	called	call	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+4	"	"	PUNCT	``	_	7	punct	7:punct	SpaceAfter=No
+5	207	207	NUM	CD	NumType=Card	7	nummod	7:nummod	SpaceAfter=No
+6	"	"	PUNCT	''	_	7	punct	7:punct	_
+7	number	number	NOUN	NN	Number=Sing	2	obj	2:obj	_
+8	and	and	CCONJ	CC	_	9	cc	9:cc	_
+9	listened	listen	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
+10	to	to	ADP	IN	_	14	case	14:case	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
+12	same	same	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
+13	recording	recording	NOUN	NN	Number=Sing	14	compound	14:compound	_
+14	loop	loop	NOUN	NN	Number=Sing	9	obl	9:obl:to	_
+15	3	3	NUM	CD	NumType=Card	16	nummod	16:nummod	_
+16	times	time	NOUN	NNS	Number=Plur	9	obl:tmod	9:obl:tmod	_
+17	before	before	SCONJ	IN	_	19	mark	19:mark	_
+18	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	19:nsubj	_
+19	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	advcl	9:advcl:before	_
+20	up	up	ADP	RP	_	19	compound:prt	19:compound:prt	SpaceAfter=No
+21	.	.	PUNCT	.	_	2	punct	2:punct	_
+

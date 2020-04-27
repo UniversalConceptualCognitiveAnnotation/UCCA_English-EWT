@@ -1,0 +1,26 @@
+# sent_id = 336049-0002
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj|9:nsubj	_
+2	read	read	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+4	good	good	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	reviews	review	NOUN	NNS	Number=Plur	2	obj	2:obj	_
+6	before	before	SCONJ	IN	_	7	mark	7:mark	_
+7	going	go	VERB	VBG	VerbForm=Ger	2	advcl	2:advcl:before	_
+8	and	and	CCONJ	CC	_	9	cc	9:cc	_
+9	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
+10	high	high	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	hopes	hope	NOUN	NNS	Number=Plur	9	obj	9:obj	SpaceAfter=No
+12	..	..	PUNCT	.	_	2	punct	2:punct	_
+13	but	but	CCONJ	CC	_	20	cc	20:cc	_
+14	to	to	ADP	IN	_	16	case	16:case	_
+15	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	16:nmod:poss	_
+16	dismay	dismay	NOUN	NN	Number=Sing	20	obl	20:obl:to	_
+17	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	nsubj	20:nsubj	_
+18	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	20	aux	20:aux	SpaceAfter=No
+19	nt	not	PART	RB	_	20	advmod	20:advmod	_
+20	turn	turn	VERB	VB	VerbForm=Inf	2	conj	2:conj:and	_
+21	out	out	ADP	RP	_	20	compound:prt	20:compound:prt	_
+22	that	that	DET	DT	Number=Sing|PronType=Dem	23	det	23:det	_
+23	way	way	NOUN	NN	Number=Sing	20	obj	20:obj	SpaceAfter=No
+24	!	!	PUNCT	.	_	2	punct	2:punct	_
+

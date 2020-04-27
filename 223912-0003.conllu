@@ -1,0 +1,18 @@
+# sent_id = 223912-0003
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|7:nsubj	_
+2	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	what	what	PRON	WP	PronType=Int	2	ccomp	2:ccomp	_
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	3:cop	_
+6	and	and	CCONJ	CC	_	7	cc	7:cc	_
+7	told	tell	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+9	guy	guy	NOUN	NN	Number=Sing	7	obj	7:obj	_
+10	that	that	SCONJ	IN	_	15	mark	15:mark	_
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	15:nsubj	_
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	cop	15:cop	SpaceAfter=No
+13	n't	not	PART	RB	_	15	advmod	15:advmod	SpaceAfter=No
+14	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	15:det	_
+15	fps	fps	NOUN	NN	Number=Sing	7	ccomp	7:ccomp	SpaceAfter=No
+16	.	.	PUNCT	.	_	2	punct	2:punct	_
+

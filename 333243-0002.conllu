@@ -1,0 +1,24 @@
+# sent_id = 333243-0002
+1	Working	work	VERB	VBG	VerbForm=Ger	8	csubj	8:csubj	_
+2	with	with	ADP	IN	_	3	case	3:case	_
+3	Rod	Rod	PROPN	NNP	Number=Sing	1	obl	1:obl:with	_
+4	Jacobsen	Jacobsen	PROPN	NNP	Number=Sing	3	flat	3:flat	_
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	8:cop	_
+6	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	8:nmod:poss	_
+7	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	8	amod	8:amod	_
+8	experience	experience	NOUN	NN	Number=Sing	0	root	0:root	_
+9	working	work	VERB	VBG	VerbForm=Ger	8	acl	8:acl	_
+10	with	with	ADP	IN	_	12	case	12:case	_
+11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	_
+12	CPA	cpa	NOUN	NN	Number=Sing	9	obl	9:obl:with	SpaceAfter=No
+13	,	,	PUNCT	,	_	8	punct	8:punct	_
+14	so	so	ADV	RB	_	18	advmod	18:advmod	_
+15	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	18:nsubj	_
+16	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	18	aux	18:aux	_
+17	not	not	PART	RB	_	18	advmod	18:advmod	_
+18	know	know	VERB	VB	VerbForm=Inf	8	parataxis	8:parataxis	_
+19	what	what	PRON	WP	PronType=Int	21	obj	21:obj	_
+20	to	to	PART	TO	_	21	mark	21:mark	_
+21	expect	expect	VERB	VB	VerbForm=Inf	18	ccomp	18:ccomp	SpaceAfter=No
+22	.	.	PUNCT	.	_	8	punct	8:punct	_
+

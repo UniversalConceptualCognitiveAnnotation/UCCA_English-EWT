@@ -1,0 +1,23 @@
+# sent_id = 036753-0004
+1	Their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+2	so	so	ADV	RB	_	3	compound	3:compound	_
+3	called	call	VERB	VBN	Tense=Past|VerbForm=Part	4	amod	4:amod	_
+4	mechanic	mechanic	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
+5	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	engine	engine	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	_
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	9:cop	_
+9	good	good	ADJ	JJ	Degree=Pos	5	ccomp	5:ccomp	_
+10	and	and	CCONJ	CC	_	13	cc	13:cc	_
+11	"	"	PUNCT	``	_	13	punct	13:punct	SpaceAfter=No
+12	There	there	PRON	EX	_	13	expl	13:expl	_
+13	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	5:ccomp|9:conj:and	_
+14	nothing	nothing	PRON	NN	Number=Sing	13	nsubj	13:nsubj	_
+15	mechanicly	mechanically	ADV	RB	Typo=Yes	16	advmod	16:advmod	_
+16	wrong	wrong	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
+17	with	with	ADP	IN	_	19	case	19:case	_
+18	this	this	DET	DT	Number=Sing|PronType=Dem	19	det	19:det	_
+19	truck	truck	NOUN	NN	Number=Sing	16	obl	16:obl:with	SpaceAfter=No
+20	"	"	PUNCT	''	_	13	punct	13:punct	SpaceAfter=No
+21	.	.	PUNCT	.	_	5	punct	5:punct	SpaceAfter=No
+

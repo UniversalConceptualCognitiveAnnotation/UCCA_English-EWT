@@ -1,0 +1,23 @@
+# sent_id = 220214-0009
+1	Anyhow	anyhow	INTJ	UH	_	11	discourse	11:discourse	SpaceAfter=No
+2	,	,	PUNCT	,	_	11	punct	11:punct	_
+3	after	after	SCONJ	IN	_	4	mark	4:mark	_
+4	reading	read	VERB	VBG	VerbForm=Ger	11	advcl	11:advcl:after	_
+5	some	some	DET	DT	_	4	obj	4:obj	_
+6	of	of	ADP	IN	_	9	case	9:case	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+8	other	other	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
+9	reviews	review	NOUN	NNS	Number=Plur	5	nmod	5:nmod:of	_
+10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	expl	11:expl	_
+11	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+12	like	like	SCONJ	IN	_	19	mark	19:mark	_
+13	some	some	DET	DT	_	19	nsubj	19:nsubj	_
+14	of	of	ADP	IN	_	17	case	17:case	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
+16	other	other	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
+17	reviewers	reviewer	NOUN	NNS	Number=Plur	13	nmod	13:nmod:of	_
+18	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	aux	19:aux	_
+19	expecting	expect	VERB	VBG	Tense=Pres|VerbForm=Part	11	advcl	11:advcl:like	_
+20	mircles	miracle	NOUN	NNS	Number=Plur|Typo=Yes	19	obj	19:obj	SpaceAfter=No
+21	.	.	PUNCT	.	_	11	punct	11:punct	_
+

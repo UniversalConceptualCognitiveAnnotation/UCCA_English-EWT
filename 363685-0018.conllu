@@ -1,0 +1,13 @@
+# sent_id = 363685-0018
+1	#	#	SYM	NN	Number=Sing	2	compound	2:compound	SpaceAfter=No
+2	4	4	X	LS	_	7	nummod	7:nummod	SpaceAfter=No
+3	)	)	PUNCT	-RRB-	_	2	punct	2:punct	_
+4	Breakfast	breakfast	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
+6	8	8	NUM	CD	NumType=Card	7	nummod	7:nummod	SpaceAfter=No
+7	AM	am	NOUN	NN	Number=Sing	0	root	0:root	_
+8	to	to	ADP	IN	_	10	case	10:case	_
+9	10	10	NUM	CD	NumType=Card	10	nummod	10:nummod	SpaceAfter=No
+10	AM	am	NOUN	NN	Number=Sing	7	nmod	7:nmod:to	SpaceAfter=No
+11	.	.	PUNCT	.	_	7	punct	7:punct	_
+

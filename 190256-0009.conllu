@@ -1,0 +1,17 @@
+# sent_id = 190256-0009
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	highly	highly	ADV	RB	_	3	advmod	3:advmod	_
+3	recommend	recommend	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	any	any	DET	DT	_	5	det	5:det	_
+5	one	one	NOUN	NN	Number=Sing	3	obj	3:obj|10:nsubj:xsubj	_
+6	considering	consider	VERB	VBG	VerbForm=Ger	5	acl	5:acl	_
+7	home	home	NOUN	NN	Number=Sing	8	compound	8:compound	_
+8	repair	repair	NOUN	NN	Number=Sing	6	obj	6:obj	_
+9	to	to	PART	TO	_	10	mark	10:mark	_
+10	give	give	VERB	VB	VerbForm=Inf	3	xcomp	3:xcomp	_
+11	these	these	DET	DT	Number=Plur|PronType=Dem	12	det	12:det	_
+12	guys	guy	NOUN	NNS	Number=Plur	10	iobj	10:iobj	_
+13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	_
+14	call	call	NOUN	NN	Number=Sing	10	obj	10:obj	SpaceAfter=No
+15	.	.	PUNCT	.	_	3	punct	3:punct	_
+

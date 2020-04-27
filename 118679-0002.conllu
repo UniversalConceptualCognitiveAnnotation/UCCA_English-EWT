@@ -1,0 +1,21 @@
+# sent_id = 118679-0002
+1	Unfortunately	unfortunately	ADV	RB	_	5	advmod	5:advmod	SpaceAfter=No
+2	,	,	PUNCT	,	_	5	punct	5:punct	_
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj|15:nsubj|17:nsubj:xsubj|18:nsubj:xsubj	SpaceAfter=No
+4	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
+5	given	give	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	iobj	5:iobj	_
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	8:det	_
+8	couple	couple	NOUN	NN	Number=Sing	5	obj	5:obj	_
+9	of	of	ADP	IN	_	10	case	10:case	_
+10	tries	try	NOUN	NNS	Number=Plur	8	nmod	8:nmod:of	_
+11	at	at	ADP	IN	_	13	case	13:case	_
+12	different	different	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
+13	times	time	NOUN	NNS	Number=Plur	5	obl	5:obl:at	_
+14	and	and	CCONJ	CC	_	15	cc	15:cc	_
+15	decided	decide	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	conj	5:conj:and	_
+16	to	to	PART	TO	_	17	mark	17:mark	_
+17	stop	stop	VERB	VB	VerbForm=Inf	15	xcomp	15:xcomp	_
+18	going	go	VERB	VBG	VerbForm=Ger	17	xcomp	17:xcomp	SpaceAfter=No
+19	.	.	PUNCT	.	_	5	punct	5:punct	_
+

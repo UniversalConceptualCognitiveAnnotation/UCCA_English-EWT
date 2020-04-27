@@ -1,0 +1,28 @@
+# sent_id = 181748-0005
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj|13:nsubj	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	4:cop	_
+3	extremely	extremely	ADV	RB	_	4	advmod	4:advmod	_
+4	interested	interested	ADJ	JJ	Degree=Pos	0	root	0:root	_
+5	in	in	ADP	IN	_	7	case	7:case	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	car	car	NOUN	NN	Number=Sing	4	obl	4:obl:in	_
+8	and	and	CCONJ	CC	_	13	cc	13:cc	_
+9	very	very	ADV	RB	_	10	advmod	10:advmod	_
+10	likely	likely	ADV	RB	_	13	advmod	13:advmod	_
+11	would	would	AUX	MD	VerbForm=Fin	13	aux	13:aux	_
+12	have	have	AUX	VB	VerbForm=Inf	13	aux	13:aux	_
+13	bought	buy	VERB	VBN	Tense=Past|VerbForm=Part	4	conj	4:conj:and	_
+14	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	obj	13:obj	SpaceAfter=No
+15	,	,	PUNCT	,	_	23	punct	23:punct	_
+16	but	but	CCONJ	CC	_	23	cc	23:cc	_
+17	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
+18	sales	sales	NOUN	NN	Number=Sing	19	compound	19:compound	_
+19	guy	guy	NOUN	NN	Number=Sing	23	nsubj	23:nsubj	_
+20	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	21	nsubj	21:nsubj	_
+21	dealt	deal	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	acl:relcl	19:acl:relcl	_
+22	with	with	ADP	IN	_	21	obl	21:obl	_
+23	ruined	ruin	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	4:conj:and	_
+24	the	the	DET	DT	Definite=Def|PronType=Art	25	det	25:det	_
+25	deal	deal	NOUN	NN	Number=Sing	23	obj	23:obj	SpaceAfter=No
+26	.	.	PUNCT	.	_	4	punct	4:punct	_
+

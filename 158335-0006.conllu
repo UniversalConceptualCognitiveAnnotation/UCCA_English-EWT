@@ -1,0 +1,23 @@
+# sent_id = 158335-0006
+1	grey	grey	NOUN	NN	Number=Sing	2	compound	2:compound	_
+2	shirt	shirt	NOUN	NN	Number=Sing	0	root	0:root	_
+3	"	"	PUNCT	``	_	4	punct	4:punct	SpaceAfter=No
+4	mark	mark	PROPN	NNP	Number=Sing	2	appos	2:appos	SpaceAfter=No
+5	"	"	PUNCT	''	_	4	punct	4:punct	_
+6	of	of	ADV	RB	_	16	advmod	16:advmod	_
+7	course	course	ADV	RB	_	6	fixed	6:fixed	_
+8	with	with	ADP	IN	_	11	case	11:case	_
+9	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	10:det	_
+10	type	type	NOUN	NN	Number=Sing	11	compound	11:compound	_
+11	behavior	behavior	NOUN	NN	Number=Sing	16	obl	16:obl:with	_
+12	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	16:nsubj	_
+13	could	could	AUX	MD	VerbForm=Fin	16	aux	16:aux	_
+14	have	have	AUX	VB	VerbForm=Inf	16	aux	16:aux	_
+15	been	be	AUX	VBN	Tense=Past|VerbForm=Part	16	aux	16:aux	_
+16	wearing	wear	VERB	VBG	Tense=Pres|VerbForm=Part	2	parataxis	2:parataxis	_
+17	someon	someone	NOUN	NN	Number=Sing|Typo=Yes	20	nmod:poss	20:nmod:poss	SpaceAfter=No
+18	else	else	ADJ	JJ	Degree=Pos	17	amod	17:amod	SpaceAfter=No
+19	s	's	PART	POS	_	17	case	17:case	_
+20	clothing	clothing	NOUN	NN	Number=Sing	16	obj	16:obj	SpaceAfter=No
+21	.....	.....	PUNCT	,	_	2	punct	2:punct	_
+

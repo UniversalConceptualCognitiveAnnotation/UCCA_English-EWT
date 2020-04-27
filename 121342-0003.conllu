@@ -1,0 +1,13 @@
+# sent_id = 121342-0003
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	menu	menu	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	plenty	plenty	NOUN	NN	Number=Sing	3	obj	3:obj	_
+5	of	of	ADP	IN	_	6	case	6:case	_
+6	options	option	NOUN	NNS	Number=Plur	4	nmod	4:nmod:of	_
+7	even	even	ADV	RB	_	10	advmod	10:advmod	_
+8	for	for	ADP	IN	_	10	case	10:case	_
+9	picky	picky	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
+10	eaters	eater	NOUN	NNS	Number=Plur	3	obl	3:obl:for	SpaceAfter=No
+11	.	.	PUNCT	.	_	3	punct	3:punct	_
+

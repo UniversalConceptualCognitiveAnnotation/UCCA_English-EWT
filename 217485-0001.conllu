@@ -1,0 +1,24 @@
+# newdoc id = 217485
+# sent_id = 217485-0001
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	SpaceAfter=No
+2	'll	will	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
+3	admit	admit	VERB	VB	VerbForm=Inf	0	root	0:root	_
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	_
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	7:aux	SpaceAfter=No
+6	n't	not	PART	RB	_	7	advmod	7:advmod	_
+7	expecting	expect	VERB	VBG	VerbForm=Ger	3	ccomp	3:ccomp	_
+8	much	much	ADJ	JJ	Degree=Pos	7	obj	7:obj	_
+9	from	from	ADP	IN	_	11	case	11:case	_
+10	this	this	DET	DT	Number=Sing|PronType=Dem	11	det	11:det	_
+11	place	place	NOUN	NN	Number=Sing	7	obl	7:obl:from	SpaceAfter=No
+12	,	,	PUNCT	,	_	17	punct	17:punct	_
+13	but	but	CCONJ	CC	_	17	cc	17:cc	_
+14	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	17:nsubj	_
+15	really	really	ADV	RB	_	17	advmod	17:advmod	_
+16	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	17	aux	17:aux	_
+17	do	do	VERB	VB	VerbForm=Inf	3	conj	3:conj:but	_
+18	a	a	DET	DT	Definite=Ind|PronType=Art	20	det	20:det	_
+19	good	good	ADJ	JJ	Degree=Pos	20	amod	20:amod	_
+20	job	job	NOUN	NN	Number=Sing	17	obj	17:obj	SpaceAfter=No
+21	.	.	PUNCT	.	_	3	punct	3:punct	_
+

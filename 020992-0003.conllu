@@ -1,0 +1,21 @@
+# sent_id = 020992-0003
+1	At	at	ADP	IN	_	3	case	3:case	_
+2	3:15	3:15	NUM	CD	NumType=Card	3	nummod	3:nummod	_
+3	am	am	NOUN	NN	Number=Sing	15	obl	15:obl:at	_
+4	on	on	ADP	IN	_	6	case	6:case	_
+5	night	night	NOUN	NN	Number=Sing	6	compound	6:compound	_
+6	#	#	SYM	NN	Number=Sing	15	obl	15:obl:on	SpaceAfter=No
+7	2	2	NUM	CD	NumType=Card	6	nummod	6:nummod	SpaceAfter=No
+8	,	,	PUNCT	,	_	15	punct	15:punct	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
+10	fire	fire	NOUN	NN	Number=Sing	11	compound	11:compound	_
+11	alarm	alarm	NOUN	NN	Number=Sing	15	nsubj	15:nsubj	_
+12	and	and	CCONJ	CC	_	14	cc	14:cc	_
+13	strobe	strobe	NOUN	NN	Number=Sing	14	compound	14:compound	_
+14	light	light	NOUN	NN	Number=Sing	11	conj	11:conj:and|15:nsubj	_
+15	activated	activate	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+16	in	in	ADP	IN	_	18	case	18:case	_
+17	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	18	nmod:poss	18:nmod:poss	_
+18	room	room	NOUN	NN	Number=Sing	15	obl	15:obl:in	SpaceAfter=No
+19	.	.	PUNCT	.	_	15	punct	15:punct	_
+

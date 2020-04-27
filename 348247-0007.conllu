@@ -1,0 +1,20 @@
+# sent_id = 348247-0007
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	11:nsubj	_
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	11:aux	_
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	11	cop	11:cop	_
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
+5	only	only	ADV	RB	_	11	advmod	11:advmod	_
+6	"	"	PUNCT	``	_	7	punct	7:punct	SpaceAfter=No
+7	go	go	VERB	VB	VerbForm=Inf	11	compound	11:compound	SpaceAfter=No
+8	-	-	PUNCT	HYPH	_	7	punct	7:punct	SpaceAfter=No
+9	to	to	ADP	IN	_	7	obl	7:obl	SpaceAfter=No
+10	"	"	PUNCT	''	_	7	punct	7:punct	_
+11	resource	resource	NOUN	NN	Number=Sing	0	root	0:root	_
+12	since	since	SCONJ	IN	_	15	mark	15:mark	_
+13	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	nsubj	15:nsubj	_
+14	first	first	ADV	RB	_	15	advmod	15:advmod	_
+15	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	advcl	11:advcl:since	_
+16	business	business	NOUN	NN	Number=Sing	15	obj	15:obj	_
+17	together	together	ADV	RB	_	15	advmod	15:advmod	SpaceAfter=No
+18	.	.	PUNCT	.	_	11	punct	11:punct	_
+

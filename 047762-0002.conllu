@@ -1,0 +1,25 @@
+# sent_id = 047762-0002
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj|19:nsubj	_
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	4	aux	4:aux	_
+4	going	go	VERB	VBG	VerbForm=Ger	0	root	0:root	_
+5	to	to	ADP	IN	_	7	case	7:case	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	Wildwood	Wildwood	PROPN	NNP	Number=Sing	4	obl	4:obl:to	SpaceAfter=No
+8	,	,	PUNCT	,	_	7	punct	7:punct	_
+9	NJ	NJ	PROPN	NNP	Number=Sing	7	appos	7:appos	_
+10	for	for	ADP	IN	_	13	case	13:case	_
+11	over	over	ADP	IN	_	13	case	13:case	_
+12	30	30	NUM	CD	NumType=Card	13	nummod	13:nummod	_
+13	years	year	NOUN	NNS	Number=Plur	4	obl	4:obl:over	_
+14	for	for	ADP	IN	_	16	case	16:case	_
+15	summer	summer	NOUN	NN	Number=Sing	16	compound	16:compound	_
+16	vacations	vacation	NOUN	NNS	Number=Plur	4	obl	4:obl:for	_
+17	and	and	CCONJ	CC	_	19	cc	19:cc	_
+18	always	always	ADV	RB	_	19	advmod	19:advmod	_
+19	call	call	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	4:conj:and	_
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	_
+21	Madrid	Madrid	PROPN	NNP	Number=Sing	19	obj	19:obj	_
+22	first	first	ADV	RB	_	19	advmod	19:advmod	SpaceAfter=No
+23	.	.	PUNCT	.	_	4	punct	4:punct	_
+

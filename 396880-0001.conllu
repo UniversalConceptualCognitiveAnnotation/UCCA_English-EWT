@@ -1,0 +1,12 @@
+# newdoc id = 396880
+# sent_id = 396880-0001
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	guess	guess	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	4:nsubj	_
+4	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	2:ccomp	_
+5	what	what	PRON	WP	PronType=Int	7	obl	7:obl:for	_
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	7:nsubj	_
+7	pay	pay	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	ccomp	4:ccomp	_
+8	for	for	ADP	IN	_	5	case	5:case	SpaceAfter=No
+9	.	.	PUNCT	.	_	2	punct	2:punct	_
+

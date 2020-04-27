@@ -1,0 +1,20 @@
+# sent_id = 326649-0003
+1	the	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	staff	staff	NOUN	NN	Number=Sing	5	nsubj	5:nsubj|8:nsubj	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+4	very	very	ADV	RB	_	5	advmod	5:advmod	_
+5	personable	personable	ADJ	JJ	Degree=Pos	0	root	0:root	_
+6	&	&	CCONJ	CC	_	8	cc	8:cc	_
+7	actually	actually	ADV	RB	_	8	advmod	8:advmod	_
+8	care	care	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	conj	5:conj	_
+9	about	about	ADP	IN	_	12	case	12:case	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
+11	customers	customer	NOUN	NNS	Number=Plur	12	compound	12:compound	_
+12	safety	safety	NOUN	NN	Number=Sing	8	obl	8:obl:about	_
+13	rather	rather	ADV	RB	_	15	cc	15:cc	_
+14	than	than	ADP	IN	_	13	fixed	13:fixed	_
+15	taking	take	VERB	VBG	VerbForm=Ger	12	conj	8:obl:about|12:conj:rather_than	_
+16	there	there	PRON	PRP$	_	17	nmod:poss	17:nmod:poss	_
+17	money	money	NOUN	NN	Number=Sing	15	obj	15:obj	SpaceAfter=No
+18	.	.	PUNCT	.	_	5	punct	5:punct	_
+

@@ -1,0 +1,17 @@
+# sent_id = 229410-0013
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	5:nsubj	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+3	just	just	ADV	RB	_	5	advmod	5:advmod	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
+5	way	way	NOUN	NN	Number=Sing	0	root	0:root	_
+6	for	for	SCONJ	IN	_	9	mark	9:mark	_
+7	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	9	nsubj	9:nsubj	_
+8	to	to	PART	TO	_	9	mark	9:mark	_
+9	squirm	squirm	VERB	VB	VerbForm=Inf	5	acl	5:acl:to	_
+10	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
+11	way	way	NOUN	NN	Number=Sing	9	obj	9:obj	_
+12	into	into	ADP	IN	_	15	case	15:case	_
+13	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	15	nmod:poss	15:nmod:poss	_
+14	precious	precious	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
+15	pocket	pocket	NOUN	NN	Number=Sing	9	obl	9:obl:into	_
+

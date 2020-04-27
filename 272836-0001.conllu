@@ -1,0 +1,16 @@
+# newdoc id = 272836
+# sent_id = 272836-0001
+1	So	so	ADV	RB	_	2	advmod	2:advmod	_
+2	Handy	handy	ADJ	JJ	Degree=Pos	0	root	0:root	_
+3	for	for	ADP	IN	_	7	case	7:case	_
+4	Local	local	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
+5	La	La	PROPN	NNP	Number=Sing	7	compound	7:compound	_
+6	Jolla	Jolla	PROPN	NNP	Number=Sing	5	flat	5:flat	_
+7	Stuff	stuff	NOUN	NN	Number=Sing	2	obl	2:obl:for	_
+8	-	-	PUNCT	,	_	7	punct	7:punct	_
+9	Especially	especially	ADV	RB	_	11	advmod	11:advmod	_
+10	for	for	SCONJ	IN	_	11	mark	11:mark	_
+11	Finding	find	VERB	VBG	VerbForm=Ger	7	acl	7:acl:for	_
+12	Residential	residential	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
+13	Numbers	number	NOUN	NNS	Number=Plur	11	obj	11:obj	_
+

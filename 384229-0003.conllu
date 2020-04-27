@@ -1,0 +1,21 @@
+# sent_id = 384229-0003
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj|9:nsubj:xsubj	_
+2	turned	turn	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	out	out	ADP	RP	_	2	compound:prt	2:compound:prt	_
+4	being	be	AUX	VBG	VerbForm=Ger	9	cop	9:cop	_
+5	very	very	ADV	RB	_	6	advmod	6:advmod	_
+6	good	good	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
+7	quality	quality	NOUN	NN	Number=Sing	9	compound	9:compound	_
+8	tmobile	tmobile	PROPN	NNP	Number=Sing	9	compound	9:compound	_
+9	service	service	NOUN	NN	Number=Sing	2	xcomp	2:xcomp	_
+10	and	and	CCONJ	CC	_	13	cc	13:cc	_
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	13:nsubj	_
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	13:cop	_
+13	happy	happy	ADJ	JJ	Degree=Pos	2	conj	2:conj:and	_
+14	with	with	ADP	IN	_	18	case	18:case	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
+16	new	new	ADJ	JJ	Degree=Pos	18	amod	18:amod	_
+17	tmobile	tmobile	PROPN	NNP	Number=Sing	18	compound	18:compound	_
+18	phone	phone	NOUN	NN	Number=Sing	13	obl	13:obl:with	SpaceAfter=No
+19	.	.	PUNCT	.	_	2	punct	2:punct	_
+

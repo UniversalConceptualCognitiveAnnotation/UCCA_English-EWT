@@ -1,0 +1,27 @@
+# sent_id = 154658-0003
+1	Extensive	extensive	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+2	drink	drink	NOUN	NN	Number=Sing	3	compound	3:compound	_
+3	list	list	NOUN	NN	Number=Sing	0	root	0:root	_
+4	and	and	CCONJ	CC	_	6	cc	6:cc	_
+5	daily	daily	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	specials	special	NOUN	NNS	Number=Plur	3	conj	3:conj:and	_
+7	but	but	CCONJ	CC	_	8	cc	8:cc	_
+8	wish	wish	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	3:conj:but	_
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	10:nsubj	_
+10	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	ccomp	8:ccomp	_
+11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	_
+12	bit	bit	NOUN	NN	Number=Sing	13	obl:npmod	13:obl:npmod	_
+13	more	more	ADJ	JJR	Degree=Cmp	10	obj	10:obj	_
+14	on	on	ADP	IN	_	17	case	17:case	_
+15	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	nmod:poss	17:nmod:poss	_
+16	food	food	NOUN	NN	Number=Sing	17	compound	17:compound	_
+17	menu	menu	NOUN	NN	Number=Sing	10	obl	10:obl:on	SpaceAfter=No
+18	,	,	PUNCT	,	_	10	punct	10:punct	_
+19	although	although	SCONJ	IN	_	24	mark	24:mark	_
+20	popcorn	popcorn	NOUN	NN	Number=Sing	24	nsubj	24:nsubj	_
+21	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	24:cop	_
+22	a	a	DET	DT	Definite=Ind|PronType=Art	24	det	24:det	_
+23	nice	nice	ADJ	JJ	Degree=Pos	24	amod	24:amod	_
+24	touch	touch	NOUN	NN	Number=Sing	10	advcl	10:advcl:although	SpaceAfter=No
+25	!	!	PUNCT	.	_	8	punct	8:punct	_
+

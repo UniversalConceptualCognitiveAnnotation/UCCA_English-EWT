@@ -1,0 +1,26 @@
+# sent_id = 018465-0009
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|6:nsubj:xsubj	_
+2	wanted	want	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	to	to	PART	TO	_	6	mark	6:mark	_
+4	be	be	AUX	VB	VerbForm=Inf	6	cop	6:cop	_
+5	very	very	ADV	RB	_	6	advmod	6:advmod	_
+6	blonde	blonde	ADJ	JJ	Degree=Pos	2	xcomp	2:xcomp	_
+7	and	and	CCONJ	CC	_	10	cc	10:cc	_
+8	instead	instead	ADV	RB	_	10	advmod	10:advmod	_
+9	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	_
+10	pulled	pull	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
+11	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	13:nmod:poss	_
+12	root	root	NOUN	NN	Number=Sing	13	compound	13:compound	_
+13	color	color	NOUN	NN	Number=Sing	10	obj	10:obj	_
+14	throughout	throughout	ADP	IN	_	17	case	17:case	_
+15	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	17	nmod:poss	17:nmod:poss	_
+16	whole	whole	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
+17	hair	hair	NOUN	NN	Number=Sing	10	obl	10:obl:throughout|23:nsubj	_
+18	which	which	PRON	WDT	PronType=Rel	23	nsubj	17:ref	_
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	23:cop	_
+20	a	a	DET	DT	Definite=Ind|PronType=Art	23	det	23:det	_
+21	gross	gross	ADJ	JJ	Degree=Pos	23	amod	23:amod	_
+22	mousey	mousey	NOUN	NN	Number=Sing	23	compound	23:compound	_
+23	brown	brown	NOUN	NN	Number=Sing	17	acl:relcl	17:acl:relcl	SpaceAfter=No
+24	.	.	PUNCT	.	_	2	punct	2:punct	_
+

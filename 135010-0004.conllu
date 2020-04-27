@@ -1,0 +1,14 @@
+# sent_id = 135010-0004
+1	Only	only	ADV	RB	_	7	advmod	7:advmod	_
+2	if	if	SCONJ	IN	_	7	mark	7:mark	_
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	7:nsubj	_
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
+5	of	of	ADP	IN	_	7	case	7:case	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	quality	quality	NOUN	NN	Number=Sing	0	root	0:root	_
+8	of	of	SCONJ	IN	_	9	case	9:case	_
+9	That	that	PRON	DT	Number=Sing|PronType=Dem	7	nmod	7:nmod:of	SpaceAfter=No
+10	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	flat	9:flat	_
+11	Amore	Amore	PROPN	NNP	Number=Sing	9	flat	9:flat	SpaceAfter=No
+12	.	.	PUNCT	.	_	7	punct	7:punct	_
+

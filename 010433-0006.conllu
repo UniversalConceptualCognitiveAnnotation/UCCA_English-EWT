@@ -1,0 +1,14 @@
+# sent_id = 010433-0006
+1	Only	only	ADV	RB	_	3	advmod	3:advmod	_
+2	one	one	NUM	CD	NumType=Card	3	nummod	3:nummod	_
+3	server	server	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
+4	,	,	PUNCT	,	_	3	punct	3:punct	_
+5	too	too	ADV	RB	_	6	advmod	6:advmod	_
+6	buys	busy	ADJ	JJ	Degree=Pos|Typo=Yes	11	ccomp	11:ccomp	_
+7	talking	talk	VERB	VBG	VerbForm=Ger	6	advcl	6:advcl	_
+8	with	with	ADP	IN	_	9	case	9:case	_
+9	others	other	NOUN	NNS	Number=Plur	7	obl	7:obl:with	_
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	11:nsubj	_
+11	guess	guess	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	parataxis	3:parataxis	SpaceAfter=No
+12	.	.	PUNCT	.	_	3	punct	3:punct	_
+

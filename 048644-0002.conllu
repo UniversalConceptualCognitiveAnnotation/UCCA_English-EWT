@@ -1,0 +1,13 @@
+# sent_id = 048644-0002
+1	From	from	ADP	IN	_	3	case	3:case	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+3	outside	outside	NOUN	NN	Number=Sing	5	obl	5:obl:from	_
+4	Ichiban	Ichiban	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj	_
+5	looks	look	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+6	like	like	SCONJ	IN	_	10	mark	10:mark	_
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	_
+8	will	will	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
+9	be	be	AUX	VB	VerbForm=Inf	10	cop	10:cop	_
+10	terrible	terrible	ADJ	JJ	Degree=Pos	5	advcl	5:advcl:like	SpaceAfter=No
+11	.	.	PUNCT	.	_	5	punct	5:punct	_
+

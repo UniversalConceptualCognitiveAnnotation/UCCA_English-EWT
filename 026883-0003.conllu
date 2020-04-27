@@ -1,0 +1,16 @@
+# sent_id = 026883-0003
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+2	experience	experience	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	_
+3	with	with	ADP	IN	_	6	case	6:case	_
+4	Home	Home	PROPN	NNP	Number=Sing	6	compound	6:compound	_
+5	Delivery	Delivery	PROPN	NNP	Number=Sing	6	compound	6:compound	_
+6	Service	Service	PROPN	NNP	Number=Sing	2	nmod	2:nmod:with	_
+7	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
+8	been	be	AUX	VBN	Tense=Past|VerbForm=Part	9	cop	9:cop	_
+9	one	one	NUM	CD	NumType=Card	0	root	0:root	_
+10	of	of	ADP	IN	_	11	case	11:case	_
+11	disappointment	disappointment	NOUN	NN	Number=Sing	9	nmod	9:nmod:of	_
+12	and	and	CCONJ	CC	_	13	cc	13:cc	_
+13	anger	anger	NOUN	NN	Number=Sing	11	conj	9:nmod:of|11:conj:and	SpaceAfter=No
+14	.	.	PUNCT	.	_	9	punct	9:punct	_
+

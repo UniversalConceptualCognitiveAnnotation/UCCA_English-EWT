@@ -1,0 +1,29 @@
+# sent_id = 036133-0008
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	guy	guy	NOUN	NN	Number=Sing	19	nsubj	5:nsubj|10:nsubj|19:nsubj|22:nsubj	_
+3	who	who	PRON	WP	PronType=Rel	5	nsubj	2:ref	_
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	5:aux	_
+5	cutting	cut	VERB	VBG	VerbForm=Ger	2	acl:relcl	2:acl:relcl	_
+6	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	iobj	5:iobj	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+8	deals	deal	NOUN	NNS	Number=Plur	5	obj	5:obj	_
+9	and	and	CCONJ	CC	_	10	cc	10:cc	_
+10	getting	get	VERB	VBG	VerbForm=Ger	5	conj	2:acl:relcl|5:conj:and	_
+11	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	10	iobj	10:iobj	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
+13	furniture	furniture	NOUN	NN	Number=Sing	10	obj	10:obj	_
+14	quickly	quickly	ADV	RB	_	10	advmod	10:advmod	SpaceAfter=No
+15	,	,	PUNCT	,	_	2	punct	2:punct	_
+16	Ahmed	Ahmed	PROPN	NNP	Number=Sing	2	appos	2:appos	SpaceAfter=No
+17	,	,	PUNCT	,	_	19	punct	19:punct	_
+18	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	cop	19:cop	_
+19	nice	nice	ADJ	JJ	Degree=Pos	0	root	0:root	_
+20	and	and	CCONJ	CC	_	22	cc	22:cc	_
+21	mostly	mostly	ADV	RB	_	22	advmod	22:advmod	_
+22	professional	professional	ADJ	JJ	Degree=Pos	19	conj	19:conj:and	SpaceAfter=No
+23	,	,	PUNCT	,	_	19	punct	19:punct	_
+24	except	except	ADP	IN	_	26	case	26:case	_
+25	the	the	DET	DT	Definite=Def|PronType=Art	26	det	26:det	_
+26	semi-sketchiness	semi-sketchiness	NOUN	NN	Number=Sing	19	obl	19:obl:except	SpaceAfter=No
+27	.	.	PUNCT	.	_	19	punct	19:punct	_
+

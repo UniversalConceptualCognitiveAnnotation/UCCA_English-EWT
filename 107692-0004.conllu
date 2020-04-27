@@ -1,0 +1,24 @@
+# sent_id = 107692-0004
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	mean	mean	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	discourse	7:discourse	SpaceAfter=No
+3	,	,	PUNCT	,	_	7	punct	7:punct	_
+4	that	that	PRON	DT	Number=Sing|PronType=Dem	7	nsubj	7:nsubj	SpaceAfter=No
+5	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	way	way	NOUN	NN	Number=Sing	0	root	0:root	_
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	9:nsubj	_
+9	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	7:acl:relcl	_
+10	at	at	ADP	IN	_	12	case	12:case	_
+11	amusement	amusement	NOUN	NN	Number=Sing	12	compound	12:compound	_
+12	parks	park	NOUN	NNS	Number=Plur	9	obl	9:obl:at	SpaceAfter=No
+13	:	:	PUNCT	:	_	7	punct	7:punct	_
+14	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
+15	longest	longest	ADJ	JJS	Degree=Sup	16	amod	16:amod	_
+16	lines	line	NOUN	NNS	Number=Plur	21	nsubj	21:nsubj	_
+17	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	21	cop	21:cop	_
+18	at	at	ADP	IN	_	21	case	21:case	_
+19	the	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	_
+20	best	best	ADJ	JJS	Degree=Sup	21	amod	21:amod	_
+21	rides	ride	NOUN	NNS	Number=Plur	7	parataxis	7:parataxis	SpaceAfter=No
+22	.	.	PUNCT	.	_	7	punct	7:punct	_
+

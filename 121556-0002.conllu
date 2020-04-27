@@ -1,0 +1,33 @@
+# sent_id = 121556-0002
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
+3	lived	live	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+4	in	in	ADP	IN	_	9	case	9:case	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+6	UTC	UTC	PROPN	NNP	Number=Sing	9	compound	9:compound	_
+7	La	La	PROPN	NNP	Number=Sing	9	compound	9:compound	_
+8	Jolla	Jolla	PROPN	NNP	Number=Sing	7	flat	7:flat	_
+9	area	area	NOUN	NN	Number=Sing	3	obl	3:obl:in	_
+10	for	for	ADP	IN	_	12	case	12:case	_
+11	many	many	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
+12	years	year	NOUN	NNS	Number=Plur	3	obl	3:obl:for	SpaceAfter=No
+13	,	,	PUNCT	,	_	17	punct	17:punct	_
+14	and	and	CCONJ	CC	_	17	cc	17:cc	_
+15	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	17:nsubj	_
+16	never	never	ADV	RB	_	17	advmod	17:advmod	_
+17	new	know	VERB	VBD	Mood=Ind|Tense=Past|Typo=Yes|VerbForm=Fin	3	conj	3:conj:and	_
+18	this	this	DET	DT	Number=Sing|PronType=Dem	19	det	19:det	_
+19	salon	salon	NOUN	NN	Number=Sing	21	nsubj	21:nsubj	_
+20	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	cop	21:cop	_
+21	here	here	ADV	RB	PronType=Dem	17	ccomp	17:ccomp	_
+22	until	until	SCONJ	IN	_	25	mark	25:mark	_
+23	a	a	DET	DT	Definite=Ind|PronType=Art	24	det	24:det	_
+24	friend	friend	NOUN	NN	Number=Sing	25	nsubj	25:nsubj	_
+25	reffered	refer	VERB	VBD	Mood=Ind|Tense=Past|Typo=Yes|VerbForm=Fin	17	advcl	17:advcl:until	_
+26	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	25	obj	25:obj	_
+27	to	to	PART	TO	_	28	mark	28:mark	_
+28	see	see	VERB	VB	VerbForm=Inf	25	advcl	25:advcl:to	_
+29	Holly	Holly	PROPN	NNP	Number=Sing	28	obj	28:obj	_
+30	here	here	ADV	RB	PronType=Dem	28	advmod	28:advmod	SpaceAfter=No
+31	.	.	PUNCT	.	_	3	punct	3:punct	_
+

@@ -1,0 +1,17 @@
+# sent_id = 110908-0002
+1	Had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	3:det	_
+3	meal	meal	NOUN	NN	Number=Sing	1	obj	1:obj	_
+4	in	in	ADP	IN	_	6	case	6:case	_
+5	this	this	DET	DT	Number=Sing|PronType=Dem	6	det	6:det	_
+6	pub	pub	NOUN	NN	Number=Sing	1	obl	1:obl:in	_
+7	and	and	CCONJ	CC	_	9	cc	9:cc	_
+8	i	i	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj|11:nsubj:xsubj	_
+9	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	conj	1:conj:and	_
+10	to	to	PART	TO	_	11	mark	11:mark	_
+11	say	say	VERB	VB	VerbForm=Inf	9	xcomp	9:xcomp	_
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	14:nsubj	_
+13	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	cop	14:cop	_
+14	excellant	excellent	ADJ	JJ	Degree=Pos|Typo=Yes	11	ccomp	11:ccomp	SpaceAfter=No
+15	.	.	PUNCT	.	_	1	punct	1:punct	_
+

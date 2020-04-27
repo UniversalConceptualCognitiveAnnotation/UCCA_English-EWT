@@ -1,0 +1,19 @@
+# sent_id = 331662-0009
+1	Meats	meat	NOUN	NNS	Number=Plur	3	nsubj:pass	3:nsubj:pass|5:nsubj:xsubj	_
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux:pass	3:aux:pass	_
+3	kept	keep	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+4	VERY	very	ADV	RB	_	5	advmod	5:advmod	_
+5	cold	cold	ADJ	JJ	Degree=Pos	3	xcomp	3:xcomp	SpaceAfter=No
+6	,	,	PUNCT	,	_	8	punct	8:punct	_
+7	seafood	seafood	NOUN	NN	Number=Sing	8	nsubj	8:nsubj|9:nsubj:xsubj	_
+8	smells	smell	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	3:conj:and	_
+9	fresh	fresh	ADJ	JJ	Degree=Pos	8	xcomp	8:xcomp	_
+10	and	and	CCONJ	CC	_	16	cc	16:cc	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
+12	serving	serving	NOUN	NN	Number=Sing	13	compound	13:compound	_
+13	bar	bar	NOUN	NN	Number=Sing	16	nsubj	16:nsubj	_
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	16:cop	_
+15	VERY	very	ADV	RB	_	16	advmod	16:advmod	_
+16	clean	clean	ADJ	JJ	Degree=Pos	3	conj	3:conj:and	SpaceAfter=No
+17	.	.	PUNCT	.	_	3	punct	3:punct	_
+

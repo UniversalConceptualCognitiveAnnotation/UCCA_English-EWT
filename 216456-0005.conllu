@@ -1,0 +1,24 @@
+# sent_id = 216456-0005
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	that	that	SCONJ	IN	_	5	mark	5:mark	_
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	5:nsubj|8:nsubj:xsubj	_
+5	were	be	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	ccomp	2:ccomp	_
+6	to	to	PART	TO	_	8	mark	8:mark	_
+7	be	be	AUX	VB	VerbForm=Inf	8	aux:pass	8:aux:pass	_
+8	charged	charge	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	xcomp	5:xcomp	_
+9	for	for	ADP	IN	_	11	case	11:case	_
+10	this	this	DET	DT	Number=Sing|PronType=Dem	11	det	11:det	_
+11	room	room	NOUN	NN	Number=Sing	8	obl	8:obl:for	_
+12	regardless	regardless	ADV	RB	_	8	advmod	8:advmod	_
+13	because	because	SCONJ	IN	_	17	mark	17:mark	_
+14	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	17	nsubj	17:nsubj	_
+15	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	17	aux	17:aux	_
+16	not	not	PART	RB	_	17	advmod	17:advmod	_
+17	cancel	cancel	VERB	VB	VerbForm=Inf	8	advcl	8:advcl:because	_
+18	within	within	ADP	IN	_	21	case	21:case	_
+19	the	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	_
+20	72	72	NUM	CD	NumType=Card	21	nummod	21:nummod	_
+21	hours	hour	NOUN	NNS	Number=Plur	17	obl	17:obl:within	SpaceAfter=No
+22	.	.	PUNCT	.	_	2	punct	2:punct	_
+

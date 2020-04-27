@@ -1,0 +1,23 @@
+# sent_id = 200957-0002
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj|13:nsubj	_
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	4	aux	4:aux	_
+4	growing	grow	VERB	VBG	VerbForm=Ger	0	root	0:root	_
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	_
+6	hair	hair	NOUN	NN	Number=Sing	4	obj	4:obj	_
+7	out	out	ADV	RB	_	4	advmod	4:advmod	_
+8	for	for	ADP	IN	_	10	case	10:case	_
+9	1	1	NUM	CD	NumType=Card	10	nummod	10:nummod	_
+10	year	year	NOUN	NN	Number=Sing	4	obl	4:obl:for	_
+11	plus	plus	ADV	RB	_	10	advmod	10:advmod	_
+12	and	and	CCONJ	CC	_	13	cc	13:cc	_
+13	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	4:conj:and	_
+14	in	in	ADV	RB	_	13	advmod	13:advmod	_
+15	to	to	PART	TO	_	16	mark	16:mark	_
+16	get	get	VERB	VB	VerbForm=Inf	13	advcl	13:advcl:to	_
+17	1	1	NUM	CD	NumType=Card	18	nummod	18:nummod	_
+18	inch	inch	NOUN	NN	Number=Sing	16	obj	16:obj|19:nsubj:xsubj	_
+19	taken	take	VERB	VBN	Tense=Past|VerbForm=Part	16	xcomp	16:xcomp	_
+20	off	off	ADP	RP	_	19	compound:prt	19:compound:prt	SpaceAfter=No
+21	.	.	PUNCT	.	_	4	punct	4:punct	_
+

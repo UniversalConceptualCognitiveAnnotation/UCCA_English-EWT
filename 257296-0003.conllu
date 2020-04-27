@@ -1,0 +1,11 @@
+# sent_id = 257296-0003
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	comment	comment	NOUN	NN	Number=Sing	5	nsubj	5:nsubj|8:nsubj:xsubj	_
+3	below	below	ADV	RB	_	2	advmod	2:advmod	_
+4	definitely	definitely	ADV	RB	_	5	advmod	5:advmod	_
+5	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+6	to	to	PART	TO	_	8	mark	8:mark	_
+7	be	be	AUX	VB	VerbForm=Inf	8	aux:pass	8:aux:pass	_
+8	retracted	retract	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	xcomp	5:xcomp	SpaceAfter=No
+9	!	!	PUNCT	.	_	5	punct	5:punct	_
+

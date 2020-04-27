@@ -1,0 +1,14 @@
+# sent_id = 116821-0007
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	saw	see	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	4:det	_
+4	place	place	NOUN	NN	Number=Sing	2	obj	2:obj	_
+5	and	and	CCONJ	CC	_	7	cc	7:cc	_
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	7:nsubj	_
+7	looked	look	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	_
+8	like	like	ADP	IN	_	11	case	11:case	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
+10	HOLY	holy	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	GRAIL	grail	NOUN	NN	Number=Sing	7	obl	7:obl:like	SpaceAfter=No
+12	.	.	PUNCT	.	_	2	punct	2:punct	_
+

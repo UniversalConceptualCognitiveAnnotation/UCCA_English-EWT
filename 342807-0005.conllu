@@ -1,0 +1,22 @@
+# sent_id = 342807-0005
+1	All	all	DET	DT	_	14	nsubj	14:nsubj	_
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	3:nsubj|5:nsubj:xsubj	_
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	acl:relcl	1:acl:relcl	_
+4	to	to	PART	TO	_	5	mark	5:mark	_
+5	do	do	VERB	VB	VerbForm=Inf	3	xcomp	3:xcomp	_
+6	to	to	PART	TO	_	7	mark	7:mark	_
+7	make	make	VERB	VB	VerbForm=Inf	5	advcl	5:advcl:to	_
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obj	7:obj|11:nsubj:xsubj	_
+9	authentic	authentic	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+10	Jamaican	jamaican	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	food	food	NOUN	NN	Number=Sing	7	xcomp	7:xcomp	SpaceAfter=No
+12	,	,	PUNCT	,	_	14	punct	14:punct	_
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	14:cop	_
+14	add	add	VERB	VB	VerbForm=Inf	0	root	0:root	_
+15	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	17:det	_
+16	whole	whole	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
+17	lot	lot	NOUN	NN	Number=Sing	14	obj	14:obj	_
+18	of	of	ADP	IN	_	19	case	19:case	_
+19	pepper	pepper	NOUN	NN	Number=Sing	17	nmod	17:nmod:of	SpaceAfter=No
+20	.	.	PUNCT	.	_	14	punct	14:punct	_
+

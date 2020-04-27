@@ -1,0 +1,22 @@
+# sent_id = 363685-0016
+1	#	#	SYM	NN	Number=Sing	2	compound	2:compound	SpaceAfter=No
+2	2	2	X	LS	_	14	nummod	14:nummod	SpaceAfter=No
+3	)	)	PUNCT	-RRB-	_	2	punct	2:punct	_
+4	If	if	SCONJ	IN	_	6	mark	6:mark	_
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	6:nsubj	_
+6	take	take	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	advcl	14:advcl:if	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+8	shampoo	shampoo	NOUN	NN	Number=Sing	9	compound	9:compound	_
+9	products	product	NOUN	NNS	Number=Plur	6	obj	6:obj	_
+10	home	home	ADV	RB	_	6	advmod	6:advmod	SpaceAfter=No
+11	,	,	PUNCT	,	_	14	punct	14:punct	_
+12	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	14:nsubj	_
+13	will	will	AUX	MD	VerbForm=Fin	14	aux	14:aux	_
+14	charge	charge	VERB	VB	VerbForm=Inf	0	root	0:root	_
+15	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	14	iobj	14:iobj	_
+16	$	$	SYM	$	_	14	obj	14:obj	SpaceAfter=No
+17	8	8	NUM	CD	NumType=Card	16	nummod	16:nummod	_
+18	per	per	ADP	IN	_	19	case	19:case	_
+19	item	item	NOUN	NN	Number=Sing	16	nmod	16:nmod:per	SpaceAfter=No
+20	.	.	PUNCT	.	_	14	punct	14:punct	_
+

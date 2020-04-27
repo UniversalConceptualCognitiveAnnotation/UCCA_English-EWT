@@ -1,0 +1,22 @@
+# sent_id = 360698-0003
+1	And	and	CCONJ	CC	_	9	cc	9:cc	SpaceAfter=No
+2	,	,	PUNCT	,	_	9	punct	9:punct	_
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
+4	can	can	AUX	MD	VerbForm=Fin	5	aux	5:aux	_
+5	say	say	VERB	VB	VerbForm=Inf	9	parataxis	9:parataxis	SpaceAfter=No
+6	,	,	PUNCT	,	_	9	punct	9:punct	_
+7	this	this	PRON	DT	Number=Sing|PronType=Dem	9	nsubj	9:nsubj	_
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	9:cop	_
+9	one	one	NUM	CD	NumType=Card	0	root	0:root	_
+10	of	of	ADP	IN	_	13	case	13:case	_
+11	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	13:nmod:poss	_
+12	favorite	favorite	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
+13	places	place	NOUN	NNS	Number=Plur	9	nmod	9:nmod:of	_
+14	to	to	PART	TO	_	15	mark	15:mark	_
+15	eat	eat	VERB	VB	VerbForm=Inf	13	acl	13:acl:to	_
+16	in	in	ADP	IN	_	17	case	17:case	_
+17	all	all	DET	DT	_	15	obl	15:obl:in	_
+18	of	of	ADP	IN	_	19	case	19:case	_
+19	Richmond	Richmond	PROPN	NNP	Number=Sing	17	nmod	17:nmod:of	SpaceAfter=No
+20	.	.	PUNCT	.	_	9	punct	9:punct	_
+

@@ -1,0 +1,31 @@
+# sent_id = 187266-0005
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
+3	tell	tell	VERB	VB	VerbForm=Inf	0	root	0:root	_
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	obj	3:obj	_
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj:pass	8:nsubj:pass	_
+6	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	aux:pass	8:aux:pass	_
+7	pleasantly	pleasantly	ADV	RB	_	8	advmod	8:advmod	_
+8	surprised	surprise	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	ccomp	3:ccomp	_
+9	--	--	PUNCT	,	_	3	punct	3:punct	_
+10	BT	BT	PROPN	NNP	Number=Sing	11	nsubj	11:nsubj	_
+11	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	3:ccomp	_
+12	taste	taste	NOUN	NN	Number=Sing	13	compound	13:compound	_
+13	memory	memory	NOUN	NN	Number=Sing	11	obj	11:obj	_
+14	and	and	CCONJ	CC	_	22	cc	22:cc	_
+15	each	each	DET	DT	_	16	det	16:det	_
+16	time	time	NOUN	NN	Number=Sing	22	obl:tmod	22:obl:tmod	_
+17	back	back	ADV	RB	_	16	advmod	16:advmod	_
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
+19	food	food	NOUN	NN	Number=Sing	22	nsubj	22:nsubj	_
+20	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	cop	22:cop	_
+21	consistently	consistently	ADV	RB	_	22	advmod	22:advmod	_
+22	delicious	delicious	ADJ	JJ	Degree=Pos	11	conj	3:ccomp|11:conj:and	_
+23	--	--	PUNCT	,	_	22	punct	22:punct	_
+24	same	same	ADJ	JJ	Degree=Pos	25	amod	25:amod	_
+25	dishes	dish	NOUN	NNS	Number=Plur	28	nsubj	28:nsubj	_
+26	--	--	PUNCT	,	_	28	punct	28:punct	_
+27	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	28	cop	28:cop	_
+28	consistent	consistent	ADJ	JJ	Degree=Pos	22	parataxis	22:parataxis	SpaceAfter=No
+29	.	.	PUNCT	.	_	3	punct	3:punct	_
+

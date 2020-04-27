@@ -1,0 +1,24 @@
+# sent_id = 329692-0006
+1	There	there	PRON	EX	_	2	expl	2:expl	_
+2	were	be	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	2	2	NUM	CD	NumType=Card	2	nsubj	2:nsubj	_
+4	in	in	ADP	IN	_	6	case	6:case	_
+5	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	_
+6	group	group	NOUN	NN	Number=Sing	3	nmod	3:nmod:in	SpaceAfter=No
+7	,	,	PUNCT	,	_	17	punct	17:punct	_
+8	and	and	CCONJ	CC	_	17	cc	17:cc	_
+9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	_
+10	3rd	3rd	ADJ	JJ	Degree=Pos|NumType=Ord	11	amod	11:amod	_
+11	person	person	NOUN	NN	Number=Sing	17	nsubj	17:nsubj	_
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	17:cop	_
+13	also	also	ADV	RB	_	17	advmod	17:advmod	_
+14	in	in	ADP	IN	_	17	case	17:case	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
+16	parking	parking	NOUN	NN	Number=Sing	17	compound	17:compound	_
+17	lot	lot	NOUN	NN	Number=Sing	2	conj	2:conj:and	_
+18	waiting	wait	VERB	VBG	VerbForm=Ger	11	acl	11:acl	_
+19	for	for	ADP	IN	_	21	case	21:case	_
+20	this	this	DET	DT	Number=Sing|PronType=Dem	21	det	21:det	_
+21	class	class	NOUN	NN	Number=Sing	18	obl	18:obl:for	SpaceAfter=No
+22	.	.	PUNCT	.	_	2	punct	2:punct	_
+

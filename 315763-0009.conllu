@@ -1,0 +1,16 @@
+# sent_id = 315763-0009
+1	Great	great	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
+2	place	place	NOUN	NN	Number=Sing	0	root	0:root	_
+3	to	to	PART	TO	_	4	mark	4:mark	_
+4	live	live	VERB	VB	VerbForm=Inf	2	acl	2:acl:to	_
+5	if	if	SCONJ	IN	_	7	mark	7:mark	_
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	7:nsubj	_
+7	work	work	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	advcl	4:advcl:if	_
+8	in	in	ADP	IN	_	12	case	12:case	_
+9	and	and	CCONJ	CC	_	10	cc	10:cc	_
+10	around	around	ADP	IN	_	8	conj	8:conj:and|12:case	_
+11	downtown	downtown	ADV	RB	_	12	advmod	12:advmod	_
+12	San	San	PROPN	NNP	Number=Sing	7	obl	7:obl:around	_
+13	Jose	Jose	PROPN	NNP	Number=Sing	12	flat	12:flat	SpaceAfter=No
+14	!	!	PUNCT	.	_	2	punct	2:punct	_
+

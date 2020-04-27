@@ -1,0 +1,12 @@
+# sent_id = 366586-0002
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+2	husband	husband	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
+3	and	and	CCONJ	CC	_	4	cc	4:cc	_
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	conj	2:conj:and|5:nsubj	_
+5	happened	happen	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+6	in	in	ADV	RB	_	5	advmod	5:advmod	_
+7	on	on	ADP	IN	_	9	case	9:case	_
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
+9	whim	whim	NOUN	NN	Number=Sing	5	obl	5:obl:on	SpaceAfter=No
+10	.	.	PUNCT	.	_	5	punct	5:punct	_
+

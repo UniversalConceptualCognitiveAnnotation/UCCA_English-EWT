@@ -1,0 +1,12 @@
+# sent_id = 263870-0010
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	U	U	PROPN	NNP	Number=Sing	7	nsubj:pass	7:nsubj:pass	_
+3	of	of	ADP	IN	_	4	case	4:case	_
+4	R	R	PROPN	NNP	Number=Sing	2	nmod	2:nmod:of	_
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	7:aux:pass	_
+6	also	also	ADV	RB	_	7	advmod	7:advmod	_
+7	recommended	recommend	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
+8	,	,	PUNCT	,	_	7	punct	7:punct	_
+9	too	too	ADV	RB	_	7	advmod	7:advmod	SpaceAfter=No
+10	!	!	PUNCT	.	_	7	punct	7:punct	SpaceAfter=No
+

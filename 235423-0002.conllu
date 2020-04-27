@@ -1,0 +1,15 @@
+# sent_id = 235423-0002
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	8	nsubj	8:nsubj	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
+3	by	by	ADP	IN	_	4	case	4:case	_
+4	far	far	ADV	RB	Degree=Pos	8	obl	8:obl:by	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+6	worst	worst	ADJ	JJS	Degree=Sup	8	amod	8:amod	_
+7	chinese	chinese	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
+8	food	food	NOUN	NN	Number=Sing	0	root	0:root	_
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	12:nsubj	_
+10	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	aux	12:aux	_
+11	ever	ever	ADV	RB	_	12	advmod	12:advmod	_
+12	had	have	VERB	VBN	Tense=Past|VerbForm=Part	8	acl:relcl	8:acl:relcl	SpaceAfter=No
+13	.	.	PUNCT	.	_	8	punct	8:punct	_
+

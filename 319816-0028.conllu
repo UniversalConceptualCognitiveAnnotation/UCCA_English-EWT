@@ -1,0 +1,26 @@
+# sent_id = 319816-0028
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	employees	employee	NOUN	NNS	Number=Plur	8	nsubj	8:nsubj	_
+3	at	at	ADP	IN	_	5	case	5:case	_
+4	this	this	DET	DT	Number=Sing|PronType=Dem	5	det	5:det	_
+5	Sear's	Sears	PROPN	NNP	Number=Sing|Typo=Yes	2	nmod	2:nmod:at	_
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
+7	completely	completely	ADV	RB	_	8	advmod	8:advmod	_
+8	apathetic	apathetic	ADJ	JJ	Degree=Pos	0	root	0:root	_
+9	and	and	CCONJ	CC	_	13	cc	13:cc	_
+10	there	there	PRON	EX	_	13	expl	13:expl	_
+11	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13	aux	13:aux	SpaceAfter=No
+12	n't	not	PART	RB	_	13	advmod	13:advmod	_
+13	seem	seem	VERB	VB	VerbForm=Inf	8	conj	8:conj:and	_
+14	to	to	PART	TO	_	15	mark	15:mark	_
+15	be	be	VERB	VB	VerbForm=Inf	13	csubj	13:csubj	_
+16	any	any	DET	DT	_	17	det	17:det	_
+17	sort	sort	NOUN	NN	Number=Sing	15	nsubj	15:nsubj	_
+18	of	of	ADP	IN	_	19	case	19:case	_
+19	management	management	NOUN	NN	Number=Sing	17	nmod	17:nmod:of|23:obj	_
+20	that	that	PRON	WDT	PronType=Rel	23	obj	19:ref	_
+21	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	23	nsubj	23:nsubj	_
+22	could	could	AUX	MD	VerbForm=Fin	23	aux	23:aux	_
+23	see	see	VERB	VB	VerbForm=Inf	19	acl:relcl	19:acl:relcl	SpaceAfter=No
+24	.	.	PUNCT	.	_	8	punct	8:punct	_
+

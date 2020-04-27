@@ -1,0 +1,23 @@
+# sent_id = 364454-0005
+1	Based	base	VERB	VBN	Tense=Past|VerbForm=Part	5	case	5:case	_
+2	on	on	ADP	IN	_	5	case	5:case	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+4	test	test	NOUN	NN	Number=Sing	5	compound	5:compound	_
+5	results	result	NOUN	NNS	Number=Plur	10	obl	10:obl:on	SpaceAfter=No
+6	,	,	PUNCT	,	_	10	punct	10:punct	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+8	home	home	NOUN	NN	Number=Sing	9	compound	9:compound	_
+9	inspector	inspector	NOUN	NN	Number=Sing	10	nsubj	10:nsubj	_
+10	stated	state	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+11	that	that	SCONJ	IN	_	19	mark	19:mark	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
+13	quality	quality	NOUN	NN	Number=Sing	19	nsubj	19:nsubj	_
+14	of	of	ADP	IN	_	16	case	16:case	_
+15	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	16:nmod:poss	_
+16	job	job	NOUN	NN	Number=Sing	13	nmod	13:nmod:of	_
+17	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	cop	19:cop	_
+18	“	"	PUNCT	``	_	19	punct	19:punct	SpaceAfter=No
+19	excellent	excellent	ADJ	JJ	Degree=Pos	10	ccomp	10:ccomp	SpaceAfter=No
+20	”	"	PUNCT	''	_	19	punct	19:punct	SpaceAfter=No
+21	.	.	PUNCT	.	_	10	punct	10:punct	_
+

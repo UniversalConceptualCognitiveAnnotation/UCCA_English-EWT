@@ -1,0 +1,20 @@
+# sent_id = 363685-0003
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj|13:nsubj	_
+2	then	then	ADV	RB	PronType=Dem	3	advmod	3:advmod	_
+3	called	call	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+5	800	800	NUM	CD	NumType=Card	6	nummod	6:nummod	_
+6	number	number	NOUN	NN	Number=Sing	3	obj	3:obj|10:nsubj:pass	_
+7	(	(	PUNCT	-LRB-	_	10	punct	10:punct	SpaceAfter=No
+8	which	which	PRON	WDT	PronType=Rel	10	nsubj:pass	6:ref	_
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux:pass	10:aux:pass	_
+10	answered	answer	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	acl:relcl	6:acl:relcl	SpaceAfter=No
+11	)	)	PUNCT	-RRB-	_	10	punct	10:punct	_
+12	and	and	CCONJ	CC	_	13	cc	13:cc	_
+13	inquired	inquire	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	3:conj:and	_
+14	about	about	ADP	IN	_	17	case	17:case	_
+15	last	last	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
+16	minute	minute	NOUN	NN	Number=Sing	17	compound	17:compound	_
+17	rates	rate	NOUN	NNS	Number=Plur	13	obl	13:obl:about	SpaceAfter=No
+18	.	.	PUNCT	.	_	3	punct	3:punct	_
+

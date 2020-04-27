@@ -1,0 +1,13 @@
+# newdoc id = 148971
+# sent_id = 148971-0001
+1	Dr.	Dr.	PROPN	NNP	Number=Sing	10	nsubj	10:nsubj	_
+2	Strzalka	Strzalka	PROPN	NNP	Number=Sing	1	flat	1:flat	_
+3	at	at	ADP	IN	_	5	case	5:case	_
+4	Flagship	Flagship	PROPN	NNP	Number=Sing	5	compound	5:compound	_
+5	CVTS	CVTS	PROPN	NNP	Number=Sing	1	nmod	1:nmod:at	_
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
+7	not	not	PART	RB	_	10	advmod	10:advmod	_
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	_
+9	good	good	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
+10	doctor	doctor	NOUN	NN	Number=Sing	0	root	0:root	_
+

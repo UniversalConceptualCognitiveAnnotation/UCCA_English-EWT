@@ -1,0 +1,23 @@
+# sent_id = 351561-0025
+1	Anyway	anyway	INTJ	UH	_	9	discourse	9:discourse	SpaceAfter=No
+2	,	,	PUNCT	,	_	9	punct	9:punct	_
+3	after	after	ADP	IN	_	5	case	5:case	_
+4	much	much	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	yelling	yelling	NOUN	NN	Number=Sing	9	obl	9:obl:after	_
+6	and	and	CCONJ	CC	_	7	cc	7:cc	_
+7	cussing	cussing	NOUN	NN	Number=Sing	5	conj	5:conj:and|9:obl:after	_
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj|12:nsubj|17:nsubj	_
+9	hung	hang	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+10	up	up	ADP	RP	_	9	compound:prt	9:compound:prt	SpaceAfter=No
+11	,	,	PUNCT	,	_	12	punct	12:punct	_
+12	grabbed	grab	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	conj	9:conj:and	_
+13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	_
+14	cab	cab	NOUN	NN	Number=Sing	12	obj	12:obj	SpaceAfter=No
+15	,	,	PUNCT	,	_	17	punct	17:punct	_
+16	and	and	CCONJ	CC	_	17	cc	17:cc	_
+17	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	conj	9:conj:and	_
+18	to	to	ADP	IN	_	19	case	19:case	_
+19	Geno	Geno	PROPN	NNP	Number=Sing	17	obl	17:obl:to	SpaceAfter=No
+20	's	's	PART	POS	_	19	case	19:case	SpaceAfter=No
+21	.	.	PUNCT	.	_	9	punct	9:punct	SpaceAfter=No
+

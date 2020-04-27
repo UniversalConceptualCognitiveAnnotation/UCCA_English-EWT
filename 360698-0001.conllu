@@ -1,0 +1,16 @@
+# newdoc id = 360698
+# sent_id = 360698-0001
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj:pass	6:nsubj:pass	SpaceAfter=No
+2	s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	6:aux:pass	_
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	6	cop	6:cop	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
+5	few	few	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	years	year	NOUN	NNS	Number=Plur	0	root	0:root	_
+7	since	since	SCONJ	IN	_	12	mark	12:mark	_
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	12:nsubj	_
+9	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	aux	12:aux	_
+10	been	be	AUX	VBN	Tense=Past|VerbForm=Part	12	cop	12:cop	_
+11	to	to	ADP	IN	_	12	case	12:case	_
+12	Ipanema	Ipanema	PROPN	NNP	Number=Sing	6	advcl	6:advcl:to	SpaceAfter=No
+13	.	.	PUNCT	.	_	6	punct	6:punct	_
+

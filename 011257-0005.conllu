@@ -1,0 +1,21 @@
+# sent_id = 011257-0005
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|3:nsubj:xsubj|8:nsubj:xsubj	_
+2	enjoyed	enjoy	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	speaking	speak	VERB	VBG	VerbForm=Ger	2	xcomp	2:xcomp	_
+4	with	with	ADP	IN	_	5	case	5:case	_
+5	Dan	Dan	PROPN	NNP	Number=Sing	3	obl	3:obl:with	SpaceAfter=No
+6	,	,	PUNCT	,	_	8	punct	8:punct	_
+7	and	and	CCONJ	CC	_	8	cc	8:cc	_
+8	learning	learn	VERB	VBG	VerbForm=Ger	3	conj	2:xcomp|3:conj:and	_
+9	more	more	ADJ	JJR	Degree=Cmp	8	obj	8:obj	_
+10	about	about	SCONJ	IN	_	15	mark	15:mark	_
+11	how	how	ADV	WRB	PronType=Int	15	advmod	15:advmod	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
+13	springs	spring	NOUN	NNS	Number=Plur	15	nsubj:pass	15:nsubj:pass	_
+14	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	aux:pass	15:aux:pass	_
+15	sized	size	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	advcl	9:advcl:about	_
+16	for	for	ADP	IN	_	18	case	18:case	_
+17	these	these	DET	DT	Number=Plur|PronType=Dem	18	det	18:det	_
+18	doors	door	NOUN	NNS	Number=Plur	15	obl	15:obl:for	SpaceAfter=No
+19	.	.	PUNCT	.	_	2	punct	2:punct	_
+
