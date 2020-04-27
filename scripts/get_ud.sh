@@ -34,10 +34,17 @@ for xml in xml/*; do
   for sentence in "sentences_by_ud/${doc_id}-"*; do
     txt=${sentence#*/}
     if ! grep -qFxf- "ud/${doc_id}.txt" < "txt/${txt%.*}.txt"; then
-      echo
-      echo Could not match "txt/${txt%.*}.txt" to any line from "ud/${doc_id}.txt":
-      head -n-0 "txt/${txt%.*}.txt" "ud/${doc_id}.txt"
-      rm -fv "${sentence}"
+      # Try another way
+      found=
+      while read line; do
+        grep -qFx "$line" "txt/${txt%.*}.txt" && found=1
+      done < "ud/${doc_id}.txt"
+      if [ -z "$found" ]; then
+        echo
+        echo Could not match "txt/${txt%.*}.txt" to any line from "ud/${doc_id}.txt":
+        head -n-0 "txt/${txt%.*}.txt" "ud/${doc_id}.txt"
+        rm -fv "${sentence}"
+      fi
     fi
   done
 done
