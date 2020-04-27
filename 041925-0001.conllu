@@ -3,7 +3,7 @@
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	heard	hear	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
-4	libido	libido	NOUN	NN	Number=Sing	5	compound	5:compound	_
+4	libido	libido	PROPN	NNP	Number=Sing	5	compound	5:compound	_
 5	band	band	NOUN	NN	Number=Sing	2	obj	2:obj|6:nsubj:xsubj	_
 6	play	play	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	_
 7	live	live	ADV	RB	_	6	advmod	6:advmod	_

@@ -14,13 +14,13 @@
 13	forget	forget	VERB	VB	Mood=Imp|VerbForm=Fin	7	parataxis	7:parataxis	_
 14	to	to	PART	TO	_	15	mark	15:mark	_
 15	tell	tell	VERB	VB	VerbForm=Inf	13	xcomp	13:xcomp	_
-16	'em	'em	PRON	PRP	_	15	obj	15:obj	_
+16	'em	them	PRON	PRP	Abbr=Yes	15	obj	15:obj	_
 17	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	24	nsubj	24:nsubj	SpaceAfter=No
 18	s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	24:cop	_
 19	really	really	ADV	RB	_	24	advmod	24:advmod	_
 20	a	a	DET	DT	Definite=Ind|PronType=Art	24	det	24:det	_
 21	'	'	PUNCT	``	_	24	punct	24:punct	SpaceAfter=No
-22	pagen	pagen	ADJ	JJ	Degree=Pos	24	amod	24:amod	SpaceAfter=No
+22	pagen	pagan	ADJ	JJ	Degree=Pos|Typo=Yes	24	amod	24:amod	SpaceAfter=No
 23	'	'	PUNCT	''	_	24	punct	24:punct	_
 24	thing	thing	NOUN	NN	Number=Sing	15	ccomp	15:ccomp	SpaceAfter=No
 25	!	!	PUNCT	.	_	1	punct	1:punct	SpaceAfter=No

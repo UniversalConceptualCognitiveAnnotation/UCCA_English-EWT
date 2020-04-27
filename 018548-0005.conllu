@@ -4,7 +4,7 @@
 3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	5:nsubj|13:nsubj	_
 4	can	can	AUX	MD	VerbForm=Fin	5	aux	5:aux	_
 5	call	call	VERB	VB	VerbForm=Inf	0	root	0:root	_
-6	em	em	PRON	PRP	_	5	obj	5:obj	_
+6	em	they	PRON	PRP	Abbr=Yes|Case=Acc|Number=Plur|Person=3|PronType=Prs	5	obj	5:obj	_
 7	ahead	ahead	ADV	RB	_	5	advmod	5:advmod	_
 8	of	of	ADP	IN	_	9	case	9:case	_
 9	time	time	NOUN	NN	Number=Sing	7	obl	7:obl:of	SpaceAfter=No
@@ -15,7 +15,7 @@
 14	to	to	PART	TO	_	15	mark	15:mark	_
 15	pick	pick	VERB	VB	VerbForm=Inf	13	advcl	13:advcl:to	_
 16	up	up	ADP	RP	_	15	compound:prt	15:compound:prt	_
-17	ur	ur	PRON	PRP$	_	18	nmod:poss	18:nmod:poss	_
+17	ur	your	PRON	PRP$	Abbr=Yes|Person=2|Poss=Yes|PronType=Prs	18	nmod:poss	18:nmod:poss	_
 18	food	food	NOUN	NN	Number=Sing	15	obj	15:obj	SpaceAfter=No
 19	,	,	PUNCT	,	_	21	punct	21:punct	_
 20	or	or	CCONJ	CC	_	21	cc	21:cc	_

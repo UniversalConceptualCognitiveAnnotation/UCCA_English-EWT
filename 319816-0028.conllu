@@ -3,7 +3,7 @@
 2	employees	employee	NOUN	NNS	Number=Plur	8	nsubj	8:nsubj	_
 3	at	at	ADP	IN	_	5	case	5:case	_
 4	this	this	DET	DT	Number=Sing|PronType=Dem	5	det	5:det	_
-5	Sear's	Sear's	PROPN	NNP	Number=Sing	2	nmod	2:nmod:at	_
+5	Sear's	Sears	PROPN	NNP	Number=Sing|Typo=Yes	2	nmod	2:nmod:at	_
 6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
 7	completely	completely	ADV	RB	_	8	advmod	8:advmod	_
 8	apathetic	apathetic	ADJ	JJ	Degree=Pos	0	root	0:root	_

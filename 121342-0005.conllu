@@ -11,7 +11,7 @@
 10	,	,	PUNCT	,	_	4	punct	4:punct	_
 11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	14:nsubj	_
 12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	cop	14:cop	_
-13	completly	completly	ADV	RB	_	14	advmod	14:advmod	_
+13	completly	completely	ADV	RB	Typo=Yes	14	advmod	14:advmod	_
 14	flavorless	flavorless	ADJ	JJ	Degree=Pos	4	parataxis	4:parataxis	SpaceAfter=No
 15	.	.	PUNCT	.	_	4	punct	4:punct	_
 

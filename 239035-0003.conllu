@@ -6,13 +6,13 @@
 5	week	week	NOUN	NN	Number=Sing	2	obl:npmod	2:obl:npmod	_
 6	for	for	ADP	IN	_	11	case	11:case	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
-8	shallac	shallac	NOUN	NN	Number=Sing	10	compound	10:compound	SpaceAfter=No
+8	shallac	shellac	NOUN	NN	Number=Sing|Typo=Yes	10	compound	10:compound	SpaceAfter=No
 9	/	/	PUNCT	,	_	10	punct	10:punct	SpaceAfter=No
 10	gel	gel	NOUN	NN	Number=Sing	11	compound	11:compound	_
 11	manicure	manicure	NOUN	NN	Number=Sing	2	obl	2:obl:for|15:nsubj	_
 12	which	which	PRON	WDT	PronType=Rel	15	nsubj	11:ref	_
 13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	15:cop	_
-14	only	only	ADV	RB	_	16	advmod	16:advmod	_
+14	only	only	ADV	RB	_	15	advmod	15:advmod	_
 15	$	$	SYM	$	_	11	acl:relcl	11:acl:relcl	SpaceAfter=No
 16	25	25	NUM	CD	NumType=Card	15	nummod	15:nummod	_
 17	and	and	CCONJ	CC	_	20	cc	20:cc	_

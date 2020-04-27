@@ -4,6 +4,6 @@
 3	wait	wait	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 4	to	to	PART	TO	_	5	mark	5:mark	_
 5	go	go	VERB	VB	VerbForm=Inf	3	advcl	3:advcl:to	_
-6	gain	gain	ADV	RB	_	5	advmod	5:advmod	SpaceAfter=No
+6	gain	again	ADV	RB	Typo=Yes	5	advmod	5:advmod	SpaceAfter=No
 7	.	.	PUNCT	.	_	3	punct	3:punct	_
 

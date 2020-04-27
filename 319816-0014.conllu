@@ -23,7 +23,7 @@
 22	and	and	CCONJ	CC	_	25	cc	25:cc	_
 23	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	25	nmod:poss	25:nmod:poss	_
 24	service	service	NOUN	NN	Number=Sing	25	compound	25:compound	_
-25	papers	papers	NOUN	NNS	Number=Plur	18	conj	14:obj|18:conj:and	_
+25	papers	paper	NOUN	NNS	Number=Plur	18	conj	14:obj|18:conj:and	_
 26	from	from	ADP	IN	_	27	case	27:case	_
 27	earlier	earlier	ADV	RBR	Degree=Cmp	25	nmod	25:nmod:from	_
 28	in	in	ADP	IN	_	30	case	30:case	_

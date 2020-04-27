@@ -1,6 +1,6 @@
 # sent_id = 394662-0005
 1	i	i	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	reccomend	reccomend	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	reccomend	recommend	VERB	VBP	Mood=Ind|Tense=Pres|Typo=Yes|VerbForm=Fin	0	root	0:root	_
 3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obj	2:obj|5:nsubj:xsubj|7:nsubj:xsubj	_
 4	to	to	PART	TO	_	5	mark	5:mark	_
 5	go	go	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	_

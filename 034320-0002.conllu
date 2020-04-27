@@ -4,7 +4,7 @@
 3	,	,	PUNCT	,	_	4	punct	4:punct	_
 4	talented	talented	ADJ	JJ	Degree=Pos	2	conj	2:conj:and|9:amod	SpaceAfter=No
 5	,	,	PUNCT	,	_	6	punct	6:punct	_
-6	unic	unic	ADJ	JJ	Degree=Pos	2	conj	2:conj:and|9:amod	_
+6	unic	unique	ADJ	JJ	Degree=Pos|Typo=Yes	2	conj	2:conj:and|9:amod	_
 7	and	and	CCONJ	CC	_	8	cc	8:cc	_
 8	fresh	fresh	ADJ	JJ	Degree=Pos	2	conj	2:conj:and|9:amod	_
 9	work	work	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No

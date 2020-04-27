@@ -1,6 +1,6 @@
 # sent_id = 121342-0007
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	orderd	orderd	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	orderd	ordered	VERB	VBP	Mood=Ind|Tense=Pres|Typo=Yes|VerbForm=Fin	0	root	0:root	_
 3	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 4	meals	meal	NOUN	NNS	Number=Plur	2	obj	2:obj	_
 5	anyway	anyway	ADV	RB	_	2	advmod	2:advmod	SpaceAfter=No
@@ -8,7 +8,7 @@
 7	chimichangas	chimichanga	NOUN	NNS	Number=Plur	2	parataxis	2:parataxis	SpaceAfter=No
 8	,	,	PUNCT	,	_	10	punct	10:punct	SpaceAfter=No
 9	jalapeno	jalapeno	NOUN	NN	Number=Sing	10	compound	10:compound	_
-10	borritos	borrito	NOUN	NNS	Number=Plur	7	conj	7:conj:and	SpaceAfter=No
+10	borritos	burrito	NOUN	NNS	Number=Plur|Typo=Yes	7	conj	7:conj:and	SpaceAfter=No
 11	,	,	PUNCT	,	_	13	punct	13:punct	_
 12	and	and	CCONJ	CC	_	13	cc	13:cc	_
 13	quesadillas	quesadilla	NOUN	NNS	Number=Plur	7	conj	7:conj:and	SpaceAfter=No

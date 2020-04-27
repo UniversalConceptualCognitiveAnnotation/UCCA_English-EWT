@@ -1,9 +1,9 @@
 # sent_id = 187266-0012
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
-2	rrly	rrly	ADV	RB	_	3	advmod	3:advmod	_
+2	rrly	rarely	ADV	RB	Typo=Yes	3	advmod	3:advmod	_
 3	seek	seek	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
-5	cehf	cehf	NOUN	NN	Number=Sing	3	obj	3:obj|8:nsubj:xsubj	_
+5	cehf	chef	NOUN	NN	Number=Sing|Typo=Yes	3	obj	3:obj|8:nsubj:xsubj	_
 6	out	out	ADP	RP	_	3	compound:prt	3:compound:prt	_
 7	to	to	PART	TO	_	8	mark	8:mark	_
 8	introduce	introduce	VERB	VB	VerbForm=Inf	3	xcomp	3:xcomp	_

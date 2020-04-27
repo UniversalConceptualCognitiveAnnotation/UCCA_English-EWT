@@ -14,6 +14,6 @@
 13	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
 14	north	north	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
 15	east	east	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
-16	reigon	reigon	NOUN	NN	Number=Sing	11	nmod	11:nmod:of	SpaceAfter=No
+16	reigon	region	NOUN	NN	Number=Sing|Typo=Yes	11	nmod	11:nmod:of	SpaceAfter=No
 17	.	.	PUNCT	.	_	2	punct	2:punct	_
 

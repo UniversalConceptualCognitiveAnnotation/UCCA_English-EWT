@@ -1,6 +1,6 @@
 # newdoc id = 094621
 # sent_id = 094621-0001
-1	Disatisfied	disatisfied	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
+1	Disatisfied	dissatisfied	ADJ	JJ	Degree=Pos|Typo=Yes	2	amod	2:amod	_
 2	customer	customer	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	2:punct	_
 4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj|10:nsubj	_

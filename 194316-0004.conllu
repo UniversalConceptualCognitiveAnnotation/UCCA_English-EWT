@@ -15,7 +15,7 @@
 14	and	and	CCONJ	CC	_	17	cc	17:cc	_
 15	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	nsubj	17:nsubj	_
 16	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	17:cop	_
-17	worht	worht	ADJ	JJ	Degree=Pos	7	conj	5:ccomp|7:conj:and	_
+17	worht	worth	ADJ	JJ	Degree=Pos|Typo=Yes	7	conj	5:ccomp|7:conj:and	_
 18	every	every	DET	DT	_	19	det	19:det	_
 19	penny	penny	NOUN	NN	Number=Sing	17	obj	17:obj	SpaceAfter=No
 20	..	..	PUNCT	.	_	5	punct	5:punct	_
