@@ -1,0 +1,32 @@
+#BOS 299169-0002
+Fried	Word	--	Terminal	500
+rice	Word	--	Terminal	501
+has	Word	--	Terminal	502
+NO	Word	--	Terminal	503
+flavor	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+it	Word	--	Terminal	506
+literally	Word	--	Terminal	507
+taste	Word	--	Terminal	508
+like	Word	--	Terminal	509
+water	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	P	512
+#501	FN	--	C	513	A*	512
+#502	FN	--	F	514
+#503	FN	--	D	515
+#504	FN	--	C	514
+#505	PNCT	--	U	517
+#506	FN	--	A	516
+#507	FN	--	D	516
+#508	FN	--	G	516
+#509	FN	--	S	516
+#510	FN	--	A	516
+#511	PNCT	--	U	516
+#512	FN	--	E	513
+#513	FN	--	A	515
+#514	FN	--	S	515
+#515	FN	--	H	517
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 299169-0002

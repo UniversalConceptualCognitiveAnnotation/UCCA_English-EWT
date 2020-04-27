@@ -1,0 +1,27 @@
+#BOS 133601-0002
+You	Word	--	Terminal	500
+are	Word	--	Terminal	501
+knowledgeable	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+professional	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+gentel	Word	--	Terminal	506
+and	Word	--	Terminal	507
+kind	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	A	510	A*	511	A*	512	A*	513
+#501	FN	--	F	510
+#502	FN	--	S	510
+#503	PNCT	--	U	514
+#504	FN	--	S	511
+#505	PNCT	--	U	514
+#506	FN	--	S	512
+#507	FN	--	L	514
+#508	FN	--	S	513
+#509	PNCT	--	U	513
+#510	FN	--	H	514
+#511	FN	--	H	514
+#512	FN	--	H	514
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 133601-0002

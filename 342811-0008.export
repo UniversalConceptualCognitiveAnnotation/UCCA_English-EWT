@@ -1,0 +1,36 @@
+#BOS 342811-0008
+A	Word	--	Terminal	500
+package	Word	--	Terminal	501
+and	Word	--	Terminal	502
+some	Word	--	Terminal	503
+wedding	Word	--	Terminal	504
+cards	Word	--	Terminal	505
+were	Word	--	Terminal	506
+left	Word	--	Terminal	507
+in	Word	--	Terminal	508
+our	Word	--	Terminal	509
+first	Word	--	Terminal	510
+room	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	F	513
+#501	FN	--	C	513
+#502	FN	--	N	518
+#503	FN	--	Q	515
+#504	FN	--	P	514
+#505	FN	--	C	515
+#506	FN	--	F	519
+#507	FN	--	P	519
+#508	FN	--	R	517
+#509	FN	--	S	516
+#510	FN	--	Q	517
+#511	FN	--	C	517	A*	516
+#512	PNCT	--	U	517
+#513	FN	--	C	518
+#514	FN	--	E	515
+#515	FN	--	C	518
+#516	FN	--	E	517
+#517	FN	--	A	519
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 342811-0008

@@ -1,0 +1,23 @@
+#BOS 398152-0006
+If	Word	--	Terminal	500
+not	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+go	Word	--	Terminal	503
+somewhere	Word	--	Terminal	504
+else	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	L	513
+#501	FN	--	D	510
+#502	PNCT	--	U	513
+#503	FN	--	P	512
+#504	FN	--	C	507
+#505	FN	--	E	507
+#506	PNCT	--	U	507
+#507	FN	--	A	512
+#508	FN	--	A	510
+#509	FN	--	S	510
+#510	FN	--	H	513
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 398152-0006

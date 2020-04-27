@@ -1,0 +1,33 @@
+#BOS 358063-0001
+Friendly	Word	--	Terminal	500
+Efficient	Word	--	Terminal	501
+and	Word	--	Terminal	502
+overall	Word	--	Terminal	503
+great	Word	--	Terminal	504
+place	Word	--	Terminal	505
+for	Word	--	Terminal	506
+people	Word	--	Terminal	507
+in	Word	--	Terminal	508
+chronic	Word	--	Terminal	509
+intractable	Word	--	Terminal	510
+pain	Word	--	Terminal	511
+#500	FN	--	S	512
+#501	FN	--	S	513
+#502	FN	--	L	518
+#503	FN	--	D	517
+#504	FN	--	S	517
+#505	FN	--	C	516	A*	512	A*	513
+#506	FN	--	R	515
+#507	FN	--	C	515	A*	514
+#508	FN	--	R	514
+#509	FN	--	D	514
+#510	FN	--	D	514
+#511	FN	--	S	514
+#512	FN	--	H	518
+#513	FN	--	H	518
+#514	FN	--	E	515
+#515	FN	--	E	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 358063-0001

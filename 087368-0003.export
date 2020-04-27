@@ -1,0 +1,26 @@
+#BOS 087368-0003
+Clean	Word	--	Terminal	500
+store	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+friendly	Word	--	Terminal	503
+check	Word	--	Terminal	505
+-	Punctuation	--	Terminal	504
+out	Word	--	Terminal	505
+staff	Word	--	Terminal	506
+up	Word	--	Terminal	507
+front	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	S	509
+#501	FN	--	A	509
+#502	PNCT	--	U	512
+#503	FN	--	D	511
+#504	PNCT	--	U	505
+#505	FN	--	E	510
+#506	FN	--	C	510
+#507	FN	--	D	511
+#508	PNCT	--	U	511
+#509	FN	--	H	512
+#510	FN	--	P	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 087368-0003

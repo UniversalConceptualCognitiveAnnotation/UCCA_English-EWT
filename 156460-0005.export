@@ -1,0 +1,27 @@
+#BOS 156460-0005
+Quaint	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+lovely	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+small	Word	--	Terminal	504
+salon	Word	--	Terminal	505
+with	Word	--	Terminal	506
+BIG	Word	--	Terminal	507
+personality	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	S	510
+#501	PNCT	--	U	514
+#502	FN	--	S	511
+#503	PNCT	--	U	514
+#504	FN	--	S	512
+#505	FN	--	A	512	A*	510	A*	511	A*	513
+#506	FN	--	L	514
+#507	FN	--	D	513
+#508	FN	--	S	513
+#509	PNCT	--	U	513
+#510	FN	--	H	514
+#511	FN	--	H	514
+#512	FN	--	H	514
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 156460-0005

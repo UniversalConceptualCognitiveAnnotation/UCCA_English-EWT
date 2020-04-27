@@ -1,0 +1,18 @@
+#BOS 196219-0001
+ATE	Word	--	Terminal	500
+HERE	Word	--	Terminal	501
+A	Word	--	Terminal	502
+COUPLE	Word	--	Terminal	503
+TIMES	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+#500	FN	--	P	508
+#501	FN	--	A	508
+#502	FN	--	F	506
+#503	FN	--	Q	506
+#504	FN	--	C	506
+#505	PNCT	--	U	506
+#506	FN	--	D	508
+#507	FN	--	A	508
+#508	FN	--	H	509
+#509	FN	--	--	0
+#EOS 196219-0001

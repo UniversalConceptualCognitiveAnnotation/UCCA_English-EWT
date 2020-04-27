@@ -1,0 +1,48 @@
+#BOS 342807-0005
+All	Word	--	Terminal	500
+you	Word	--	Terminal	501
+have	Word	--	Terminal	502
+to	Word	--	Terminal	502
+do	Word	--	Terminal	503
+to	Word	--	Terminal	504
+make	Word	--	Terminal	505
+it	Word	--	Terminal	506
+authentic	Word	--	Terminal	507
+Jamaican	Word	--	Terminal	508
+food	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+is	Word	--	Terminal	511
+add	Word	--	Terminal	512
+a	Word	--	Terminal	513
+whole	Word	--	Terminal	514
+lot	Word	--	Terminal	515
+of	Word	--	Terminal	516
+pepper	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	A	523
+#501	FN	--	A	523	A*	524
+#502	FN	--	D	523
+#503	FN	--	F	523
+#504	FN	--	L	525
+#505	FN	--	P	524
+#506	FN	--	A	524
+#507	FN	--	S	519
+#508	FN	--	E	520
+#509	FN	--	C	520	A*	519
+#510	PNCT	--	U	525
+#511	FN	--	F	523
+#512	FN	--	P	523
+#513	FN	--	F	521
+#514	FN	--	E	521
+#515	FN	--	C	521
+#516	FN	--	R	522
+#517	FN	--	C	522
+#518	PNCT	--	U	522
+#519	FN	--	E	520
+#520	FN	--	A	524
+#521	FN	--	Q	522
+#522	FN	--	A	523
+#523	FN	--	H	525
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 342807-0005

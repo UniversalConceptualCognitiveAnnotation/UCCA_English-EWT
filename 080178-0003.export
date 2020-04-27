@@ -1,0 +1,45 @@
+#BOS 080178-0003
+The	Word	--	Terminal	500
+store	Word	--	Terminal	501
+manager	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+Jim	Word	--	Terminal	504
+Smith	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+made	Word	--	Terminal	506
+an	Word	--	Terminal	507
+excellent	Word	--	Terminal	508
+tire	Word	--	Terminal	509
+recommendation	Word	--	Terminal	510
+for	Word	--	Terminal	511
+my	Word	--	Terminal	512
+newly	Word	--	Terminal	513
+acquired	Word	--	Terminal	514
+Lexus	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	F	517
+#501	FN	--	C	517
+#502	FN	--	S	518
+#503	PNCT	--	U	518
+#504	FN	--	A	518
+#505	PNCT	--	U	520
+#506	FN	--	D	520
+#507	FN	--	F	519
+#508	FN	--	D	520
+#509	FN	--	C	519
+#510	FN	--	P	520
+#511	FN	--	L	524
+#512	FN	--	S	521
+#513	FN	--	D	523
+#514	FN	--	P	523
+#515	FN	--	C	522	A*	521
+#516	PNCT	--	U	522
+#517	FN	--	A	518
+#518	FN	--	A	520
+#519	FN	--	A	520
+#520	FN	--	H	524
+#521	FN	--	E	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 080178-0003

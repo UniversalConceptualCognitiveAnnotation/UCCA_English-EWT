@@ -1,0 +1,49 @@
+#BOS 294081-0008
+I	Word	--	Terminal	500
+HAD	Word	--	Terminal	501
+TO	Word	--	Terminal	501
+ASK	Word	--	Terminal	502
+THE	Word	--	Terminal	503
+GIRL	Word	--	Terminal	504
+WHO	Word	--	Terminal	505
+BROUGHT	Word	--	Terminal	506
+MY	Word	--	Terminal	507
+FOOD	Word	--	Terminal	508
+AND	Word	--	Terminal	509
+SHE	Word	--	Terminal	510
+NEVER	Word	--	Terminal	511
+CAME	Word	--	Terminal	512
+BACK	Word	--	Terminal	513
+TO	Word	--	Terminal	514
+LET	Word	--	Terminal	515
+ME	Word	--	Terminal	516
+KNOW	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	A	525
+#501	FN	--	D	525
+#502	FN	--	P	525
+#503	FN	--	F	524
+#504	FN	--	C	524	A*	523
+#505	FN	--	R	523
+#506	FN	--	P	523
+#507	FN	--	S	519
+#508	FN	--	C	520	A*	519
+#509	FN	--	L	526
+#510	FN	--	A	521	A*	522
+#511	FN	--	T	521
+#512	FN	--	P	521
+#513	FN	--	D	521
+#514	FN	--	L	526
+#515	FN	--	D	522
+#516	FN	--	A	522
+#517	FN	--	P	522
+#518	PNCT	--	U	522
+#519	FN	--	E	520
+#520	FN	--	A	523
+#521	FN	--	H	526
+#522	FN	--	H	526
+#523	FN	--	E	524
+#524	FN	--	A	525
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 294081-0008

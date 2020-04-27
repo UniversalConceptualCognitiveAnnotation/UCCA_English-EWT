@@ -1,0 +1,29 @@
+#BOS 010820-0006
+Guess	Word	--	Terminal	500
+what	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+was	Word	--	Terminal	502
+not	Word	--	Terminal	503
+in	Word	--	Terminal	504
+the	Word	--	Terminal	505
+initial	Word	--	Terminal	506
+agreement	Word	--	Terminal	507
+as	Word	--	Terminal	508
+well	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	G	513
+#501	PNCT	--	U	513
+#502	FN	--	F	513
+#503	FN	--	D	513
+#504	FN	--	S	513
+#505	FN	--	F	510
+#506	FN	--	D	511
+#507	FN	--	C	510
+#508	FN	--	D	513
+#509	PNCT	--	U	513
+#510	FN	--	P	511
+#511	FN	--	A	513
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 010820-0006

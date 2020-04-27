@@ -1,0 +1,35 @@
+#BOS 307250-0001
+$	Word	--	Terminal	500
+9.62	Word	--	Terminal	501
+excluding	Word	--	Terminal	502
+tip	Word	--	Terminal	503
+with	Word	--	Terminal	504
+water	Word	--	Terminal	505
+to	Word	--	Terminal	506
+drink	Word	--	Terminal	507
+for	Word	--	Terminal	508
+the	Word	--	Terminal	509
+buffet	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	C	516
+#501	FN	--	Q	516
+#502	FN	--	R	512
+#503	FN	--	P	512
+#504	FN	--	R	515
+#505	FN	--	C	515	A*	513
+#506	FN	--	F	513
+#507	FN	--	P	513
+#508	FN	--	R	514
+#509	FN	--	F	514
+#510	FN	--	C	514
+#511	PNCT	--	U	514
+#512	FN	--	E	516
+#513	FN	--	E	515
+#514	FN	--	A	519
+#515	FN	--	E	516
+#516	FN	--	A	519
+#517	FN	--	A	519
+#518	FN	--	P	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 307250-0001

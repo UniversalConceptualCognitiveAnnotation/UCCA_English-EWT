@@ -1,0 +1,49 @@
+#BOS 182354-0003
+They	Word	--	Terminal	500
+were	Word	--	Terminal	501
+very	Word	--	Terminal	502
+professional	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+respectful	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+completed	Word	--	Terminal	507
+the	Word	--	Terminal	508
+Job	Word	--	Terminal	509
+on	Word	--	Terminal	510
+time	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+and	Word	--	Terminal	513
+well	Word	--	Terminal	514
+below	Word	--	Terminal	515
+my	Word	--	Terminal	516
+budget	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	A	520	A*	525	A*	526	A*	519
+#501	FN	--	F	520
+#502	FN	--	D	520	D*	519
+#503	FN	--	S	520
+#504	PNCT	--	U	527
+#505	FN	--	S	519
+#506	PNCT	--	U	527
+#507	FN	--	D	525	D*	526
+#508	FN	--	F	521
+#509	FN	--	C	521
+#510	FN	--	R	522
+#511	FN	--	C	522
+#512	PNCT	--	U	527
+#513	FN	--	L	527
+#514	FN	--	D	526
+#515	FN	--	S	526
+#516	FN	--	S	523
+#517	FN	--	C	524	A*	523
+#518	PNCT	--	U	524
+#519	FN	--	H	527
+#520	FN	--	H	527
+#521	FN	--	P	525
+#522	FN	--	T	525
+#523	FN	--	E	524
+#524	FN	--	A	526
+#525	FN	--	H	527
+#526	FN	--	H	527
+#527	FN	--	--	0
+#EOS 182354-0003

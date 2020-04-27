@@ -1,0 +1,17 @@
+#BOS 325292-0004
+Price	Word	--	Terminal	500
+and	Word	--	Terminal	501
+taste	Word	--	Terminal	502
+is	Word	--	Terminal	503
+good	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+#500	FN	--	A	506
+#501	FN	--	L	508
+#502	FN	--	S	507
+#503	FN	--	F	507
+#504	FN	--	D	507	S*	506
+#505	PNCT	--	U	506
+#506	FN	--	H	508
+#507	FN	--	H	508
+#508	FN	--	--	0
+#EOS 325292-0004

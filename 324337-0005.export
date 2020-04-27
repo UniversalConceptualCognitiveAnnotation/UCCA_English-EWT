@@ -1,0 +1,17 @@
+#BOS 324337-0005
+DO	Word	--	Terminal	500
+NOT	Word	--	Terminal	501
+EVER	Word	--	Terminal	502
+GO	Word	--	Terminal	503
+HERE	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+#500	FN	--	F	507
+#501	FN	--	D	507
+#502	FN	--	T	507
+#503	FN	--	P	507
+#504	FN	--	A	507
+#505	PNCT	--	U	507
+#506	FN	--	A	507
+#507	FN	--	H	508
+#508	FN	--	--	0
+#EOS 324337-0005

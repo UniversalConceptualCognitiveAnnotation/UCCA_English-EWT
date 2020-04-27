@@ -1,0 +1,30 @@
+#BOS 120992-0003
+She	Word	--	Terminal	500
+'s	Word	--	Terminal	501
+an	Word	--	Terminal	502
+A	Word	--	Terminal	503
++	Punctuation	--	Terminal	504
+and	Word	--	Terminal	505
+so	Word	--	Terminal	506
+are	Word	--	Terminal	507
+her	Word	--	Terminal	508
+clothes	Word	--	Terminal	509
+!	Punctuation	--	Terminal	510
+#500	FN	--	A	514
+#501	FN	--	F	514
+#502	FN	--	F	511
+#503	FN	--	C	511	S*	515
+#504	PNCT	--	U	516
+#505	FN	--	L	516
+#506	FN	--	D	515
+#507	FN	--	F	515
+#508	FN	--	S	512
+#509	FN	--	C	513	A*	512
+#510	PNCT	--	U	513
+#511	FN	--	S	514
+#512	FN	--	E	513
+#513	FN	--	A	515
+#514	FN	--	H	516
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 120992-0003

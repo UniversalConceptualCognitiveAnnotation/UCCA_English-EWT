@@ -1,0 +1,27 @@
+#BOS 133981-0007
+If	Word	--	Terminal	500
+you	Word	--	Terminal	501
+do	Word	--	Terminal	502
+not	Word	--	Terminal	503
+smoke	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+do	Word	--	Terminal	506
+not	Word	--	Terminal	507
+move	Word	--	Terminal	508
+here	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	L	513
+#501	FN	--	A	511	A*	512
+#502	FN	--	F	511
+#503	FN	--	D	511
+#504	FN	--	P	511
+#505	PNCT	--	U	513
+#506	FN	--	F	512
+#507	FN	--	D	512
+#508	FN	--	P	512
+#509	FN	--	A	512
+#510	PNCT	--	U	512
+#511	FN	--	H	513
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 133981-0007

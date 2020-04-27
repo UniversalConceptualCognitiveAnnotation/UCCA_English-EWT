@@ -1,0 +1,30 @@
+#BOS 363685-0028
+Bath	Word	--	Terminal	500
+was	Word	--	Terminal	501
+clean	Word	--	Terminal	502
+except	Word	--	Terminal	503
+shower	Word	--	Terminal	504
+stall	Word	--	Terminal	505
+which	Word	--	Terminal	506
+had	Word	--	Terminal	507
+mildew	Word	--	Terminal	508
+problems	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	A	511
+#501	FN	--	F	511
+#502	FN	--	S	511	S*	515
+#503	FN	--	L	516	D*	515
+#504	FN	--	E	512
+#505	FN	--	C	512
+#506	FN	--	L	516
+#507	FN	--	F	513
+#508	FN	--	A	514
+#509	FN	--	C	513
+#510	PNCT	--	U	513
+#511	FN	--	H	516
+#512	FN	--	A	515	A*	514
+#513	FN	--	P	514
+#514	FN	--	H	516
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 363685-0028

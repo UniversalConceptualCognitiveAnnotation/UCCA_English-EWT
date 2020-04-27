@@ -1,0 +1,14 @@
+#BOS 234261-0008
+AVOID	Word	--	Terminal	500
+AT	Word	--	Terminal	501
+ALL	Word	--	Terminal	501
+COSTS	Word	--	Terminal	501
+.	Punctuation	--	Terminal	502
+#500	FN	--	P	505
+#501	FN	--	A	505
+#502	PNCT	--	U	505
+#503	FN	--	A	505
+#504	FN	--	A	505
+#505	FN	--	H	506
+#506	FN	--	--	0
+#EOS 234261-0008

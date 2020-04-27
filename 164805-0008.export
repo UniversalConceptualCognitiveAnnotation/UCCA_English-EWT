@@ -1,0 +1,63 @@
+#BOS 164805-0008
+Fair	Word	--	Terminal	500
+give	Word	--	Terminal	501
+and	Word	--	Terminal	502
+take	Word	--	Terminal	503
+on	Word	--	Terminal	504
+both	Word	--	Terminal	505
+sides	Word	--	Terminal	506
+until	Word	--	Terminal	507
+we	Word	--	Terminal	508
+agreed	Word	--	Terminal	509
+on	Word	--	Terminal	510
+a	Word	--	Terminal	511
+deal	Word	--	Terminal	512
+that	Word	--	Terminal	513
+was	Word	--	Terminal	514
+within	Word	--	Terminal	515
+my	Word	--	Terminal	516
+parameters	Word	--	Terminal	517
+and	Word	--	Terminal	518
+was	Word	--	Terminal	519
+fair	Word	--	Terminal	520
+to	Word	--	Terminal	521
+both	Word	--	Terminal	522
+sides	Word	--	Terminal	523
+.	Punctuation	--	Terminal	524
+#500	FN	--	D	529	D*	530
+#501	FN	--	P	529
+#502	FN	--	L	535
+#503	FN	--	P	530
+#504	FN	--	R	525
+#505	FN	--	Q	525
+#506	FN	--	C	525
+#507	FN	--	L	535
+#508	FN	--	A	534
+#509	FN	--	P	534
+#510	FN	--	R	533
+#511	FN	--	F	526
+#512	FN	--	C	526	A*	531
+#513	FN	--	L	535
+#514	FN	--	F	531
+#515	FN	--	S	531
+#516	FN	--	A	527
+#517	FN	--	S	527
+#518	FN	--	L	535
+#519	FN	--	F	532
+#520	FN	--	S	532
+#521	FN	--	R	528
+#522	FN	--	Q	528
+#523	FN	--	C	528
+#524	PNCT	--	U	528
+#525	FN	--	A	529	A*	530
+#526	FN	--	P	533
+#527	FN	--	A	531
+#528	FN	--	A	532
+#529	FN	--	H	535
+#530	FN	--	H	535
+#531	FN	--	H	535
+#532	FN	--	H	535
+#533	FN	--	A	534
+#534	FN	--	H	535
+#535	FN	--	--	0
+#EOS 164805-0008

@@ -1,0 +1,42 @@
+#BOS 120992-0001
+Holly	Word	--	Terminal	500
+-	Punctuation	--	Terminal	501
+the	Word	--	Terminal	502
+owner	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+knows	Word	--	Terminal	505
+exactly	Word	--	Terminal	506
+how	Word	--	Terminal	507
+to	Word	--	Terminal	508
+make	Word	--	Terminal	509
+you	Word	--	Terminal	510
+feel	Word	--	Terminal	511
+beautiful	Word	--	Terminal	512
+in	Word	--	Terminal	513
+clothes	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	C	519	A*	520
+#501	PNCT	--	U	519
+#502	FN	--	F	516
+#503	FN	--	C	516
+#504	PNCT	--	U	522
+#505	FN	--	S	522
+#506	FN	--	E	521
+#507	FN	--	C	521	D*	520
+#508	FN	--	F	520
+#509	FN	--	D	520
+#510	FN	--	A	520
+#511	FN	--	D	520
+#512	FN	--	S	520
+#513	FN	--	R	517
+#514	FN	--	C	517
+#515	PNCT	--	U	517
+#516	FN	--	A	518
+#517	FN	--	A	520
+#518	FN	--	E	519
+#519	FN	--	A	522
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 120992-0001

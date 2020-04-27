@@ -1,0 +1,38 @@
+#BOS 349020-0001
+I	Word	--	Terminal	500
+purchased	Word	--	Terminal	501
+a	Word	--	Terminal	502
+2	Word	--	Terminal	503
+-	Punctuation	--	Terminal	504
+year	Word	--	Terminal	505
+old	Word	--	Terminal	506
+certified	Word	--	Terminal	507
+pre-owned	Word	--	Terminal	508
+BMW	Word	--	Terminal	509
+from	Word	--	Terminal	510
+this	Word	--	Terminal	511
+dealership	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	A	520
+#501	FN	--	P	520
+#502	FN	--	F	518
+#503	FN	--	Q	514
+#504	PNCT	--	U	514
+#505	FN	--	C	514
+#506	FN	--	S	515
+#507	FN	--	S	516
+#508	FN	--	S	517
+#509	FN	--	C	518	A*	515	A*	516	A*	517
+#510	FN	--	R	519
+#511	FN	--	E	519
+#512	FN	--	C	519
+#513	PNCT	--	U	519
+#514	FN	--	T	515
+#515	FN	--	E	518
+#516	FN	--	E	518
+#517	FN	--	E	518
+#518	FN	--	A	520
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 349020-0001

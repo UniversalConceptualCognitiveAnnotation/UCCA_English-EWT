@@ -1,0 +1,49 @@
+#BOS 319816-0006
+Once	Word	--	Terminal	500
+I	Word	--	Terminal	501
+returned	Word	--	Terminal	502
+to	Word	--	Terminal	503
+pick	Word	--	Terminal	504
+up	Word	--	Terminal	504
+my	Word	--	Terminal	505
+car	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+you	Word	--	Terminal	508
+can	Word	--	Terminal	508
+believe	Word	--	Terminal	508
+I	Word	--	Terminal	509
+spent	Word	--	Terminal	510
+quite	Word	--	Terminal	511
+a	Word	--	Terminal	511
+bit	Word	--	Terminal	511
+MORE	Word	--	Terminal	512
+time	Word	--	Terminal	510
+standing	Word	--	Terminal	513
+around	Word	--	Terminal	514
+waiting	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	L	523
+#501	FN	--	A	517	A*	522
+#502	FN	--	P	517
+#503	FN	--	L	523
+#504	FN	--	P	522
+#505	FN	--	S	518
+#506	FN	--	C	519	A*	518
+#507	PNCT	--	U	523
+#508	FN	--	G	520	G*	521
+#509	FN	--	A	520	A*	521
+#510	FN	--	D	520	D*	521
+#511	FN	--	D	520	D*	521
+#512	FN	--	D	520	D*	521
+#513	FN	--	P	520
+#514	FN	--	D	520	D*	521
+#515	FN	--	P	521
+#516	PNCT	--	U	521
+#517	FN	--	H	523
+#518	FN	--	E	519
+#519	FN	--	A	522
+#520	FN	--	H	523
+#521	FN	--	H	523
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 319816-0006

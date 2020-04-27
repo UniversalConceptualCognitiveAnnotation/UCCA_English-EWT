@@ -1,0 +1,26 @@
+#BOS 124552-0001
+They	Word	--	Terminal	500
+have	Word	--	Terminal	501
+good	Word	--	Terminal	502
+sushi	Word	--	Terminal	503
+for	Word	--	Terminal	504
+a	Word	--	Terminal	505
+good	Word	--	Terminal	506
+price	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	A	513
+#501	FN	--	S	513
+#502	FN	--	S	509
+#503	FN	--	C	510	A*	509
+#504	FN	--	L	512
+#505	FN	--	F	511
+#506	FN	--	S	512
+#507	FN	--	C	511
+#508	PNCT	--	U	511
+#509	FN	--	E	510
+#510	FN	--	A	513
+#511	FN	--	A	512
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 124552-0001

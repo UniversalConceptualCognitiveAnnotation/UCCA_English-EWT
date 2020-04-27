@@ -1,0 +1,24 @@
+#BOS 181748-0001
+Be	Word	--	Terminal	500
+Careful	Word	--	Terminal	501
+Of	Word	--	Terminal	502
+Who	Word	--	Terminal	503
+Your	Word	--	Terminal	504
+Sales	Word	--	Terminal	505
+Guy	Word	--	Terminal	506
+Is	Word	--	Terminal	507
+#500	FN	--	F	512
+#501	FN	--	P	512
+#502	FN	--	R	511
+#503	FN	--	C	511	A*	509
+#504	FN	--	A	509
+#505	FN	--	E	508
+#506	FN	--	C	508
+#507	FN	--	F	509
+#508	FN	--	P	509
+#509	FN	--	E	511
+#510	FN	--	A	512
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 181748-0001
