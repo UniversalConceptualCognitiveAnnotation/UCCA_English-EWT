@@ -3172,9 +3172,9 @@
     </node>
     <node ID="1.118" type="FN">
       <attributes />
-      <edge toID="1.119" type="E">
+      <edge toID="1.119" type="F">
         <attributes />
-        <category tag="E" />
+        <category tag="F" />
       </edge>
       <edge toID="1.120" type="C">
         <attributes />
@@ -3320,9 +3320,9 @@
     </node>
     <node ID="1.137" type="FN">
       <attributes />
-      <edge toID="1.138" type="E">
+      <edge toID="1.138" type="F">
         <attributes />
-        <category tag="E" />
+        <category tag="F" />
       </edge>
       <edge toID="1.139" type="E">
         <attributes />
@@ -4470,10 +4470,6 @@
         <attributes />
         <category tag="A" />
       </edge>
-      <edge toID="1.279" type="D">
-        <attributes />
-        <category tag="D" />
-      </edge>
     </node>
     <node ID="1.274" type="FN">
       <attributes />
@@ -4485,6 +4481,10 @@
     <node ID="1.275" type="FN">
       <attributes />
       <edge toID="0.207" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.210" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
@@ -4510,13 +4510,6 @@
     <node ID="1.278" type="FN">
       <attributes />
       <edge toID="0.209" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.279" type="FN">
-      <attributes />
-      <edge toID="0.210" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
@@ -4556,6 +4549,10 @@
         <attributes />
         <category tag="A" />
       </edge>
+      <edge toID="1.287" type="S">
+        <attributes remote="True" />
+        <category tag="S" />
+      </edge>
       <edge toID="1.289" type="A">
         <attributes />
         <category tag="A" />
@@ -4563,10 +4560,6 @@
       <edge toID="1.739" type="U">
         <attributes />
         <category tag="U" />
-      </edge>
-      <edge toID="1.287" type="S">
-        <attributes remote="True" />
-        <category tag="S" />
       </edge>
     </node>
     <node ID="1.285" type="FN">
