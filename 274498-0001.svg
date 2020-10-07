@@ -345,95 +345,37 @@
 <defs>
 <path id="b" d="m0 8.6603c2.2967 0 4.4997-0.9125 6.1237-2.5365 1.624-1.624 2.5365-3.827 2.5365-6.1237s-0.9125-4.4997-2.5365-6.1237c-1.624-1.624-3.827-2.5365-6.1237-2.5365s-4.4997 0.9125-6.1237 2.5365c-1.624 1.624-2.5365 3.827-2.5365 6.1237s0.9125 4.4997 2.5365 6.1237c1.624 1.624 3.827 2.5365 6.1237 2.5365z"/>
 </defs>
-<g clip-path="url(#a)">
-<use x="27.636364" y="305.454545" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="46.26762" y="305.454545" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="71.109295" y="305.454545" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="102.161389" y="305.454545" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="139.423902" y="305.454545" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="182.896834" y="305.454545" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="232.580184" y="305.454545" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="288.473953" y="305.454545" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="350.578141" y="305.454545" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="418.892748" y="305.454545" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="493.417773" y="305.454545" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="574.153218" y="305.454545" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="580.363636" y="112.299916" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="129.720123" y="14.545455" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="129.720123" y="63.471892" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="27.636364" y="257.830692" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="231.803882" y="112.299916" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="46.26762" y="257.830692" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="133.213483" y="161.004728" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="288.473953" y="257.830692" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="459.26047" y="209.544339" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="350.578141" y="257.830692" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="418.892748" y="257.830692" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="493.417773" y="257.830692" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="71.109295" y="257.830692" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="120.792646" y="257.830692" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="207.738509" y="209.544339" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="182.896834" y="257.830692" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="232.580184" y="257.830692" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
-</g>
-<g clip-path="url(#a)">
-<use x="574.153218" y="257.830692" fill="#ffffff" stroke="#ffffff" xlink:href="#b"/>
+<g clip-path="url(#a)" fill="#ffffff" stroke="#ffffff">
+<use x="27.636364" y="305.454545" xlink:href="#b"/>
+<use x="46.26762" y="305.454545" xlink:href="#b"/>
+<use x="71.109295" y="305.454545" xlink:href="#b"/>
+<use x="102.161389" y="305.454545" xlink:href="#b"/>
+<use x="139.423902" y="305.454545" xlink:href="#b"/>
+<use x="182.896834" y="305.454545" xlink:href="#b"/>
+<use x="232.580184" y="305.454545" xlink:href="#b"/>
+<use x="288.473953" y="305.454545" xlink:href="#b"/>
+<use x="350.578141" y="305.454545" xlink:href="#b"/>
+<use x="418.892748" y="305.454545" xlink:href="#b"/>
+<use x="493.417773" y="305.454545" xlink:href="#b"/>
+<use x="574.153218" y="305.454545" xlink:href="#b"/>
+<use x="580.363636" y="112.299916" xlink:href="#b"/>
+<use x="129.720123" y="14.545455" xlink:href="#b"/>
+<use x="129.720123" y="63.471892" xlink:href="#b"/>
+<use x="27.636364" y="257.830692" xlink:href="#b"/>
+<use x="231.803882" y="112.299916" xlink:href="#b"/>
+<use x="46.26762" y="257.830692" xlink:href="#b"/>
+<use x="133.213483" y="161.004728" xlink:href="#b"/>
+<use x="288.473953" y="257.830692" xlink:href="#b"/>
+<use x="459.26047" y="209.544339" xlink:href="#b"/>
+<use x="350.578141" y="257.830692" xlink:href="#b"/>
+<use x="418.892748" y="257.830692" xlink:href="#b"/>
+<use x="493.417773" y="257.830692" xlink:href="#b"/>
+<use x="71.109295" y="257.830692" xlink:href="#b"/>
+<use x="120.792646" y="257.830692" xlink:href="#b"/>
+<use x="207.738509" y="209.544339" xlink:href="#b"/>
+<use x="182.896834" y="257.830692" xlink:href="#b"/>
+<use x="232.580184" y="257.830692" xlink:href="#b"/>
+<use x="574.153218" y="257.830692" xlink:href="#b"/>
 </g>
 <g clip-path="url(#a)">
 <g transform="translate(13.661 308.21) scale(.1 -.1)">
