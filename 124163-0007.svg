@@ -58,17 +58,11 @@
 <defs>
 <path id="d" d="m0 8.6603c2.2967 0 4.4997-0.9125 6.1237-2.5365 1.624-1.624 2.5365-3.827 2.5365-6.1237s-0.9125-4.4997-2.5365-6.1237c-1.624-1.624-3.827-2.5365-6.1237-2.5365s-4.4997 0.9125-6.1237 2.5365c-1.624 1.624-2.5365 3.827-2.5365 6.1237s0.9125 4.4997 2.5365 6.1237c1.624 1.624 3.827 2.5365 6.1237 2.5365z"/>
 </defs>
-<g clip-path="url(#a)">
-<use x="4.606061" y="50.909091" fill="#ffffff" stroke="#ffffff" xlink:href="#d"/>
-</g>
-<g clip-path="url(#a)">
-<use x="96.727273" y="50.909091" fill="#ffffff" stroke="#ffffff" xlink:href="#d"/>
-</g>
-<g clip-path="url(#a)">
-<use x="50.666667" y="2.424242" fill="#ffffff" stroke="#ffffff" xlink:href="#d"/>
-</g>
-<g clip-path="url(#a)">
-<use x="50.666667" y="26.834121" fill="#ffffff" stroke="#ffffff" xlink:href="#d"/>
+<g clip-path="url(#a)" fill="#ffffff" stroke="#ffffff">
+<use x="4.606061" y="50.909091" xlink:href="#d"/>
+<use x="96.727273" y="50.909091" xlink:href="#d"/>
+<use x="50.666667" y="2.424242" xlink:href="#d"/>
+<use x="50.666667" y="26.834121" xlink:href="#d"/>
 </g>
 <g clip-path="url(#a)">
 <defs>
