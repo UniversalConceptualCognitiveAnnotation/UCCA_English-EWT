@@ -17,8 +17,7 @@ env:
 jobs:
   include:
     - script: python -m scripts.validate --no-linkage xml
-    - stage: split
-      script:
+    - script:
         - scripts/get_ud.sh
         - rm -rf UD_English-EWT ud ud.txt
         - curl $SCRIPTS/split_to_sentences.sh | bash -s sentences_by_ud
