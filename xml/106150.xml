@@ -229,6 +229,14 @@
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="L" />
       </edge>
+      <edge toID="1.70" type="H">
+        <attributes />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="H" />
+      </edge>
+      <edge toID="1.72" type="U">
+        <attributes />
+        <category tag="U" />
+      </edge>
       <edge toID="1.73" type="U">
         <attributes />
         <category tag="U" />
@@ -236,14 +244,6 @@
       <edge toID="1.74" type="U">
         <attributes />
         <category tag="U" />
-      </edge>
-      <edge toID="1.75" type="U">
-        <attributes />
-        <category tag="U" />
-      </edge>
-      <edge toID="1.76" type="H">
-        <attributes />
-        <category tag="H" />
       </edge>
     </node>
     <node ID="1.2" type="FN">
@@ -981,7 +981,7 @@
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="P" />
       </edge>
-      <edge toID="1.77" type="U">
+      <edge toID="1.75" type="U">
         <attributes />
         <category tag="U" />
       </edge>
@@ -998,35 +998,28 @@
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.73" type="PNCT">
+    <node ID="1.72" type="PNCT">
       <attributes />
       <edge toID="0.13" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.74" type="PNCT">
+    <node ID="1.73" type="PNCT">
       <attributes />
       <edge toID="0.24" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.75" type="PNCT">
+    <node ID="1.74" type="PNCT">
       <attributes />
       <edge toID="0.44" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.76" type="FN">
-      <attributes />
-      <edge toID="1.70" type="P">
-        <attributes />
-        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="P" />
-      </edge>
-    </node>
-    <node ID="1.77" type="PNCT">
+    <node ID="1.75" type="PNCT">
       <attributes />
       <edge toID="0.58" type="Terminal">
         <attributes />
