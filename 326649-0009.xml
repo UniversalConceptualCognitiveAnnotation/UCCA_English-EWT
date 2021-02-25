@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="326649-0009">
-  <attributes annotationID="4588" passageID="285" userID="14" />
+  <attributes annotationID="11593" passageID="285" userID="14" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -196,17 +196,17 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="R" />
       </edge>
-      <edge toID="1.17" type="C">
-        <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
-      </edge>
-      <edge toID="1.18" type="F">
+      <edge toID="1.17" type="F">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
       </edge>
-      <edge toID="1.19" type="E">
+      <edge toID="1.18" type="E">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
+      </edge>
+      <edge toID="1.19" type="C">
+        <attributes />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>
     </node>
     <node ID="1.9" type="FN">
@@ -288,23 +288,23 @@
     <node ID="1.17" type="FN">
       <attributes />
       <extra tree_id="34-3-2-2" />
-      <edge toID="0.16" type="Terminal">
+      <edge toID="0.14" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.18" type="FN">
       <attributes />
-      <extra tree_id="34-3-3" />
-      <edge toID="0.14" type="Terminal">
+      <extra tree_id="34-3-2-3" />
+      <edge toID="0.15" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.19" type="FN">
       <attributes />
-      <extra tree_id="34-3-4" />
-      <edge toID="0.15" type="Terminal">
+      <extra tree_id="34-3-2-4" />
+      <edge toID="0.16" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

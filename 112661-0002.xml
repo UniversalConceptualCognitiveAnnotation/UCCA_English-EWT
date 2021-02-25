@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="112661-0002">
-  <attributes annotationID="2601" passageID="129" userID="26" />
+  <attributes annotationID="11355" passageID="129" userID="14" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -72,7 +72,7 @@
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="D" />
       </edge>
-      <edge toID="1.12" type="U">
+      <edge toID="1.13" type="U">
         <attributes />
         <category tag="U" />
       </edge>
@@ -140,12 +140,24 @@
     <node ID="1.11" type="FN">
       <attributes />
       <extra remarks="1.19 Adi:&#10;I am not marking &quot;new&quot; as a state scene because it is not referring to the place being new, rather it is relative to the speakers' experience" tree_id="4-5-2" />
+      <edge toID="1.10" type="A">
+        <attributes remote="True" />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="A" />
+      </edge>
+      <edge toID="1.12" type="S">
+        <attributes />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="S" />
+      </edge>
+    </node>
+    <node ID="1.12" type="FN">
+      <attributes />
+      <extra tree_id="4-5-2-2" />
       <edge toID="0.6" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.12" type="PNCT">
+    <node ID="1.13" type="PNCT">
       <attributes />
       <edge toID="0.8" type="Terminal">
         <attributes />

@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="116821-0014">
-  <attributes annotationID="4317" passageID="135" remarks="1205" userID="4" />
+  <attributes annotationID="11358" passageID="135" remarks="1205" userID="14" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -80,9 +80,9 @@
     <node ID="1.2" type="FN">
       <attributes />
       <extra tree_id="33" />
-      <edge toID="1.17" type="E">
+      <edge toID="1.17" type="C">
         <attributes />
-        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="E" />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="C" />
       </edge>
       <edge toID="1.18" type="F">
         <attributes />
@@ -160,11 +160,15 @@
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="A" />
       </edge>
-      <edge toID="1.13" type="P">
+      <edge toID="1.13" type="A">
         <attributes />
-        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="P" />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="A" />
       </edge>
-      <edge toID="1.14" type="F">
+      <edge toID="1.14" type="S">
+        <attributes />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="S" />
+      </edge>
+      <edge toID="1.15" type="F">
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="F" />
       </edge>
@@ -191,36 +195,32 @@
     </node>
     <node ID="1.13" type="FN">
       <attributes />
-      <extra tree_id="34-5-3" />
-      <edge toID="1.15" type="E">
+      <extra remarks="1.216" tree_id="34-5-3" />
+      <edge toID="1.16" type="P">
         <attributes />
-        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="E" />
-      </edge>
-      <edge toID="1.16" type="C">
-        <attributes />
-        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="C" />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="P" />
       </edge>
     </node>
     <node ID="1.14" type="FN">
       <attributes />
-      <extra remarks="1.218" tree_id="34-5-4" />
-      <edge toID="0.13" type="Terminal">
+      <extra remarks="1.217" tree_id="34-5-4" />
+      <edge toID="0.12" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.15" type="FN">
       <attributes />
-      <extra remarks="1.216" tree_id="34-5-3-1" />
-      <edge toID="0.11" type="Terminal">
+      <extra remarks="1.218" tree_id="34-5-5" />
+      <edge toID="0.13" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.16" type="FN">
       <attributes />
-      <extra remarks="1.217" tree_id="34-5-3-2" />
-      <edge toID="0.12" type="Terminal">
+      <extra tree_id="34-5-3-1" />
+      <edge toID="0.11" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

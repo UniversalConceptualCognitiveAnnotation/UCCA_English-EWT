@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="187266-0012">
-  <attributes annotationID="4373" passageID="309" remarks="26200" userID="4" />
+  <attributes annotationID="11603" passageID="309" remarks="26200" userID="14" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -455,6 +455,7 @@
       <edge toID="1.23" type="S">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
     </node>
     <node ID="1.22" type="FN">
@@ -592,10 +593,10 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="R" />
       </edge>
-      <edge toID="1.35" type="A">
+      <edge toID="1.35" type="S">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
     </node>
     <node ID="1.34" type="FN">
@@ -641,10 +642,10 @@
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
-      <edge toID="1.42" type="A">
+      <edge toID="1.42" type="S">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
     </node>
     <node ID="1.39" type="FN">
@@ -809,10 +810,10 @@
     <node ID="1.58" type="FN">
       <attributes />
       <extra tree_id="27-4" />
-      <edge toID="1.59" type="A">
+      <edge toID="1.59" type="S">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
     </node>
     <node ID="1.59" type="FN">

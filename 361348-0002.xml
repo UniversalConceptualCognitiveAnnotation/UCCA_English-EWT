@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="361348-0002">
-  <attributes annotationID="4220" passageID="652" remarks="26550" userID="4" />
+  <attributes annotationID="11589" passageID="652" remarks="26550" userID="14" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -138,19 +138,19 @@
       <extra tree_id="2-4" />
       <edge toID="1.8" type="Q">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" tag="Q" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="Q" />
       </edge>
       <edge toID="1.9" type="R">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="R" />
       </edge>
-      <edge toID="1.10" type="C">
-        <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
-      </edge>
-      <edge toID="1.11" type="E">
+      <edge toID="1.10" type="E">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
+      </edge>
+      <edge toID="1.11" type="C">
+        <attributes />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>
       <edge toID="1.12" type="E">
         <attributes />
@@ -176,15 +176,7 @@
     <node ID="1.10" type="FN">
       <attributes />
       <extra tree_id="2-4-2-2" />
-      <edge toID="0.9" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.11" type="FN">
-      <attributes />
-      <extra tree_id="2-4-3" />
-      <edge toID="1.10" type="A">
+      <edge toID="1.11" type="A">
         <attributes remote="True" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
@@ -193,10 +185,18 @@
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
       </edge>
     </node>
+    <node ID="1.11" type="FN">
+      <attributes />
+      <extra tree_id="2-4-2-3" />
+      <edge toID="0.9" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
     <node ID="1.12" type="FN">
       <attributes />
-      <extra tree_id="2-4-4" />
-      <edge toID="1.10" type="A">
+      <extra tree_id="2-4-3" />
+      <edge toID="1.11" type="A">
         <attributes remote="True" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
       </edge>
@@ -214,7 +214,7 @@
       </edge>
       <edge toID="1.16" type="G">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" tag="G" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="G" />
       </edge>
       <edge toID="1.17" type="P">
         <attributes />
@@ -227,7 +227,7 @@
     </node>
     <node ID="1.13" type="FN">
       <attributes />
-      <extra tree_id="2-4-4-2" />
+      <extra tree_id="2-4-3-2" />
       <edge toID="0.10" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -235,7 +235,7 @@
     </node>
     <node ID="1.14" type="FN">
       <attributes />
-      <extra tree_id="2-4-4-3" />
+      <extra tree_id="2-4-3-3" />
       <edge toID="0.11" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -243,7 +243,7 @@
     </node>
     <node ID="1.15" type="FN">
       <attributes />
-      <extra tree_id="2-4-4-4" />
+      <extra tree_id="2-4-3-4" />
       <edge toID="0.12" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -251,7 +251,7 @@
     </node>
     <node ID="1.16" type="FN">
       <attributes />
-      <extra remarks="Adi:&#10;Please check.&#10;I am pretty sure this is ground as the misfortune pertains to the speaker, not the process, and while the speaker is explicitly mentioned, this is required informatively (who ordered?)" tree_id="2-4-4-5" />
+      <extra remarks="Adi:&#10;Please check.&#10;I am pretty sure this is ground as the misfortune pertains to the speaker, not the process, and while the speaker is explicitly mentioned, this is required informatively (who ordered?)" tree_id="2-4-3-5" />
       <edge toID="0.13" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -271,7 +271,7 @@
     </node>
     <node ID="1.17" type="FN">
       <attributes />
-      <extra tree_id="2-4-4-6" />
+      <extra tree_id="2-4-3-6" />
       <edge toID="0.17" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -279,7 +279,7 @@
     </node>
     <node ID="1.18" type="FN">
       <attributes />
-      <extra tree_id="2-4-3-1" />
+      <extra tree_id="2-4-2-2-1" />
       <edge toID="1.19" type="F">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />
@@ -291,7 +291,7 @@
     </node>
     <node ID="1.19" type="FN">
       <attributes />
-      <extra tree_id="2-4-3-1-1" />
+      <extra tree_id="2-4-2-2-1-1" />
       <edge toID="0.7" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -299,7 +299,7 @@
     </node>
     <node ID="1.20" type="FN">
       <attributes />
-      <extra tree_id="2-4-3-1-2" />
+      <extra tree_id="2-4-2-2-1-2" />
       <edge toID="0.8" type="Terminal">
         <attributes />
         <category tag="Terminal" />

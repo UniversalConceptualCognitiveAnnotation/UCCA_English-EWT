@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="120335-0007">
-  <attributes annotationID="4320" passageID="143" remarks="1214" userID="4" />
+  <attributes annotationID="11361" passageID="143" remarks="1214" userID="14" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -252,9 +252,9 @@
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="A" />
       </edge>
-      <edge toID="1.29" type="D">
+      <edge toID="1.29" type="A">
         <attributes />
-        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="D" />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="A" />
       </edge>
       <edge toID="1.30" type="P">
         <attributes />
@@ -324,17 +324,13 @@
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="R" />
       </edge>
-      <edge toID="1.20" type="A">
-        <attributes />
-        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="A" />
-      </edge>
-      <edge toID="1.21" type="S">
+      <edge toID="1.20" type="S">
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="S" />
       </edge>
-      <edge toID="1.37" type="U">
+      <edge toID="1.21" type="D">
         <attributes />
-        <category tag="U" />
+        <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="D" />
       </edge>
     </node>
     <node ID="1.19" type="FN">
@@ -348,24 +344,28 @@
     <node ID="1.20" type="FN">
       <attributes />
       <extra tree_id="27-4-5-3-2" />
-      <edge toID="1.23" type="F">
+      <edge toID="1.22" type="F">
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="F" />
       </edge>
-      <edge toID="1.24" type="C">
+      <edge toID="1.23" type="C">
         <attributes />
         <category layer_name="UCCA's Foundational Layer v2" slot="1" tag="C" />
+      </edge>
+      <edge toID="1.37" type="U">
+        <attributes />
+        <category tag="U" />
       </edge>
     </node>
     <node ID="1.21" type="FN">
       <attributes />
-      <extra remarks="1.147" tree_id="27-4-5-3-3" />
-      <edge toID="0.27" type="Terminal">
+      <extra remarks="1.146" tree_id="27-4-5-3-3" />
+      <edge toID="0.26" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.23" type="FN">
+    <node ID="1.22" type="FN">
       <attributes />
       <extra remarks="1.145" tree_id="27-4-5-3-2-1" />
       <edge toID="0.25" type="Terminal">
@@ -373,10 +373,10 @@
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.24" type="FN">
+    <node ID="1.23" type="FN">
       <attributes />
-      <extra remarks="1.146" tree_id="27-4-5-3-2-2" />
-      <edge toID="0.26" type="Terminal">
+      <extra tree_id="27-4-5-3-2-2" />
+      <edge toID="0.27" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
@@ -415,7 +415,7 @@
     </node>
     <node ID="1.29" type="FN">
       <attributes />
-      <extra remarks="Adi:&#10;does charity modify the type of work being done; or does it denote a class of people who will benefit from such work?&#10;or both (D+A)?" tree_id="27-4-2-2" />
+      <extra tree_id="27-4-2-2" />
       <edge toID="0.14" type="Terminal">
         <attributes />
         <category tag="Terminal" />

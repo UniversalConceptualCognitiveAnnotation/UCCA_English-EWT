@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="181748-0004">
-  <attributes annotationID="4343" passageID="284" remarks="26183" userID="14" />
+  <attributes annotationID="11645" passageID="284" remarks="26183" userID="14" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -200,10 +200,10 @@
     <node ID="1.9" type="FN">
       <attributes />
       <extra remarks="Nicole: We said it's ok to annotate E-scenes over professions - would it be correct to then annotate the center also?" tree_id="7-4-2" />
-      <edge toID="1.30" type="P">
+      <edge toID="1.30" type="A">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="P" />
       </edge>
     </node>
     <node ID="1.10" type="FN">
