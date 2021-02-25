@@ -1,5 +1,5 @@
 # format = ucca
-1	Everyone	_	Word	-	-	_	A	_	_	_	_	A*	_
+1	Everyone	_	Word	-	-	_	A	_	_	_	A*	A*	_
 2	can	_	Word	-	-	_	F	_	_	_	_	_	_
 3	get	_	Word	-	+	_	_	_	_	_	_	_	_
 4	the	_	Word	-	-	_	_	F	_	_	_	_	_
@@ -13,11 +13,11 @@
 12	they	_	Word	-	-	_	_	_	_	A	_	_	_
 13	want	_	Word	-	+	_	_	_	E	_	_	_	_
 14	and	_	Word	-	-	_	L	_	_	_	_	_	_
-15	have	_	Word	-	-	_	_	_	_	_	_	F	_
-16	the	_	Word	-	+	_	_	_	_	_	_	G	_
-17	fun	_	Word	-	-	_	_	_	_	_	Terminal	_	_
+15	have	_	Word	-	-	_	_	_	_	_	F	_	_
+16	the	_	Word	-	-	_	_	_	_	_	F	_	_
+17	fun	_	Word	-	+	_	H	_	_	_	_	_	_
 18	of	_	Word	-	-	_	_	_	_	_	_	F	_
-19	watching	_	Word	-	+	_	H	_	_	_	_	_	_
+19	watching	_	Word	-	+	_	_	_	_	_	A	_	_
 20	it	_	Word	-	-	_	_	_	_	_	_	_	A
 21	cook	_	Word	-	+	_	_	_	_	_	_	A	_
 22	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U

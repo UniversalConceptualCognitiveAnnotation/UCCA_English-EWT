@@ -1,28 +1,28 @@
 # format = ucca
-1	However	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
-2	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-3	after	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
-4	giving	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-5	a	_	Word	-	-	_	_	_	_	_	F	_	_	_	_
-6	required	_	Word	-	+	_	_	_	_	_	E	_	_	_	_
-7	$	_	Word	-	+	_	_	_	_	_	E	_	_	_	_
-8	500.00	_	Word	-	-	_	_	_	Q	_	_	_	_	_	_
-9	(	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
-10	NON	_	Word	-	-	_	_	_	_	D	_	_	_	_	_
-11	REFUNDABLE	_	Word	-	+	_	_	_	_	_	E	_	_	_	_
-12	)	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
-13	deposit	_	Word	-	+	_	_	A*	_	A*	_	_	_	_	A*
-14	before	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
-15	seeing	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
-16	any	_	Word	-	-	_	_	_	_	_	_	_	Q	_	_
-17	plans	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
-18	or	_	Word	-	-	_	_	_	_	_	_	_	N	_	_
-19	ideas	_	Word	-	-	_	_	_	_	_	_	_	C	_	_
-20	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-21	I	_	Word	-	-	_	A*	_	_	_	_	_	_	A	_
-22	was	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
-23	sorry	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
-24	I	_	Word	-	+	_	_	_	_	_	_	_	_	A	_
-25	did	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
-26	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+1	However	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_
+2	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
+3	after	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_
+4	giving	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+5	a	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_
+6	required	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_
+7	$	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_
+8	500.00	_	Word	-	-	_	_	_	Q	_	_	_	_	_	_	_
+9	(	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_
+10	NON	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_
+11	REFUNDABLE	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_
+12	)	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
+13	deposit	_	Word	-	+	_	_	A*	_	A*	_	_	_	_	_	A*
+14	before	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_
+15	seeing	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
+16	any	_	Word	-	-	_	_	_	_	_	_	_	D	D*	_	_
+17	plans	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
+18	or	_	Word	-	-	_	_	_	_	_	_	_	L	_	_	_
+19	ideas	_	Word	-	+	_	_	_	_	_	_	_	H	_	_	_
+20	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
+21	I	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_
+22	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_
+23	sorry	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
+24	I	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
+25	did	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
+26	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

@@ -1,34 +1,34 @@
 # format = ucca
-1	With	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
-2	a	_	Word	-	-	_	F	_	_	_	_	_	_	_	_
-3	Pizza	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
-4	Hut	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_
-5	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-6	IHOP	_	Word	-	-	_	C	_	_	_	_	_	_	_	_
-7	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-8	3	_	Word	-	-	_	_	Q	_	_	_	_	_	_	_
-9	Starbucks	_	Word	-	+	_	C	_	_	_	_	_	_	_	_
-10	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-11	Chili	_	Word	-	+	_	C	_	_	_	_	_	_	_	_
-12	s	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
-13	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-14	Panera	_	Word	-	-	_	C	_	_	_	_	_	_	_	_
-15	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-16	and	_	Word	-	-	_	N	_	_	_	_	_	_	_	_
-17	Chipotle	_	Word	-	-	_	C	_	_	_	_	_	_	_	_
-18	on	_	Word	-	+	_	_	_	_	_	_	E	_	_	_
-19	campus	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
-20	ALONE	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
-21	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_
-22	VCU	_	Word	-	+	_	_	_	_	_	_	_	_	A	_
-23	has	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
-24	some	_	Word	-	-	_	_	_	_	_	_	_	Q	_	_
-25	of	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
-26	the	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
-27	best	_	Word	-	+	_	_	_	_	_	_	_	_	D	_
-28	eating	_	Word	-	-	_	_	_	_	_	_	_	_	A	_
-29	options	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-30	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
-31	students	_	Word	-	+	_	_	_	_	_	_	_	_	A	_
-32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+1	With	_	Word	-	-	_	_	_	_	L	_	_	_
+2	a	_	Word	-	-	_	F	_	_	_	_	_	_
+3	Pizza	_	Word	-	+	_	_	_	_	A	_	_	_
+4	Hut	_	Word	-	-	_	Terminal	_	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+6	IHOP	_	Word	-	-	_	C	_	_	_	_	_	_
+7	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+8	3	_	Word	-	-	_	_	Q	_	_	_	_	_
+9	Starbucks	_	Word	-	+	_	C	_	_	_	_	_	_
+10	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+11	Chili	_	Word	-	+	_	C	_	_	_	_	_	_
+12	s	_	Word	-	-	_	_	_	Terminal	_	_	_	_
+13	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+14	Panera	_	Word	-	-	_	C	_	_	_	_	_	_
+15	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+16	and	_	Word	-	-	_	N	_	_	_	_	_	_
+17	Chipotle	_	Word	-	-	_	C	_	_	_	_	_	_
+18	on	_	Word	-	+	_	_	_	_	_	_	_	_
+19	campus	_	Word	-	-	_	_	_	_	A	_	_	_
+20	ALONE	_	Word	-	-	_	_	_	_	D	_	_	_
+21	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_
+22	VCU	_	Word	-	-	_	_	_	_	_	_	A	_
+23	has	_	Word	-	-	_	_	_	_	_	_	F	_
+24	some	_	Word	-	-	_	_	_	_	_	Q	_	_
+25	of	_	Word	-	-	_	_	_	_	_	F	_	_
+26	the	_	Word	-	-	_	_	_	_	_	F	_	_
+27	best	_	Word	-	+	_	_	_	_	_	_	D	_
+28	eating	_	Word	-	-	_	_	_	_	_	_	A	_
+29	options	_	Word	-	+	_	_	_	_	H	_	_	_
+30	for	_	Word	-	-	_	_	_	_	_	_	_	R
+31	students	_	Word	-	+	_	_	_	_	_	_	A	_
+32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

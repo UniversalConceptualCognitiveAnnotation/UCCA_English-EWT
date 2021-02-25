@@ -1,5 +1,5 @@
 # format = ucca
-1	Yes	_	Word	-	-	_	_	L	_	_	_	_	_
+1	Yes	_	Word	-	-	_	_	G	_	_	_	_	_
 2	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
 3	we	_	Word	-	-	_	_	A	_	_	_	_	_
 4	had	_	Word	-	+	_	_	D	_	_	_	_	_
@@ -11,14 +11,14 @@
 10	is	_	Word	-	+	_	_	H	_	_	_	_	_
 11	a	_	Word	-	-	_	_	_	_	F	_	_	_
 12	triage	_	Word	-	-	_	_	_	_	E	_	_	_
-13	system	_	Word	-	+	_	_	_	A	_	_	_	_
+13	system	_	Word	-	+	_	_	_	_	_	A*	_	_
 14	that	_	Word	-	-	_	_	L	_	_	_	_	_
 15	takes	_	Word	-	+	_	_	H	_	_	_	_	_
 16	the	_	Word	-	-	_	_	_	_	_	_	_	F
 17	most	_	Word	-	-	_	_	_	_	_	_	D	_
-18	life	_	Word	-	+	_	_	_	_	_	A	_	_
+18	life	_	Word	-	+	_	_	_	_	_	_	_	E
 19	threatening	_	Word	-	-	_	_	_	_	_	_	Terminal	_
-20	cases	_	Word	-	+	_	_	_	_	_	_	A	_
+20	cases	_	Word	-	+	_	_	_	_	_	A	_	_
 21	first	_	Word	-	-	_	_	_	_	_	D	_	_
 22	.	_	Punctuation	-	-	_	_	_	_	_	U	_	_
 

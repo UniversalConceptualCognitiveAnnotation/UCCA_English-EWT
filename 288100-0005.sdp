@@ -1,51 +1,51 @@
 # format = ucca
-1	Also	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	I	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	was	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	promised	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	to	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
-7	have	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
-8	my	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	test	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-10	results	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-11	emailed	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-12	to	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
-13	me	_	Word	-	+	_	_	_	_	_	_	_	_	A*	_	_	_	_	_	_	_
-14	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-15	but	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-16	it	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-17	never	_	Word	-	-	_	_	_	_	_	_	T	_	_	_	_	_	_	_	_	_
-18	happened	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-19	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-20	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-21	after	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-22	a	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_
-23	few	_	Word	-	+	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_
-24	attempts	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-25	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
-26	get	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_
-27	Dr.	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-28	Romanick	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	A*	_	_	_	_
-29	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-30	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
-31	phone	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-32	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
-33	brief	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-34	me	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-35	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
-36	my	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-37	condition	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-38	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-39	I	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A	A*	_
-40	finally	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	T	_	_
-41	gave	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-42	up	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-43	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-44	went	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-45	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-46	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
-47	different	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-48	doctor	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-49	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Also	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	I	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	was	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	promised	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	to	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+7	have	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
+8	my	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+9	test	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+10	results	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+11	emailed	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	to	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+13	me	_	Word	-	+	_	_	_	_	_	_	_	A*	_	_	_	_	_	_	_
+14	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	but	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	it	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+17	never	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_
+18	happened	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	after	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	a	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_
+23	few	_	Word	-	+	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_
+24	attempts	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
+26	get	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_
+27	Dr.	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+28	Romanick	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	A*	_	_	_	_
+29	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+30	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
+31	phone	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+32	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+33	brief	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	me	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+35	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+36	my	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+37	condition	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+38	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	I	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A	A*	_
+40	finally	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	T	_	_
+41	gave	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	up	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+43	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	went	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+46	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+47	different	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+48	doctor	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+49	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

@@ -1,52 +1,52 @@
 # format = ucca
-1	After	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	a	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	train	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	ride	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	over	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	the	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	mountains	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	we	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-10	enjoyed	_	Word	-	-	_	_	_	G	_	_	_	_	_	_	_	_	_	_	_	_
-11	hiking	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-12	in	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
-13	the	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_
-14	flower	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-15	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-16	filled	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-17	Wenatchee	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-18	hills	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-19	(	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-20	in	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-21	May	_	Word	-	+	_	_	_	T	_	_	_	_	_	_	_	_	_	_	_	_
-22	)	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-23	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-24	a	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_
-25	very	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-26	interesting	_	Word	-	+	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_
-27	bike	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-28	ride	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-29	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
-30	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
-31	loop	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-32	around	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-33	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
-34	Columbia	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-35	River	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-36	...	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-37	and	_	Word	-	+	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-38	then	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
-39	wine	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-40	if	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-41	we	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-42	wanted	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-43	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-44	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-45	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
-46	patio	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-47	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-48	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
-49	evening	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	T	_	_	_
-50	....	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	After	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	a	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	train	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	ride	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	over	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
+6	the	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_
+7	mountains	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	we	_	Word	-	-	_	A*	_	A	_	_	_	_	_	_	_	_	_	_	_
+10	enjoyed	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_
+11	hiking	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	in	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+13	the	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_
+14	flower	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+15	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+16	filled	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+17	Wenatchee	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+18	hills	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+19	(	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+20	in	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+21	May	_	Word	-	+	_	_	_	T	_	_	_	_	_	_	_	_	_	_	_
+22	)	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	a	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
+25	very	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+26	interesting	_	Word	-	+	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_
+27	bike	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+28	ride	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+30	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
+31	loop	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+32	around	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+33	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+34	Columbia	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+35	River	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+36	...	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	then	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	wine	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	if	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	we	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+42	wanted	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+44	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+45	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
+46	patio	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+47	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+48	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+49	evening	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	T	_	_	_
+50	....	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

@@ -1,39 +1,39 @@
 # format = ucca
-1	We	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_
-2	then	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
-3	called	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	the	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_
-5	office	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_
-6	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
-7	the	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_
-8	man	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_
-9	we	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_
-10	spoke	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_
-11	to	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_
-12	said	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
-13	he	_	Word	-	-	_	_	_	_	_	_	A	_	_	A*	_	_	_
-14	'd	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_	_	_
-15	send	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_
-16	someone	_	Word	-	-	_	_	_	_	_	_	A	A*	_	_	_	_	_
-17	out	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_	_	_
-18	to	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_	_	_
-19	look	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_
-20	at	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_
-21	it	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_
-22	but	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_	_	_
-23	could	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_
-24	n't	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_
-25	promise	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_
-26	when	_	Word	-	-	_	_	_	_	_	_	_	_	_	T	_	_	_
-27	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
-28	two	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Q	_	_
-29	weeks	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	T	_
-30	came	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
-31	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	N	_
-32	went	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	C	_
-33	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
-34	we	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A
-35	heard	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
-36	nothing	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A
-37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	We	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+2	then	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+3	called	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	the	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_
+5	office	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+6	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+7	the	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_
+8	man	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+9	we	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+10	spoke	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+11	to	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+12	said	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+13	he	_	Word	-	-	_	_	_	_	_	_	A	_	_	A*	_	_	_	_
+14	'd	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_	_	_	_
+15	send	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+16	someone	_	Word	-	-	_	_	_	_	_	_	A	A*	_	_	_	_	_	_
+17	out	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_	_	_	_
+18	to	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_	_	_	_
+19	look	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_	_
+20	at	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+21	it	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+22	but	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_	_	_	_
+23	could	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_	_
+24	n't	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_	_
+25	promise	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_	_
+26	when	_	Word	-	-	_	_	_	_	_	_	_	_	_	T	_	_	_	_
+27	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+28	two	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Q	_	_	_
+29	weeks	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	T	T*	_
+30	came	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+31	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+32	went	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+33	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+34	we	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+35	heard	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+36	nothing	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

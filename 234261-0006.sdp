@@ -10,7 +10,7 @@
 9	procedure	_	Word	-	+	_	A	_	_	_	_	_	_
 10	(	_	Punctuation	-	-	_	U	_	_	_	_	_	_
 11	$	_	Word	-	+	_	A	_	_	_	_	_	_
-12	250	_	Word	-	-	_	_	_	Terminal	_	_	_	_
+12	250	_	Word	-	-	_	_	_	Q	_	_	_	_
 13	)	_	Punctuation	-	-	_	U	_	_	_	_	_	_
 14	AND	_	Word	-	-	_	L	_	_	_	_	_	_
 15	had	_	Word	-	-	_	_	_	_	F	_	_	_
@@ -20,7 +20,7 @@
 19	charge	_	Word	-	+	_	_	_	_	A	_	_	_
 20	me	_	Word	-	-	_	_	_	_	_	A	_	_
 21	a	_	Word	-	-	_	_	_	_	_	_	_	F
-22	$	_	Word	-	+	_	_	_	_	_	_	_	E
+22	$	_	Word	-	+	_	_	_	_	_	_	_	Q
 23	25	_	Word	-	-	_	_	_	_	_	_	Q	_
 24	'	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 25	DISPOSAL	_	Word	-	-	_	_	_	_	_	_	_	E

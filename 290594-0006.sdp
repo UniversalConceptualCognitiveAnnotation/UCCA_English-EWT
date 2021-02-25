@@ -1,41 +1,41 @@
 # format = ucca
-1	But	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
-2	I	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
-3	've	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_
-4	done	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_
-5	hundreds	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_
-6	of	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_
-7	dog	_	Word	-	-	_	_	A	_	_	A*	_	_	_	_	_	_
-8	introductions	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-9	myself	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
-10	(	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
-11	another	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
-12	place	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
-13	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
-14	I	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_
-15	do	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_
-16	n't	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_
-17	work	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
-18	here	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_
-19	)	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
-20	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
-21	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
-22	owners	_	Word	-	+	_	_	_	_	_	_	A	A*	_	_	_	_
-23	can	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_
-24	have	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_
-25	unrealistic	_	Word	-	-	_	_	_	_	_	_	D	D*	_	_	_	_
-26	expectations	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
-27	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
-28	views	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
-29	of	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
-30	what	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_
-31	they	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_
-32	see	_	Word	-	+	_	_	_	_	_	_	A	A*	_	_	_	_
-33	when	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
-34	their	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
-35	dogs	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_
-36	meet	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
-37	other	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-38	dogs	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_
-39	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	But	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
+2	I	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
+3	've	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_
+4	done	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_
+5	hundreds	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_
+6	of	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_
+7	dog	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_
+8	introductions	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+9	myself	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_
+10	(	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+11	another	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
+12	place	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+14	I	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_
+15	do	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_
+16	n't	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_
+17	work	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
+18	here	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_
+19	)	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+20	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+21	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
+22	owners	_	Word	-	-	_	_	_	_	_	A	A*	_	_	_	_
+23	can	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_
+24	have	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_
+25	unrealistic	_	Word	-	-	_	_	_	_	_	D	D*	_	_	_	_
+26	expectations	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
+27	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
+28	views	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
+29	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
+30	what	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_
+31	they	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_
+32	see	_	Word	-	+	_	_	_	_	_	A	A*	_	_	_	_
+33	when	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
+34	their	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
+35	dogs	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
+36	meet	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
+37	other	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
+38	dogs	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
+39	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

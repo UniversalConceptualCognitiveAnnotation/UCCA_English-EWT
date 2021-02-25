@@ -7,7 +7,7 @@
 6	told	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 7	me	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
 8	that	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
-9	he	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+9	he	_	Word	-	-	_	_	_	_	A	_	A*	_	_	_	_	_	_	_	_	_
 10	had	_	Word	-	+	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_
 11	to	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
 12	research	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
@@ -30,7 +30,7 @@
 29	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
 30	home	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
 31	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-32	nothing	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+32	nothing	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_
 33	out	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
 34	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
 35	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
