@@ -1,26 +1,26 @@
 # format = ucca
 # sent_id = 116821-0015
 # text = They might want to change the name to reflect the new yorkedness of the pizza , scrummy yummy sounds gimmicky to me .
-1	They	_	Word	Word	_	3	A	3:A|5:A	_
-2	might	_	Word	Word	_	3	D	3:D	_
-3	want	_	Word	Word	_	0	H	0:H	_
-4	to	_	Word	Word	_	5	R	5:R	_
-5	change	_	Word	Word	_	3	A	3:A	_
+1	They	_	Word	Word	_	5	A	5:A	_
+2	might	_	Word	Word	_	5	D	5:D	_
+3	want	_	Word	Word	_	5	D	5:D	_
+4	to	_	Word	Word	_	5	F	5:F	_
+5	change	_	Word	Word	_	0	H	0:H	_
 6	the	_	Word	Word	_	7	F	7:F	_
 7	name	_	Word	Word	_	0	C	0:C|9:A	_
 8	to	_	Word	Word	_	9	L	9:L	_
-9	reflect	_	Word	Word	_	3	H	3:H	_
+9	reflect	_	Word	Word	_	5	H	5:H	_
 10	the	_	Word	Word	_	11	F	11:F	_
 11	new	_	Word	Word	_	9	A	9:A	_
 12	yorkedness	_	Word	Word	_	11	Terminal	11:Terminal	_
 13	of	_	Word	Word	_	15	R	15:R	_
 14	the	_	Word	Word	_	15	F	15:F	_
 15	pizza	_	Word	Word	_	11	A	11:A	_
-16	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+16	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 17	scrummy	_	Word	Word	_	20	A	20:A	_
 18	yummy	_	Word	Word	_	17	Terminal	17:Terminal	_
 19	sounds	_	Word	Word	_	20	G	20:G	_
-20	gimmicky	_	Word	Word	_	3	H	3:H	_
+20	gimmicky	_	Word	Word	_	5	H	5:H	_
 21	to	_	Word	Word	_	22	R	22:R	_
 22	me	_	Word	Word	_	20	A	20:A	_
 23	.	_	Punctuation	Punctuation	_	22	U	22:U	_

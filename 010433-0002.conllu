@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 010433-0002
 # text = No silverware , asked for a spoon for my son s mac and cheese ended up having to use my tea spoon .
-1	No	_	Word	Word	_	2	D	2:D	_
+1	No	_	Word	Word	_	2	Q	2:Q	_
 2	silverware	_	Word	Word	_	0	H	0:H	_
 3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	asked	_	Word	Word	_	2	H	2:H	_
@@ -9,9 +9,9 @@
 6	a	_	Word	Word	_	7	F	7:F	_
 7	spoon	_	Word	Word	_	4	A	4:A	_
 8	for	_	Word	Word	_	12	R	12:R	_
-9	my	_	Word	Word	_	12	E	12:E	_
-10	son	_	Word	Word	_	9	A	9:A	_
-11	s	_	Word	Word	_	9	R	9:R	_
+9	my	_	Word	Word	_	10	A	10:A	_
+10	son	_	Word	Word	_	12	E	12:E	_
+11	s	_	Word	Word	_	10	R	10:R	_
 12	mac	_	Word	Word	_	4	A	4:A	_
 13	and	_	Word	Word	_	12	Terminal	12:Terminal	_
 14	cheese	_	Word	Word	_	12	Terminal	12:Terminal	_

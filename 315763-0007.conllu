@@ -2,13 +2,13 @@
 # sent_id = 315763-0007
 # text = The apartments are within walking distance to Trader Joe 's , Whole Foods , and other stores .
 1	The	_	Word	Word	_	2	F	2:F	_
-2	apartments	_	Word	Word	_	5	A	5:A	_
-3	are	_	Word	Word	_	5	F	5:F	_
+2	apartments	_	Word	Word	_	3	A	3:A	_
+3	are	_	Word	Word	_	0	H	0:H	_
 4	within	_	Word	Word	_	6	R	6:R	_
-5	walking	_	Word	Word	_	0	H	0:H	_
-6	distance	_	Word	Word	_	5	A	5:A	_
+5	walking	_	Word	Word	_	6	A	6:A	_
+6	distance	_	Word	Word	_	3	A	3:A	_
 7	to	_	Word	Word	_	8	R	8:R	_
-8	Trader	_	Word	Word	_	5	A	5:A	_
+8	Trader	_	Word	Word	_	3	A	3:A	_
 9	Joe	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	's	_	Word	Word	_	8	Terminal	8:Terminal	_
 11	,	_	Punctuation	Punctuation	_	8	U	8:U	_

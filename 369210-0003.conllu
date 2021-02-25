@@ -1,12 +1,12 @@
 # format = ucca
 # sent_id = 369210-0003
 # text = Bramen Honda was a bit of a hassle .
-1	Bramen	_	Word	Word	_	2	E	2:E	_
-2	Honda	_	Word	Word	_	8	A	8:A	_
+1	Bramen	_	Word	Word	_	8	A	8:A	_
+2	Honda	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	was	_	Word	Word	_	8	F	8:F	_
 4	a	_	Word	Word	_	5	F	5:F	_
 5	bit	_	Word	Word	_	8	D	8:D	_
-6	of	_	Word	Word	_	5	R	5:R	_
+6	of	_	Word	Word	_	8	R	8:R	_
 7	a	_	Word	Word	_	8	F	8:F	_
 8	hassle	_	Word	Word	_	0	H	0:H	_
 9	.	_	Punctuation	Punctuation	_	8	U	8:U	_

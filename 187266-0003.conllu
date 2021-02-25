@@ -3,10 +3,10 @@
 # text = SHE KNOWS GREAT FOOD AND DINING EXPERIENCES .
 1	SHE	_	Word	Word	_	2	A	2:A	_
 2	KNOWS	_	Word	Word	_	0	H	0:H	_
-3	GREAT	_	Word	Word	_	2	A	2:A	_
-4	FOOD	_	Word	Word	_	3	A	3:A	_
-5	AND	_	Word	Word	_	6	L	6:L	_
-6	DINING	_	Word	Word	_	3	H	3:H	_
-7	EXPERIENCES	_	Word	Word	_	6	E	6:E	_
-8	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+3	GREAT	_	Word	Word	_	4	D	4:D	_
+4	FOOD	_	Word	Word	_	2	A	2:A	_
+5	AND	_	Word	Word	_	4	L	4:L	_
+6	DINING	_	Word	Word	_	7	A	7:A	_
+7	EXPERIENCES	_	Word	Word	_	0	P	0:P|4:P	_
+8	.	_	Punctuation	Punctuation	_	4	U	4:U	_
 

@@ -2,8 +2,8 @@
 # sent_id = 234261-0008
 # text = AVOID AT ALL COSTS .
 1	AVOID	_	Word	Word	_	0	H	0:H	_
-2	AT	_	Word	Word	_	1	A	1:A	_
-3	ALL	_	Word	Word	_	2	Terminal	2:Terminal	_
-4	COSTS	_	Word	Word	_	2	Terminal	2:Terminal	_
-5	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+2	AT	_	Word	Word	_	4	R	4:R	_
+3	ALL	_	Word	Word	_	4	E	4:E	_
+4	COSTS	_	Word	Word	_	1	A	1:A	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
 

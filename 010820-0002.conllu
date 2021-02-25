@@ -1,15 +1,15 @@
 # format = ucca
 # sent_id = 010820-0002
 # text = When the guys arrived ( 2 hours later than agreed ) they told that you have to pay all the tolls they payed coming from Brooklyn and extra $ 100 for them to drive back from your destination .
-1	When	_	Word	Word	_	10	L	10:L	_
+1	When	_	Word	Word	_	8	L	8:L	_
 2	the	_	Word	Word	_	3	F	3:F	_
-3	guys	_	Word	Word	_	0	C	0:C|10:A	_
+3	guys	_	Word	Word	_	0	C	0:C|8:A	_
 4	arrived	_	Word	Word	_	0	H	0:H	_
-5	(	_	Punctuation	Punctuation	_	4	U	4:U	_
+5	(	_	Punctuation	Punctuation	_	8	U	8:U	_
 6	2	_	Word	Word	_	7	Q	7:Q	_
-7	hours	_	Word	Word	_	10	T	10:T	_
-8	later	_	Word	Word	_	7	E	7:E	_
-9	than	_	Word	Word	_	7	F	7:F	_
+7	hours	_	Word	Word	_	8	E	8:E	_
+8	later	_	Word	Word	_	4	H	4:H	_
+9	than	_	Word	Word	_	10	L	10:L	_
 10	agreed	_	Word	Word	_	4	H	4:H	_
 11	)	_	Punctuation	Punctuation	_	4	U	4:U	_
 12	they	_	Word	Word	_	13	A	13:A	_

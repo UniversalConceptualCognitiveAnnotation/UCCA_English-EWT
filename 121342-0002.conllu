@@ -2,11 +2,11 @@
 # sent_id = 121342-0002
 # text = The atmosphere was nice and very clean .
 1	The	_	Word	Word	_	2	F	2:F	_
-2	atmosphere	_	Word	Word	_	0	H	0:H	_
-3	was	_	Word	Word	_	2	F	2:F	_
-4	nice	_	Word	Word	_	2	D	2:D	_
-5	and	_	Word	Word	_	4	N	4:N	_
-6	very	_	Word	Word	_	7	E	7:E	_
-7	clean	_	Word	Word	_	4	C	4:C	_
+2	atmosphere	_	Word	Word	_	0	C	0:C|7:A	_
+3	was	_	Word	Word	_	4	F	4:F	_
+4	nice	_	Word	Word	_	0	H	0:H	_
+5	and	_	Word	Word	_	7	L	7:L	_
+6	very	_	Word	Word	_	7	D	7:D	_
+7	clean	_	Word	Word	_	4	H	4:H	_
 8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
 

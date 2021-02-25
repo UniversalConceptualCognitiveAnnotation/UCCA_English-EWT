@@ -3,19 +3,19 @@
 # text = As a native southern Californian I can tell you that this is not authentic Mexican food .
 1	As	_	Word	Word	_	8	L	8:L	_
 2	a	_	Word	Word	_	5	F	5:F	_
-3	native	_	Word	Word	_	5	D	5:D	_
+3	native	_	Word	Word	_	5	E	5:E	_
 4	southern	_	Word	Word	_	5	E	5:E	_
-5	Californian	_	Word	Word	_	0	H	0:H	_
-6	I	_	Word	Word	_	8	A	8:A	_
+5	Californian	_	Word	Word	_	0	C	0:C|3:A	_
+6	I	_	Word	Word	_	8	A	8:A|5:A	_
 7	can	_	Word	Word	_	8	D	8:D	_
 8	tell	_	Word	Word	_	5	H	5:H	_
 9	you	_	Word	Word	_	8	A	8:A	_
-10	that	_	Word	Word	_	14	R	14:R	_
-11	this	_	Word	Word	_	14	A	14:A	_
-12	is	_	Word	Word	_	14	F	14:F	_
-13	not	_	Word	Word	_	14	D	14:D	_
-14	authentic	_	Word	Word	_	8	A	8:A	_
+10	that	_	Word	Word	_	12	R	12:R	_
+11	this	_	Word	Word	_	12	A	12:A	_
+12	is	_	Word	Word	_	8	A	8:A	_
+13	not	_	Word	Word	_	12	D	12:D	_
+14	authentic	_	Word	Word	_	16	E	16:E	_
 15	Mexican	_	Word	Word	_	16	E	16:E	_
-16	food	_	Word	Word	_	14	A	14:A	_
+16	food	_	Word	Word	_	12	A	12:A	_
 17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
 

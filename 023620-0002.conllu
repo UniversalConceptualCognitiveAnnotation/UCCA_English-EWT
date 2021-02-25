@@ -8,7 +8,7 @@
 5	charge	_	Word	Word	_	0	H	0:H	_
 6	you	_	Word	Word	_	5	A	5:A	_
 7	the	_	Word	Word	_	8	F	8:F	_
-8	days	_	Word	Word	_	10	A	10:A	_
+8	days	_	Word	Word	_	10	T	10:T	_
 9	you	_	Word	Word	_	10	A	10:A|14:A	_
 10	booked	_	Word	Word	_	5	A	5:A	_
 11	but	_	Word	Word	_	14	L	14:L	_
@@ -23,8 +23,8 @@
 20	get	_	Word	Word	_	18	A	18:A	_
 21	the	_	Word	Word	_	20	D	20:D	_
 22	hell	_	Word	Word	_	21	Terminal	21:Terminal	_
-23	out	_	Word	Word	_	20	D	20:D	_
-24	of	_	Word	Word	_	26	R	26:R	_
+23	out	_	Word	Word	_	26	R	26:R	_
+24	of	_	Word	Word	_	23	Terminal	23:Terminal	_
 25	this	_	Word	Word	_	26	E	26:E	_
 26	crap	_	Word	Word	_	20	A	20:A	_
 27	hole	_	Word	Word	_	26	Terminal	26:Terminal	_

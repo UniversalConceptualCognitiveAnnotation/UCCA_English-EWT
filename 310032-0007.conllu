@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 310032-0007
 # text = To date they have not made good by either finding the key or paying for a new one .
-1	To	_	Word	Word	_	10	L	10:L	_
-2	date	_	Word	Word	_	1	Terminal	1:Terminal	_
+1	To	_	Word	Word	_	2	R	2:R	_
+2	date	_	Word	Word	_	6	T	6:T	_
 3	they	_	Word	Word	_	6	A	6:A|10:A|14:A	_
 4	have	_	Word	Word	_	6	F	6:F	_
 5	not	_	Word	Word	_	6	D	6:D	_

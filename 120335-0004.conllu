@@ -3,12 +3,12 @@
 # text = They offer sales that are n't really sales , mislabeled items that make the item sound like a good deal when it is n't , a bad attitude about return items , and on and on .
 1	They	_	Word	Word	_	2	A	2:A|10:A|28:A	_
 2	offer	_	Word	Word	_	0	H	0:H	_
-3	sales	_	Word	Word	_	5	A	5:A	_
-4	that	_	Word	Word	_	5	F	5:F	_
-5	are	_	Word	Word	_	2	A	2:A	_
+3	sales	_	Word	Word	_	2	A	2:A	_
+4	that	_	Word	Word	_	8	F	8:F	_
+5	are	_	Word	Word	_	8	F	8:F	_
 6	n't	_	Word	Word	_	8	D	8:D	_
 7	really	_	Word	Word	_	8	D	8:D	_
-8	sales	_	Word	Word	_	5	A	5:A	_
+8	sales	_	Word	Word	_	3	E	3:E	_
 9	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 10	mislabeled	_	Word	Word	_	2	H	2:H	_
 11	items	_	Word	Word	_	10	A	10:A	_
@@ -17,7 +17,7 @@
 14	the	_	Word	Word	_	15	F	15:F	_
 15	item	_	Word	Word	_	20	A	20:A	_
 16	sound	_	Word	Word	_	20	G	20:G	_
-17	like	_	Word	Word	_	20	F	20:F	_
+17	like	_	Word	Word	_	20	D	20:D	_
 18	a	_	Word	Word	_	20	F	20:F	_
 19	good	_	Word	Word	_	20	D	20:D|22:D	_
 20	deal	_	Word	Word	_	0	C	0:C|22:P	_
@@ -35,7 +35,7 @@
 32	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 33	and	_	Word	Word	_	34	N	34:N	_
 34	on	_	Word	Word	_	2	H	2:H	_
-35	and	_	Word	Word	_	36	N	36:N	_
+35	and	_	Word	Word	_	34	N	34:N	_
 36	on	_	Word	Word	_	34	C	34:C	_
-37	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+37	.	_	Punctuation	Punctuation	_	34	U	34:U	_
 

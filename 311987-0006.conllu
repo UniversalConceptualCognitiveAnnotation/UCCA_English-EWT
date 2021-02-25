@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 311987-0006
 # text = So they were going to charge him for new peddles and proceeded to put them on without even telling him the price .
-1	So	_	Word	Word	_	6	F	6:F	_
-2	they	_	Word	Word	_	6	A	6:A	_
+1	So	_	Word	Word	_	14	L	14:L	_
+2	they	_	Word	Word	_	6	A	6:A|19:A	_
 3	were	_	Word	Word	_	6	F	6:F	_
 4	going	_	Word	Word	_	6	D	6:D	_
-5	to	_	Word	Word	_	4	F	4:F	_
+5	to	_	Word	Word	_	4	Terminal	4:Terminal	_
 6	charge	_	Word	Word	_	0	H	0:H	_
 7	him	_	Word	Word	_	6	A	6:A	_
 8	for	_	Word	Word	_	10	R	10:R	_

@@ -2,7 +2,7 @@
 # sent_id = 391012-0005
 # text = On a recent event quote that I had done , they came in thousands of dollars over their local competition .
 1	On	_	Word	Word	_	12	L	12:L	_
-2	a	_	Word	Word	_	4	F	4:F	_
+2	a	_	Word	Word	_	5	F	5:F	_
 3	recent	_	Word	Word	_	5	T	5:T	_
 4	event	_	Word	Word	_	5	A	5:A	_
 5	quote	_	Word	Word	_	0	H	0:H	_
@@ -16,10 +16,10 @@
 13	in	_	Word	Word	_	12	Terminal	12:Terminal	_
 14	thousands	_	Word	Word	_	16	Q	16:Q	_
 15	of	_	Word	Word	_	16	F	16:F	_
-16	dollars	_	Word	Word	_	20	A	20:A	_
-17	over	_	Word	Word	_	16	R	16:R	_
+16	dollars	_	Word	Word	_	17	A	17:A	_
+17	over	_	Word	Word	_	12	A	12:A	_
 18	their	_	Word	Word	_	20	A	20:A	_
 19	local	_	Word	Word	_	20	D	20:D	_
-20	competition	_	Word	Word	_	12	A	12:A	_
+20	competition	_	Word	Word	_	17	A	17:A	_
 21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
 

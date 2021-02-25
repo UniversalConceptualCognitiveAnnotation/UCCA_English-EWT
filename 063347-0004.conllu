@@ -9,8 +9,8 @@
 6	the	_	Word	Word	_	7	F	7:F	_
 7	mountains	_	Word	Word	_	4	A	4:A	_
 8	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-9	we	_	Word	Word	_	11	A	11:A	_
-10	enjoyed	_	Word	Word	_	11	G	11:G	_
+9	we	_	Word	Word	_	11	A	11:A|4:A	_
+10	enjoyed	_	Word	Word	_	11	D	11:D	_
 11	hiking	_	Word	Word	_	4	H	4:H	_
 12	in	_	Word	Word	_	18	R	18:R	_
 13	the	_	Word	Word	_	18	F	18:F	_
@@ -38,7 +38,7 @@
 35	River	_	Word	Word	_	31	E	31:E	_
 36	...	_	Punctuation	Punctuation	_	4	U	4:U	_
 37	and	_	Word	Word	_	39	L	39:L	_
-38	then	_	Word	Word	_	37	Terminal	37:Terminal	_
+38	then	_	Word	Word	_	39	L	39:L	_
 39	wine	_	Word	Word	_	4	H	4:H	_
 40	if	_	Word	Word	_	42	L	42:L	_
 41	we	_	Word	Word	_	42	A	42:A	_

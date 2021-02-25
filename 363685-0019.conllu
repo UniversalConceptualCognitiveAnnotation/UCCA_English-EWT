@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 363685-0019
 # text = No earlier and no later .
-1	No	_	Word	Word	_	0	H	0:H	_
-2	earlier	_	Word	Word	_	1	T	1:T	_
-3	and	_	Word	Word	_	4	L	4:L	_
-4	no	_	Word	Word	_	1	H	1:H	_
-5	later	_	Word	Word	_	4	T	4:T	_
-6	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+1	No	_	Word	Word	_	2	D	2:D	_
+2	earlier	_	Word	Word	_	0	H	0:H	_
+3	and	_	Word	Word	_	5	L	5:L	_
+4	no	_	Word	Word	_	5	D	5:D	_
+5	later	_	Word	Word	_	2	H	2:H	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
 

@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 314974-0002
 # text = My family loves coming to Endo Sushi . They are very nice , it is never crowded , and the food is wonderful , very delicious and fresh !
-1	My	_	Word	Word	_	2	A	2:A	_
-2	family	_	Word	Word	_	4	A	4:A	_
-3	loves	_	Word	Word	_	4	G	4:G	_
+1	My	_	Word	Word	_	4	A	4:A	_
+2	family	_	Word	Word	_	1	A	1:A	_
+3	loves	_	Word	Word	_	4	D	4:D	_
 4	coming	_	Word	Word	_	0	H	0:H	_
 5	to	_	Word	Word	_	6	R	6:R	_
 6	Endo	_	Word	Word	_	4	A	4:A	_
@@ -16,7 +16,7 @@
 13	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 14	it	_	Word	Word	_	17	A	17:A	_
 15	is	_	Word	Word	_	17	F	17:F	_
-16	never	_	Word	Word	_	17	D	17:D	_
+16	never	_	Word	Word	_	17	T	17:T	_
 17	crowded	_	Word	Word	_	4	H	4:H	_
 18	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 19	and	_	Word	Word	_	23	L	23:L	_

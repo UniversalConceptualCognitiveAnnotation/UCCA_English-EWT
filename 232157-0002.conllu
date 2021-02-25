@@ -3,8 +3,8 @@
 # text = I had my wedding luncheon at this BJ s restaurant , and it was one of the best choices that I made .
 1	I	_	Word	Word	_	5	A	5:A	_
 2	had	_	Word	Word	_	5	F	5:F	_
-3	my	_	Word	Word	_	5	A	5:A	_
-4	wedding	_	Word	Word	_	5	E	5:E	_
+3	my	_	Word	Word	_	4	A	4:A	_
+4	wedding	_	Word	Word	_	5	A	5:A	_
 5	luncheon	_	Word	Word	_	0	H	0:H	_
 6	at	_	Word	Word	_	10	R	10:R	_
 7	this	_	Word	Word	_	10	E	10:E	_
@@ -16,10 +16,10 @@
 13	it	_	Word	Word	_	19	A	19:A	_
 14	was	_	Word	Word	_	19	F	19:F	_
 15	one	_	Word	Word	_	19	D	19:D	_
-16	of	_	Word	Word	_	15	R	15:R	_
+16	of	_	Word	Word	_	19	R	19:R	_
 17	the	_	Word	Word	_	19	F	19:F	_
 18	best	_	Word	Word	_	19	D	19:D	_
-19	choices	_	Word	Word	_	0	C	0:C|22:A	_
+19	choices	_	Word	Word	_	0	C	0:C|22:C	_
 20	that	_	Word	Word	_	22	L	22:L	_
 21	I	_	Word	Word	_	22	A	22:A	_
 22	made	_	Word	Word	_	5	H	5:H	_

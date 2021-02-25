@@ -3,7 +3,7 @@
 # text = prepared the road test with a driving ... prepared the road test with a driving school in edmonton , but my instructor only trained me in a narrow street , hence I took one 90 minute lesson from the Noble driving school to learn the skill of changing lane , and found them very friendly and professional .
 1	prepared	_	Word	Word	_	0	H	0:H	_
 2	the	_	Word	Word	_	4	F	4:F	_
-3	road	_	Word	Word	_	4	E	4:E	_
+3	road	_	Word	Word	_	4	A	4:A	_
 4	test	_	Word	Word	_	1	A	1:A	_
 5	with	_	Word	Word	_	6	L	6:L	_
 6	a	_	Word	Word	_	1	H	1:H	_
@@ -11,7 +11,7 @@
 8	...	_	Punctuation	Punctuation	_	1	U	1:U	_
 9	prepared	_	Word	Word	_	1	H	1:H	_
 10	the	_	Word	Word	_	12	F	12:F	_
-11	road	_	Word	Word	_	12	E	12:E	_
+11	road	_	Word	Word	_	12	A	12:A	_
 12	test	_	Word	Word	_	9	A	9:A	_
 13	with	_	Word	Word	_	16	R	16:R	_
 14	a	_	Word	Word	_	16	F	16:F	_
@@ -21,8 +21,8 @@
 18	edmonton	_	Word	Word	_	9	A	9:A	_
 19	,	_	Punctuation	Punctuation	_	1	U	1:U	_
 20	but	_	Word	Word	_	24	L	24:L	_
-21	my	_	Word	Word	_	22	A	22:A	_
-22	instructor	_	Word	Word	_	24	A	24:A	_
+21	my	_	Word	Word	_	24	A	24:A	_
+22	instructor	_	Word	Word	_	21	A	21:A	_
 23	only	_	Word	Word	_	24	D	24:D	_
 24	trained	_	Word	Word	_	1	H	1:H	_
 25	me	_	Word	Word	_	24	A	24:A	_
@@ -32,17 +32,17 @@
 29	street	_	Word	Word	_	24	A	24:A	_
 30	,	_	Punctuation	Punctuation	_	1	U	1:U	_
 31	hence	_	Word	Word	_	37	L	37:L	_
-32	I	_	Word	Word	_	37	A	37:A|44:A	_
+32	I	_	Word	Word	_	37	A	37:A|44:A|55:A|57:A	_
 33	took	_	Word	Word	_	37	F	37:F	_
 34	one	_	Word	Word	_	37	D	37:D	_
 35	90	_	Word	Word	_	36	Q	36:Q	_
 36	minute	_	Word	Word	_	37	T	37:T	_
 37	lesson	_	Word	Word	_	1	H	1:H	_
-38	from	_	Word	Word	_	42	R	42:R	_
-39	the	_	Word	Word	_	42	F	42:F	_
-40	Noble	_	Word	Word	_	42	E	42:E	_
-41	driving	_	Word	Word	_	42	E	42:E	_
-42	school	_	Word	Word	_	37	A	37:A	_
+38	from	_	Word	Word	_	40	R	40:R	_
+39	the	_	Word	Word	_	40	F	40:F	_
+40	Noble	_	Word	Word	_	37	A	37:A	_
+41	driving	_	Word	Word	_	40	Terminal	40:Terminal	_
+42	school	_	Word	Word	_	40	Terminal	40:Terminal	_
 43	to	_	Word	Word	_	44	L	44:L	_
 44	learn	_	Word	Word	_	1	H	1:H	_
 45	the	_	Word	Word	_	46	F	46:F	_
@@ -52,7 +52,7 @@
 49	lane	_	Word	Word	_	48	A	48:A	_
 50	,	_	Punctuation	Punctuation	_	1	U	1:U	_
 51	and	_	Word	Word	_	55	L	55:L	_
-52	found	_	Word	Word	_	55	G	55:G	_
+52	found	_	Word	Word	_	55	G	55:G|57:G	_
 53	them	_	Word	Word	_	55	A	55:A|57:A	_
 54	very	_	Word	Word	_	55	D	55:D|57:D	_
 55	friendly	_	Word	Word	_	1	H	1:H	_

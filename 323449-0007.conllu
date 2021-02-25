@@ -16,8 +16,8 @@
 13	course	_	Word	Word	_	6	A	6:A	_
 14	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 15	because	_	Word	Word	_	22	L	22:L	_
-16	yes	_	Word	Word	_	15	Terminal	15:Terminal	_
-17	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+16	yes	_	Word	Word	_	22	G	22:G	_
+17	,	_	Punctuation	Punctuation	_	22	U	22:U	_
 18	it	_	Word	Word	_	22	A	22:A	_
 19	is	_	Word	Word	_	22	F	22:F	_
 20	not	_	Word	Word	_	22	D	22:D	_
@@ -30,7 +30,7 @@
 27	understanding	_	Word	Word	_	2	H	2:H	_
 28	of	_	Word	Word	_	30	R	30:R	_
 29	the	_	Word	Word	_	30	F	30:F	_
-30	difficulty	_	Word	Word	_	27	A	27:A	_
+30	difficulty	_	Word	Word	_	0	C	0:C|35:S	_
 31	of	_	Word	Word	_	33	R	33:R	_
 32	one	_	Word	Word	_	33	Q	33:Q	_
 33	course	_	Word	Word	_	0	C	0:C|35:C	_

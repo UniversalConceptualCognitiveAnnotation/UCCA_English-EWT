@@ -1,29 +1,29 @@
 # format = ucca
 # sent_id = 332105-0001
 # text = My wife and I avoided doing some fairly simple electrical re-wiring in our home for several years due to overall hassle and cost involved .
-1	My	_	Word	Word	_	5	A	5:A	_
-2	wife	_	Word	Word	_	1	A	1:A	_
-3	and	_	Word	Word	_	1	N	1:N	_
-4	I	_	Word	Word	_	1	C	1:C	_
-5	avoided	_	Word	Word	_	0	H	0:H	_
+1	My	_	Word	Word	_	2	A	2:A	_
+2	wife	_	Word	Word	_	11	A	11:A	_
+3	and	_	Word	Word	_	2	N	2:N	_
+4	I	_	Word	Word	_	2	C	2:C	_
+5	avoided	_	Word	Word	_	11	D	11:D	_
 6	doing	_	Word	Word	_	11	F	11:F	_
 7	some	_	Word	Word	_	11	Q	11:Q	_
 8	fairly	_	Word	Word	_	9	E	9:E	_
 9	simple	_	Word	Word	_	11	D	11:D	_
-10	electrical	_	Word	Word	_	11	E	11:E	_
-11	re-wiring	_	Word	Word	_	5	A	5:A	_
+10	electrical	_	Word	Word	_	11	D	11:D	_
+11	re-wiring	_	Word	Word	_	0	H	0:H	_
 12	in	_	Word	Word	_	14	R	14:R	_
 13	our	_	Word	Word	_	14	E	14:E	_
 14	home	_	Word	Word	_	11	A	11:A	_
 15	for	_	Word	Word	_	17	R	17:R	_
 16	several	_	Word	Word	_	17	Q	17:Q	_
-17	years	_	Word	Word	_	5	T	5:T	_
+17	years	_	Word	Word	_	11	T	11:T	_
 18	due	_	Word	Word	_	24	L	24:L	_
 19	to	_	Word	Word	_	18	Terminal	18:Terminal	_
-20	overall	_	Word	Word	_	21	E	21:E	_
+20	overall	_	Word	Word	_	21	D	21:D|23:D	_
 21	hassle	_	Word	Word	_	24	A	24:A	_
-22	and	_	Word	Word	_	21	N	21:N	_
-23	cost	_	Word	Word	_	21	C	21:C	_
-24	involved	_	Word	Word	_	5	H	5:H	_
+22	and	_	Word	Word	_	23	L	23:L	_
+23	cost	_	Word	Word	_	21	H	21:H	_
+24	involved	_	Word	Word	_	11	H	11:H	_
 25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
 

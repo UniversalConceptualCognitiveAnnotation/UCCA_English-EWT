@@ -1,14 +1,14 @@
 # format = ucca
 # sent_id = 117115-0011
 # text = Their worker even cleaned 3 of my windows and changed a lightbulb for me .
-1	Their	_	Word	Word	_	2	A	2:A	_
-2	worker	_	Word	Word	_	0	P	0:P|10:A	_
-3	even	_	Word	Word	_	4	D	4:D	_
+1	Their	_	Word	Word	_	4	A	4:A	_
+2	worker	_	Word	Word	_	1	A	1:A|10:A	_
+3	even	_	Word	Word	_	4	G	4:G	_
 4	cleaned	_	Word	Word	_	0	H	0:H	_
-5	3	_	Word	Word	_	8	Q	8:Q	_
+5	3	_	Word	Word	_	4	A	4:A	_
 6	of	_	Word	Word	_	8	R	8:R	_
 7	my	_	Word	Word	_	8	E	8:E	_
-8	windows	_	Word	Word	_	4	A	4:A	_
+8	windows	_	Word	Word	_	0	C	0:C|5:C|7:A	_
 9	and	_	Word	Word	_	10	L	10:L	_
 10	changed	_	Word	Word	_	4	H	4:H	_
 11	a	_	Word	Word	_	12	F	12:F	_

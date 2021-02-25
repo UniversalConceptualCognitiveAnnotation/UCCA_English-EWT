@@ -3,12 +3,12 @@
 # text = There is even free coffee and bottles of water if you 'd like .
 1	There	_	Word	Word	_	2	A	2:A	_
 2	is	_	Word	Word	_	0	H	0:H	_
-3	even	_	Word	Word	_	2	D	2:D	_
+3	even	_	Word	Word	_	2	G	2:G	_
 4	free	_	Word	Word	_	5	E	5:E	_
-5	coffee	_	Word	Word	_	0	C	0:C|13:A	_
+5	coffee	_	Word	Word	_	0	C	0:C|4:A|13:A	_
 6	and	_	Word	Word	_	5	N	5:N	_
 7	bottles	_	Word	Word	_	5	C	5:C	_
-8	of	_	Word	Word	_	7	R	7:R	_
+8	of	_	Word	Word	_	9	R	9:R	_
 9	water	_	Word	Word	_	7	C	7:C	_
 10	if	_	Word	Word	_	13	L	13:L	_
 11	you	_	Word	Word	_	13	A	13:A	_

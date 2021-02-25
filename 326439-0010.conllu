@@ -3,11 +3,11 @@
 # text = THEY HAVE EXCELLENT SUSHI CHEF SPECIAL ROLLS FOR A FAIR PRICE AND SO IS THE GRILL ORDERS .
 1	THEY	_	Word	Word	_	2	A	2:A|17:A	_
 2	HAVE	_	Word	Word	_	0	H	0:H	_
-3	EXCELLENT	_	Word	Word	_	7	E	7:E	_
-4	SUSHI	_	Word	Word	_	5	E	5:E	_
-5	CHEF	_	Word	Word	_	7	E	7:E	_
-6	SPECIAL	_	Word	Word	_	7	E	7:E	_
-7	ROLLS	_	Word	Word	_	2	A	2:A	_
+3	EXCELLENT	_	Word	Word	_	4	E	4:E	_
+4	SUSHI	_	Word	Word	_	2	A	2:A	_
+5	CHEF	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	SPECIAL	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	ROLLS	_	Word	Word	_	4	C	4:C|3:A	_
 8	FOR	_	Word	Word	_	11	R	11:R	_
 9	A	_	Word	Word	_	11	F	11:F	_
 10	FAIR	_	Word	Word	_	11	E	11:E	_

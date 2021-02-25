@@ -3,25 +3,25 @@
 # text = A lack of organisation , coupled with the distain for its customers , makes this the worst rental agency I have used .
 1	A	_	Word	Word	_	2	F	2:F	_
 2	lack	_	Word	Word	_	4	D	4:D	_
-3	of	_	Word	Word	_	2	R	2:R	_
+3	of	_	Word	Word	_	4	R	4:R	_
 4	organisation	_	Word	Word	_	0	H	0:H	_
 5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 6	coupled	_	Word	Word	_	9	L	9:L	_
 7	with	_	Word	Word	_	6	Terminal	6:Terminal	_
 8	the	_	Word	Word	_	9	F	9:F	_
 9	distain	_	Word	Word	_	4	H	4:H	_
-10	for	_	Word	Word	_	9	R	9:R	_
-11	its	_	Word	Word	_	9	A	9:A	_
-12	customers	_	Word	Word	_	11	A	11:A	_
+10	for	_	Word	Word	_	12	R	12:R	_
+11	its	_	Word	Word	_	12	A	12:A	_
+12	customers	_	Word	Word	_	9	A	9:A	_
 13	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-14	makes	_	Word	Word	_	17	L	17:L	_
-15	this	_	Word	Word	_	14	Terminal	14:Terminal	_
+14	makes	_	Word	Word	_	4	H	4:H	_
+15	this	_	Word	Word	_	14	A	14:A	_
 16	the	_	Word	Word	_	17	F	17:F	_
-17	worst	_	Word	Word	_	4	H	4:H	_
+17	worst	_	Word	Word	_	19	E	19:E	_
 18	rental	_	Word	Word	_	19	E	19:E	_
-19	agency	_	Word	Word	_	17	A	17:A|4:A|22:A	_
+19	agency	_	Word	Word	_	0	C	0:C|4:A|17:A	_
 20	I	_	Word	Word	_	22	A	22:A	_
 21	have	_	Word	Word	_	22	F	22:F	_
-22	used	_	Word	Word	_	17	A	17:A	_
+22	used	_	Word	Word	_	14	A	14:A	_
 23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
 
