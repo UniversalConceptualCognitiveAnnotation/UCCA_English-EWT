@@ -2,6 +2,7 @@
 # sent_id = 141103-0003
 1	What	_	Word	Word	_	3	A	_	_
 2	you	_	Word	Word	_	3	A	_	_
+2	you	_	Word	Word	_	12	A*	_	_
 3	get	_	Word	Word	_	0	H	_	_
 4	is	_	Word	Word	_	3	F	_	_
 5	a	_	Word	Word	_	10	F	_	_
@@ -16,15 +17,16 @@
 14	internet	_	Word	Word	_	12	A	_	_
 15	through	_	Word	Word	_	21	R	_	_
 16	a	_	Word	Word	_	21	F	_	_
-17	slow	_	Word	Word	_	12	A	_	_
+17	slow	_	Word	Word	_	21	E	_	_
 18	512	_	Word	Word	_	21	Q	_	_
-19	/	_	Punctuation	Punctuation	_	21	U	_	_
-20	512	_	Word	Word	_	21	Q	_	_
-21	kb	_	Word	Word	_	17	A	_	_
+19	/	_	Punctuation	Punctuation	_	18	U	_	_
+20	512	_	Word	Word	_	18	C	_	_
+21	kb	_	Word	Word	_	12	A	_	_
 22	/	_	Punctuation	Punctuation	_	21	U	_	_
 23	s	_	Word	Word	_	21	C	_	_
 24	that	_	Word	Word	_	3	L	_	_
 25	you	_	Word	Word	_	28	A	_	_
+25	you	_	Word	Word	_	34	A*	_	_
 26	can	_	Word	Word	_	28	F	_	_
 27	only	_	Word	Word	_	28	D	_	_
 28	use	_	Word	Word	_	3	H	_	_

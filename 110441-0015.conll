@@ -1,24 +1,25 @@
 # format = ucca
 # sent_id = 110441-0015
-1	Bottom	_	Word	Word	_	7	L	_	_
-2	line	_	Word	Word	_	1	Terminal	_	_
-3	is	_	Word	Word	_	1	S	_	_
+1	Bottom	_	Word	Word	_	2	E	_	_
+2	line	_	Word	Word	_	3	A	_	_
+3	is	_	Word	Word	_	0	H	_	_
 4	that	_	Word	Word	_	7	R	_	_
 5	when	_	Word	Word	_	7	L	_	_
 6	it	_	Word	Word	_	7	A	_	_
-7	's	_	Word	Word	_	0	H	_	_
+7	's	_	Word	Word	_	3	A	_	_
 8	a	_	Word	Word	_	12	F	_	_
 9	small	_	Word	Word	_	12	E	_	_
 10	privatly	_	Word	Word	_	11	D	_	_
-11	owned	_	Word	Word	_	12	E	_	_
+10	privatly	_	Word	Word	_	14	D*	_	_
+11	owned	_	Word	Word	_	0	S	_	_
+11	owned	_	Word	Word	_	14	S*	_	_
 12	resturant	_	Word	Word	_	7	A	_	_
-12	resturant	_	Word	Word	_	15	A*	_	_
 13	like	_	Word	Word	_	7	L	_	_
-14	this	_	Word	Word	_	15	A	_	_
-15	is	_	Word	Word	_	7	H	_	_
+14	this	_	Word	Word	_	7	H	_	_
+15	is	_	Word	Word	_	14	F	_	_
 16	you	_	Word	Word	_	18	A	_	_
 17	can	_	Word	Word	_	18	D	_	_
-18	tell	_	Word	Word	_	7	H	_	_
+18	tell	_	Word	Word	_	3	H	_	_
 19	that	_	Word	Word	_	25	R	_	_
 20	the	_	Word	Word	_	21	F	_	_
 21	owners	_	Word	Word	_	25	A	_	_
@@ -27,9 +28,10 @@
 24	take	_	Word	Word	_	25	F	_	_
 25	pride	_	Word	Word	_	18	A	_	_
 26	in	_	Word	Word	_	28	R	_	_
-27	their	_	Word	Word	_	28	E	_	_
+27	their	_	Word	Word	_	0	A	_	_
+27	their	_	Word	Word	_	30	A*	_	_
 28	product	_	Word	Word	_	25	A	_	_
 29	and	_	Word	Word	_	28	N	_	_
 30	service	_	Word	Word	_	28	C	_	_
-31	.	_	Punctuation	Punctuation	_	28	U	_	_
+31	.	_	Punctuation	Punctuation	_	30	U	_	_
 

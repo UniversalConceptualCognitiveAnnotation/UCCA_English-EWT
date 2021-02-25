@@ -6,7 +6,6 @@
 4	to	_	Word	Word	_	5	R	_	_
 5	vendors	_	Word	Word	_	0	C	_	_
 5	vendors	_	Word	Word	_	8	A*	_	_
-5	vendors	_	Word	Word	_	20	C*	_	_
 5	vendors	_	Word	Word	_	28	A*	_	_
 6	who	_	Word	Word	_	8	R	_	_
 7	are	_	Word	Word	_	8	F	_	_
@@ -22,7 +21,7 @@
 17	about	_	Word	Word	_	19	R	_	_
 18	the	_	Word	Word	_	19	F	_	_
 19	company	_	Word	Word	_	16	A	_	_
-20	as	_	Word	Word	_	16	A	_	_
+20	as	_	Word	Word	_	16	D	_	_
 21	well	_	Word	Word	_	20	Terminal	_	_
 22	and	_	Word	Word	_	3	L	_	_
 23	in	_	Word	Word	_	3	L	_	_
@@ -32,7 +31,7 @@
 27	to	_	Word	Word	_	28	F	_	_
 28	quote	_	Word	Word	_	3	H	_	_
 29	events	_	Word	Word	_	28	A	_	_
-30	against	_	Word	Word	_	28	D	_	_
+30	against	_	Word	Word	_	31	R	_	_
 31	them	_	Word	Word	_	28	A	_	_
 32	even	_	Word	Word	_	3	L	_	_
 33	though	_	Word	Word	_	32	Terminal	_	_
@@ -51,7 +50,7 @@
 44	their	_	Word	Word	_	45	A	_	_
 45	entertainment	_	Word	Word	_	43	A	_	_
 46	out	_	Word	Word	_	49	R	_	_
-47	of	_	Word	Word	_	49	F	_	_
+47	of	_	Word	Word	_	46	Terminal	_	_
 48	the	_	Word	Word	_	49	F	_	_
 49	market	_	Word	Word	_	43	A	_	_
 50	and	_	Word	Word	_	3	L	_	_
