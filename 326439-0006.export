@@ -6,14 +6,18 @@ AND	Word	--	Terminal	503
 EXCELLENT	Word	--	Terminal	504
 FOOD	Word	--	Terminal	505
 .	Punctuation	--	Terminal	506
-#500	FN	--	D	507
-#501	FN	--	P	507
-#502	PNCT	--	U	509
-#503	FN	--	L	509
-#504	FN	--	S	508
-#505	FN	--	A	508
+#500	FN	--	D	510
+#501	FN	--	P	510
+#502	PNCT	--	U	513
+#503	FN	--	L	513
+#504	FN	--	S	507
+#505	FN	--	C	508	A*	507
 #506	PNCT	--	U	508
-#507	FN	--	H	509
-#508	FN	--	H	509
-#509	FN	--	--	0
+#507	FN	--	E	508
+#508	FN	--	A	512
+#509	FN	--	A	510
+#510	FN	--	H	513
+#511	FN	--	S	512
+#512	FN	--	H	513
+#513	FN	--	--	0
 #EOS 326439-0006

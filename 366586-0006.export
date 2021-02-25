@@ -11,21 +11,23 @@ both	Word	--	Terminal	508
 of	Word	--	Terminal	509
 us	Word	--	Terminal	510
 .	Punctuation	--	Terminal	511
-#500	FN	--	A	513
-#501	FN	--	F	513
-#502	FN	--	F	512
-#503	FN	--	S	513
-#504	PNCT	--	U	516
-#505	FN	--	S	515
-#506	FN	--	A	515	C*	512
+#500	FN	--	A	517
+#501	FN	--	S	517
+#502	FN	--	F	516
+#503	FN	--	S	512
+#504	PNCT	--	U	515
+#505	FN	--	S	513
+#506	FN	--	C	516	A*	512	A*	513
 #507	FN	--	R	514
 #508	FN	--	Q	514
 #509	FN	--	F	514
 #510	FN	--	C	514
 #511	PNCT	--	U	514
-#512	FN	--	A	513
-#513	FN	--	H	516
-#514	FN	--	A	515
-#515	FN	--	H	516
-#516	FN	--	--	0
+#512	FN	--	H	515
+#513	FN	--	H	515
+#514	FN	--	A	517
+#515	FN	--	E	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
 #EOS 366586-0006

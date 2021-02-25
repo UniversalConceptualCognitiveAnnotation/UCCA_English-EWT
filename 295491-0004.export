@@ -10,20 +10,22 @@ as	Word	--	Terminal	507
 a	Word	--	Terminal	508
 friend	Word	--	Terminal	509
 .	Punctuation	--	Terminal	510
-#500	FN	--	A	511	A*	512	A*	514
-#501	FN	--	F	511
-#502	FN	--	D	511
-#503	FN	--	S	511
-#504	PNCT	--	U	515
-#505	FN	--	P	512	P*	514
-#506	FN	--	A	512
-#507	FN	--	L	515
-#508	FN	--	F	513
-#509	FN	--	S	513
-#510	PNCT	--	U	513
-#511	FN	--	H	515
-#512	FN	--	H	515
-#513	FN	--	A	514
-#514	FN	--	H	515
-#515	FN	--	--	0
+#500	FN	--	A	511
+#501	FN	--	F	512
+#502	FN	--	D	512
+#503	FN	--	S	512
+#504	PNCT	--	U	517
+#505	FN	--	P	513	P*	516
+#506	FN	--	A	513
+#507	FN	--	L	517
+#508	FN	--	F	514
+#509	FN	--	C	514
+#510	PNCT	--	U	514
+#511	FN	--	A	512	A*	513	A*	516
+#512	FN	--	H	517
+#513	FN	--	H	517
+#514	FN	--	A	515
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
 #EOS 295491-0004

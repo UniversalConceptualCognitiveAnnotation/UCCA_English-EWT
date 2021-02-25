@@ -6,15 +6,17 @@ base	Word	--	Terminal	503
 not	Word	--	Terminal	504
 ok	Word	--	Terminal	505
 .	Punctuation	--	Terminal	506
-#500	FN	--	P	507
-#501	FN	--	L	510
-#502	FN	--	C	508
+#500	FN	--	P	511
+#501	FN	--	L	512
+#502	FN	--	A	507
 #503	FN	--	C	508
-#504	FN	--	D	509	D*	507
-#505	FN	--	S	509	D*	507
-#506	PNCT	--	U	507
-#507	FN	--	H	510
+#504	FN	--	D	509	D*	511
+#505	FN	--	S	509	D*	511
+#506	PNCT	--	U	511
+#507	FN	--	C	508
 #508	FN	--	A	509
-#509	FN	--	H	510
-#510	FN	--	--	0
+#509	FN	--	H	512
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
 #EOS 330966-0002

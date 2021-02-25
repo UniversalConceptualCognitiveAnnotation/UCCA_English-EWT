@@ -16,40 +16,42 @@ once	Word	--	Terminal	513
 been	Word	--	Terminal	514
 shown	Word	--	Terminal	515
 anything	Word	--	Terminal	516
-but	Word	--	Terminal	516
-care	Word	--	Terminal	517
-and	Word	--	Terminal	518
-consideration	Word	--	Terminal	519
-.	Punctuation	--	Terminal	520
-#500	FN	--	A	528	A*	529
+but	Word	--	Terminal	517
+care	Word	--	Terminal	518
+and	Word	--	Terminal	519
+consideration	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	A	528	A*	529	A*	530	A*	531
 #501	FN	--	F	528
 #502	FN	--	P	528
-#503	FN	--	C	521
-#504	FN	--	R	521
-#505	FN	--	F	527
-#506	FN	--	S	522
+#503	FN	--	Q	527
+#504	FN	--	R	526
+#505	FN	--	F	522
+#506	FN	--	C	522
 #507	FN	--	R	523
 #508	FN	--	F	523
 #509	FN	--	C	523
-#510	FN	--	L	530
+#510	FN	--	L	532
 #511	FN	--	F	529
 #512	FN	--	D	529
 #513	FN	--	D	529
 #514	FN	--	F	529
-#515	FN	--	P	529
-#516	FN	--	R	524	R*	525
-#517	FN	--	S	524
-#518	FN	--	L	526
-#519	FN	--	S	525
-#520	PNCT	--	U	525
-#521	FN	--	Q	527
-#522	FN	--	C	527
+#515	FN	--	P	529	D*	530	D*	531
+#516	FN	--	A	529
+#517	FN	--	L	532
+#518	FN	--	S	530
+#519	FN	--	L	532
+#520	FN	--	S	531
+#521	PNCT	--	U	531
+#522	FN	--	A	526
 #523	FN	--	E	527
-#524	FN	--	H	526
-#525	FN	--	H	526
-#526	FN	--	A	529
+#524	FN	--	A	529
+#525	FN	--	A	530	A*	531
+#526	FN	--	C	527
 #527	FN	--	A	528
-#528	FN	--	H	530
-#529	FN	--	H	530
-#530	FN	--	--	0
+#528	FN	--	H	532
+#529	FN	--	H	532
+#530	FN	--	H	532
+#531	FN	--	H	532
+#532	FN	--	--	0
 #EOS 207629-0004

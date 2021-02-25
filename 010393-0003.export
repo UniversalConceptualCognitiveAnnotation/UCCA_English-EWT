@@ -19,9 +19,9 @@ question	Word	--	Terminal	515
 I	Word	--	Terminal	516
 had	Word	--	Terminal	517
 .	Punctuation	--	Terminal	518
-#500	FN	--	F	519
-#501	FN	--	E	519
-#502	FN	--	C	519	A*	524	A*	522
+#500	FN	--	F	524
+#501	FN	--	E	524
+#502	FN	--	A	519
 #503	FN	--	R	522
 #504	FN	--	P	522
 #505	FN	--	R	520
@@ -32,18 +32,18 @@ had	Word	--	Terminal	517
 #510	FN	--	L	527
 #511	FN	--	S	526
 #512	FN	--	L	527
-#513	FN	--	P	524
+#513	FN	--	P	523
 #514	FN	--	D	521
 #515	FN	--	P	521
 #516	FN	--	A	521
-#517	FN	--	F	521
+#517	FN	--	D	521
 #518	PNCT	--	U	521
-#519	FN	--	P	523
+#519	FN	--	C	524	A*	523	A*	522
 #520	FN	--	A	522
-#521	FN	--	A	524
-#522	FN	--	A	523
-#523	FN	--	A	525	A*	526
-#524	FN	--	H	527
+#521	FN	--	A	523
+#522	FN	--	E	524
+#523	FN	--	H	527
+#524	FN	--	A	525	A*	526
 #525	FN	--	H	527
 #526	FN	--	H	527
 #527	FN	--	--	0

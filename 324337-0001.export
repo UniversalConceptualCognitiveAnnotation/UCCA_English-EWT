@@ -7,28 +7,30 @@ there	Word	--	Terminal	504
 ,	Punctuation	--	Terminal	505
 not	Word	--	Terminal	506
 even	Word	--	Terminal	507
-if	Word	--	Terminal	507
-your	Word	--	Terminal	508
-car	Word	--	Terminal	509
-flips	Word	--	Terminal	510
-.	Punctuation	--	Terminal	511
-#500	FN	--	F	517
-#501	FN	--	D	517
-#502	FN	--	T	517
-#503	FN	--	P	517
-#504	FN	--	A	517
-#505	PNCT	--	U	518
-#506	FN	--	E	512
-#507	FN	--	C	512
-#508	FN	--	S	513
-#509	FN	--	C	514	A*	513
-#510	FN	--	P	515
-#511	PNCT	--	U	515
-#512	FN	--	L	518
+if	Word	--	Terminal	508
+your	Word	--	Terminal	509
+car	Word	--	Terminal	510
+flips	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	F	518
+#501	FN	--	D	518
+#502	FN	--	T	518
+#503	FN	--	P	518	P*	519
+#504	FN	--	A	518	A*	519
+#505	PNCT	--	U	519
+#506	FN	--	D	519
+#507	FN	--	G	519
+#508	FN	--	L	520
+#509	FN	--	S	513
+#510	FN	--	C	514	A*	513
+#511	FN	--	P	515
+#512	PNCT	--	U	515
 #513	FN	--	E	514
 #514	FN	--	A	515
-#515	FN	--	H	518
-#516	FN	--	A	517
-#517	FN	--	H	518
-#518	FN	--	--	0
+#515	FN	--	H	520
+#516	FN	--	A	518
+#517	FN	--	A	519
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	--	0
 #EOS 324337-0001

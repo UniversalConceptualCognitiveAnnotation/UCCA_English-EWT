@@ -3,45 +3,43 @@ THEY	Word	--	Terminal	500
 HAVE	Word	--	Terminal	501
 EXCELLENT	Word	--	Terminal	502
 SUSHI	Word	--	Terminal	503
-CHEF	Word	--	Terminal	504
-SPECIAL	Word	--	Terminal	505
-ROLLS	Word	--	Terminal	506
-FOR	Word	--	Terminal	507
-A	Word	--	Terminal	508
-FAIR	Word	--	Terminal	509
-PRICE	Word	--	Terminal	510
-AND	Word	--	Terminal	511
-SO	Word	--	Terminal	512
-IS	Word	--	Terminal	513
-THE	Word	--	Terminal	514
-GRILL	Word	--	Terminal	515
-ORDERS	Word	--	Terminal	516
-.	Punctuation	--	Terminal	517
-#500	FN	--	A	524	A*	525
-#501	FN	--	S	524	S*	525
-#502	FN	--	S	518
-#503	FN	--	E	519
-#504	FN	--	C	519
-#505	FN	--	E	520
-#506	FN	--	C	520	A*	518
-#507	FN	--	R	522
-#508	FN	--	F	522
-#509	FN	--	S	521
-#510	FN	--	C	522	A*	521
-#511	FN	--	L	526
-#512	FN	--	L	526
-#513	FN	--	F	525
-#514	FN	--	F	523
-#515	FN	--	E	523
-#516	FN	--	C	523
-#517	PNCT	--	U	523
-#518	FN	--	E	520
-#519	FN	--	E	520
-#520	FN	--	A	524
-#521	FN	--	E	522
-#522	FN	--	A	524	A*	525
-#523	FN	--	A	525
-#524	FN	--	H	526
-#525	FN	--	H	526
-#526	FN	--	--	0
+CHEF	Word	--	Terminal	503
+SPECIAL	Word	--	Terminal	503
+ROLLS	Word	--	Terminal	504
+FOR	Word	--	Terminal	505
+A	Word	--	Terminal	506
+FAIR	Word	--	Terminal	507
+PRICE	Word	--	Terminal	508
+AND	Word	--	Terminal	509
+SO	Word	--	Terminal	510
+IS	Word	--	Terminal	511
+THE	Word	--	Terminal	512
+GRILL	Word	--	Terminal	513
+ORDERS	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	A	522	A*	523
+#501	FN	--	S	522	S*	523
+#502	FN	--	S	516
+#503	FN	--	C	517
+#504	FN	--	C	517	A*	516
+#505	FN	--	R	519
+#506	FN	--	F	519
+#507	FN	--	S	518
+#508	FN	--	C	519	A*	518
+#509	FN	--	L	524
+#510	FN	--	L	524
+#511	FN	--	F	523
+#512	FN	--	F	520
+#513	FN	--	E	520
+#514	FN	--	C	520
+#515	PNCT	--	U	520
+#516	FN	--	E	521
+#517	FN	--	C	521
+#518	FN	--	E	519
+#519	FN	--	A	522	A*	523
+#520	FN	--	A	523
+#521	FN	--	A	522
+#522	FN	--	H	524
+#523	FN	--	H	524
+#524	FN	--	--	0
 #EOS 326439-0010

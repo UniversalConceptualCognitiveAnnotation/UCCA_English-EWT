@@ -14,12 +14,12 @@ deposit	Word	--	Terminal	511
 now	Word	--	Terminal	512
 !	Punctuation	--	Terminal	513
 "	Punctuation	--	Terminal	514
-#500	FN	--	A	519
-#501	FN	--	T	519
-#502	FN	--	P	519
-#503	PNCT	--	U	519
-#504	FN	--	H	518
-#505	PNCT	--	U	518
+#500	FN	--	A	523
+#501	FN	--	T	523
+#502	FN	--	P	523
+#503	PNCT	--	U	523
+#504	FN	--	G	521
+#505	PNCT	--	U	522
 #506	FN	--	F	517
 #507	FN	--	F	517
 #508	FN	--	F	515
@@ -31,8 +31,12 @@ now	Word	--	Terminal	512
 #514	PNCT	--	U	517
 #515	FN	--	P	517
 #516	FN	--	A	517
-#517	FN	--	H	518
-#518	FN	--	A	519
-#519	FN	--	H	520
-#520	FN	--	--	0
+#517	FN	--	H	522
+#518	FN	--	A	521
+#519	FN	--	S	521
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
 #EOS 162422-0007

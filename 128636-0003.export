@@ -12,7 +12,7 @@ him	Word	--	Terminal	509
 without	Word	--	Terminal	510
 hesitation	Word	--	Terminal	511
 .	Punctuation	--	Terminal	512
-#500	FN	--	A	517
+#500	FN	--	A	517	A*	513
 #501	FN	--	F	517
 #502	FN	--	D	517
 #503	FN	--	F	517
@@ -20,13 +20,13 @@ hesitation	Word	--	Terminal	511
 #505	FN	--	C	516	A*	515
 #506	FN	--	A	515
 #507	FN	--	P	515
-#508	FN	--	R	513
-#509	FN	--	C	513
-#510	FN	--	E	514
-#511	FN	--	C	514
-#512	PNCT	--	U	514
-#513	FN	--	A	515
-#514	FN	--	D	517
+#508	FN	--	R	514
+#509	FN	--	C	514
+#510	FN	--	L	518	D*	513
+#511	FN	--	P	513
+#512	PNCT	--	U	513
+#513	FN	--	H	518
+#514	FN	--	A	515
 #515	FN	--	E	516
 #516	FN	--	A	517
 #517	FN	--	H	518
