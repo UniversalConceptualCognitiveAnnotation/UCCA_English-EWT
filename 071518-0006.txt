@@ -1,21 +1,20 @@
 # ::id 071518-0006
 # ::tok I dropped the truck off in the morning and it was ready that afternoon .
-# ::alignments 0-1.1.1 1-1.1.2 3-1.1.3.2 4-1.1.4 5-1.1.5.1 7-1.1.5.3 8-1.2 9-1.3.1 11-1.3.3 12-1.3.4.1 13-1.3.4.2
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.3.2 4-1.1.2 5-1.1.4.1 7-1.1.4.3 8-1.2 9-1.3.1 11-1.3.3 12-1.3.4.1 13-1.3.4.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v5 / label~e.0)
-           :P (v6 / label~e.1)
+           :P (v6 / label~e.1,4)
            :A (v7 / label
-                  :C (v13 / label~e.3))
-           :D (v8 / label~e.4)
-           :T (v9 / label
-                  :R (v14 / label~e.5)
-                  :C (v15 / label~e.7)))
+                  :C (v12 / label~e.3))
+           :T (v8 / label
+                  :R (v13 / label~e.5)
+                  :C (v14 / label~e.7)))
     :L (v3 / label~e.8)
     :H (v4 / label
-           :A (v10 / label~e.9)
-           :S (v11 / label~e.11)
-           :T (v12 / label
-                   :R (v16 / label~e.12)
-                   :C (v17 / label~e.13))))
+           :A (v9 / label~e.9)
+           :S (v10 / label~e.11)
+           :T (v11 / label
+                   :R (v15 / label~e.12)
+                   :C (v16 / label~e.13))))

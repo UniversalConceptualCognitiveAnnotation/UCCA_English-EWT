@@ -1,8 +1,9 @@
 # ::id 267732-0007
 # ::tok Service was excellent !
-# ::alignments 0-1.1.1 2-1.1.3
+# ::alignments 0-1.1.2 2-1.1.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :P (v3 / label~e.0)
-           :D (v4 / label~e.2)))
+           :A (v3 / label)
+           :P (v4 / label~e.0)
+           :D (v5 / label~e.2)))

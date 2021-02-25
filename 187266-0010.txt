@@ -1,6 +1,6 @@
 # ::id 187266-0010
 # ::tok The affordable rent makes it possible for an inspired chef to serve his high quality fare at affordable prices !
-# ::alignments 1-1.1.1.2 2-1.1.1.1.2 3-1.1.2 5-1.1.4 6-1.1.5.6 8-1.1.5.1.2 9-1.1.5.1.1.2 11-1.1.5.3 12-1.1.5.4.1.2 13-1.1.5.4.2.2.1 14-1.1.5.4.2.2.2 15-1.1.5.4.3 16-1.1.5.5.1 17-1.1.5.5.2 18-1.1.5.5.3
+# ::alignments 1-1.1.1.2 2-1.1.1.1.2 3-1.1.2 5-1.1.4 6-1.1.5.6 8-1.1.5.1.2 9-1.1.5.1.1.2 11-1.1.5.3 12-1.1.5.4.1.2 13-1.1.5.4.2.2.1 14-1.1.5.4.2.2.2 15-1.1.5.4.3 16-1.1.5.5.1 17-1.1.5.5.2.2 18-1.1.5.5.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -12,7 +12,7 @@
            :S (v5 / label~e.5)
            :A (v6 / label
                   :A (v9 / label
-                         :A (v15 / label
+                         :S (v15 / label
                                  :C (v23 / label~e.9))
                          :D (v16 / label~e.8))
                   :P (v10 / label~e.11)
@@ -23,11 +23,13 @@
                           :E (v18 / label
                                   :A v19
                                   :S (v25 / label
-                                          :E (v26 / label~e.13)
-                                          :C (v27 / label~e.14)))
+                                          :E (v27 / label~e.13)
+                                          :C (v28 / label~e.14)))
                           :C v19)
                   :A (v12 / label
                           :R (v20 / label~e.16)
-                          :E (v21 / label~e.17)
-                          :C (v22 / label~e.18))
+                          :E (v21 / label
+                                  :A (v22 / label~e.18)
+                                  :S (v26 / label~e.17))
+                          :C v22)
                   :R (v13 / label~e.6))))

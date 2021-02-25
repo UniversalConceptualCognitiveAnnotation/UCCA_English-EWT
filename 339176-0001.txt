@@ -1,11 +1,13 @@
 # ::id 339176-0001
 # ::tok Great Prices , Great service !
-# ::alignments 0-1.1.1 1-1.1.2 3-1.2.2 4-1.2.3
+# ::alignments 0-1.1.1 1-1.1.2 3-1.2.3 4-1.2.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :S (v4 / label~e.0)
-           :A (v5 / label~e.1))
+           :A (v5 / label~e.1)
+           :A (v6 / label))
     :H (v3 / label
-           :D (v6 / label~e.3)
-           :P (v7 / label~e.4)))
+           :A (v7 / label)
+           :D (v8 / label~e.3)
+           :P (v9 / label~e.4)))

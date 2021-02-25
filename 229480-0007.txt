@@ -1,6 +1,6 @@
 # ::id 229480-0007
 # ::tok He really knows what he is talking about and will approach the different options fairly .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1.1 4-1.1.4.2 6-1.1.4.4 7-1.1.4.1.2 8-1.2 10-1.3.5 12-1.3.6.2 13-1.3.6.3 14-1.3.1
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2.1 6-1.1.4.2.3 7-1.1.4.2.4.2 8-1.2 10-1.3.5 12-1.3.6.2 13-1.3.6.3 14-1.3.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -8,16 +8,18 @@
            :D (v6 / label~e.1)
            :P (v7 / label~e.2)
            :A (v8 / label
-                  :A (v13 / label
-                          :C (v18 / label~e.3)
-                          :R (v19 / label~e.7))
-                  :A (v14 / label~e.4)
-                  :P (v15 / label~e.6)))
+                  :C (v13 / label~e.3)
+                  :E (v14 / label
+                          :A (v17 / label~e.4)
+                          :P (v18 / label~e.6)
+                          :A (v19 / label
+                                  :C v13
+                                  :R (v20 / label~e.7)))))
     :L (v3 / label~e.8)
     :H (v4 / label
            :D (v9 / label~e.14)
            :A (v10 / label)
            :P (v11 / label~e.10)
            :A (v12 / label
-                   :E (v16 / label~e.12)
-                   :C (v17 / label~e.13))))
+                   :E (v15 / label~e.12)
+                   :C (v16 / label~e.13))))

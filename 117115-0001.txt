@@ -1,12 +1,13 @@
 # ::id 117115-0001
 # ::tok Excellent service and quality
-# ::alignments 0-1.1.1 1-1.1.2 2-1.2 3-1.3.1
+# ::alignments 0-1.1.2 1-1.1.3 2-1.2 3-1.3.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :D (v5 / label~e.0)
-           :P (v6 / label~e.1))
+           :A (v5 / label)
+           :D (v6 / label~e.0)
+           :P (v7 / label~e.1))
     :L (v3 / label~e.2)
     :H (v4 / label
-           :S (v7 / label~e.3)
-           :D v5))
+           :S (v8 / label~e.3)
+           :D v6))

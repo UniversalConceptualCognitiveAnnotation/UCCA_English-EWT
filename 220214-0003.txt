@@ -1,6 +1,6 @@
 # ::id 220214-0003
 # ::tok They also do n't tell you that they 're going to mail you an " application " to be admitted to be a patient .
-# ::alignments 0-1.1.2 1-1.2 3-1.1.4 4-1.1.5 5-1.1.6 6-1.1.1.1 7-1.1.1.2 11-1.1.1.6 12-1.1.1.7 15-1.1.1.8.1.1.2 17-1.1.1.8.2.1 19-1.1.1.8.2.3 20-1.1.1.8.2.4.1 21-1.1.1.8.2.4.2 23-1.1.1.8.2.4.3.2
+# ::alignments 0-1.1.2 1-1.2 3-1.1.4 4-1.1.5 5-1.1.6 6-1.1.1.1 7-1.1.1.2 11-1.1.1.6 12-1.1.1.7 15-1.1.1.8.1.1.2 17-1.1.1.8.2.2 19-1.1.1.8.2.4 20-1.1.1.8.2.5.2 21-1.1.1.8.2.5.3 23-1.1.1.8.2.5.4.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -12,15 +12,17 @@
                   :A (v13 / label
                           :C (v14 / label
                                   :P (v16 / label
-                                          :C (v20 / label~e.15)))
+                                          :C (v21 / label~e.15)))
                           :E (v15 / label
-                                  :R (v17 / label~e.17)
-                                  :P (v18 / label~e.19)
-                                  :A (v19 / label
-                                          :R (v21 / label~e.20)
-                                          :S (v22 / label~e.21)
-                                          :A (v23 / label
-                                                  :C (v24 / label~e.23))))))
+                                  :A (v17 / label)
+                                  :R (v18 / label~e.17)
+                                  :P (v19 / label~e.19)
+                                  :A (v20 / label
+                                          :A v12
+                                          :R (v22 / label~e.20)
+                                          :S (v23 / label~e.21)
+                                          :A (v24 / label
+                                                  :C (v25 / label~e.23))))))
            :A (v5 / label~e.0)
            :D (v6 / label~e.3)
            :P (v7 / label~e.4)

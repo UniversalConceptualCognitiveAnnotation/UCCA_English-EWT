@@ -1,9 +1,8 @@
 # ::id 068009-0001
 # ::tok Criminal Attorney Dallas
-# ::alignments 0-1.1.2 1-1.1.2 2-1.1.3
+# ::alignments 0-1.1.1 1-1.1.1 2-1.1.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :S (v3 / label)
-           :A (v4 / label~e.0,1)
-           :A (v5 / label~e.2)))
+           :A (v3 / label~e.0,1)
+           :A (v4 / label~e.2)))

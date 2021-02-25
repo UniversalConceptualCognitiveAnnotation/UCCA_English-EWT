@@ -1,6 +1,6 @@
 # ::id 201972-0006
 # ::tok I think they may even be better than the pair I have been using this past year !
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.4 3-1.1.3.5 4-1.1.3.6 6-1.1.3.2 7-1.1.3.3.1 9-1.1.3.3.2.3 10-1.1.3.3.3 13-1.1.3.3.6 14-1.1.3.3.7.1 15-1.1.3.3.7.2 16-1.1.3.3.7.3
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.4 3-1.1.3.5 4-1.1.3.6 6-1.1.3.2 7-1.1.3.3.2 9-1.1.3.3.4 10-1.1.3.3.5.2 13-1.1.3.3.5.5 14-1.1.3.3.5.6.1 15-1.1.3.3.5.6.2 16-1.1.3.3.5.6.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -9,16 +9,17 @@
            :A (v5 / label
                   :S (v6 / label~e.6)
                   :A (v7 / label
-                         :R (v11 / label~e.7)
-                         :A (v12 / label
-                                 :C (v16 / label)
-                                 :Q (v17 / label~e.9))
-                         :A (v13 / label~e.10)
-                         :P (v14 / label~e.13)
-                         :T (v15 / label
-                                 :R (v18 / label~e.14)
-                                 :E (v19 / label~e.15)
-                                 :C (v20 / label~e.16)))
+                         :C (v11 / label)
+                         :R (v12 / label~e.7)
+                         :Q (v13 / label~e.9)
+                         :E (v14 / label
+                                 :A (v15 / label)
+                                 :A (v16 / label~e.10)
+                                 :P (v17 / label~e.13)
+                                 :T (v18 / label
+                                         :R (v19 / label~e.14)
+                                         :E (v20 / label~e.15)
+                                         :C (v21 / label~e.16))))
                   :A (v8 / label~e.2)
                   :D (v9 / label~e.3)
                   :G (v10 / label~e.4))))

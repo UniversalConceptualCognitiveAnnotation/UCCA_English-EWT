@@ -1,6 +1,6 @@
 # ::id 112661-0002
 # ::tok I wanted to try someplace new again .
-# ::alignments 0-1.1.2 1-1.1.3 3-1.1.5 4-1.1.6.1 5-1.1.6.2 6-1.1.7
+# ::alignments 0-1.1.2 1-1.1.3 3-1.1.5 4-1.1.6.1 5-1.1.6.2.2 6-1.1.7
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -9,5 +9,7 @@
            :P (v5 / label~e.3)
            :A (v6 / label
                   :C (v8 / label~e.4)
-                  :E (v9 / label~e.5))
+                  :E (v9 / label
+                         :A v8
+                         :S (v10 / label~e.5)))
            :D (v7 / label~e.6)))

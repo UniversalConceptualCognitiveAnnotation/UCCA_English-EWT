@@ -1,11 +1,12 @@
 # ::id 180886-0003
 # ::tok Dr. Taylor was not only available on a Sunday , but also was able to immediately take care of me .
-# ::alignments 0-1.1.1.1 1-1.4.5 3-1.2 4-1.2 5-1.1.3 6-1.1.4.1 8-1.1.4.3 10-1.3 11-1.3 13-1.4.7 15-1.4.2 17-1.4.3.2 18-1.4.4.1 19-1.4.4.2
+# ::alignments 0-1.1.1.1.1 1-1.4.5 3-1.2 4-1.2 5-1.1.3 6-1.1.4.1 8-1.1.4.3 10-1.3 11-1.3 13-1.4.7 15-1.4.2 17-1.4.3.2 18-1.4.4.1 19-1.4.4.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v6 / label
-                  :E (v14 / label~e.0)
+                  :E (v14 / label
+                          :A (v20 / label~e.0))
                   :C (v12 / label~e.1))
            :S (v7 / label~e.5)
            :T (v8 / label

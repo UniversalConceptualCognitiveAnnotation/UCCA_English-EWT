@@ -1,6 +1,6 @@
 # ::id 274498-0003
 # ::tok Best jiu - jitsu mma in Santa Rosa and i have the experience and belt to back it up !
-# ::alignments 0-1.1.1 1-1.1.2.1 3-1.1.2.1 4-1.1.2.2 5-1.1.3.1 6-1.1.3.2 7-1.1.3.2 8-1.2 9-1.3.4 12-1.3.6.1.2 13-1.3.6.2 14-1.3.6.3 16-1.3.1 17-1.3.2 18-1.3.1
+# ::alignments 0-1.1.1 1-1.1.2.1 3-1.1.2.1 4-1.1.2.2 5-1.1.3.1 6-1.1.3.2 7-1.1.3.2 8-1.2 9-1.3.4 12-1.3.6.1.1.2 13-1.3.6.2 14-1.3.6.3 16-1.3.1 17-1.3.2 18-1.3.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -18,6 +18,8 @@
            :A (v10 / label~e.9)
            :A (v11 / label
                    :C (v16 / label
-                           :C (v19 / label~e.12))
+                           :P (v19 / label
+                                   :C (v20 / label~e.12))
+                           :A v10)
                    :N (v17 / label~e.13)
                    :C (v18 / label~e.14))))

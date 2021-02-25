@@ -1,10 +1,9 @@
 # ::id 231203-0001
 # ::tok Okay , here 's the scoop .
-# ::alignments 0-1.1.2 2-1.1.3 5-1.1.5.1
+# ::alignments 2-1.1.3 5-1.1.5.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :G (v3 / label~e.0)
-           :A (v4 / label~e.2)
-           :S (v5 / label
-                  :C (v6 / label~e.5))))
+           :A (v3 / label~e.2)
+           :S (v4 / label
+                  :C (v5 / label~e.5))))

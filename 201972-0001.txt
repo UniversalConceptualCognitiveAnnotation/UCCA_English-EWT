@@ -1,13 +1,14 @@
 # ::id 201972-0001
 # ::tok Great help even near closing time !
-# ::alignments 0-1.1.2 1-1.1.1 2-1.2 3-1.3.2 4-1.3.3 5-1.3.4
+# ::alignments 0-1.1.1 1-1.1.2 2-1.2 3-1.3.2 4-1.3.3 5-1.3.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :P (v5 / label~e.1)
-           :D (v6 / label~e.0))
+           :D (v5 / label~e.0)
+           :P (v6 / label~e.1)
+           :A (v7 / label))
     :L (v3 / label~e.2)
     :H (v4 / label
-           :R (v7 / label~e.3)
-           :P (v8 / label~e.4)
-           :T (v9 / label~e.5)))
+           :R (v8 / label~e.3)
+           :P (v9 / label~e.4)
+           :T (v10 / label~e.5)))

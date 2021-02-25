@@ -1,21 +1,23 @@
 # ::id 063549-0002
 # ::tok There s a reason why Frank mcclelland was named best chef of the north east reigon .
-# ::alignments 3-1.1.3.2 4-1.2 5-1.1.4.4 6-1.1.4.4 8-1.1.4.2 9-1.1.4.3.1 10-1.1.4.3.2 11-1.1.4.3.3.1 13-1.1.4.3.3.3.1 14-1.1.4.3.3.3.2 15-1.1.4.3.3.4
+# ::alignments 3-1.1.3.2 4-1.1.4.1 5-1.1.4.2.2 6-1.1.4.2.2 8-1.1.4.2.4 9-1.1.4.2.5.1 10-1.1.4.2.5.2 11-1.1.4.2.5.3.1 13-1.1.4.2.5.3.3.1 14-1.1.4.2.5.3.3.2 15-1.1.4.2.5.3.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :S (v4 / label
-                  :C (v6 / label~e.3))
-           :A (v5 / label
-                  :P (v7 / label~e.8)
-                  :A (v8 / label
-                         :D (v10 / label~e.9)
-                         :A (v11 / label~e.10)
-                         :A (v12 / label
-                                 :R (v13 / label~e.11)
-                                 :E (v14 / label
-                                         :C (v16 / label~e.13)
-                                         :C (v17 / label~e.14))
-                                 :C (v15 / label~e.15)))
-                  :A (v9 / label~e.5,6)))
-    :H (v3 / label~e.4))
+           :S (v3 / label
+                  :C (v5 / label~e.3))
+           :A (v4 / label
+                  :H (v6 / label~e.4)
+                  :H (v7 / label
+                         :A (v8 / label)
+                         :A (v9 / label~e.5,6)
+                         :P (v10 / label~e.8)
+                         :A (v11 / label
+                                 :D (v12 / label~e.9)
+                                 :P (v13 / label~e.10)
+                                 :A (v14 / label
+                                         :R (v15 / label~e.11)
+                                         :E (v16 / label
+                                                 :C (v18 / label~e.13)
+                                                 :C (v19 / label~e.14))
+                                         :C (v17 / label~e.15)))))))

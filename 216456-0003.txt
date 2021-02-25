@@ -8,7 +8,7 @@
            :A (v6 / label
                   :C (v15 / label
                           :A (v23 / label~e.1)
-                          :A (v24 / label~e.2))
+                          :S (v24 / label~e.2))
                   :N (v16 / label~e.3)
                   :C (v17 / label~e.4))
            :D (v7 / label~e.5,6)
@@ -16,7 +16,7 @@
            :A (v9 / label
                   :E (v18 / label
                           :A (v20 / label~e.12)
-                          :A (v25 / label~e.8))
+                          :S (v25 / label~e.8))
                   :E (v19 / label
                           :A v20
                           :T (v26 / label

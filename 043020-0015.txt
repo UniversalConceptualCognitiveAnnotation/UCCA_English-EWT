@@ -1,6 +1,6 @@
 # ::id 043020-0015
 # ::tok So I figure if they do n't want to take the time to fix the fence that they installed then I 'll take the time to let everyone I can know about how they treat customers once they have your money !!!
-# ::alignments 0-1.1 1-1.2.1 2-1.2.1 3-1.3 4-1.2.2 6-1.2.4 7-1.2.5 8-1.2.6.2 11-1.2.6.3.3 13-1.2.6.5 15-1.2.6.6.2 16-1.2.6.6.3.2 17-1.2.6.6.3.3 18-1.2.6.6.3.4 19-1.4 20-1.5.6 24-1.5.1.3 27-1.5.4.1 28-1.5.4.2.3 29-1.5.4.2.4 30-1.5.3.2 31-1.5.5.1 32-1.5.5.2.1 33-1.5.5.2.2 34-1.5.5.2.3 35-1.5.5.2.4.1 36-1.5.5.3 37-1.5.5.4.1 38-1.5.5.4.2 39-1.5.5.4.3.1.2 40-1.5.5.4.3.2
+# ::alignments 0-1.1 1-1.2.1 2-1.2.1 3-1.3 4-1.2.2 6-1.2.4 7-1.2.5 8-1.2.6.2 11-1.2.6.3.3 13-1.2.6.5 15-1.2.6.6.2 16-1.2.6.6.3.2 17-1.2.6.6.3.3 18-1.2.6.6.3.4 19-1.4 20-1.5.7 24-1.5.1.3 26-1.5.3 27-1.5.4.1 28-1.5.4.2.4 29-1.5.4.2.5 30-1.5.5 31-1.5.6.1 32-1.5.6.2.1 33-1.5.6.2.2.2 34-1.5.6.2.2.3 35-1.5.6.2.2.4.1 36-1.5.6.3 37-1.5.6.4.1 38-1.5.6.4.2 39-1.5.6.4.3.1.2 40-1.5.6.4.3.2
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -11,46 +11,49 @@
            :P (v10 / label~e.7)
            :A (v11 / label
                    :A v8
-                   :R (v17 / label~e.8)
-                   :D (v18 / label
+                   :R (v18 / label~e.8)
+                   :D (v19 / label
                            :C (v29 / label~e.11))
-                   :P (v19 / label~e.13)
-                   :A (v20 / label
+                   :P (v20 / label~e.13)
+                   :A (v21 / label
                            :C (v30 / label~e.15)
                            :E (v31 / label
                                    :A v30
-                                   :R (v41 / label~e.16)
-                                   :A (v42 / label~e.17)
-                                   :P (v43 / label~e.18)))))
+                                   :R (v39 / label~e.16)
+                                   :A (v40 / label~e.17)
+                                   :P (v41 / label~e.18)))))
     :L (v4 / label~e.3)
     :L (v5 / label~e.19)
     :H (v6 / label
            :D (v12 / label
-                   :C (v21 / label~e.24))
-           :P (v13 / label
-                   :C (v22 / label~e.30))
+                   :C (v22 / label~e.24))
+           :D (v13 / label~e.26)
            :A (v14 / label
                    :C (v23 / label~e.27)
                    :E (v24 / label
-                           :P v13
+                           :D v13
+                           :S (v15 / label~e.30)
                            :A v23
                            :A (v32 / label~e.28)
                            :D (v33 / label~e.29)))
-           :A (v15 / label
+           :S v15
+           :A (v16 / label
                    :R (v25 / label~e.31)
                    :H (v26 / label
-                           :D (v34 / label~e.32)
-                           :A (v35 / label~e.33)
-                           :P (v36 / label~e.34)
-                           :A (v37 / label
-                                   :S (v44 / label~e.35)))
+                           :C (v34 / label~e.32)
+                           :E (v35 / label
+                                   :D v34
+                                   :A (v42 / label~e.33)
+                                   :P (v43 / label~e.34)
+                                   :A (v44 / label
+                                           :A (v47 / label~e.35))))
                    :L (v27 / label~e.36)
                    :H (v28 / label
-                           :A (v38 / label~e.37)
-                           :S (v39 / label~e.38)
-                           :A (v40 / label
+                           :A (v36 / label~e.37)
+                           :S (v37 / label~e.38)
+                           :A (v38 / label
                                    :E (v45 / label
                                            :A (v46 / label~e.40)
-                                           :S (v47 / label~e.39))
+                                           :S (v48 / label~e.39))
                                    :C v46)))
-           :A (v16 / label~e.20)))
+           :A (v17 / label~e.20)))

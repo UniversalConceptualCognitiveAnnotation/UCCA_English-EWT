@@ -1,6 +1,6 @@
 # ::id 239035-0002
 # ::tok It is very clean , staff is friendly , and I have never waited !
-# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4 5-1.2.1 7-1.2.3 9-1.3 10-1.4.1 12-1.4.3 13-1.4.4
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4 5-1.2.1 7-1.2.3 9-1.3 10-1.4.5 12-1.4.2 13-1.4.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -8,11 +8,10 @@
            :D (v7 / label~e.2)
            :S (v8 / label~e.3))
     :H (v3 / label
-           :A (v9 / label~e.5)
+           :S (v9 / label~e.5)
            :D (v10 / label~e.7))
     :L (v4 / label~e.9)
     :H (v5 / label
-           :A (v11 / label~e.10)
-           :D (v12 / label~e.12)
-           :P (v13 / label~e.13)
-           :A (v14 / label)))
+           :T (v11 / label~e.12)
+           :P (v12 / label~e.13)
+           :A (v13 / label~e.10)))

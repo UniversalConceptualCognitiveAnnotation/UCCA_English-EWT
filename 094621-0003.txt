@@ -1,6 +1,6 @@
 # ::id 094621-0003
 # ::tok I needed a part for my appliance , the cost was very high so I said never mind , paid the fee and called a local business for a second quote .
-# ::alignments 0-1.1.1 1-1.1.2 3-1.1.3.2 4-1.1.4.1 5-1.1.4.2.2 6-1.1.4.3 9-1.2.1.2 11-1.2.3 12-1.2.4 13-1.3 14-1.4.1 15-1.4.2 16-1.4.3 17-1.4.3 19-1.5.1 21-1.5.2.2 22-1.6 23-1.7.1 25-1.7.2.2 26-1.9.3 27-1.8 29-1.9.2 30-1.9.1.2
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.3.2 4-1.1.4.1 5-1.1.4.2.2 6-1.1.4.3 9-1.2.1.2 11-1.2.3 12-1.2.4 13-1.3 14-1.4.1 15-1.4.2 16-1.4.3 17-1.4.3 19-1.5.1 21-1.5.2.2 22-1.6 23-1.7.1 25-1.7.2.2.2 26-1.9.3 27-1.8 29-1.9.2 30-1.9.1.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -33,8 +33,10 @@
     :H (v8 / label
            :P (v23 / label~e.23)
            :A (v24 / label
-                   :E (v34 / label~e.25)
-                   :C (v27 / label~e.26))
+                   :E (v34 / label
+                           :A (v27 / label~e.26)
+                           :S (v37 / label~e.25))
+                   :C v27)
            :A v18)
     :L (v9 / label~e.27)
     :H (v10 / label

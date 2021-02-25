@@ -1,6 +1,6 @@
 # ::id 317846-0008
 # ::tok This is n't a TGIF or Cafe , it s a lunch sandwich place and a good one at that .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 4-1.1.4.2 5-1.1.4.3 6-1.1.4.4 8-1.2.1 9-1.2.2 11-1.2.3.2 12-1.2.3.3 13-1.2.3.4 14-1.3 16-1.4.2 17-1.4.1.2 18-1.4.3.1 19-1.4.3.2
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 4-1.1.4.2 5-1.1.4.3 6-1.1.4.4 8-1.2.1 9-1.2.2 11-1.2.3.2 12-1.2.3.3 13-1.2.3.4 14-1.3 16-1.4.2.2.2 17-1.4.2.3 18-1.4.3 19-1.4.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -21,8 +21,9 @@
     :L (v4 / label~e.14)
     :H (v5 / label
            :A (v13 / label
-                   :C (v22 / label~e.17))
-           :S (v14 / label~e.16)
-           :D (v15 / label
-                   :R (v23 / label~e.18)
-                   :C (v24 / label~e.19))))
+                   :E (v22 / label
+                           :A (v23 / label~e.17)
+                           :S (v24 / label~e.16))
+                   :C v23)
+           :S (v14 / label~e.18)
+           :A (v15 / label~e.19)))

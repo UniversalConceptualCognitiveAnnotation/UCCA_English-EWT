@@ -1,6 +1,6 @@
 # ::id 211797-0009
 # ::tok They either : a ) do n't want to give it to me because they do n't want me purchasing the dress elsewhere or b ) are recreating the dresses themselves ( ie STEALING other designers ' dress designs and " filling the orders " by their own seamstresses ) .
-# ::alignments 0-1.1.1 1-1.2 3-1.3 6-1.1.3 7-1.1.4 9-1.1.6 10-1.1.7 11-1.1.8.1 12-1.1.8.2 13-1.4 14-1.5.1 16-1.5.3 17-1.5.4 18-1.5.5 19-1.5.6 21-1.5.7.2 22-1.5.8 23-1.6 24-1.7 27-1.8.2 29-1.8.3.2 30-1.8.2 32-1.9 33-1.10.1 34-1.10.2.1.1 35-1.10.2.3 37-1.10.2.2.1 38-1.10.2.2.2 39-1.11 41-1.12.1 43-1.12.2.1.2 45-1.12.3.1 46-1.12.3.2 47-1.12.3.3 48-1.12.3.4
+# ::alignments 0-1.1.1 1-1.2 3-1.3 6-1.1.3 7-1.1.4 9-1.1.6 10-1.1.7 11-1.1.8.1 12-1.1.8.2 13-1.4 14-1.5.1 16-1.5.3 17-1.5.4 18-1.5.5 19-1.5.6 21-1.5.7.2 22-1.5.8 23-1.6 24-1.7 27-1.8.2 29-1.8.3.2 30-1.8.2 32-1.9 33-1.10.1 34-1.10.2.2.1 35-1.10.2.2.2 37-1.10.2.3.1 38-1.10.2.3.2 39-1.11 41-1.12.1 43-1.12.2.1.2 45-1.12.3.1 46-1.12.3.2 47-1.12.3.3 48-1.12.3.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -35,20 +35,20 @@
     :H (v11 / label
             :P (v29 / label~e.33)
             :A (v30 / label
-                    :A (v38 / label
-                            :D (v46 / label~e.34)
-                            :P (v40 / label~e.35))
+                    :S (v38 / label)
                     :A (v39 / label
-                            :A (v47 / label~e.37)
-                            :S (v48 / label~e.38))
-                    :S v40)
+                            :D (v46 / label~e.34)
+                            :P (v47 / label~e.35))
+                    :A (v40 / label
+                            :A (v48 / label~e.37)
+                            :S (v49 / label~e.38)))
             :A v20)
     :L (v12 / label~e.39)
     :H (v13 / label
             :P (v31 / label~e.41)
             :A (v32 / label
                     :P (v41 / label
-                            :C (v49 / label~e.43)))
+                            :C (v50 / label~e.43)))
             :A (v33 / label
                     :R (v42 / label~e.45)
                     :A (v43 / label~e.46)

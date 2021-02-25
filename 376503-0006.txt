@@ -1,6 +1,6 @@
 # ::id 376503-0006
 # ::tok Find someone you trust that actually hears you and wants to do the job right .
-# ::alignments 0-1.1.2 1-1.1.3.1 2-1.1.3.2.1 3-1.1.3.2.2 4-1.1.3.3.4 5-1.1.3.3.1.1 6-1.1.3.3.1.2 7-1.1.3.3.1.3 8-1.1.3.3.2 9-1.1.3.3.3.1 10-1.1.3.3.3.2.1 13-1.1.3.3.3.2.2.3 14-1.1.3.3.3.2.3
+# ::alignments 0-1.1.2 1-1.1.3.1 2-1.1.3.2.1 3-1.1.3.2.2 4-1.1.3.3.4 5-1.1.3.3.1.1 6-1.1.3.3.1.2 7-1.1.3.3.1.3 8-1.1.3.3.2 9-1.1.3.3.3.1 13-1.1.3.3.3.3.3 14-1.1.3.3.3.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -20,12 +20,9 @@
                                  :A v6)
                          :L (v12 / label~e.8)
                          :H (v13 / label
-                                 :P (v18 / label~e.9)
-                                 :A (v19 / label
-                                         :R (v20 / label~e.10)
-                                         :P (v21 / label
-                                                 :C (v23 / label~e.13))
-                                         :D (v22 / label~e.14)
-                                         :A v6)
+                                 :D (v18 / label~e.9)
+                                 :P (v19 / label
+                                         :C (v21 / label~e.13))
+                                 :D (v20 / label~e.14)
                                  :A v6)
                          :R (v14 / label~e.4)))))

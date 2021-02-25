@@ -1,6 +1,6 @@
 # ::id 235423-0008
 # ::tok We were standing in the store for 20 minutes to simply pick up an order .
-# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 5-1.1.4.3 6-1.1.5.1 7-1.1.5.2 8-1.1.5.3 9-1.2 10-1.3.2 11-1.3.3 12-1.3.3 14-1.3.4.1
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 5-1.1.4.3 6-1.1.5.1 7-1.1.5.2 8-1.1.5.3 9-1.2 10-1.3.2 11-1.3.3 12-1.3.3 14-1.3.4.1.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -19,4 +19,5 @@
            :D (v9 / label~e.10)
            :P (v10 / label~e.11,12)
            :A (v11 / label
-                   :C (v17 / label~e.14))))
+                   :P (v17 / label
+                           :C (v18 / label~e.14)))))

@@ -1,6 +1,6 @@
 # ::id 023620-0002
 # ::tok Even though they still charge you the days you booked but wo n't use , it is worth the get the hell out of this crap hole .
-# ::alignments 0-1.1 1-1.1 2-1.2.1 3-1.2.2 4-1.2.3 5-1.2.4 7-1.2.5.1.1.2 8-1.2.5.1.2 9-1.2.5.1.3 10-1.2.5.2 12-1.2.5.3.2 13-1.2.5.3.3 17-1.3.4 19-1.3.1.2 20-1.3.1.3 21-1.3.1.3 22-1.3.1.4 23-1.3.1.5.1 24-1.3.1.5.2 25-1.3.1.5.3 26-1.3.1.5.3
+# ::alignments 0-1.1 1-1.1 2-1.2.1 3-1.2.2 4-1.2.3 5-1.2.4 7-1.2.5.1.1.2 8-1.2.5.1.2 9-1.2.5.1.3 10-1.2.5.2 12-1.2.5.3.2 13-1.2.5.3.3 17-1.3.4 19-1.3.1.2 20-1.3.1.3 21-1.3.1.3 22-1.3.1.4.1 23-1.3.1.4.1 24-1.3.1.4.2 25-1.3.1.4.3 26-1.3.1.4.3
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0,1)
@@ -11,22 +11,21 @@
            :A (v8 / label~e.5)
            :A (v9 / label
                   :H (v12 / label
-                          :A (v19 / label
-                                  :C (v27 / label~e.7))
-                          :A (v20 / label~e.8)
-                          :P (v21 / label~e.9))
+                          :T (v18 / label
+                                  :C (v26 / label~e.7))
+                          :A (v19 / label~e.8)
+                          :P (v20 / label~e.9))
                   :L (v13 / label~e.10)
                   :H (v14 / label
-                          :D (v22 / label~e.12)
-                          :P (v23 / label~e.13)
-                          :A v20)))
+                          :D (v21 / label~e.12)
+                          :P (v22 / label~e.13)
+                          :A v19)))
     :H (v4 / label
            :A (v10 / label
                    :P (v15 / label~e.19)
                    :D (v16 / label~e.20,21)
-                   :D (v17 / label~e.22)
-                   :A (v18 / label
-                           :R (v24 / label~e.23)
-                           :E (v25 / label~e.24)
-                           :C (v26 / label~e.25,26)))
+                   :A (v17 / label
+                           :R (v23 / label~e.22,23)
+                           :E (v24 / label~e.24)
+                           :C (v25 / label~e.25,26)))
            :S (v11 / label~e.17)))

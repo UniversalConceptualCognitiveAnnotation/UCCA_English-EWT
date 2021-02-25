@@ -1,6 +1,6 @@
 # ::id 241739-0003
 # ::tok I have been going to Nick for 5 months now precisely because he does pay attention to detail .
-# ::alignments 0-1.1.1 3-1.1.4 4-1.1.5.1 5-1.1.5.2 6-1.1.6.1 7-1.1.6.2 8-1.1.6.3 10-1.2.1 11-1.2.2 12-1.3.1 13-1.3.2 15-1.3.3.2 16-1.3.4.1 17-1.3.4.2
+# ::alignments 0-1.1.1 3-1.1.4 4-1.1.5.1 5-1.1.5.2 6-1.1.6.1 7-1.1.6.2 8-1.1.6.3 10-1.2.1 11-1.2.2 12-1.3.1 13-1.3.2 14-1.3.3.1 15-1.3.3.2 16-1.3.4.1 17-1.3.4.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -20,7 +20,8 @@
            :A (v11 / label~e.12)
            :D (v12 / label~e.13)
            :P (v13 / label
-                   :C (v20 / label~e.15))
+                   :C (v20 / label~e.14)
+                   :C (v21 / label~e.15))
            :A (v14 / label
-                   :R (v21 / label~e.16)
-                   :C (v22 / label~e.17))))
+                   :R (v22 / label~e.16)
+                   :C (v23 / label~e.17))))

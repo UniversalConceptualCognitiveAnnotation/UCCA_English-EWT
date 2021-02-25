@@ -1,11 +1,11 @@
 # ::id 121556-0001
 # ::tok Holly is truely the best hairstylist !
-# ::alignments 0-1.1.2 2-1.1.4.2 4-1.1.4.1 5-1.1.5
+# ::alignments 0-1.1.2 2-1.1.4 4-1.1.5.1 5-1.1.6
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label~e.0)
-           :D (v4 / label
-                  :C (v6 / label~e.4)
-                  :E (v7 / label~e.2))
-           :P (v5 / label~e.5)))
+           :D (v4 / label~e.2)
+           :D (v5 / label
+                  :C (v7 / label~e.4))
+           :P (v6 / label~e.5)))

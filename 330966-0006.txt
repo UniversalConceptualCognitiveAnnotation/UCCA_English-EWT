@@ -1,6 +1,6 @@
 # ::id 330966-0006
 # ::tok I was told management would call me back but still waiting for that call .
-# ::alignments 0-1.1.2 2-1.1.4 3-1.1.5.1 4-1.1.5.2 5-1.1.5.3 6-1.1.5.4 7-1.1.5.5 8-1.2 9-1.3.2 10-1.3.3 11-1.3.4.4 12-1.3.4.1 13-1.3.4.2
+# ::alignments 0-1.1.2 2-1.1.4 3-1.1.5.1 4-1.1.5.2 5-1.1.5.3 6-1.1.5.4 7-1.1.5.5 8-1.2 9-1.3.2 10-1.3.3 11-1.3.4.2 12-1.3.4.1.1 13-1.3.4.1.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -19,6 +19,7 @@
            :D (v9 / label~e.9)
            :P (v10 / label~e.10)
            :A (v11 / label
-                   :A (v17 / label~e.12)
-                   :P (v18 / label~e.13)
-                   :R (v19 / label~e.11))))
+                   :P (v17 / label
+                           :E (v19 / label~e.12)
+                           :C (v20 / label~e.13))
+                   :R (v18 / label~e.11))))

@@ -1,6 +1,6 @@
 # ::id 165143-0005
 # ::tok The decor left a lot to be desired and the posters telling me all the reasons 99 was great just served as an ironic contrast against the reality .
-# ::alignments 1-1.1.1.2 2-1.1.2 4-1.1.3.2 7-1.1.6 8-1.2 10-1.3.1.2 11-1.3.1.3.1 12-1.3.1.3.2 13-1.3.1.3.3.1.1 15-1.3.1.3.3.1.3 16-1.3.1.3.3.2 18-1.3.1.3.3.4 19-1.3.2 20-1.3.3 21-1.3.4.1 23-1.3.4.3 24-1.3.4.2.2 25-1.3.4.4.1 27-1.3.4.4.3
+# ::alignments 1-1.1.1.2 2-1.1.2 4-1.1.3.2 7-1.1.6 8-1.2 10-1.3.1.2 11-1.3.1.3.1 12-1.3.1.3.2 13-1.3.1.3.3.1.1 15-1.3.4.5 16-1.3.1.3.3.2 18-1.3.1.3.3.4 19-1.3.2 20-1.3.3 21-1.3.4.1 23-1.3.4.3 24-1.3.4.2.2 25-1.3.4.4.1 27-1.3.4.4.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -15,21 +15,22 @@
            :A (v9 / label
                   :C (v15 / label~e.10)
                   :E (v16 / label
-                          :P (v21 / label~e.11)
-                          :A (v22 / label~e.12)
-                          :A (v23 / label
-                                  :A (v27 / label
-                                          :Q (v30 / label~e.13)
-                                          :C (v31 / label~e.15))
-                                  :A (v28 / label~e.16)
-                                  :S (v29 / label~e.18))))
+                          :P (v22 / label~e.11)
+                          :A (v23 / label~e.12)
+                          :A (v24 / label
+                                  :A (v28 / label
+                                          :Q (v31 / label~e.13)
+                                          :C (v21 / label~e.15))
+                                  :A (v29 / label~e.16)
+                                  :S (v30 / label~e.18))))
            :D (v10 / label~e.19)
            :P (v11 / label~e.20)
            :A (v12 / label
                    :R (v17 / label~e.21)
                    :S (v18 / label
-                           :C (v24 / label~e.24))
+                           :C (v25 / label~e.24))
                    :D (v19 / label~e.23)
                    :A (v20 / label
-                           :R (v25 / label~e.25)
-                           :C (v26 / label~e.27)))))
+                           :R (v26 / label~e.25)
+                           :C (v27 / label~e.27))
+                   :A v21)))

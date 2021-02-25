@@ -1,6 +1,6 @@
 # ::id 031113-0001
 # ::tok Good Pizza at a good price
-# ::alignments 0-1.1.2 1-1.1.1 2-1.2 4-1.3.2.2 5-1.3.3
+# ::alignments 0-1.1.2 1-1.1.1 2-1.2 4-1.3.3 5-1.3.2.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -10,5 +10,5 @@
     :H (v4 / label
            :A v5
            :S (v7 / label
-                  :C (v9 / label~e.4))
-           :A (v8 / label~e.5)))
+                  :C (v9 / label~e.5))
+           :D (v8 / label~e.4)))

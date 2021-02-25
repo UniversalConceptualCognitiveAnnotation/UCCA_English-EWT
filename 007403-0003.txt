@@ -1,6 +1,6 @@
 # ::id 007403-0003
 # ::tok I am a licensed mental health counselor and I work with variety of mental health problems .
-# ::alignments 0-1.1.1 3-1.1.4 4-1.1.5.1 5-1.1.5.2 6-1.1.3.2 7-1.2 8-1.3.1 9-1.3.2 10-1.3.3.5 11-1.3.3.1.1 12-1.3.3.1.2 13-1.3.3.2.1 14-1.3.3.2.2 15-1.3.3.3
+# ::alignments 0-1.1.1 3-1.1.4 4-1.1.5.1 5-1.1.5.2 6-1.1.3.2 7-1.2 8-1.3.1 9-1.3.2 10-1.3.3.6 11-1.3.3.1 12-1.3.3.2 13-1.3.3.4.1 14-1.3.3.4.2 15-1.3.3.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -16,11 +16,10 @@
            :A (v9 / label~e.8)
            :P (v10 / label~e.9)
            :A (v11 / label
-                   :E (v15 / label
-                           :C (v19 / label~e.11)
-                           :R (v20 / label~e.12))
-                   :E (v16 / label
-                           :E (v21 / label~e.13)
-                           :C (v22 / label~e.14))
+                   :Q (v15 / label~e.11)
+                   :R (v16 / label~e.12)
                    :C (v17 / label~e.15)
-                   :R (v18 / label~e.10))))
+                   :E (v18 / label
+                           :E (v20 / label~e.13)
+                           :C (v21 / label~e.14))
+                   :R (v19 / label~e.10))))

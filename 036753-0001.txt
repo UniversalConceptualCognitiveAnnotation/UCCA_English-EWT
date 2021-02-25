@@ -1,8 +1,7 @@
 # ::id 036753-0001
 # ::tok sheisters
-# ::alignments 0-1.1.2
+# ::alignments 0-1.1.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v3 / label)
-           :S (v4 / label~e.0)))
+           :S (v3 / label~e.0)))

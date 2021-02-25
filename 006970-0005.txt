@@ -11,11 +11,12 @@
     :L (v3 / label~e.6)
     :H (v4 / label
            :S (v15 / label~e.7)
-           :A (v16 / label~e.8))
+           :A (v16 / label~e.8)
+           :A v11)
     :L (v5 / label~e.9)
     :H (v6 / label
            :P (v17 / label~e.11)
-           :T (v18 / label~e.12)
+           :D (v18 / label~e.12)
            :A v11
            :A v13)
     :L (v7 / label~e.13)
@@ -25,7 +26,7 @@
            :A (v21 / label
                    :A (v26 / label
                            :C (v32 / label~e.16)
-                           :R (v33 / label~e.17))
+                           :E (v33 / label~e.17))
                    :P (v27 / label~e.18)
                    :A (v28 / label~e.19))
            :A v11)

@@ -1,6 +1,6 @@
 # ::id 342807-0004
 # ::tok Anyway , I was practically raised on this stuff , and being a connoisseur of West Indian cuisine , Jamaica Way is a bit toned down to suit the American palette .
-# ::alignments 0-1.1 2-1.2.1 4-1.2.3 5-1.2.4 6-1.2.5.1 7-1.2.5.2 8-1.2.5.3 10-1.3 13-1.4.1.3 15-1.4.3.1.1 16-1.4.3.1.2 17-1.4.3.2 19-1.5.1 20-1.5.1 23-1.5.3.2 24-1.5.4.1 25-1.5.4.2 26-1.6 27-1.7.1 29-1.7.2.2 30-1.7.2.3
+# ::alignments 0-1.1 2-1.2.1 4-1.2.3 5-1.2.4 6-1.2.5.1 7-1.2.5.2 8-1.2.5.3 10-1.3 13-1.4.1.3 15-1.4.3.1.1 16-1.4.3.1.2 17-1.4.3.2 19-1.5.1 20-1.5.1 23-1.5.3.2 24-1.5.4.1 25-1.5.4.2 26-1.6 27-1.7.1 29-1.7.2.2.2 30-1.7.2.3
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -33,6 +33,8 @@
     :H (v8 / label
            :P (v18 / label~e.27)
            :A (v19 / label
-                   :E (v29 / label~e.29)
-                   :C (v30 / label~e.30))
+                   :E (v29 / label
+                           :A (v30 / label~e.30)
+                           :S (v33 / label~e.29))
+                   :C v30)
            :A v15))

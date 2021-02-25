@@ -1,6 +1,6 @@
 # ::id 120335-0007
 # ::tok On the other hand , the Richmond Ukrops chain is known for its charity work , its community action , and its interest in the public welfare .
-# ::alignments 0-1.1 1-1.1 2-1.1 3-1.1 6-1.2.1.2 7-1.2.1.2 8-1.2.1.3 10-1.2.3 11-1.2.4.7 12-1.2.4.1.1 13-1.2.4.1.2 14-1.2.4.1.3 16-1.2.4.2.1 17-1.2.4.2.2 18-1.2.4.2.3 20-1.2.4.3 21-1.2.4.4.1 22-1.2.4.4.2 23-1.2.4.4.3.1 25-1.2.4.4.3.2.2 26-1.2.4.4.3.3
+# ::alignments 0-1.1 1-1.1 2-1.1 3-1.1 6-1.2.1.2 7-1.2.1.2 8-1.2.1.3 10-1.2.3 11-1.2.4.7 12-1.2.4.1.1 13-1.2.4.1.2 14-1.2.4.1.3 16-1.2.4.2.1 17-1.2.4.2.2 18-1.2.4.2.3 20-1.2.4.3 21-1.2.4.4.1 22-1.2.4.4.2 23-1.2.4.4.3.1 25-1.2.4.4.3.3 26-1.2.4.4.3.2.2
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0,1,2,3)
@@ -12,7 +12,7 @@
            :A (v6 / label
                   :H (v9 / label
                          :A (v14 / label~e.12)
-                         :D (v15 / label~e.13)
+                         :A (v15 / label~e.13)
                          :P (v16 / label~e.14))
                   :H (v10 / label
                           :A (v17 / label~e.16)
@@ -24,7 +24,7 @@
                           :S (v21 / label~e.22)
                           :A (v22 / label
                                   :R (v23 / label~e.23)
-                                  :A (v24 / label
-                                          :C (v26 / label~e.25))
-                                  :S (v25 / label~e.26)))
+                                  :S (v24 / label
+                                          :C (v26 / label~e.26))
+                                  :D (v25 / label~e.25)))
                   :R (v13 / label~e.11))))

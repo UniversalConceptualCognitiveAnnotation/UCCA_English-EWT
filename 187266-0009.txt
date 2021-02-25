@@ -1,6 +1,6 @@
 # ::id 187266-0009
 # ::tok I am a business owner in downtown Saratoga Springs and wish this restaurant was in our town !
-# ::alignments 0-1.1.1 3-1.1.4 4-1.1.3.2 5-1.1.5.1 6-1.1.5.2 7-1.1.5.3 8-1.1.5.3 9-1.2 10-1.3.2 11-1.3.3.3.1 12-1.3.3.3.2 14-1.3.3.1 15-1.3.3.2.1 16-1.3.3.2.2
+# ::alignments 0-1.1.1 3-1.1.4 4-1.1.3.2 5-1.1.5.1 6-1.1.5.2 7-1.1.5.3 8-1.1.5.3 9-1.2 10-1.3.2 11-1.3.3.3.1 12-1.3.3.3.2 14-1.3.3.1 15-1.3.3.2.1.2 16-1.3.3.2.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -19,8 +19,10 @@
            :A (v10 / label
                    :S (v15 / label~e.14)
                    :A (v16 / label
-                           :E (v18 / label~e.15)
-                           :C (v19 / label~e.16))
+                           :E (v18 / label
+                                   :A (v19 / label~e.16)
+                                   :A (v22 / label~e.15))
+                           :C v19)
                    :A (v17 / label
                            :E (v20 / label~e.11)
                            :C (v21 / label~e.12)))))

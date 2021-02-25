@@ -1,14 +1,15 @@
 # ::id 118718-0003
 # ::tok Dr. Wallen and staff was excellent .
-# ::alignments 0-1.1.2.1.1 1-1.1.2.1.2 2-1.1.2.2 3-1.1.2.3.1 5-1.1.4
+# ::alignments 0-1.1.2.1.1.1 1-1.1.2.1.2 2-1.1.2.2 3-1.1.2.3.1 5-1.1.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
                   :C (v5 / label
-                         :E (v8 / label~e.0)
+                         :E (v8 / label
+                                :A (v11 / label~e.0))
                          :C (v9 / label~e.1))
                   :N (v6 / label~e.2)
                   :C (v7 / label
-                         :A (v10 / label~e.3)))
+                         :S (v10 / label~e.3)))
            :S (v4 / label~e.5)))

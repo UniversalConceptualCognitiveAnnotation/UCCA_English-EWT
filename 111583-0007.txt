@@ -1,9 +1,8 @@
 # ::id 111583-0007
 # ::tok THANK YOU !!
-# ::alignments 0-1.2.2 1-1.2.2
+# ::alignments 0-1.1.2 1-1.1.2
 # ::format ucca
 (v1 / label
-    :H (v2 / label)
-    :H (v3 / label
-           :A (v4 / label)
-           :P (v5 / label~e.0,1)))
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label~e.0,1)))

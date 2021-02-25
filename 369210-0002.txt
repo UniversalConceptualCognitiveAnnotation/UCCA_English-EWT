@@ -1,6 +1,6 @@
 # ::id 369210-0002
 # ::tok I explained to him what I wanted and that I previously went to Braman Honda .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.4.1 5-1.1.4.2 6-1.1.4.3 7-1.2 8-1.3.2 9-1.3.3 10-1.3.4 11-1.3.5 12-1.3.1.1 13-1.3.1.2 14-1.3.1.3
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.4.1 5-1.1.4.2 6-1.1.4.3 7-1.2 8-1.3.2 9-1.3.3 10-1.3.4 11-1.3.5 12-1.3.1.1 13-1.3.1.2 14-1.3.1.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -17,8 +17,7 @@
     :H (v4 / label
            :A (v9 / label
                   :R (v19 / label~e.12)
-                  :E (v20 / label~e.13)
-                  :C (v21 / label~e.14))
+                  :C (v20 / label~e.13,14))
            :R (v10 / label~e.8)
            :A (v11 / label~e.9)
            :T (v12 / label~e.10)

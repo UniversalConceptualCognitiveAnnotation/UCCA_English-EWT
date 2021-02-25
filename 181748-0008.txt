@@ -1,6 +1,6 @@
 # ::id 181748-0008
 # ::tok After that , I just tried to ignore his lack of professionalism and test drive the car .
-# ::alignments 0-1.1 1-1.1 3-1.2.1 4-1.2.2 5-1.2.3 7-1.2.5 8-1.2.6.1 9-1.2.6.2.1 10-1.2.6.2.2 11-1.2.6.3 12-1.3 13-1.4.2.1 14-1.4.2.2 16-1.4.3.2
+# ::alignments 0-1.1 1-1.1 3-1.2.1 4-1.2.2 5-1.2.3 7-1.2.5 8-1.2.6.1 9-1.2.6.2 10-1.2.6.3.1 11-1.2.6.3.2 12-1.3 13-1.4.2.1 14-1.4.2.2 16-1.4.3.2
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0,1)
@@ -11,10 +11,10 @@
            :P (v9 / label~e.7)
            :A (v10 / label
                    :A (v13 / label~e.8)
-                   :D (v14 / label
-                           :C (v19 / label~e.9)
-                           :R (v20 / label~e.10))
-                   :S (v15 / label~e.11)))
+                   :D (v14 / label~e.9)
+                   :S (v15 / label
+                           :R (v19 / label~e.10)
+                           :C (v20 / label~e.11))))
     :L (v4 / label~e.12)
     :H (v5 / label
            :A v6

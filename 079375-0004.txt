@@ -1,6 +1,6 @@
 # ::id 079375-0004
 # ::tok We have to leave him at the vet for 3 days and I was told to call for check ups as often as I wished that no matter how many times I called I would not annoy them .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 3-1.1.3 4-1.1.4 5-1.1.5.1 7-1.1.5.2.2 8-1.1.6.1 9-1.1.6.2 10-1.1.6.3 11-1.2 12-1.3.1 14-1.3.3 15-1.3.4.6.1 16-1.3.4.2.3 18-1.3.4.6.4.1 19-1.3.4.6.4.1 20-1.3.4.1.1 21-1.3.4.1.2 22-1.3.4.1.3 23-1.3.4.2.1 24-1.3.4.2.2 25-1.3.4.3.1 26-1.3.4.3.2 27-1.3.4.3.3 28-1.3.4.4.1.1 29-1.3.4.4.1.1 30-1.3.4.4.1.2 31-1.3.4.4.2 32-1.3.4.4.3 33-1.3.4.5.1 34-1.3.4.5.2 35-1.3.4.5.3 36-1.3.4.5.4 37-1.3.4.5.5
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 3-1.1.3 4-1.1.4 5-1.1.5.1 7-1.1.5.2.2 8-1.1.6.1 9-1.1.6.2 10-1.1.6.3 11-1.2 12-1.3.1 14-1.3.3 15-1.3.4.6.1 16-1.3.4.2.3 17-1.3.4.6.3.1 18-1.3.4.6.3.2 19-1.3.4.6.3.2 20-1.3.4.6.4 21-1.3.4.6.5 22-1.3.4.1 23-1.3.4.2.1 24-1.3.4.2.2 25-1.3.4.3.1 26-1.3.4.3.2 27-1.3.4.3.3 28-1.3.4.4.1.1 29-1.3.4.4.1.1 30-1.3.4.4.1.2 31-1.3.4.4.2 32-1.3.4.4.3 33-1.3.4.5.1 34-1.3.4.5.2 35-1.3.4.5.3 36-1.3.4.5.4 37-1.3.4.5.5
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -10,7 +10,7 @@
            :A (v8 / label~e.4)
            :A (v9 / label
                   :R (v14 / label~e.5)
-                  :A (v15 / label
+                  :S (v15 / label
                           :C (v25 / label~e.7)))
            :T (v10 / label
                    :R (v16 / label~e.8)
@@ -21,34 +21,32 @@
            :A (v11 / label~e.12)
            :P (v12 / label~e.14)
            :A (v13 / label
-                   :L (v19 / label
-                           :R (v26 / label~e.20)
-                           :C (v27 / label~e.21)
-                           :R (v28 / label~e.22))
+                   :L (v19 / label~e.22)
                    :H (v20 / label
-                           :A (v29 / label~e.23)
-                           :D (v30 / label~e.24)
-                           :P (v31 / label~e.16))
+                           :A (v26 / label~e.23)
+                           :D (v27 / label~e.24)
+                           :P (v28 / label~e.16))
                    :L (v21 / label
-                           :R (v32 / label~e.25)
-                           :E (v33 / label~e.26)
-                           :C (v34 / label~e.27))
+                           :R (v29 / label~e.25)
+                           :E (v30 / label~e.26)
+                           :C (v31 / label~e.27))
                    :H (v22 / label
-                           :D (v35 / label
-                                   :Q (v45 / label~e.28,29)
-                                   :C (v46 / label~e.30))
-                           :A (v36 / label~e.31)
-                           :P (v37 / label~e.32))
+                           :D (v32 / label
+                                   :Q (v44 / label~e.28,29)
+                                   :C (v45 / label~e.30))
+                           :A (v33 / label~e.31)
+                           :P (v34 / label~e.32))
                    :H (v23 / label
-                           :A (v38 / label~e.33)
-                           :D (v39 / label~e.34)
-                           :D (v40 / label~e.35)
-                           :P (v41 / label~e.36)
-                           :A (v42 / label~e.37))
+                           :A (v35 / label~e.33)
+                           :D (v36 / label~e.34)
+                           :D (v37 / label~e.35)
+                           :P (v38 / label~e.36)
+                           :A (v39 / label~e.37))
                    :H (v24 / label
-                           :R (v43 / label~e.15)
-                           :P v31
-                           :A (v44 / label
-                                   :P (v47 / label~e.18,19)
-                                   :A v11)
-                           :A v11))))
+                           :R (v40 / label~e.15)
+                           :P v28
+                           :A (v41 / label
+                                   :R (v46 / label~e.17)
+                                   :P (v47 / label~e.18,19))
+                           :D (v42 / label~e.20)
+                           :T (v43 / label~e.21)))))

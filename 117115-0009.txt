@@ -1,6 +1,6 @@
 # ::id 117115-0009
 # ::tok I called Home - Excel the next day to order a replacement screen for the window , and was happily surprised when they said that they were n't even going to charge me for the replacement screen ... that it would be covered under their guarentee .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 4-1.1.3 6-1.1.4.2 7-1.1.4.3 8-1.2 9-1.3.1 11-1.3.2.2.1 12-1.3.2.3 13-1.3.3.1 15-1.3.3.3 17-1.4 19-1.5.2 20-1.5.3 21-1.6 22-1.7.1 23-1.7.2 24-1.7.3.1 25-1.7.3.2 27-1.7.3.4 28-1.7.3.5 31-1.7.3.8 32-1.7.3.9 33-1.7.3.10.1 35-1.7.3.10.3.1 36-1.7.3.10.4 38-1.8.1 39-1.8.2 40-1.8.3 42-1.8.5 43-1.8.6.1 44-1.8.6.2.2 45-1.8.6.3
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 4-1.1.3 6-1.1.4.2 7-1.1.4.3 8-1.2 9-1.3.1 11-1.3.2.2.2 12-1.3.2.3 13-1.3.3.1 15-1.3.3.3 17-1.4 19-1.5.2 20-1.5.3 21-1.6 22-1.7.1 23-1.7.2 24-1.7.3.1 25-1.7.3.2 27-1.7.3.4 28-1.7.3.5 31-1.7.3.8 32-1.7.3.9 33-1.7.3.10.1 35-1.7.3.10.3.2 36-1.7.3.10.4 38-1.8.1 39-1.8.2 40-1.8.3 42-1.8.5 43-1.8.6.1 44-1.8.6.2.2 45-1.8.6.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -15,8 +15,9 @@
            :P (v14 / label~e.9)
            :A (v15 / label
                    :E (v29 / label
-                           :P (v43 / label~e.11))
-                   :C (v30 / label~e.12))
+                           :A (v30 / label~e.12)
+                           :S (v43 / label~e.11))
+                   :C v30)
            :A (v16 / label
                    :R (v31 / label~e.13)
                    :C (v32 / label~e.15))
@@ -34,14 +35,15 @@
                    :R (v33 / label~e.24)
                    :A (v34 / label~e.25)
                    :D (v35 / label~e.27)
-                   :D (v36 / label~e.28)
+                   :G (v36 / label~e.28)
                    :P (v37 / label~e.31)
                    :A (v38 / label~e.32)
                    :A (v39 / label
                            :R (v44 / label~e.33)
                            :E (v45 / label
-                                   :P (v48 / label~e.35))
-                           :C (v46 / label~e.36))))
+                                   :A (v46 / label~e.36)
+                                   :S (v48 / label~e.35))
+                           :C v46)))
     :H (v9 / label
            :R (v22 / label~e.38)
            :A (v23 / label~e.39)

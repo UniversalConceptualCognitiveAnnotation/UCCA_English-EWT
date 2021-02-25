@@ -1,6 +1,6 @@
 # ::id 358702-0005
 # ::tok But this location has the worst weekend staff I 've seen EVER .
-# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 5-1.2.3.2 6-1.2.4 7-1.2.5 8-1.2.6.1 10-1.2.6.3 11-1.2.6.4
+# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 5-1.2.3.2 6-1.2.4 7-1.2.5.1 8-1.2.6.1 10-1.2.6.3 11-1.2.6.4
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -11,9 +11,10 @@
            :S (v5 / label
                   :C (v11 / label~e.5))
            :T (v6 / label~e.6)
-           :A (v7 / label~e.7)
+           :A (v7 / label
+                  :A (v12 / label~e.7))
            :A (v8 / label
-                  :A (v12 / label~e.8)
-                  :P (v13 / label~e.10)
-                  :T (v14 / label~e.11)
+                  :A (v13 / label~e.8)
+                  :P (v14 / label~e.10)
+                  :T (v15 / label~e.11)
                   :A v7)))

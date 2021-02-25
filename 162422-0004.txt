@@ -1,6 +1,6 @@
 # ::id 162422-0004
 # ::tok After a good few minutes , he asked : " what do you want ? "
-# ::alignments 0-1.1.4.1 2-1.1.4.3 3-1.1.4.4 4-1.1.4.5 6-1.1.5 7-1.1.6 10-1.1.7.1 12-1.1.7.3 13-1.1.7.4
+# ::alignments 0-1.1.4.1 2-1.1.4.3 3-1.1.4.4 4-1.1.4.5 6-1.1.5 7-1.1.6 10-1.1.7.1 12-1.1.7.2.3 13-1.1.7.2.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -12,6 +12,8 @@
            :A (v4 / label~e.6)
            :P (v5 / label~e.7)
            :A (v6 / label
-                  :A (v11 / label~e.10)
-                  :A (v12 / label~e.12)
-                  :P (v13 / label~e.13))))
+                  :C (v11 / label~e.10)
+                  :E (v12 / label
+                          :A v11
+                          :A (v13 / label~e.12)
+                          :P (v14 / label~e.13)))))

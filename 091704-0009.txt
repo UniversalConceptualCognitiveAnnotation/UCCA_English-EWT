@@ -1,6 +1,6 @@
 # ::id 091704-0009
 # ::tok Plus they will overcharge you for just about everything , and smile while doing it .
-# ::alignments 0-1.1 1-1.2.1 3-1.2.3 4-1.2.4 5-1.2.5.1 6-1.2.5.2.1 7-1.2.5.2.2 8-1.2.5.3 10-1.3 11-1.4.1 12-1.5 13-1.6.5 14-1.6.1
+# ::alignments 0-1.1 1-1.2.1 3-1.2.3 4-1.2.4 5-1.2.5.1 6-1.2.5.2.1 7-1.2.5.2.2 8-1.2.5.3 10-1.3 11-1.4.1 12-1.5 13-1.6.4 14-1.6.1
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -21,6 +21,5 @@
     :L (v6 / label~e.12)
     :H (v7 / label
            :A (v13 / label~e.14)
-           :D v12
            :A v8
            :P (v14 / label~e.13)))
